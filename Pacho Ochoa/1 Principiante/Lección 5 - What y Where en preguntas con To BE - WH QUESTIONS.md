@@ -5,6 +5,8 @@
 Where? --> ¿Dónde?   
 What? --> ¿Qué?   
 
+### 🔥 Practice:
+
 - Where is Alonso?
 	- Alonso is in the house.
 

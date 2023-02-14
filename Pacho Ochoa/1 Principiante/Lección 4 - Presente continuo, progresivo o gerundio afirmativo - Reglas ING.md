@@ -18,7 +18,7 @@ Verbos --> ing
 
 3. Monosilábico: Terminan en CVC - Consonante Vocal Consonante: Duplicar ultima letra + ING  
 	
-	|🐺|c |v |c |
+	|🐺|C|V |C |
 	|---|--|--|--|
 	|c |h |o |p |
 
