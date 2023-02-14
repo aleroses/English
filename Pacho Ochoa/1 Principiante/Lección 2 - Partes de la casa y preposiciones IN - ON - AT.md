@@ -1,7 +1,5 @@
 # Partes de la casa y Preposiciones In - On -At
 
-Pre: antes de la posición  
-
 ## Parts of the house:
 
 1. Living room: Sala
@@ -16,7 +14,7 @@ Pre: antes de la posición
 10. Garden: Jardín
 11. Garage: Garaje
 
-
+Pre: antes de la posición   
 IN --> Dentro   
 ON --> Sobre - encima de (contacto)   
 AT --> En lugar específico
