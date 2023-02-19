@@ -67,7 +67,7 @@ This test covers from lesson 01 to lesson 10.
 	- [x] I am in my bedroom reading a book on my bed.
 	- I am watching TV on my bed.
 
-11. Selecciona las 4 frases que NO son correctas en esta situación.*
+11. Selecciona las 4 frases que NO son correctas en esta situación.*   
 	![Imagen sin leyenda](https://lh4.googleusercontent.com/QWRBP1N4K1QRfvYeB1Fpq4sTAyECZwuWxnpuTsGZN9mRIvCnI6rXkSOUR-dZQazcUq1Gu9hMwZeIQgfwMbHbKjzeckTAJ28uoaqlhHdOb_EGLs57zsPn642vfK3-7vhr=w330)
 	- They're in the house, in the dining room, on the chairs. They are eating fish.
 	- [x] They're in the living room, on the sofas. They are eating fish.
@@ -76,14 +76,14 @@ This test covers from lesson 01 to lesson 10.
 	- [x] They are watching TV in the dining room.
 	- [x] Franklyn is eating fish and Yoly is sleeping.
 
-12. ¿Cuál sería la pregunta y respuesta que se ajustaría mejor a la imagen?
+12. ¿Cuál sería la pregunta y respuesta que se ajustaría mejor a la imagen?   
 	![Imagen sin leyenda](https://lh6.googleusercontent.com/Z65BvNdyA0Sw_vzyyiYlQ_defveyllb-C8Pm8u1pJaPqtv08S6QFWU6UT7RY9m6YjHEd1SkVq5xRwYo4tX3rkZIF2G7gxtcmT1npkU1ccjTi5uFqIcA1U2ZAvJX1iGae=w232)
 	- Where's Albert? - He is in the supermarket.
 	- Who's Albert? - He is in the restaurant.
 	- [x] Where's Albert? - He is in the restaurant.
 	- Why is Albert? - He is in the restaurant.
 
-13. Según el orden de acciones, selecciona las frases que NO corresponden a la imagen.*
+13. Según el orden de acciones, selecciona las frases que NO corresponden a la imagen.*  
 	![Imagen sin leyenda](https://lh5.googleusercontent.com/eSysCeROZtgMOM1QE6g21A4jIPM-bZOKbWDzQ9jjgVNQ7n5jQCZoEBY74X2sm7C7Q_HcoweIaKXH9ak1Ou4-egpS9iwTQEw0jhQ46hmEcNYDVqkC3na0_tppCRV8isR7=w577)
 	- Picture 1: Elena is brushing her teeth.
 	- [x] Picture 2: Abraham is in the house. He's sleeping.
@@ -99,7 +99,7 @@ This test covers from lesson 01 to lesson 10.
 	- [x] House
 	- Dusty
 
-15. Según la imagen podría decir... (selecciona las 7 opciones posibles).*
+15. Según la imagen podría decir... (selecciona las 7 opciones posibles).*   
 	![Imagen sin leyenda](https://lh5.googleusercontent.com/QxHsmieuKNODamSxCCwBW2ZIdBLdPVwLi0a9HqToJ5BDrLTemR3d2QvdT-l4jy7LJgy73NsPOqrbzkvksw_bM6TBhXzSG-vdU3va8o5gpdEWH9-4Gecl3ritb2lCivV9=w334)
 	- [x] It is a chair.
 	- [x] There is a chair.
@@ -111,7 +111,7 @@ This test covers from lesson 01 to lesson 10.
 	- There are a chair.
 	- [x] The chair is not yellow.
 
-16. Según la imagen podría decir... (selecciona las 5 opciones posibles).*
+16. Según la imagen podría decir... (selecciona las 5 opciones posibles).*   
 	![Imagen sin leyenda](https://lh6.googleusercontent.com/70oD8yELj8gyzelFuZWln6bXZljXng-WZCLHjOG78XgepTcshVBF0PPqnrOCBaRp-YE19bO0w_Z0hXJjbpAqScQSbdKTdYReL_Ni-C1chZAPbXRBcV1d0bcdGVZiCbap=w426)
 	- [x] There's a yellow book.
 	- [x] There are 5 books.
@@ -120,21 +120,21 @@ This test covers from lesson 01 to lesson 10.
 	- [x] There are 5 new books.
 	- [x] There are not 3 yellow books.
 
-17. How many beautiful cats are there on the bed?*
+17. How many beautiful cats are there on the bed?*   
 	![Imagen sin leyenda](https://lh5.googleusercontent.com/uFrohufPDf9w0iw0H-NAWs7yVvUMleOVN0mQYXzdaXA5LESP3bolX_O8wGTUxVsUmApdXFLrz27JqsdRm8tfxmoaZQ_IcK2LSTQaK331DKGvZUuon8NEE6PSp0g83bcw=w394)
 	- There is 4 beautiful cats on the bed.
 	- There are 4 beautifuls cats on the bed.
 	- There is 4 beautifuls cats on the bed.
 	- [x] There are 4 beautiful cats on the bed.
 
-18. ¿Cuál sería la pregunta correcta?*
+18. ¿Cuál sería la pregunta correcta?*   
 	![Imagen sin leyenda](https://lh4.googleusercontent.com/1Le1q04xL_GfOdPVn_GoFAZbGYJYWUaHzurQmAcPnTYDNZNIv64J6cMZd8RvC6HYJ_WGQNZYMsDNfDUUMSakj1nEUBcp0lJUnMf18lrjrufpwt3yfqSk_-pIM80gyd9L=w387)
 	- How many black clocks there are?
 	- How many black clocks is there?
 	- How many blacks clocks are there?
 	- [x] How many black clocks are there?
 
-19. Selecciona las 5 frases que describen correctamente la imagen.*
+19. Selecciona las 5 frases que describen correctamente la imagen.*   
 	![Imagen sin leyenda](https://lh5.googleusercontent.com/rMvK4T0_TDZdM519wnaBps0mSadoV3aiP52QfdQbrvSFM3XMTH9wX4_ePhHA2eKzfcRiewoV9_VxqOuPn_Vsx5uXsR7f_MydpQM3BfctNK53MFcIt7Jq1XlVkKtgeZAy=w437)
 	- [x] There is a yellow lamp on the table.
 	- There are two cats at the sofa.
