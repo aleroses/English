@@ -152,4 +152,4 @@ This test covers from lesson 01 to lesson 10.
 	- there are
 
 [Clase en YouTube](https://www.youtube.com/watch?v=oDvcFe2t84M&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=11)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/prueba-1/)
+[Examen en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/prueba-1/)

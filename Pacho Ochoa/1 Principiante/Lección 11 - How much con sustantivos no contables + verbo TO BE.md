@@ -1,196 +1,54 @@
-HOW MUCH + VERBO TO BE
+# How much + Verbo TO BE
 
-How much --> ¿Cuánto?¿Cuánta?
+How much: ¿Cuánto?¿Cuánta?   
 
-.How much water is there in the pool?
- There is a lot of water.
+- How much water **is there** in the pool?
+	- There is a lot of water.
+- How much money **is there** on the table?
+	- There's some money on the table.
 
-.How much money is there on the table?
- There's some money on the table.
 
+📌 NOTA: Al trabajar con How much o sea cuanto, se debe usar `IS THERE`, contrario a How many que trabaja con cuantos, por lo que se debe usar `ARE THERE`.   
 
-NOTA: Al trabajar con cuanto y no con cuantos se 
-	debe trabajar con IS THERE, contrario a
-	How Many que trabajar con cuantos y por
-	se usa ARE THERE.
-
-PRACTICE
+### 🔥 Practice:
 
 1. ¿Cuánto azúcar hay en la taza?
-  How much sugar is there in the cup?
-  There's a pound of sugar.
-
+	- How much sugar is there in the cup?
+	- There's a pound (libra) of sugar.
 2. ¿Cuánta leche hay en la jarra?
-  How much milk is there in the jar?
-  There is a liter of milk.
-
+	- How much milk is there in the jar?
+	- There is a liter of milk.
 3. ¿Cuánto queso hay en el sanduche?
-  How much cheese is there in the sandwich?
-  There's a litlle.
+	- How much cheese is there in the sandwich?
+	- There's a little.
+4. ¿Cuánta sopa hay en el plato?
+	- How much soup is there in the plate/bowl?
+	- There's a lot of soup.
 
-4. ¿Cuanta sopa hay en el plato?
-  How much soup is there in the plate?
-  There's a lot of soup.
+Pool: Piscina    
+Some: Algo  
+Cup: Taza  
+Pound: Libra   
+Jar: Jarra     
+Liter: Litro   
+Little: Poco   
+Plate: Plato   
+Flour: Harina   
+Salt: Sal   
+Sand: Arena   
+Egg -> Huevo   
+Pinch -> Pizca   
+Oil -> Aceite  
+Frying Pan -> Fritura - Sárten   
+Glass -> Vaso   
+Nothing -> Nada   
+Fridge -> Nevera   
+Meat -> Carne   
+Freezer -> Congelador   
+Little bit -> Poquito   
+You're welcome Erika -> Con gusto Erika   
 
-Lot -> Mucho
-Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot
-Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot
-Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot - Lot
-
-Pool -> Piscina
-Pool - Pool - Pool - Pool - Pool - Pool - Pool - Pool
-Pool - Pool - Pool - Pool - Pool - Pool - Pool - Pool
-Pool - Pool - Pool - Pool - Pool - Pool - Pool - Pool
-
-Some -> Algo
-Some - Some - Some - Some - Some - Some - Some - Some
-Some - Some - Some - Some - Some - Some - Some - Some
-Some - Some - Some - Some - Some - Some - Some - Some
-
-Lot - Mucho -> Pool - Piscina -> Some - Algo
-Lot - Mucho -> Pool - Piscina -> Some - Algo
-
-Cup -> Taza
-Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup
-Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup
-Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup - Cup
-
-Sugar -> Azucar
-Sugar - Sugar - Sugar - Sugar - Sugar - Sugar - Sugar
-Sugar - Sugar - Sugar - Sugar - Sugar - Sugar - Sugar
-Sugar - Sugar - Sugar - Sugar - Sugar - Sugar - Sugar
-
-Lot - Mucho -> Pool - Piscina -> Some - Algo
-Cup - Taza -> Sugar - Azucar
-
-Pound -> Libra
-Pound - Pound - Pound - Pound - Pound - Pound - Pound
-Pound - Pound - Pound - Pound - Pound - Pound - Pound
-Pound - Pound - Pound - Pound - Pound - Pound - Pound
-
-Lot - Mucho -> Pool - Piscina -> Some - Algo
-Cup - Taza -> Pound - Libra
-
-Jar -> Jarra
-Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar
-Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar
-Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar - Jar
-
-Liter -> Litro
-Liter - Liter - Liter - Liter - Liter - Liter - Liter
-Liter - Liter - Liter - Liter - Liter - Liter - Liter
-Liter - Liter - Liter - Liter - Liter - Liter - Liter
-
-Lot - Pool - Some - Cup - Pound - Liter - Sugar
-
-Little -> Poco
-Little - Little - Little - Little - Little - Little
-Little - Little - Little - Little - Little - Little
-Little - Little - Little - Little - Little - Little
-
-Lot - Some - Little -> Mucho - Algo - Poco
-Lot - Some - Little -> Mucho - Algo - Poco
-Lot - Some - Little -> Mucho - Algo - Poco
-
-Soup -> Sopa
-Soup - Soup - Soup - Soup - Soup - Soup - Soup - Soup
-Soup - Soup - Soup - Soup - Soup - Soup - Soup - Soup
-Soup - Soup - Soup - Soup - Soup - Soup - Soup - Soup
-
-Plate -> Plato
-Plate - Plate - Plate - Plate - Plate - Plate - Plate
-Plate - Plate - Plate - Plate - Plate - Plate - Plate
-Plate - Plate - Plate - Plate - Plate - Plate - Plate
-
-Flour -> Harina
-Flour - Flour - Flour - Flour - Flour - Flour - Flour
-Flour - Flour - Flour - Flour - Flour - Flour - Flour
-Flour - Flour - Flour - Flour - Flour - Flour - Flour
-
-Salt -> Sal
-Salt - Salt - Salt - Salt - Salt - Salt - Salt - Salt
-Salt - Salt - Salt - Salt - Salt - Salt - Salt - Salt
-Salt - Salt - Salt - Salt - Salt - Salt - Salt - Salt
-
-Sand -> Arena
-Sand - Sand - Sand - Sand - Sand - Sand - Sand - Sand
-Sand - Sand - Sand - Sand - Sand - Sand - Sand - Sand
-Sand - Sand - Sand - Sand - Sand - Sand - Sand - Sand
-
-Egg -> Huevo
-Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg
-Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg
-Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg - Egg
-
-Pinch -> Pizca
-Pinch - Pinch - Pinch - Pinch - Pinch - Pinch - Pinch
-Pinch - Pinch - Pinch - Pinch - Pinch - Pinch - Pinch
-Pinch - Pinch - Pinch - Pinch - Pinch - Pinch - Pinch
-
-Oil -> Aceite
-Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil 
-Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil
-Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil - Oil
-
-Frying Pan -> Fritura - Sarten
-Frying Pan - Frying Pan - Frying Pan - Frying Pan
-Frying Pan - Frying Pan - Frying Pan - Frying Pan
-Frying Pan - Frying Pan - Frying Pan - Frying Pan
-
-Glass -> Vaso
-Glass - Glass - Glass - Glass - Glass - Glass - Glass
-Glass - Glass - Glass - Glass - Glass - Glass - Glass
-Glass - Glass - Glass - Glass - Glass - Glass - Glass
-
-Nothing -> Nada
-Nothing - Nothing - Nothing - Nothing - Nothing 
-Nothing - Nothing - Nothing - Nothing - Nothing
-Nothing - Nothing - Nothing - Nothing - Nothing
-
-Fridge -> Nevera
-Fridge - Fridge - Fridge - Fridge - Fridge - Fridge
-Fridge - Fridge - Fridge - Fridge - Fridge - Fridge
-Fridge - Fridge - Fridge - Fridge - Fridge - Fridge
-
-Meat -> Carne
-Meat - Meat - Meat - Meat - Meat - Meat - Meat - Meat
-Meat - Meat - Meat - Meat - Meat - Meat - Meat - Meat
-Meat - Meat - Meat - Meat - Meat - Meat - Meat - Meat
-
-Freezer -> Congelador
-Freezer - Freezer - Freezer - Freezer - Freezer
-Freezer - Freezer - Freezer - Freezer - Freezer
-Freezer - Freezer - Freezer - Freezer - Freezer
-
-Little bit -> Poquito
-Little bit - Little bit - Littler bit - Littler bit
-Little bit - Little bit - Littler bit - Littler bit
-Little bit - Little bit - Littler bit - Littler bit
-
-Thank - Gracias
-Thank - Thank - Thank - Thank - Thank - Thank - Thank
-Thank - Thank - Thank - Thank - Thank - Thank - Thank
-Thank - Thank - Thank - Thank - Thank - Thank - Thank
-
-You're welcome Erika -> Con gusto Erika
-You're welcome Erika - You're welcome Erika
-You're welcome Erika - You're welcome Erika
-You're welcome Erika - You're welcome Erika
-You're welcome Erika - You're welcome Erika
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Clase en YouTube](https://www.youtube.com/watch?v=ghyXMPRY4ms&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=13)  
+[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-11/)
 
 

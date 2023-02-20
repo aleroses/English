@@ -2,13 +2,13 @@
 
 How many: ¿Cuántos? ¿Cuántas?
 
-1. ¿Cuántas sillas hay?
-	- How many chairs are there?
+- ¿Cuántas sillas hay?
+	- How many chairs **are there**?
 
-2. ¿Cuántas sillas azules hay en la cocina?
-	- How many blue chairs are there in the kitchen?
+- ¿Cuántas sillas azules hay en la cocina?
+	- How many blue chairs **are there** in the kitchen?
 
-📌 How many se usa solo en plurales. 
+📌 How many se usa solo en plurales: `are there`. 
 
 ### 🔥 Practice:
 
@@ -22,7 +22,7 @@ How many: ¿Cuántos? ¿Cuántas?
   
 
 
-Expensive - Caro - Expensive - Caro - Expensive   
+Expensive - Caro      
 Flying - Volando   
 Sky - Cielo   
 

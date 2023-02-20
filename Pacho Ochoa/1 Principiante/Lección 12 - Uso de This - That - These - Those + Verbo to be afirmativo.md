@@ -1,32 +1,36 @@
-ADJETIVOS DEMOSTRATIVOS
+# Adjetivos Demostrativos
 
-SINGULAR: Is-------------
+|🐺          |Singular (is)          |Plural (are)        |
+|-------------|-----------------------|--------------------|
+|Near (cerca) |This: este, esta, esto |These: estas, estos |
+|Far (lejos)  |That: eso, esa, ese    |Those: esos, esas   |
 
---> Near(Cerca) <--
+## 🔥 Singular: Is
+
+### Near (Cerca)
 THIS: Este - Esta - Esto
 
 - This is a blue car.
 - This is an apple.
-- This is my friend Jhon.
+- This is my friend John.
 
---> Far(Lejos) <--
+### Far (Lejos)
 THAT: Eso - Esa - Ese
 
 - That is a blue car.
 - That is an apple.
-- That is my friend Jhon.
+- That is my friend John.
 
+## 🔥 Plural: Are 
 
-PLURAL: Are-------------
-
---> Near(Cerca) <--
+### Near (Cerca)
 THESE: Estas - Estos
 
 - These are two new cars.
 - These are red apples.
 - These are my friends.
 
---> Far(Lejos) <--
+### Far (Lejos)
 THOSE: Esos - Esas
 
 - Those are two new cars.
@@ -34,42 +38,16 @@ THOSE: Esos - Esas
 - Those are my friends. 
 
 
-Expensive -> Costoso
+Boss -> Jefe   
+Long -> Largo   
+Fridge -> Nevera   
+Glasses -> Lentes   
+Glass -> Vaso   
+Paintings -> Pinturas   
+Watch -> Reloj   
+Swimsuit -> Traje de baño   
+Ring -> Timbrar   
+Delicious -> Delicioso   
 
-Boss -> Jefe
-
-Long -> Largo
-
-Fridge -> Nevera
-
-Glasses -> Lentes
-
-Glass -> Vaso
-
-Paintings -> Pinturas
-
-Watch -> Reloj
-
-Swimsuit -> Traje de baño
-
-Ring -> Timbrar
-
-Delicious -> Deliciosgo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Clase en YouTube](https://www.youtube.com/watch?v=TXNJl0oaxxg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=14)  
+[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-12/)
