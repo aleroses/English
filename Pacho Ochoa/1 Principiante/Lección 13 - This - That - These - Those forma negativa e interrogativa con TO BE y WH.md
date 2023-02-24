@@ -43,31 +43,17 @@ Noisy -> Ruidosa
 Quiet -> Tranquila    
 Riot -> Disturbios    
 Quiet Riot -> Manifestación pacífica    
-Noisy -> Quiet -> Riot    
 Neighbors -> Vecinos    
-Cheap -> Barato    
-Expensive -> Caro    
-Easy -> Fácil    
-Difficult -> Difícil    
 Fat -> Gordo    
 Thin -> Delgado    
 Ugly -> Feo    
-Beautiful -> Ugly == Hermosa -> Feo    
-Young -> Joven    
-Old -> Viejo    
 Single -> Soltero    
 Married -> Casado    
-Single -> Married == Soltero -> Casado    
-Big -> Grande    
-Small -> Pequeño    
 Cushions -> Cojines    
-Shirt -> Camisa    
-Cell phone -> Celular    
 Many -> Muchas    
 Things -> Cosas    
 Closet -> Armario    
 Socks -> Calcetines    
-Shirts -> Camisas    
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=n671mANq9yA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=15)  
