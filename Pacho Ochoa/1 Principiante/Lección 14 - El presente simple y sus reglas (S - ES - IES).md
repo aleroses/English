@@ -35,7 +35,7 @@ Solo aplica a 3ra Person, oración afirmativa singular.
 No aplica para vocal and Y
 - Play - `Plays`: ay vocal + y ❌
 
-### 4. HAVE - HAS:
+### 4. Have - Has:
 - Carmen `has` a car.
 - They have a house.
 
