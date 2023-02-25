@@ -72,12 +72,12 @@ Life -> Vida
 |------------------------|------|
 
 
-|Verbo en presente continuo |Jugando                          |
-|---------------------------|---------------------------------|
-|ING                        |Casi todo excepto                |
-|ING                        |E: Se elimina la E + ING         |
-|ING                        |CVC: Duplicar ultima letra + ING |
-|ING                        |W X Y Z + ING                    |
+|Verbo en presente continuo |Jugando                    |
+|---------------------------|---------------------------|
+|ING                        |Casi todo excepto          |
+|ING                        |E: Se elimina              |
+|ING                        |CVC: Duplicar ultima letra |
+|ING                        |W X Y Z                    |
 
 
 |Verbo en presente simple |Juega             | 
