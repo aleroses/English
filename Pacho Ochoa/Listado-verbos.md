@@ -1,4 +1,4 @@
-# LISTADO DE VERBOS REGULARES E IRREGULARES MÁS COMUNES EN INGLÉS
+# Listado de Verbos Regulares e Irregulares más Comunes en Inglés 
 
 ## Pagina 01
 ***TYPE = R** (Regular) **I** (irregular)*
