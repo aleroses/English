@@ -46,6 +46,6 @@ Rutina de Wendy en la mañana
 [Clase en YouTube](https://www.youtube.com/watch?v=UAQ0QFqtQUQ&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=18)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-16/)
 
-[Ejercicio de escucha para principiantes - Presente Simple - Listening Exercise](https://www.youtube.com/watch?v=IBHiPgaRVEI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=19)
-
 > Hello, this is Elisabeth, my friend. She's in the house in the bedroom sleeping on the bed. And this is Julio her husband he's in the house in the living room, sleeping on the sofa. Elisabeth wakes up and gets up when the alarm rings. Julio gets up ten 10 minutes later and then he takes a shower. When Julio takes a shower, Elisabeth goes to the kitchen and prepares the breakfast. Julio doesn't get dressed in the bedroom, he gets dressed in the bathroom. Elisabeth and Julio have breakfast in the dinner room, at the table. They don't drink milk because they like orange juice. They go to work at 7 am they work from 8 to 12.
+
+[Ejercicio de escucha para principiantes - Presente Simple - Listening Exercise](https://www.youtube.com/watch?v=IBHiPgaRVEI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=19)
