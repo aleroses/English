@@ -1,6 +1,6 @@
-# Prueba 1
+# Prueba 2
 
-This test covers from lesson 01 to lesson 10.
+This test covers from lesson 10 to lesson 20.
 
 1. Selecciona las posibles respuestas según la imagen. Fíjate bien en la pregunta para responder.*     
 	![Imagen sin leyenda](https://lh5.googleusercontent.com/1T9EkYj7ltpGDvA1BpN3FBRfDJyzFJJVhVIsToBE81q_PsZI-K6LXfxjcYzgrodGNLdD8EysR2yXIIgskf9JXJZgLoA_YAuBwi63TrSgjuy1kujOUWjorexX_EZQNa3F=w301)    
