@@ -1,8 +1,8 @@
 # Adjetivos vs Adverbios 
 
-ADVERBS OF MANNER - ADVERBIOS DE MODO
+## Adverbs of Manner - Adverbios de Modo
 
-## 1. Agregar `LY`:
+### 1. Agregar `LY`:
 |Adj     |Adv        |Significado |
 |--------|-----------|----------------|
 |Bad     |Badly      |Mal             |
@@ -12,32 +12,32 @@ ADVERBS OF MANNER - ADVERBIOS DE MODO
 |Soft    |Softly     |Suavemente      |
 |Careful |Carefully |Cuidadosamente  |
 
-## 2. Cambiar Terminación `LE` por `LY`:
+### 2. Cambiar Terminación `LE` por `LY`:
 |Adj     |Adv        |Significado  |
 |--------|-----------|-------------|
 |Simple  |Simply     |Simplemente  |
 |Humble  |Humbly	 |Humildemente |
 
-## 3. Terminación `IC` agregar `ALLY`:
+### 3. Terminación `IC` agregar `ALLY`:
 |Adj      |Adv          |Significado  |
 |---------|-------------|-------------|
 |Specific |Specifically |Específicamente |
 |Dramatic |Dramatically |Dramáticamente  |
 |Basic    |Basically    |Básicamente     |
 
-## 4. Cambiar Terminación `Y` por `ILY`:
+### 4. Cambiar Terminación `Y` por `ILY`:
 |Adj   |Adv     |Significado  |
 |------|--------|-------------|
 |Easy  |Easily  |Fácilmente |
 |Happy |Happily |Felizmente |
 
-## 5. Cambiar Terminación `UE`  por `ULY`:
+### 5. Cambiar Terminación `UE`  por `ULY`:
 |Adj  |Adv   |Significado   |
 |-----|------|--------------|
 |Due  |Duly  |Debidamente   |
 |True |Truly |Verdaderamente|
 
-## 6. Adverbios Irregulares:
+### 6. Adverbios Irregulares:
 |Adj  |Adv   |Significado   |
 |-----|------|--------------|
 |Good| Well| Buenamente|
