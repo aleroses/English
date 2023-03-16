@@ -28,17 +28,18 @@
 	- `How well` do you drive? I drive `pretty` well / good.
 
 
-HOW WELL -> QUE TAN BIEN      
-HOW BADLY -> QUE TAN MAL        
-SING - CANTAR     
-SKILLS -> HABILIDADES     
-LEARN -> APRENDER     
-MANY -> MUCHOS     
-SO -> ASI QUE - ENTONCES     
-WONDERFULLY -> MARAVILLOSAMENTE     
-SOMETIMES -> ALGUNAS VECES     
-OFTEN -> A MENUDO     
-EXTREMELY -> EXTREMADAMENTE     
+### Vocabulary
+HOW WELL: Que tal bien      
+HOW BADLY: Que tan mal        
+SING: Cantar     
+SKILLS: Habilidades     
+LEARN: Aprender    
+MANY: Muchos     
+SO: Así que - Entonces     
+WONDERFULLY: Maravillosamente      
+SOMETIMES: Algunas veces     
+OFTEN: A menudo     
+EXTREMELY: Extremadamente     
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=uZdGDUdNf0Y&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=26)  
