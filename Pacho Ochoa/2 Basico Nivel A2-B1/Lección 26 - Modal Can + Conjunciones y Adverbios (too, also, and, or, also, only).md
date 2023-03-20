@@ -55,7 +55,7 @@ Se coloca entre un verbo modal y un verbo común.
 Se usan **conjunciones coordinadas** para unir palabras individuales, frases y clausulas independientes. Una manera fácil de recordar estas seis conjunciones es pensar en la palabra FANBOYS, cada letra de esta palabra es la primera letra de cada una de estas conjunciones.   
 ![c](https://i.postimg.cc/Sx75s6NC/conjuntions01.jpg)
 
-Una conjunción subordinada es una palabra que une una clausula dependiente y una independiente.   
+Una **conjunción subordinada** es una palabra que une una clausula dependiente y una independiente.   
 ![cs](https://i.postimg.cc/zXh4mmsd/conjuntions02.jpg)
 
 **Conjunciones correlativas** son pares de conjunciones que trabajan juntas para coordinar dos cosas. Siempre aparecen en pares. Consisten simplemente de una conjunción coordinada unida a un adjetivo o adverbio.  
