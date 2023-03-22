@@ -193,9 +193,47 @@ En español podemos hacer preguntas como ¿Dónde vive usted?, pero en inglés n
 - Where do you live? ¿Dónde vives?
 - What do you need? ¿Qué necesitas?
 
+🎲🎲
 
+# 04. Describe a tu familia
 
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/a0c36a29597aaa9f405737994609e4bf.svg)
 
+## Guía de la sección 4
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Describe a tu familia**
+
+- My family is small. Mi familia es pequeña.
+- I live with my parents and my brother. Yo vivo con mis padres y mi hermano.
+- He has a cat and I have a dog. Él tiene un gato y yo tengo un perro.
+- You have three brothers, right? Tú tienes tres hermanos, ¿verdad?
+- I have four sisters. Yo tengo cuatro hermanas.
+
+### TIP
+
+**You, you, and you**
+
+En español decimos tú, usted y ustedes, pero en inglés para todas estas palabras se usa la misma palabra: you
+
+De manera similar, en inglés se usa they tanto para ellos como para ellas.
+
+|sujeto                   |verbo (to be)    |
+|-------------------------|-----------------|
+|I - yo                   | have - tengo    |
+|you - tú usted           | have - tienes / tiene / tienen|
+|he - él                  | has - tiene     |
+|she - ella               | has - tiene     |
+|they - ellos / ellas     | have - tienen   |
+
+Recuerda que en inglés los verbos cambian dependiendo de la persona, pero no tanto como en español.
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/4a146275b01a60e78c2028bf4a2f52aa/images/b833f73a80a7444ab268f0a62687a737.svg)
+
+I have a sister. Yo tengo una hermana.
 
 
 🎲🎲
