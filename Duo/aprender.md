@@ -235,8 +235,41 @@ Recuerda que en inglés los verbos cambian dependiendo de la persona, pero no ta
 
 I have a sister. Yo tengo una hermana.
 
-
 🎲🎲
+
+# 05. Usa el tiempo presente
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/efacf57a4e0d5050d284ba87aa1c6c02.svg)
+
+## Guía de la sección 5
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### TIP
+
+**¡Hablemos del tiempo presente!**
+
+El verbo be tiene dos significados: ser y estar.
+
+|sujeto    |verbo (be) |
+|----------|-----------|
+|I         | am        |
+|you       | are       |
+|he / she  | is        |
+
+Para hacer preguntas con `be`, simplemente cambia el orden de las palabras. Observa que siempre tienes que decir I, you, he o she en tus oraciones.
+
+- You are a teacher.
+- Are you a teacher?
+
+A excepción de be, los verbos no cambian mucho. Solamente la forma de he / she es diferente.​
+
+|sujeto    |verbo (have) |
+|----------|-------------|
+|I         | have        |
+|you       | have        |
+|he / she  | have        |
+
 🎲🎲
 🎲🎲
 🎲🎲
