@@ -24,14 +24,14 @@ Should: Debería / shud
 
 Pay attention: Prestar atención   
 Lovely: Encantadora   
-Feed: Alimentar   
-All the time: Todo el tiempo   
-Candy(ies): Dulces
-Advices: Consejos 
-Naughty: Traviesa   
+Feed: Alimentar    
+All the time: Todo el tiempo    
+Candy(ies): Dulces   
+Advices: Consejos   
+Naughty: Traviesa     
 Fight: Pelear   
-As: Como   
-Behavior: Comportamiento    
+As: Como    
+Behavior: Comportamiento     
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=LdQjwmOxvmM&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=31)  
