@@ -9,18 +9,15 @@
 
 1. How many times a week does Walter cook Argentinian food?
 	- Walter cooks Argentinian food once a week.
-
 2. How often does Walter cook Chilean food?
 	- Walter cooks Chilean food twice a week.
-
 3. When does Walter cook Colombian food?
 	- Walter cooks Colombian food on Wednesday.
-
 4. Do his Mexican friends go to the restaurant on Tuesday?
 	- No , They don't. Because they go on Friday.
 	- No, because his Mexican friends go to the restaurant on Friday.
 
-
+### Vocabulary
 SPECIAL: Especial     
 PLATE: Plato    
 LOVE: Amar / Encantar      
