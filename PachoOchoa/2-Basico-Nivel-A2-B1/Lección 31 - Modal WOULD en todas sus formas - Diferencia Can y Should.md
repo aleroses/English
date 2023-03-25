@@ -27,7 +27,19 @@
 
 
 ### Vocabulary
-
+- Choose: Escoger / Elegir 
+- Wedding: boda
+- Buy: comprar
+- Visit: visitar 
+- Get: Conseguir
+- Stay: Quedarse 
+- Around: alrededor de 
+- Cash: Efectivo 
+- Dress: Vestido
+- That: Que
+- Weekend: fin de semana 
+- Travel: viajar 
+- Pay: pagar 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=VamVLuoEAZ0&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=36)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-31/)
