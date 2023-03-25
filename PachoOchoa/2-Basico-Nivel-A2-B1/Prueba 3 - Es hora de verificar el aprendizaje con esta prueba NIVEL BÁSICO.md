@@ -79,7 +79,7 @@ This test covers from lesson 20 to lesson 30.
 	- The love
 	- [x] The pet
 
-12. De la siguiente oración podría decir que el bebé es...*
+12. De la siguiente oración podría decir que el bebé es...*    
 	![This is Mike and his beautiful family.  He has a baby and he loves her.](https://lh3.googleusercontent.com/1A-DFhOG-wPsW7nVRvlq4NFcid9JMuHphYib--2zBijLJ9pWjb6lYXyQ5ZHITOxdHrBFa6RxWmEVS3MqIjDIoQ2qutR2yAajSXT-Ex5fzKdelxR_h_6zGVTso-c0ioqu=w492 "This is Mike and his beautiful family.  He has a baby and he loves her.")    
 	This is Mike and his beautiful family. He has a baby and he loves her.    
 	- a boy
