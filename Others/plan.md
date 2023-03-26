@@ -4,11 +4,11 @@
 
 No vas a estudiar nada de gramática a menos que quieras, te guste o llame la atención. Recuerda que estos pasos no van a tener un tiempo delimitado, esto va a depender totalmente de ti. 
 
-Todos estos pasos conforme los culmines vas a añadirlos al siguiente paso, es acumulativo, jamás debes dejarlos de hacer. 
+Todos estos pasos conforme los culmines vas a añadirlos al siguiente paso, **es acumulativo**, jamás debes dejarlos de hacer. 
 
 ## 1. Aprender vocabulario 
 
-Debes aprender palabras básicas y puedes usar las siguiente herramientas :  
+Debes aprender palabras básicas, puedes usar las siguiente herramientas :  
 
 - Anki 
 - Bussu
@@ -17,11 +17,19 @@ Debes aprender palabras básicas y puedes usar las siguiente herramientas :
 
 ### Anki 
 
-Es una herramienta con la que podremos repetir palabras tras palabras para memorizarlas, esto se llama repetición espaciada. Se recomienda poner entre 10 a 15 palabras nuevas todos los días y entre 3 a 6 semanas de practica. 
+Es una herramienta con la que podremos repetir palabras tras palabras para memorizarlas, esto se llama repetición espaciada. Se recomienda poner entre 10 a 15 palabras nuevas todos los días y entre 3 a 6 semanas de práctica. 
 
 [Ver 👀 ¿CÓMO usar ANKI para aprender IDIOMAS?](https://www.youtube.com/watch?v=rXxrHDEeYIw)
 
-#### Refold: Mazo o Deck de Ingles 
+🔥 Complementos para Anki:   
+- More Overview Stats 21
+	- Código: 738807903
+- PassFail 2 Remove the Easy and hard buttons
+	- Código: 876946123
+- Review Heatmap 
+	- Código: 1771074083
+
+#### Refold: Mazo o Deck de Inglés 
 
 - [Pagina para comprar Deck](https://refold.la/es/ingl%C3%A9s/deck/download/)
 - [Opción Gratis 01](https://drive.google.com/file/d/1eE4ZoRxgHcMGeyexMH_PbJVEi1VRjXv5/view)
@@ -35,6 +43,51 @@ Es una herramienta con la que podremos repetir palabras tras palabras para memor
 Recomiendo el canal del Profe Francisco, es excelente.    
 - [Curso completo Inglés desde cero con Pacho8a/Francisco Ochoa](https://www.youtube.com/playlist?list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78)
 - [Mis anotaciones de curso de Ingles](https://github.com/aleroses/English)   
+
+## 2. Input compresible 
+
+El punto es estar **los 7 días de la semana** inmerso en el idioma, debes estar conectado al idioma todo el tiempo con:   
+
+- Programas de Televisión 
+	-  Arrested Development (5 temporadas)
+	-   Community (6 temporadas)
+	-   Friends (10 temporadas)
+	-   How I met your Mother (9 temporadas)
+	-   Modern Family (11 temporadas)
+	-   New Girl (7 temporadas)
+	-   Saved by the Bell (4 temporadas)
+	-   Seinfeld (9 temporadas)
+	-   The Office (9 temporadas)
+- Videos de YouTube 
+- Escuchar Música 
+	- Spotify 
+	- YouTube Music (YT vanced) 
+- Escuchar Podcasts 
+- Leer libros 
+
+No importa que no entiendas cada una de las palabras de la media que estés consumiendo, lo importante es entender lo que está sucediendo o la idea principal. La media debe estar en el idioma que estés aprendiendo y subtitulados en el mismo, pero sobre todo, debe ser interesante para ti.  
+
+Si un día de la semana no tienes tiempo disponible para ver una serie, al menos haz una lección de Duolingo, Bussu o repasa las tarjetas de Anki. Tenemos que ser consistentes. 
+
+## 3. Output: Escribir 
+
+Si nada más quieres el idioma para entenderlo, disfrutar películas, series o nada mas leer cosas, solo necesitas el paso 01 y 02. 
+
+Pero si quieres hablarlo empieza a escribir, esto es básicamente como hablar pero con palabras y mucho menos retador. Esto lo puedes hacer por 01 o 02 meses. 
+
+## 4. Incrementar vocabulario   
+
+Conforme pasa el tiempo te va a tomar mas tiempo establecer tu sesión diaria de estudio con el idioma ya que como dijimos todos estos pasos son acumulativos, así que, debemos resetear o borrar el deck de Anki y luego volver a cargar el deck desde 0 (Hacer doble clic al deck o mazo de refold). 
+
+Ahora vas a **hacer el doble** de lo que estabas haciendo antes, para llegar mas rápido al nivel donde estabas y también para repasar todo.
+
+## 5. Output: Hablar...
+
+Aquí puedes hablar contigo mismo como para describir lo que hiciste en tu día, etc. y a la par tratar de interactuar con nativos, para lo que se recomienda usar Cambly (de pago). 
+
+## 6. Ir mas allá 
+
+Ve mas allá de lo que estés usando en este momento para tu inmersión, busca algo mas complejo, disfrutable pero que te cueste entender un poco mas el idioma. 
 
 
 # 1. 8 Consejos Realistas para Aprender Inglés Fácilmente por tu Cuenta (+ recursos gratis!)
