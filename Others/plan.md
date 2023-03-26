@@ -1,5 +1,7 @@
 # APRENDE Cualquier IDIOMA en 6 PASOS de manera AUTODIDACTA
 
+[Video](https://www.youtube.com/watch?v=YFsuefrt7e0)
+
 No vas a estudiar nada de gramática a menos que quieras, te guste o llame la atención. Recuerda que estos pasos no van a tener un tiempo delimitado, esto va a depender totalmente de ti. 
 
 Todos estos pasos conforme los culmines vas a añadirlos al siguiente paso, es acumulativo, jamás debes dejarlos de hacer. 
@@ -15,18 +17,24 @@ Debes aprender palabras básicas y puedes usar las siguiente herramientas :
 
 ### Anki 
 
-Es una herramienta con la que podremos repetir palabras tras palabras para memorizarlas, esto se llama repetición espaciada. 
+Es una herramienta con la que podremos repetir palabras tras palabras para memorizarlas, esto se llama repetición espaciada. Se recomienda poner entre 10 a 15 palabras nuevas todos los días y entre 3 a 6 semanas de practica. 
 
 [Ver 👀 ¿CÓMO usar ANKI para aprender IDIOMAS?](https://www.youtube.com/watch?v=rXxrHDEeYIw)
 
+#### Refold: Mazo o Deck de Ingles 
 
+- [Pagina para comprar Deck](https://refold.la/es/ingl%C3%A9s/deck/download/)
+- [Opción Gratis 01](https://drive.google.com/file/d/1eE4ZoRxgHcMGeyexMH_PbJVEi1VRjXv5/view)
+- [Opción Gratis 02](https://drive.google.com/file/d/1zQgW00neJb8tECSNym48Ls6zoPt7VmOe/view)
+- [Pagina para descargar Deck en Ingles](https://ankiweb.net/shared/decks/english)
+- [Opción Gratis Alemán](https://drive.google.com/file/d/1dIOzUCBv6vpeTtS7jy9ZU04K8Y9wJFvF/view?usp=share_link)
+- [Pagina para descargar Deck en Alemán](https://ankiweb.net/shared/decks/alem%C3%A1n)
 
+### Tomar clases
 
-
-
-
-
-
+Recomiendo el canal del Profe Francisco, es excelente.    
+- [Curso completo Inglés desde cero con Pacho8a/Francisco Ochoa](https://www.youtube.com/playlist?list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78)
+- [Mis anotaciones de curso de Ingles](https://github.com/aleroses/English)   
 
 
 # 1. 8 Consejos Realistas para Aprender Inglés Fácilmente por tu Cuenta (+ recursos gratis!)
