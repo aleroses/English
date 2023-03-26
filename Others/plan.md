@@ -1,3 +1,34 @@
+# APRENDE Cualquier IDIOMA en 6 PASOS de manera AUTODIDACTA
+
+No vas a estudiar nada de gramática a menos que quieras, te guste o llame la atención. Recuerda que estos pasos no van a tener un tiempo delimitado, esto va a depender totalmente de ti. 
+
+Todos estos pasos conforme los culmines vas a añadirlos al siguiente paso, es acumulativo, jamás debes dejarlos de hacer. 
+
+## 1. Aprender vocabulario 
+
+Debes aprender palabras básicas y puedes usar las siguiente herramientas :  
+
+- Anki 
+- Bussu
+- Duolingo
+- Tomar clases
+
+### Anki 
+
+Es una herramienta con la que podremos repetir palabras tras palabras para memorizarlas, esto se llama repetición espaciada. 
+
+[Ver 👀 ¿CÓMO usar ANKI para aprender IDIOMAS?](https://www.youtube.com/watch?v=rXxrHDEeYIw)
+
+
+
+
+
+
+
+
+
+
+
 # 1. 8 Consejos Realistas para Aprender Inglés Fácilmente por tu Cuenta (+ recursos gratis!)
 
 [Video](https://www.youtube.com/watch?v=0L4OrrjiRMc)
