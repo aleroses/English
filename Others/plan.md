@@ -69,6 +69,57 @@ No importa que no entiendas cada una de las palabras de la media que estés cons
 
 Si un día de la semana no tienes tiempo disponible para ver una serie, al menos haz una lección de Duolingo, Bussu o repasa las tarjetas de Anki. Tenemos que ser consistentes. 
 
+### 17 SERIES para APRENDER INGLÉS viendo NETFLIX
+
+[Video](https://www.youtube.com/watch?v=Iw5Zo8jsK0Q)     
+
+- Principiantes: 
+	- Vikings (Valhalla) 
+	- Queen's Gambits 
+	- Seinfeld 
+	- Fargo (series)
+	- All of us are dead 
+	- Demon Slayer
+	- Kingdom 
+- Intermedios: 
+	- The Last Kingdom 
+	- Better Call Saul 
+	- Stranger things 
+	- The Crown 
+	- Arcane 
+	- How to sell drugs online 
+	- Mindhunter 
+- Avanzados 
+	- Peaky Blinders 
+	- The Alienist 
+	- The Witcher 
+
+[Configurar Netflix](https://www.youtube.com/watch?v=99JDJeCovHs)   
+[Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm/related)    
+
+![Uso](https://i.postimg.cc/8CP1nQhs/language-reactor.png) 
+
+
+[Mas info sobre Language Reactor](https://www.languagereactor.com/help/basic#showSetupComplete=)    
+
+En los ajustes, puedes elegir mostrar dos tipos de traducciones: automática y humana. La traducción automática es muy literal, te ayuda a entender la estructura de la oración en el idioma que estás estudiante. Puede contener errores en ocasiones. La traducción humana es, a menudo, útil, ya que traduce correctamente las expresiones y modismos.
+
+Puedes usar las teclas del teclado para controlar al jugador.
+
+-   'a' para el subtítulo anterior.
+-   's' para repetir un subtítulo.
+-   'd' para el subtítulo siguiente.
+-   'barra espaciadora' para seguir/pausar la reproducción.
+
+
+### Otras plataformas: 
+
+- Pluto TV
+- Vix 
+- Free TV
+- Plex (Ingles)
+- Rakuten Viki (Asia)
+
 ## 3. Output: Escribir 
 
 Si nada más quieres el idioma para entenderlo, disfrutar películas, series o nada mas leer cosas, solo necesitas el paso 01 y 02. 
@@ -90,7 +141,7 @@ Aquí puedes hablar contigo mismo como para describir lo que hiciste en tu día,
 Ve mas allá de lo que estés usando en este momento para tu inmersión, busca algo mas complejo, disfrutable pero que te cueste entender un poco mas el idioma. 
 
 
-# 1. 8 Consejos Realistas para Aprender Inglés Fácilmente por tu Cuenta (+ recursos gratis!)
+# 8 Consejos Realistas para Aprender Inglés Fácilmente por tu Cuenta (+ recursos gratis!)
 
 [Video](https://www.youtube.com/watch?v=0L4OrrjiRMc)
 
