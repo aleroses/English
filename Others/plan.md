@@ -62,8 +62,12 @@ El punto es estar **los 7 días de la semana** inmerso en el idioma, debes estar
 - Escuchar Música 
 	- Spotify 
 	- YouTube Music (YT vanced) 
+	- [LyricsTraining](https://es.lyricstraining.com/en)
 - Escuchar Podcasts 
-- Leer libros 
+- Leer libros y más 
+	- [News in levels](https://www.newsinlevels.com/)
+- Paginas web
+	- [Ted](https://www.ted.com/)
 
 No importa que no entiendas cada una de las palabras de la media que estés consumiendo, lo importante es entender lo que está sucediendo o la idea principal. La media debe estar en el idioma que estés aprendiendo y subtitulados en el mismo, pero sobre todo, debe ser interesante para ti.  
 
@@ -124,7 +128,11 @@ Puedes usar las teclas del teclado para controlar al jugador.
 
 Si nada más quieres el idioma para entenderlo, disfrutar películas, series o nada mas leer cosas, solo necesitas el paso 01 y 02. 
 
-Pero si quieres hablarlo empieza a escribir, esto es básicamente como hablar pero con palabras y mucho menos retador. Esto lo puedes hacer por 01 o 02 meses. 
+Pero si quieres hablarlo empieza a escribir, esto es básicamente como hablar pero con palabras y mucho menos retador. Esto lo puedes hacer por 01 o 02 meses.  
+
+- [Corrector ortográfico, gramatical y de estilo](https://languagetool.org/es)    
+- [Extensión: Corrector ortográfico y gramatical — LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker%E2%80%94lan/oldceeleldhonbafppcapldpdifcinji/related?utm_source=lt-homepage)
+- [Write & Improve](https://writeandimprove.com/)
 
 ## 4. Incrementar vocabulario   
 
