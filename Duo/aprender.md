@@ -93,6 +93,8 @@ En español decimos Yo no hablo español, pero en inglés, si el verbo no es to 
 - I speak Spanish. Yo hablo español.
 - I do not speak Spanish. Yo no hablo español.
 
+[Lesson 1](https://www.duolingo.com/guidebook/en/1)
+
 🎲🎲
 
 # 02. Habla de viajes
@@ -130,6 +132,8 @@ Parecido al sonido de la j en español (como en José), pero más suave.
 - restaurant, here, sorry
 
 El sonido de la r en inglés es diferente al del de la r en español porque se forma más atrás en la boca, y la punta de la lengua no toca el cielo de la boca. También fíjate que la r y la rr tienen el mismo sonido en inglés.
+
+[Lesson 2](https://www.duolingo.com/guidebook/en/2)
 
 🎲🎲
 
@@ -193,6 +197,8 @@ En español podemos hacer preguntas como ¿Dónde vive usted?, pero en inglés n
 - Where do you live? ¿Dónde vives?
 - What do you need? ¿Qué necesitas?
 
+[Lesson 3](https://www.duolingo.com/guidebook/en/3)
+
 🎲🎲
 
 # 04. Describe a tu familia
@@ -235,6 +241,8 @@ Recuerda que en inglés los verbos cambian dependiendo de la persona, pero no ta
 
 I have a sister. Yo tengo una hermana.
 
+[Lesson 4](https://www.duolingo.com/guidebook/en/4)
+
 🎲🎲
 
 # 05. Usa el tiempo presente
@@ -270,10 +278,195 @@ A excepción de be, los verbos no cambian mucho. Solamente la forma de he / she 
 |you       | have        |
 |he / she  | have        |
 
+[Lesson 5](https://www.duolingo.com/guidebook/en/5)
+
 🎲🎲
+
+# 06. Habla de trabajo
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/d982595bad4aeecdb7fb143357591000.svg)
+
+## Guía de la sección 6
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Habla de trabajo**
+
+- Anna is a teacher. Anna es maestra.
+- Are you a doctor?¿Tú eres doctor?
+- I work at an office in New York. Yo trabajo en una oficina en Nueva York.
+- Wow, your job is interesting!¡Guau, tu trabajo es interesante!
+
+### TIP
+
+**Ser diferente**
+
+¡Recuerda que **to be** es especial! Tiene muchas formas diferentes.
+
+|sujeto                |verbo (to be)     |
+|----------------------|------------------|
+|I: yo                 | am: soy          |
+|you: tú usted ustedes | are: eres es son |
+|he/she: él/ella       | is: es           |
+|we: nosotros nosotras | are: somos       |
+|they: ellos ellas     | are: son         |
+
+[Lesson 6](https://www.duolingo.com/guidebook/en/6)
+
+# 07. Describe ropa
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/1ea369918b8e64958448ad6e7efc7344.svg)
+
+## Guía de la sección 7
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Describe ropa**
+
+- I want two blue shirts. Yo quiero dos camisas azules.
+- How much is this hat? ¿Cuánto cuesta este sombrero?
+- I need new pants. Yo necesito pantalones nuevos.
+- The black shirts are very expensive! ¡Las camisas negras son muy caras!
+- Hello, is the store open? Hola, ¿está abierta la tienda?
+	- Sorry, the store is closed. Lo siento, la tienda está cerrada.
+
+### TIP
+
+**Más de uno**
+
+Diferenciar entre una cosa y muchas cosas funciona igual que en español. ¡Simplemente agrega una s al final!
+
+|singular   |plural        |
+|-----------|--------------|
+|dog perro  | dog`s` perros  |
+|table mesa | table`s` mesas |
+|taxi taxi  | taxi`s` taxis  |
+
+Por cierto, observa que, ya sea que hablemos de una cosa o de muchas cosas, el adjetivo se mantiene igual. 
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/4e06fb29500a0c3595facea266862e4d/images/2cdd8601d9cd4fa0bf03de8b722a356c.svg)
+
+a green shoe. un zapato verde
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/4e06fb29500a0c3595facea266862e4d/images/4b7ad7add2bf47e79c260c990698c984.svg)
+
+green shoe`s`. zapatos verdes
+
+[Lesson 7](https://www.duolingo.com/guidebook/en/7)
+
 🎲🎲
+
+# 08. Describe un día normal
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/f75ac5f895a988580dc58c17440092f9.svg)
+
+## Guía de la sección 8
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Describe un día normal**
+
+- I drink coffee with sugar in the morning. Tomo café con azúcar por la mañana.
+- We see our friends every day. Nosotros vemos a nuestros amigos todos los días.
+- I play soccer in the afternoon. Yo juego fútbol por la tarde.
+- You work a lot, Luis! ¡Tú trabajas mucho, Luis!
+- You study English, right? Estudias inglés, ¿verdad?
+	- Yes, I study every day! Sí, ¡estudio todos los días!
+
+### TIP
+
+**Very important people**
+
+¡Siempre recuerda incluir palabras como I, you, he y she en inglés!
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/e8f9a9d15382118a21cf2f59dd7b9f33/images/87569963e4484a928cef4710687c22e7.svg)
+
+I need a taxi. Yo necesito un taxi.
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/e8f9a9d15382118a21cf2f59dd7b9f33/images/13f7d48a194a418298a11bf56ad109a4.svg)
+
+You speak Spanish. Tú hablas español.
+
+[Lesson 8](https://www.duolingo.com/guidebook/en/8)
+
 🎲🎲
+
+# 09. Expresa preferencias 
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/d0d8dc7a1a4e8e0a95ff0484fb9b17ae.svg)
+
+## Guía de la sección 9
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Expresa preferencias**
+
+- What is your favorite book? ¿Cuál es tu libro favorito?
+- Oh, I love Spanish music! ¡Oh, me encanta la música española!
+- I really like the food at this restaurant. Me gusta mucho la comida en este restaurante.
+- Do you like hip-hop or rock? ¿Te gusta el hip-hop o el rock?
+- Do you play the guitar, David? ¿Tocas la guitarra, David?
+
+### TIP
+
+**For vs. four**
+
+¡`For` (para / por / durante) y `four` (cuatro) suenan exactamente igual en inglés!
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/669e4c78d26485a8480b16f2f6b1717c/images/52733eec7ce64b059e50760c2789f431.svg)
+
+A table `for` two, please. Una mesa para dos, por favor.
+
+![](https://d1btvuu4dwu627.cloudfront.net/7b35cc83cdbea87e8f94627ebc490218/669e4c78d26485a8480b16f2f6b1717c/images/9564384f4d284ba8bc41b448d1b225df.svg)
+
+He has `four` students. Él tiene cuatro alumnos.
+
+[Lesson 9](https://www.duolingo.com/guidebook/en/9)
+
 🎲🎲
+
+# 10. Saluda y despídete
+
+![x|100](https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/939ebad747027f1a9d365e15fda3a4e1.svg)
+
+## Guía de la sección 10
+
+Explora tips de gramática y aprende frases claves de esta sección
+
+### FRASES CLAVE
+
+**Saluda y despídete**
+
+- Good afternoon, Laura! ¡Buenas tardes, Laura!
+- Mrs. Smith, this is my brother, David. Señora Smith, este es mi hermano, David.
+- Welcome, Mrs. Lee! ¡Bienvenida, señora Lee!
+- Bye, Paul, good night! ¡Adiós, Paul, buenas noches!
+- Thanks for your help. Gracias por su ayuda.
+
+### TIP
+
+**Sonidos en inglés**
+
+En inglés, algunas veces dos letras juntas producen un solo sonido.
+
+she: `sh`e, Engli`sh`, Spani`sh`
+
+Parecido a **ch**, como en `ch`**ico**, pero más suave.
+
+mother: mo`th`er, fa`th`er, `th`e
+
+Practica el sonido de la **th** colocando justo la punta de la lengua entre los dientes delanteros.
+
+[Lesson 10](https://www.duolingo.com/guidebook/en/10)
+
 🎲🎲
 🎲🎲
 🎲🎲
