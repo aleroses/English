@@ -31,9 +31,18 @@
 10. ¿Te gustaría que practicáramos mas? 
 	- Would you like us to practice more?
 
-
-
 📌NOTA: En una oración similar a "Me gustaría `que`" el que se omite y se traduce de la siguiente manera: **I'd like** 
+
+### Vocabulary  
+- Alone: solo / solos 
+- Jump: saltar
+- Stay: quedarse / mantenerse 
+- Belongings: Pertenencias 
+- Arrive: Llegar 
+- Smoke: fumar 
+- Take: Tomar / llevar 
+- Pay: pagar 
+- Bill: cuenta / factura 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=O3iFS4KAEmU&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=37)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-32/)
