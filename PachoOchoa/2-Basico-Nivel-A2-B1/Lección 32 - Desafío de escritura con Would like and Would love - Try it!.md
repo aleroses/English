@@ -1,6 +1,6 @@
 # Writing Challenge with Would like and love 
 
-> Pron. Pers. + would + like / love + sujeto / pron. objeto + verb infinitivo + complemento 
+> `Pron. Pers.` + `would` +` like / love` + `sujeto / pron. objeto` + `verb infinitivo` + `complemento` 
 
 ### Examples:  
 1. Me gustaría que Peter viniera conmigo. 
@@ -31,7 +31,7 @@
 10. ¿Te gustaría que practicáramos mas? 
 	- Would you like us to practice more?
 
-📌NOTA: En una oración similar a "Me gustaría `que`" el que se omite y se traduce de la siguiente manera: **I'd like** 
+📌NOTA: En una oración similar a "Me gustaría `que`" el **que** se omite y se traduce de la siguiente manera: **I'd like** 
 
 ### Vocabulary  
 - Alone: solo / solos 
@@ -45,4 +45,4 @@
 - Bill: cuenta / factura 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=O3iFS4KAEmU&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=37)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-32/)
+[Clase en la Web + Guía práctica](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-32/)

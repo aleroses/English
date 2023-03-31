@@ -36,12 +36,6 @@ Who - What - How well - How often - When - Where - Why - How
 - See: ver
 
 
-<details>
-	<summary>Haz clic para ver los enlaces 👀</summary>
-	<br/>
-	
-	[Clase en YouTube](https://www.youtube.com/watch?v=Q5q4rYsfh9I&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=39)    
-	[Audio para la clase](https://www.youtube.com/watch?v=uDRzEMHVM2A)   
-	[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-33/)
-
-</details>
+[Clase en YouTube](https://www.youtube.com/watch?v=Q5q4rYsfh9I&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=39)    
+[Audio para la clase](https://www.youtube.com/watch?v=uDRzEMHVM2A)   
+[Clase en la Web + Guía práctica](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-33/)
