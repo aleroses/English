@@ -11,16 +11,18 @@
 - `Which` is your name? Andrés - Jorge - Francisco  
 	- My name is Jorge. 
 - `What` dress would she like. 
-	- She'd like `a` white dress. Articulo indefinido 
-- Which dress would she like? White, Blue, Yellow
-	- She'd like `the` white dress. Articulo definido
-- What's his favorite color? 
+	- She'd like `a` white dress. 
+	- **Artículo indefinido** 
+- `Which` dress would she like? White, Blue, Yellow
+	- She'd like `the` white dress. 
+	- **Artículo definido**
+- `What`'s his favorite color? 
 	- His favorite color is blue.
-- Which is his favorite color? Green, Purple, Blue
+- `Which` is his favorite color? Green, Purple, Blue
 	- His favorite color is blue.
-- What language do you study?
+- `What` language do you study?
 	- I study English.
-- Which language do you study? Portuguese, French, English 
+- `Which` language do you study? Portuguese, French, English 
 	- I study French. 
 
 ### Vocabulary 
