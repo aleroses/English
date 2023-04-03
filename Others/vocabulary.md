@@ -19,6 +19,13 @@
 - reject: rechazar 
 - yield: producir 
 
+- Proper: correcto
+- Thing: pensar 
+- Thought: pensé
+- Already: ya
+- Whole: todo, entero 
+
+
 
 ## Frases 
 
@@ -32,3 +39,5 @@
 - Andrea didn't come on time: Andrea no llegó a tiempo:
 - Who wanted more juice? ¿Quién quería más jugo?
 - I stopped smoking last year. Yo dejé de fumar el año pasado. 
+- We weren't thirsty at breakfast. 
+- My aunt and uncle weren't tired. 
