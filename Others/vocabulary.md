@@ -55,3 +55,10 @@
 - Almost: casi 
 - Explain: explicar
 - Customer: Cliente 
+- Give me: Dame 
+- Gave me: Me dio 
+- Lose: perder 
+- Loser: perdedor
+- Ring: sonar, anillo 
+- Happen: suceder, ocurrir, pasar
+- Bought: compré 
