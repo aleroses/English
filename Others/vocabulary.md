@@ -38,6 +38,8 @@
 - Yesterday. I `left` for work at six thirty. I usually `leave` late. 
 - We enjoyed working together. 
 - The bus left at half past nine. 
+- The bus arrived at two fifteen 
+- What took you so long? Qué te tomó tanto tiempo? 
 
 ## Anki 
 - Gentleman: Caballero 
@@ -62,3 +64,33 @@
 - Ring: sonar, anillo 
 - Happen: suceder, ocurrir, pasar
 - Bought: compré 
+- Several: varios
+- Answer: respuesta 
+- Able: capaz 
+- Career: carrera 
+- Disease: enfermedad 
+- Step: paso / pisar 
+- Cheer: Animar 
+- Upset: preocupado, molesto 
+- Support: Apoyo 
+- Ask: pedir, preguntar 
+- Spend: gastar 
+- Spent: gastó 
+- Hope: esperanza, esperar, querer
+- Be careful: ten cuidado 
+- Melt: derretir 
+- Seed: semilla 
+- Require: requerir, debes
+- Long ago: Hace mucho tiempo
+- Let: dejar, permitir
+- String: cuerda, cadena 
+- Clerk: empleado 
+- Shout: gritar 
+- Shy: tímido 
+- Thief: ladrón 
+- Population: población
+- Proper: correcto, adecuada  
+- Stand: permanece, pararse 
+- East: este 
+- West: oeste 
+- Same: mismo 
