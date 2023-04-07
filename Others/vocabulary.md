@@ -40,6 +40,9 @@
 - The bus left at half past nine. 
 - The bus arrived at two fifteen 
 - What took you so long? Qué te tomó tanto tiempo? 
+- Both ducks looked at each other in the mirror. Ambos patos se miraron en el espejo. 
+- We did not laugh. Nosotros no reímos. 
+- You're right, this blue one is nicer. Tienes razón, este azul es más bonito. 
 
 ## Anki 
 - Gentleman: Caballero 
@@ -94,3 +97,13 @@
 - East: este 
 - West: oeste 
 - Same: mismo 
+
+### Wednesday 05/04/2023
+- Rope: cuerda 
+- Wide: ancho 
+- Width: ancho 
+- Climb: trepar 
+- Reason: razón, motivo 
+- Gathered: reunida
+- Through: A través de
+- Intend: pretender, intención 
