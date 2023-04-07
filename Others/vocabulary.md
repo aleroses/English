@@ -107,3 +107,7 @@
 - Gathered: reunida
 - Through: A través de
 - Intend: pretender, intención 
+
+## Thursday 06/04/2023
+- Complain: quejarse 
+- 
