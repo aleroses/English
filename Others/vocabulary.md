@@ -43,6 +43,10 @@
 - Both ducks looked at each other in the mirror. Ambos patos se miraron en el espejo. 
 - We did not laugh. Nosotros no reímos. 
 - You're right, this blue one is nicer. Tienes razón, este azul es más bonito. 
+- The bear did not cry. El oso no lloró. 
+- She did not get to the airport on time. Ella no llegó al aeropuerto a tiempo. 
+- How long will Lisa stay in that company? ¿Cuánto tiempo se quedará Lisa en esa compañía?
+- I arrived in Italy on February Twelfth. 
 
 ## Anki 
 - Gentleman: Caballero 
@@ -108,6 +112,9 @@
 - Through: A través de
 - Intend: pretender, intención 
 
-## Thursday 06/04/2023
+### Thursday 06/04/2023
 - Complain: quejarse 
-- 
+
+### Sturday 08/04/2023
+- Confident: seguros 
+- Strange: extraño 
