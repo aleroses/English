@@ -47,6 +47,8 @@
 - She did not get to the airport on time. Ella no llegó al aeropuerto a tiempo. 
 - How long will Lisa stay in that company? ¿Cuánto tiempo se quedará Lisa en esa compañía?
 - I arrived in Italy on February Twelfth. 
+- The men didn't cry. Los hombres no lloraron.
+- There were so many ducks. Había tantos patos. 
 
 ## Anki 
 - Gentleman: Caballero 
