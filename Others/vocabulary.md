@@ -49,6 +49,20 @@
 - I arrived in Italy on February Twelfth. 
 - The men didn't cry. Los hombres no lloraron.
 - There were so many ducks. Había tantos patos. 
+- I'm sorry, but I don't think so. Lo siento, pero pienso que no. 
+- Was your life difficult? ¿Fue difícil su vida?
+- Yes, the yellow ones are cheaper. Sí, las amarillas son más baratas.
+- We are the next ones. Somos los próximos. 
+- Let's order the sweetest thing at the coffee shop. Pidamos la cosa más dulce del café. 
+- I want to do something else. Quiero hacer otra cosa. 
+- Yes, I think so. Sí, pienso que sí. 
+- How was your trip, Sarah? Qué tal estuvo tu viaje, Sarah?
+- How was the movie? ¿Qué tal estuvo la película? 
+- Uh, I have to tell you something else. Eh, tengo que contarte otra cosa. 
+- Oh no, it's going to rain again. Oh no, va a llover otra vez. 
+- He looked at his watch. Él miró su reloj. 
+- 
+
 
 ## Anki 
 - Gentleman: Caballero 
@@ -117,6 +131,13 @@
 ### Thursday 06/04/2023
 - Complain: quejarse 
 
-### Sturday 08/04/2023
+### Saturday 08/04/2023
 - Confident: seguros 
 - Strange: extraño 
+
+### Saturday 15/04/2023  
+- Score: puntuación, logro, marcar 
+- Shot: inyección, disparo, tomar alcohol 
+- Serve: servir 
+- Bakeries: panaderías 
+- 
