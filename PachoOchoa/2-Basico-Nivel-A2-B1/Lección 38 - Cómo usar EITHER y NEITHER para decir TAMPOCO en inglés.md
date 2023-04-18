@@ -10,26 +10,26 @@ Either / Neither = Tampoco
 
 ### Examples: 
 A. I wouldn't go with them.   
-B. I wouldn't either. Yo tampoco.    
-B. Neither would I   
-B. Me neither.   
+B. I wouldn't `either`. Yo tampoco.    
+B. `Neither` would I.   
+B. Me `neither`.   
 
 A. They shouldn't drink alcohol.   
-B. We shouldn't either. Nosotros tampoco.   
-B. Neither should we.   
-B. Us neither.   
+B. We shouldn't `either`. Nosotros tampoco.   
+B. `Neither` should we.   
+B. Us `neither`.   
 
 A. Griselda isn't in her house.    
-B. Her mother isn't either.    
-B. Neither is her mother.    
-B. Her mother neither.    
+B. Her mother isn't `either`.    
+B. `Neither` is her mother.    
+B. Her mother `neither`.    
 
 A. I don't like onion.    
-B. My wife doesn't either.    
-B. Neither doesn't my wife.    
-B. My wife neither.    
+B. My wife doesn't `either`. A mi esposa tampoco.    
+B. `Neither` does my wife.    
+B. My wife `neither`.    
 
-### 🔥 Practice:
+### 🔥 Practice:  
 1. John is not saving money. (We / neither)
 	- Neither are we. 
 	- Us neither. 

@@ -61,7 +61,7 @@
 - Uh, I have to tell you something else. Eh, tengo que contarte otra cosa. 
 - Oh no, it's going to rain again. Oh no, va a llover otra vez. 
 - He looked at his watch. Él miró su reloj. 
-- 
+- Which of these two photos de you like better? I think they are both good. 
 
 
 ## Anki 
