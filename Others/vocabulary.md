@@ -62,7 +62,8 @@
 - Oh no, it's going to rain again. Oh no, va a llover otra vez. 
 - He looked at his watch. Él miró su reloj. 
 - Which of these two photos de you like better? I think they are both good. 
-
+- How are you? How's it going? ¿Cómo estás? ¿Cómo te va?
+- All right. Bueno. 
 
 ## Anki 
 - Gentleman: Caballero 
