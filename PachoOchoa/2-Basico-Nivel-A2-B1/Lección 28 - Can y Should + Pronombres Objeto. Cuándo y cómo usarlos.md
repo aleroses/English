@@ -32,10 +32,10 @@
 📌 NOTA: Cuando son varias cosas no usamos el pronombre objeto `it`, usamos `them`. **Ex:** Tu no deberías comprarlos. 👉 You shouldn't buy `them`. 
 
 ### Vocabulary
-Bathe: bañar   
-Talk: hablar, conversar   
-Take: tomar, llevar   
-Safe: Caja fuerte   
+- Bathe: bañar  
+- Talk: hablar, conversar   
+- Take: tomar, llevar   
+- Safe: Caja fuerte   
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=N-cTILDK-6Q&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=32)  

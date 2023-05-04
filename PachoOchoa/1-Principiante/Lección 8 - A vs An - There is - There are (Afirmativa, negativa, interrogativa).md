@@ -46,14 +46,14 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 	- Are there 4 bathrooms in your house?
 	- No, there aren't 4 bathrooms.
 
-
-Carpet - Alfombra  
-Lamp - Lampara  
-Cushions - Cojines  
-Wall - Pared  
-Floor - Piso  
-Vase - Florero (veis)  
-Many - Muchas   
+### Vocabulary
+- Carpet - Alfombra  
+- Lamp - Lampara  
+- Cushions - Cojines  
+- Wall - Pared  
+- Floor - Piso  
+- Vase - Florero (veis)  
+- Many - Muchas   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=vXmKsSnROjQ&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=8)    
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-8/)

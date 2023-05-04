@@ -19,12 +19,12 @@ What? --> ¿Qué?
 
 📌 Recuerda, para hacer preguntas se antepone el `is`.
 
-
-Today --> Hoy   
-Because --> Porque   
-Resting --> Descansando  
-Siblings --> Hermanos en conjunto hombres y mujeres  
-Doing --> Haciendo    
+### Vocabulary
+- Today: Hoy   
+- Because: Porque   
+- Resting: Descansando  
+- Siblings: Hermanos en conjunto hombres y mujeres  
+- Doing: Haciendo    
 
 [Clase en YouTube](https://www.youtube.com/watch?v=11DCciucXFs&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=5)    
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-5/)

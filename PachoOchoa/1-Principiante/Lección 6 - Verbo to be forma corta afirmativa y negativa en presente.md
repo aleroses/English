@@ -35,12 +35,13 @@
 
 📌 NOTA: Cuando el nombre o cosa termina en S ya no se acorta.
 
+### Vocabulary
 Shining: Brillante  
-Beach - Playa  
-Watering - Regando  
-Every - Cada  
-Very - Muy  
-Things - Cosas  
+Beach: Playa  
+Watering: Regando  
+Every: Cada  
+Very: Muy  
+Things: Cosas  
 
 [Clase en YouTube](https://www.youtube.com/watch?v=dN6GVwqkaWc&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=6)    
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-6/)

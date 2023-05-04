@@ -45,14 +45,14 @@
 
 
 
-
-ADD -> AGREGAR  
-FROM -> DE DESDE  
-CHURCH -> IGLESIA  
-CHILDREN -> HIJOS NIÑOS  
-SOME -> ALGUNAS  
-WINE -> VINO  
-MANY -> MUCHAS   
+### Vocabulary
+- ADD: agregar  
+- FROM: de - desde
+- CHURCH: iglesia  
+- CHILDREN: hijos - niños
+- SOME: algunas  
+- WINE: vino  
+- MANY: muchas   
 
 
 

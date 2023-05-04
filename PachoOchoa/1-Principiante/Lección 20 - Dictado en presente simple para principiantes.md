@@ -18,16 +18,16 @@
 	- No, because his Mexican friends go to the restaurant on Friday.
 
 ### Vocabulary
-SPECIAL: Especial     
-PLATE: Plato    
-LOVE: Amar / Encantar      
-ONCE A WEEK: Una vez a la semana     
-TWICE A WEEK: Dos veces a la semana    
-THREE TIMES A WEEK: Tres veces a la semana    
-ONE TIME: Una vez   
-TWO TIME: Dos veces    
-FOOD: Comida   
-TIMES: Veces   
+- SPECIAL: Especial     
+- PLATE: Plato    
+- LOVE: Amar / Encantar      
+- ONCE A WEEK: Una vez a la semana     
+- TWICE A WEEK: Dos veces a la semana    
+- THREE TIMES A WEEK: Tres veces a la semana    
+- ONE TIME: Una vez   
+- TWO TIME: Dos veces    
+- FOOD: Comida   
+- TIMES: Veces   
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=gU-iDfNgMDA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=23)  

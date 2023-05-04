@@ -29,12 +29,12 @@
 		- They travel every year.
 		- They always travel to Miami.
 
-
-HOW OFTEN - CADA CUANTO   
-WEEKEND - FIN DE SEMANA   
-TOGETHER - JUNTOS   
-DURING - DURANTE   
-SLOWER - MÁS LENTO   
+### Vocabulary
+- HOW OFTEN - cada cuanto   
+- WEEKEND - fin de semana
+- TOGETHER - juntos   
+- DURING - durante   
+- SLOWER - mas lento
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=ucjI50Jj-bY&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=21)  

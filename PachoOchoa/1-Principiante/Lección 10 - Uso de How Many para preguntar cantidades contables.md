@@ -21,10 +21,10 @@ How many: ¿Cuántos? ¿Cuántas?
 	- In the garden there are 3three flowers but there's one orange flower and there are 2two pink flowers.
   
 
-
-Expensive - Caro      
-Flying - Volando   
-Sky - Cielo   
+### Vocabulary
+- Expensive - Caro      
+- Flying - Volando   
+- Sky - Cielo   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=17f7HvJzbZk&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=10)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-10/)

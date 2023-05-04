@@ -1,6 +1,6 @@
 # Ejercicio de escucha en Presente Simple
 
-## Vocabulary 
+### Vocabulary
 
 - WAKE UP -> DESPERTAR
 	- I wake up / She wakes up.
@@ -26,7 +26,7 @@
 	- I work from 8:00 to 12:00. / She works from 8 to 12:00
 
 
-## Extra Vocabulary 
+### Extra Vocabulary 
 
 - WHEN: Cuando
 - LATER: Mas tarde / Luego

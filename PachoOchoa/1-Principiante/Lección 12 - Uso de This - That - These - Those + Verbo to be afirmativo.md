@@ -37,17 +37,17 @@ THOSE: Esos - Esas
 - Those are red apples.
 - Those are my friends. 
 
-
-Boss -> Jefe   
-Long -> Largo   
-Fridge -> Nevera   
-Glasses -> Lentes   
-Glass -> Vaso   
-Paintings -> Pinturas   
-Watch -> Reloj   
-Swimsuit -> Traje de baño   
-Ring -> Timbrar   
-Delicious -> Delicioso   
+### Vocabulary
+- Boss: Jefe   
+- Long: Largo   
+- Fridge: Nevera   
+- Glasses: Lentes   
+- Glass: Vaso   
+- Paintings: Pinturas   
+- Watch: Reloj   
+- Swimsuit: Traje de baño   
+- Ring: Timbrar   
+- Delicious: Delicioso   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=TXNJl0oaxxg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=14)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-12/)

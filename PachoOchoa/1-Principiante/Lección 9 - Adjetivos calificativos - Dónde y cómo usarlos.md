@@ -32,12 +32,12 @@ Dos carros azules.
 3. Mi padre es flaco y mi madre es flaca también.
 	- My father is thin and my mother is thin too.
 
-
-Dust - Polvo   
-Dusty - Empolvada   
-Thin - Flaco o flaca   
-Too - También  
-Silver: Plateado   
+### Vocabulary
+- Dust - Polvo   
+- Dusty - Empolvada   
+- Thin - Flaco o flaca   
+- Too - También  
+- Silver: Plateado   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=tFCHKUCiYm8&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=9)    
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-9/)

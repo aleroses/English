@@ -36,24 +36,24 @@
 6. Who are those?
 	- Those is my grandmother and my sister.
 
-
-Uncles -> Tíos    
-Earrings -> Aretes    
-Noisy -> Ruidosa    
-Quiet -> Tranquila    
-Riot -> Disturbios    
-Quiet Riot -> Manifestación pacífica    
-Neighbors -> Vecinos    
-Fat -> Gordo    
-Thin -> Delgado    
-Ugly -> Feo    
-Single -> Soltero    
-Married -> Casado    
-Cushions -> Cojines    
-Many -> Muchas    
-Things -> Cosas    
-Closet -> Armario    
-Socks -> Calcetines    
+### Vocabulary
+- Uncles: Tíos    
+- Earrings: Aretes    
+- Noisy: Ruidosa    
+- Quiet: Tranquila    
+- Riot: Disturbios    
+- Quiet: Riot - Manifestación pacífica    
+- Neighbors: Vecinos    
+- Fat: Gordo    
+- Thin: Delgado    
+- Ugly: Feo    
+- Single: Soltero    
+- Married: Casado    
+- Cushions: Cojines    
+- Many: Muchas    
+- Things: Cosas    
+- Closet: Armario    
+- Socks: Calcetines    
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=n671mANq9yA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=15)  

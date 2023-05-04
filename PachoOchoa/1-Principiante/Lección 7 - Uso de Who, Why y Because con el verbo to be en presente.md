@@ -48,11 +48,11 @@
 - B. Ella es su hermana?
 	- She's his sister?
 
-
-Want - Quiero  
-Rest - Descansar  
-Travel - Viajar  
-Withdrawing - Retirando  
+### Vocabulary
+Want: Quiero  
+Rest: Descansar  
+Travel: Viajar  
+Withdrawing: Retirando  
 
 [Clase en YouTube](https://www.youtube.com/watch?v=mqTQTONrHEA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=7)    
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-7/)

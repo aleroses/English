@@ -25,28 +25,29 @@ How much: ¿Cuánto?¿Cuánta?
 	- How much soup is there in the plate/bowl?
 	- There's a lot of soup.
 
-Pool: Piscina    
-Some: Algo  
-Cup: Taza  
-Pound: Libra   
-Jar: Jarra     
-Liter: Litro   
-Little: Poco   
-Plate: Plato   
-Flour: Harina   
-Salt: Sal   
-Sand: Arena   
-Egg -> Huevo   
-Pinch -> Pizca   
-Oil -> Aceite  
-Frying Pan -> Fritura - Sárten   
-Glass -> Vaso   
-Nothing -> Nada   
-Fridge -> Nevera   
-Meat -> Carne   
-Freezer -> Congelador   
-Little bit -> Poquito   
-You're welcome Erika -> Con gusto Erika   
+### Vocabulary
+- Pool: Piscina    
+- Some: Algo  
+- Cup: Taza  
+- Pound: Libra   
+- Jar: Jarra     
+- Liter: Litro   
+- Little: Poco   
+- Plate: Plato   
+- Flour: Harina   
+- Salt: Sal   
+- Sand: Arena   
+- Egg -> Huevo   
+- Pinch -> Pizca   
+- Oil -> Aceite  
+- Frying Pan -> Fritura - Sartén   
+- Glass -> Vaso   
+- Nothing -> Nada   
+- Fridge -> Nevera   
+- Meat -> Carne   
+- Freezer -> Congelador   
+- Little bit -> Poquito   
+- You're welcome Erika -> Con gusto Erika   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=ghyXMPRY4ms&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=13)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-11/)

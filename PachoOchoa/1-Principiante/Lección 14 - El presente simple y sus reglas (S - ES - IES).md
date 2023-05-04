@@ -67,16 +67,16 @@ PLURAL: NO APLICA
 4. Ustedes tienen clase de inglés hoy.
 	- You have English class today.
 
-
-Have -> Tener   
-Do -> Hacer   
-Has -> Tiene   
-Every day -> Todos los días. Plural   
-All day -> Todo el día. Singular   
-Very -> Muy   
-Bird -> Pájaro   
-Eats -> Come   
-Answers -> Respuestas   
+### Vocabulary
+- Have: Tener   
+- Do: Hacer   
+- Has: Tiene   
+- Every day: Todos los días. Plural   
+- All day: Todo el día. Singular   
+- Very: Muy   
+- Bird: Pájaro   
+- Eats: Come   
+- Answers: Respuestas   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=m0kTGL6Flzg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=16)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-14/)

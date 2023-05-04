@@ -29,17 +29,17 @@
 
 
 ### Vocabulary
-HOW WELL: Que tal bien      
-HOW BADLY: Que tan mal        
-SING: Cantar     
-SKILLS: Habilidades     
-LEARN: Aprender    
-MANY: Muchos     
-SO: Así que - Entonces     
-WONDERFULLY: Maravillosamente      
-SOMETIMES: Algunas veces     
-OFTEN: A menudo     
-EXTREMELY: Extremadamente     
+- HOW WELL: Que tal bien      
+- HOW BADLY: Que tan mal        
+- SING: Cantar     
+- SKILLS: Habilidades     
+- LEARN: Aprender    
+- MANY: Muchos     
+- SO: Así que - Entonces     
+- WONDERFULLY: Maravillosamente      
+- SOMETIMES: Algunas veces     
+- OFTEN: A menudo     
+- EXTREMELY: Extremadamente     
 
 
 [Clase en YouTube](https://www.youtube.com/watch?v=uZdGDUdNf0Y&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=26)  

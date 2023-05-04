@@ -9,11 +9,11 @@ grandmother `IS` in the garden with **her** best friend Lucero.
 |---|----|--------|
 |She|Her |Su - Sus|
 
--> Él es su padre.  
--> He is `HIS` father.
+- Él es su padre.  
+- He is `HIS` father.
 
--> Ella es su madre.  
--> She is `HER` mother.
+- Ella es su madre.  
+- She is `HER` mother.
 
 ### 🔥 Practice:
 
@@ -31,21 +31,15 @@ grandmother `IS` in the garden with **her** best friend Lucero.
 	- `+` Yes, He is in the bedroom.
 
 
-Respuestas Actividad 3
+### Respuestas Actividad 3
 
-No, He is with his wife in the living room.
-
-No, They are on the sofa.
-
-Yes, He is in the bedroom with his friends.
-
-No, She is in the dining room at the table.
-
-No, The cat isn't in the basement with the dog.
-
-No, She is the mother of Hector.
-
-NO, They are at the garage on the car.
+- No, He is with his wife in the living room.
+- No, They are on the sofa.
+- Yes, He is in the bedroom with his friends.
+- No, She is in the dining room at the table.
+- No, The cat isn't in the basement with the dog.
+- No, She is the mother of Hector.
+- NO, They are at the garage on the car.
 
 ![Pronouns chart](https://i.postimg.cc/gcBW1MQq/pronouns-chart.jpg)
 

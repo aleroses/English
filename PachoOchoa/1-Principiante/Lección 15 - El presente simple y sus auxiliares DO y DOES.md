@@ -49,20 +49,20 @@
 	- `+` You have pets in your house.
 	- `-` You don't have pets in your house.
 
-
-Pets -> Mascotas   
-Soccer -> Fútbol   
-Plane -> Avión   
-High -> Alto   
-Together -> Juntos   
-Always -> Siempre   
-Feeds -> Alimenta   
-Many -> Muchas   
-Clean -> Limpiar   
-Washes the clothes -> Lava la ropa   
-Business -> Negocios   
-Live -> Vivir    
-Life -> Vida   
+### Vocabulary
+- Pets: Mascotas   
+- Soccer: Fútbol   
+- Plane: Avión   
+- High: Alto   
+- Together: Juntos   
+- Always: Siempre   
+- Feeds: Alimenta   
+- Many: Muchas   
+- Clean: Limpiar   
+- Washes the clothes: Lava la ropa   
+- Business: Negocios   
+- Live: Vivir    
+- Life: Vida   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=8gN9rSN54VI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=17)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-15/)
