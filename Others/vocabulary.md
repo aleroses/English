@@ -64,6 +64,9 @@
 - Which of these two photos de you like better? I think they are both good. 
 - How are you? How's it going? ¿Cómo estás? ¿Cómo te va?
 - All right. Bueno. 
+- Was there an accident? ¿Hubo un accidente?
+- How's it going at work? ¿Cómo te va en el trabajo?
+
 
 ## Anki 
 - Gentleman: Caballero 
