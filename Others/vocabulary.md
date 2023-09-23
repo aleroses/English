@@ -66,6 +66,7 @@
 - All right. Bueno. 
 - Was there an accident? ¿Hubo un accidente?
 - How's it going at work? ¿Cómo te va en el trabajo?
+- Sorry, I didn't look at the calendar. Lo siento, yo no miré el calendario. 
 
 
 ## Anki 

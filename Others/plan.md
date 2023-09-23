@@ -8,7 +8,7 @@ Todos estos pasos conforme los culmines vas a añadirlos al siguiente paso, **es
 
 ## 1. Aprender vocabulario 
 
-Debes aprender palabras básicas, puedes usar las siguiente herramientas :  
+Debes aprender palabras básicas, puedes usar las siguiente herramientas:  
 
 - Anki 
 - Bussu

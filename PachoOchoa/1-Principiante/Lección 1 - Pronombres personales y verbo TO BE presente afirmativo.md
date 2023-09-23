@@ -2,25 +2,26 @@
 
 ## Pronombres Personales
 
-|I|Yo|
-|-|-|
-|You |Tú, usted(es)|
-|He  |Él|   
-|She |Ella|  
-|It  |Eso, esa, ese|   
-|We  |Nosotros(as)|   
-|They |Ellos(as)|   
+|I      |Yo                 |
+|-----|--------------|
+|You |Tú, usted(es) |
+|He   |Él                  |   
+|She  |Ella               |  
+|It      |Eso, esa, ese |   
+|We   |Nosotros(as) |   
+|They |Ellos(as)        |   
 
 ## To Be / Ser - Estar
 
 Am - Are - Is
 
-|I|am|
-|-|-|
-|You, We, They|are|
-|He, She, It  |is |
+|I                       |am |
+|----------------|-----|
+|You, We, They |are  |
+|He, She, It       |is     |
 
 ### 🔥 Ejemplos:   
+
 1. I am in class   
 	- Estoy en clase  
 

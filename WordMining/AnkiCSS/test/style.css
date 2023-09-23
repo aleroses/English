@@ -1,0 +1,521 @@
+/* Chrome Base Styles */
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/* Anki Browser Styles */
+div {
+  display: block;
+}
+
+body {
+  display: block;
+  line-height: 1.187;
+}
+
+html {
+  display: block;
+  color: -internal-root-color;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/
+  v2.0 | 20110126
+  License: none (public domain)
+*/
+
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+  padding-left: 24px;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+} /* Refold Specific Styles */
+
+/* Refold Button */
+
+/* Refold Button: Unmodified Styles */
+
+/* imitate standard macOS dark mode buttons */
+.isMac.nightMode.macos-dark-mode button:not(.linkb) {
+  box-shadow: 0 1px 2px #222222;
+}
+
+/* Refold Button: Modified Styles */
+button,
+.isMac button,
+.isLin button,
+.isWin button,
+.nightMode button,
+.isMac.nightMode.macos-dark-mode button:not(.linkb) {
+  /* Anki Defaults*/
+  /* -webkit-appearance: none; */
+  box-shadow: 0 0 3px #222222;
+
+  /* Overriding Anki Defaults*/
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  background: rgb(101, 68, 233);
+  border: 1px solid rgb(75, 50, 174);
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+
+  /* Refold Styles */
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.25s;
+  background-color: rgb(101, 68, 233);
+  white-space: nowrap;
+
+  /* Center align text */
+  display: flex;
+  align-items: center;
+}
+
+button:hover,
+.isMac button:hover,
+.isLin button:hover,
+.isWin button:hover,
+.nightMode button:hover {
+  /* Overriding Anki Defaults*/
+  background: rgb(101, 68, 233);
+
+  /* Refold Styles */
+  opacity: 0.85;
+}
+
+/* Refold Button: New Styles */
+
+/* Refold Audio Button */
+
+/* Refold Audio Button: Unmodified styles */
+.replay-button {
+  text-decoration: none;
+  display: inline-flex;
+  vertical-align: middle;
+  margin: 3px;
+}
+.replay-button svg {
+  width: 40px;
+  height: 40px;
+}
+
+/* Refold Audio Button: Modified styles */
+.replay-button svg circle {
+  fill: rgb(246, 245, 253);
+  stroke: rgb(216, 208, 249);
+  stroke-width: 1;
+}
+.replay-button svg path {
+  fill: rgb(75, 50, 174);
+  transform: scale(0.6) translate(19px, 20px);
+}
+
+/* Refold Audio Button: New css styles */
+.nightMode .replay-button svg circle {
+  fill: rgb(26, 18, 61);
+  stroke: rgb(48, 32, 111);
+}
+
+.nightMode .replay-button svg path {
+  fill: rgb(255, 255, 255);
+}
+
+/* Refold Horizontal Row */
+/* Refold HR:  Modified Styles */
+hr {
+  /* Default Anki Styles */
+  background-color: #ccc;
+
+  /* Refold Styles */
+  border: 0;
+  border-bottom: 1px solid rgb(216, 208, 249);
+  margin-bottom: 32px;
+}
+
+/* Refold HR: New Styles */
+.nightMode hr {
+  border-color: rgb(48, 32, 111);
+}
+
+/* Copyright: Ankitects Pty Ltd and contributors
+ * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
+body {
+  margin: 2em;
+  color: black;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+}
+
+a {
+  color: #00a;
+}
+
+body.nightMode {
+  color: white;
+  background: #2f2f31;
+}
+
+body.nightMode::-webkit-scrollbar {
+  background: #2f2f31;
+}
+
+body.nightMode::-webkit-scrollbar:horizontal {
+  height: 12px;
+}
+
+body.nightMode::-webkit-scrollbar:vertical {
+  width: 12px;
+}
+
+body.nightMode::-webkit-scrollbar-thumb {
+  background: #656565;
+  border-radius: 8px;
+}
+
+body.nightMode::-webkit-scrollbar-thumb:horizontal {
+  min-width: 50px;
+}
+
+body.nightMode::-webkit-scrollbar-thumb:vertical {
+  min-height: 50px;
+}
+
+.nightMode a {
+  color: #77ccff;
+}
+
+body {
+  overscroll-behavior: none;
+}
+
+/* night-mode-specific colours */
+/* Copyright: Ankitects Pty Ltd and contributors
+ * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
+
+body {
+  margin: 20px;
+  overflow-wrap: break-word;
+}
+
+body.nightMode {
+  background-color: #2f2f31;
+  color: white;
+}
+
+img {
+  max-width: 95%;
+  max-height: 95vh;
+}
+
+#_flag {
+  position: fixed;
+  right: 10px;
+  top: 0;
+  font-size: 30px;
+  display: none;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+#_mark {
+  position: fixed;
+  left: 10px;
+  top: 0;
+  font-size: 30px;
+  color: yellow;
+  display: none;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+#typeans {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.typeGood {
+  background: #0f0;
+}
+
+.typeBad {
+  background: #f00;
+}
+
+.typeMissed {
+  background: #ccc;
+}
+
+.nightMode .latex {
+  filter: invert(100%);
+}
+
+.drawing {
+  zoom: 50%;
+}
+
+.nightMode img.drawing {
+  filter: invert(1) hue-rotate(180deg);
+}
+/* .card {
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: left;
+  color: rgb(48, 32, 111);
+  background-color: rgb(251, 250, 254);
+} */
+
+.card.nightMode {
+  color: rgba(255, 255, 255, 0.85);
+  background-color: rgb(11, 7, 22);
+}
+
+.refold-card,
+.flashcard {
+  display: block;
+  padding: 0 24px 20px 24px;
+  width: 80%;
+  min-height: 200px;
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 5px 10px -5px rgba(133, 102, 255, 0.4);
+}
+
+.nightMode .refold-card,
+.nightMode .flashcard {
+  background-color: rgb(19, 12, 34);
+  box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.75);
+}
+
+/* .card-title,
+.instruction {
+  font-size: 20px;
+  font-weight: 700;
+} */
+
+.card-target,
+.word,
+.word-reading {
+  color: rgb(101, 68, 233);
+  font-size: 32px;
+}
+
+.nightMode .card-target,
+.nightMode .word,
+.nightMode .word-reading {
+  color: rgb(153, 128, 255);
+}
+
+/* Utilitiy Classes */
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.spacer {
+  margin-bottom: 32px;
+}
+
+/* Front */
+.front {
+  padding-top: 5px;
+  margin-bottom: -10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Back */
+.back {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+
+/* Back: Definition */
+.target-meaning,
+.definition {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+/* Back: Example Sentence */
+/* - NOTE: May be different per language */
+.sentence-wrapper {
+  display: block;
+  margin-top: 34px;
+}
+
+.example-sentence {
+  font-size: 20px;
+}
+
+.hint {
+  color: rgb(101, 68, 233);
+}
+
+.nightMode .hint {
+  color: rgb(133, 102, 255);
+}
+
+.sentence-translation {
+  font-style: italic;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: refold_kr;
+  src: url("_GowunDodum.ttf");
+}
+
+.more-info {
+  font-style: italic;
+  font-size: 16px;
+}
+
+.kr-font {
+  font-family: refold_kr;
+  font-weight: 500;
+}
+
+/*Deck Options*/
+
+.card-target {
+  font-weight: 700;
+}
+
+.irregular-forms {
+  color: rgb(75, 50, 174);
+  margin-top: 12px;
+  font-size: 16px;
+}
+
+.nightMode .irregular-forms {
+  color: rgb(153, 128, 255);
+}
+
+.prompt {
+  font-weight: 700;
+}
+
+.sentence-translation {
+  margin-top: 8px;
+}
