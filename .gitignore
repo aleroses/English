@@ -3,7 +3,10 @@
 *.pdf
 *.xlsx
 *.apkg
+<<<<<<< HEAD
 *.zip
 *.rar
 *.tar
+=======
+>>>>>>> 80ce08a28b89779732634ce5bd876efe4902a4a5
 *.obsidian
