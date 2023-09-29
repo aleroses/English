@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reverso</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="flashcard">
+      <div class="front">
+        <p class="card-target">{{Palabra}}</p>
+      </div>
+      <hr id="answer" />
+      <div class="back">
+        <div class="definition">{{Definición}}</div>
+        <!-- {{#Formas Irregulares}} -->
+        <p class="irregular-forms" style="font-size: 12px;">
+          <span class="prompt">Irregular Forms:</span>
+          {{Formas Irregulares}} xd xdxd xdxd
+        </p>
+        <!-- {{/Formas Irregulares}} -->
+        word <br />
+        word <br />
+        word
+        <div class="sentence-wrapper">
+          <div class="flex">
+            <div class="example-sentence">
+              "{{Oración de Ejemplo}}"
+              <div class="sentence-translation">{{hint:Traducción}}</div>
+            </div>
+            <div>{{audio_de_oración}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+- [America - You Can Do Magic (Official Music Video)](https://www.youtube.com/watch?v=tt4cR9szMS8&list=RDa4r7N1SSYSQ&index=3)
+- [Year of the Cat](https://www.youtube.com/watch?v=Yxy1eF_w7sU&list=RDa4r7N1SSYSQ&index=4)
+- [Electric Light Orchestra - Last Train to London](https://www.youtube.com/watch?v=Up4WjdabA2c&list=RDa4r7N1SSYSQ&index=6)
+- [U2 - New Year's Day](https://www.youtube.com/watch?v=jeYCyCaK_5k&list=RDa4r7N1SSYSQ&index=27)
+- [A Flock Of Seagulls - I Ran (So Far Away)](https://www.youtube.com/watch?v=iIpfWORQWhU&list=RDa4r7N1SSYSQ&index=27)
+- [Pilot - It's Magic](https://www.youtube.com/watch?v=ASGgn8bNQuA&list=RDMM&index=4)
