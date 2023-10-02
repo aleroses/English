@@ -92,5 +92,9 @@ Current: Actual
 Unknown: Desconocido
 Graph: Grafico
 Mermaid: Sirena
+Track: Pista
+Carpet: Alfombra 
+Cushion: Cojín
+Vase: Florero
 
 On the other hand: Por otro lado

@@ -30,24 +30,27 @@ How much: ¿Cuánto?¿Cuánta?
 - Some: Algo  
 - Cup: Taza  
 - Pound: Libra   
-- Jar: Jarra     
+- Jar: Frasca
+- Jug: Jarra
 - Liter: Litro   
 - Little: Poco   
 - Plate: Plato   
 - Flour: Harina   
 - Salt: Sal   
+- Pinch of: Pizca de 
+- A lot of: mucho 
 - Sand: Arena   
-- Egg -> Huevo   
-- Pinch -> Pizca   
-- Oil -> Aceite  
-- Frying Pan -> Fritura - Sartén   
-- Glass -> Vaso   
-- Nothing -> Nada   
-- Fridge -> Nevera   
-- Meat -> Carne   
-- Freezer -> Congelador   
-- Little bit -> Poquito   
-- You're welcome Erika -> Con gusto Erika   
+- Egg: Huevo   
+- Pinch: Pizca   
+- Oil: Aceite  
+- Frying Pan: Fritura - Sartén   
+- Glass: Vaso   
+- Nothing: Nada   
+- Fridge: Nevera   
+- Meat: Carne   
+- Freezer: Congelador   
+- A little bit of: Un poquito de  
+- You're welcome: De nada
 
 [Clase en YouTube](https://www.youtube.com/watch?v=ghyXMPRY4ms&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=13)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-11/)

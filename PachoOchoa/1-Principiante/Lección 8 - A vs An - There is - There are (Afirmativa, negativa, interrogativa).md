@@ -35,6 +35,7 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 	- Yes, there is   / Yes, there are.
 	- No, there isn't / No, there aren't.
 
+📌 Nota: si no sabes cuando usar `a` o `an` puedes usar `one`.
 
 ### 🔥 Practice:
 

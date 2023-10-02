@@ -22,9 +22,10 @@ How many: ¿Cuántos? ¿Cuántas?
   
 
 ### Vocabulary
-- Expensive - Caro      
-- Flying - Volando   
-- Sky - Cielo   
+
+- Expensive: Caro      
+- Flying: Volando   
+- Sky: Cielo   
 
 [Clase en YouTube](https://www.youtube.com/watch?v=17f7HvJzbZk&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=10)  
 [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-10/)

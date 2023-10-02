@@ -159,3 +159,37 @@ Vocabulario:
 |-----------------------------------|---------------|
 | Verbo Común + Verbo Común  | Si lleva `TO`    |
 | Verbo Modal + Verbo Común   | No lleva `TO`  |
+
+## 8. 
+
+1. Carpet - Alfombra
+2. Lamp - Lampara
+3. Cushions - Cojines
+4. Wall - Pared
+5. Floor - Piso
+6. Vase - Florero (veis)
+7. Many - Muchas
+
+## 9.
+
+- En el garaje hay un carro rojo y hay dos carros azules.
+    - In the garage there is a red car and there are two blue cars.
+- En la sala hay una mesa empolvada (dusty). 
+    - In the living room there is a dusty table.
+- Mi padre es flaco y mi madre es flaca también.   
+    - My father is thin and my mother is thin too.
+
+1. Dust - Polvo
+2. Dusty - Empolvada
+3. Thin - Flaco o flaca
+4. Too - También
+5. Silver: Plateado
+
+## 10. 
+
+- ¿Cuántos libros viejos hay sobre la mesa?
+    - How many old books are there on the table?
+    - There are five old books on the table
+- ¿Cuántas flores hay en el jardín?   
+    - How many flowers are there in the garden?
+    - In the garden there are 3three flowers but there's one orange flower and there are 2two pink flowers.

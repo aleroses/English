@@ -4,7 +4,7 @@
 	- `?` Is this a police officer?
 		- Yes, this/that is. / Yes, he is.
 		- `-` No, this is not a police officer.
-		- No, because this is a gardener.
+		- `-` No, because this is a gardener.
 
 - Who's that?
 	- That's a gardener.

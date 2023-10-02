@@ -8,18 +8,17 @@
 - Un carro rojo.
 	- A `red` car.
 
-Dos carros azules.
-- Two `blue` cars.
+- Dos carros azules.
+	- Two `blue` cars.
 
-📌 Los adjetivos nunca van en plural. Tampoco tienen genero. 
+📌 Los adjetivos nunca van en plural y tampoco tienen genero. 
 
 ## Después del To Be
 - El carro es rojo.
-	- The car is red.
+	- The car is `red`.
 
 - Los carros son rojos.
-	- The cars are red.
-
+	- The cars are `red`.
 
 ### 🔥 Practice:
 
