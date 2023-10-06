@@ -8,6 +8,8 @@
 |She    |
 |It        |
 
+🔊 das
+
 ## Plurales and Yo
 
 |DO    |
@@ -16,6 +18,8 @@
 |You   |
 |We    |
 |They |
+
+🔊 du
 
 ### Examples:  
 - `+` He plays soccer.

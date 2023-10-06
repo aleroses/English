@@ -68,3 +68,26 @@ En inglés, las "formas irregulares" se conocen como "irregular forms" o "irregu
 - Información
 - Ejemplos
 - Vocabulario
+- Audio
+
+## Expresiones idiomáticas comunes
+
+- "It's a piece of cake" (Es pan comido): algo que es muy fácil.
+- "Break a leg" (Buena suerte): expresión utilizada para desear éxito en una actuación o desafío.
+- "Cost an arm and a leg" (Costar un ojo de la cara): algo muy costoso.
+- "Bite the bullet" (Aceptar las consecuencias): enfrentar una situación difícil o desagradable con valentía.
+- "Hit the nail on the head" (Dar en el clavo): decir algo exacto o preciso.
+- "Let the cat out of the bag" (Soltar el chisme): revelar un secreto.
+- "Put all your eggs in one basket" (Poner todos los huevos en una canasta): arriesgarse demasiado en una sola cosa.
+- "When pigs fly" (Cuando las ranas críen pelo): algo que nunca sucederá.
+
+## Gramática fundamental
+
+- Uso de los tiempos verbales básicos: presente simple, pasado simple y futuro simple.
+- Estructura de las oraciones afirmativas, negativas e interrogativas.
+- Uso de los pronombres personales y posesivos.
+- Formación de plurales y uso de artículos (a, an, the).
+- Uso de adjetivos comparativos y superlativos.
+- Uso de preposiciones comunes (in, on, at, for, etc.).
+- Uso de los verbos modales (can, could, should, must, etc.).
+- Construcción de oraciones condicionales (if clauses).

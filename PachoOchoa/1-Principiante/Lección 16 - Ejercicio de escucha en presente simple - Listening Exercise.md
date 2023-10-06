@@ -2,27 +2,27 @@
 
 ### Vocabulary
 
-- WAKE UP -> DESPERTAR
+- WAKE UP: Despertar
 	- I wake up / She wakes up.
-- RING -> SONAR TIMBRAR
+- RING: Sonar Timbrar
 	- The alarms ring / The alarm rings.
-- GET UP -> LEVANTARSE
+- GET UP: Levantar
 	- I get up / She gets up.
-- TAKE -> TOMAR
+- TAKE: Tomar
 	- I take a shower / She takes a shower.
-- GET DRESSED -> VESTIRSE
+- GET DRESSED: Vestirse
 	- I get dressed / She gets dressed.
-- GO -> IR
+- GO: Ir
 	- I go to work / She goes to work.
-- PREPARE -> PREPARAR
+- PREPARE: Preparar
 	- I prepare the breakfast. / She prepares the breakfast.
-- HAVE -> TENER
+- HAVE: Tener
 	- I have (eat) breakfast / She has (eats) breakfast.
-- DRINK -> TOMAR BEBER
+- DRINK: Tomar Beber
 	- I drink milk. / She drinks milk.
-- LIKE -> GUSTAR
+- LIKE: Gustar
 	- I like orange juice. / She likes orange juice.
-- WORK -> TRABAJAR
+- WORK: Trabajar
 	- I work from 8:00 to 12:00. / She works from 8 to 12:00
 
 

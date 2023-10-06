@@ -32,9 +32,9 @@
 4. What are these?
 	- These are books.
 5. Are those your friends?
-	- No, those isn't my friends.
+	- No, those aren't my friends.
 6. Who are those?
-	- Those is my grandmother and my sister.
+	- Those are my grandmother and my sister.
 
 ### Vocabulary
 - Uncles: Tíos    

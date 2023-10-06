@@ -1,6 +1,6 @@
 # El Presente Simple / Simple Present Tense
 
-Solo aplica a 3ra Person, oración afirmativa singular.   
+Solo aplica a oraciones afirmativas en 3ra Person (singular).   
 
 |🔥🐺      |Singular   |Plural |
 |-----------|---------  |-------|
@@ -9,7 +9,7 @@ Solo aplica a 3ra Person, oración afirmativa singular.
 |3rd Person |`HE SHE IT`|THEY   |
 
 📌 Usado en "Actividades diarias o Rutinas"   
-
+📌 Estas reglas aplican solo para oraciones afirmativas en tercera persona. Si es negativa no aplica, tampoco para interrogativas y para primeras personas. 
 
 
 ## Reglas para Tercera Persona Singular (Solo oraciones afirmativas)
