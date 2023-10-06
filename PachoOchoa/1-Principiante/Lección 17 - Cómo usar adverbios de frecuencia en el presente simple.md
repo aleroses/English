@@ -1,15 +1,17 @@
 # Días de la semana y adverbios frecuencia
 
 ## Days of the week
+
 - Monday
-- Tuesday
-- Wednesday -> Wensdei
-- Thursday -> Thersdei
-- Friday
+- Tuesday - 🔊 Tiusdei 
+- Wednesday - 🔊 Wensdei
+- Thursday - 🔊 Thersdei
+- Friday - 🔊 Fraidei
 - Saturday
 - Sunday
 
-## Frequency Adverbs 
+## Frequency Adverbs
+
 - Always: Siempre
 - Never: Nunca
 - Usually: Usualmente
@@ -23,9 +25,10 @@
 - Hardly ever: Casi nunca
 - Often: A menudo
 - Very often: Muy a menudo
-- How often - Cada cuanto
+- How often: Cada cuanto
 
 ### Examples
+
 - I always work on Mondays.
 	- On Monday, I always work.
 - We usually go to the supermarket on Tuesday.
