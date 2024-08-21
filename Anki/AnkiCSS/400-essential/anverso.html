@@ -1,0 +1,73 @@
+<div class="flashcard front-flashcard">
+  <header class="header">
+    <h1 class="header__title">4000 Essential English Words</h1>
+  </header>
+  <main class="main">
+    <section class="main__word">
+      <h2 class="word">{{Word}}</h2>
+      <div class="word-sound">{{Sound}}</div>
+    </section>
+    <section class="main__ipa">
+      <h3 class="ipa">{{IPA}}</h3>
+    </section>
+  </main>
+  <hr />
+  <details class="details">
+    <summary>Meaning</summary>
+    {{Meaning/Translation}}
+  </details>
+
+  <script>
+    const unorderedList = document.querySelector("ul");
+    const items = document.querySelectorAll("li");
+
+    if (items.length > 6 && items.length < 18 && items.length !== 12) {
+      unorderedList.style.justifyContent = "start";
+    }
+  </script>
+</div>
+
+<ul>
+  <li>poder</li>
+  <li>fuerza</li>
+  <li>facultad</li>
+  <li>poderío</li>
+  <li>dominio</li>
+  <li>potencia</li>
+  <li>potestad</li>
+</ul>
+
+<!-- Extra -->
+<div class="flashcard">
+  <h1 id="rubric">{{Deck}}</h1>
+
+  <section class="flex">
+    {{IMG}} {{type:English}}
+
+    <div class="sound">{{Audio}}</div>
+  </section>
+
+  <script>
+    document.getElementById("rubric").innerHTML = "{{Deck}}".replace(
+      "::",
+      "::"
+    );
+  </script>
+</div>
+
+<!-- Change 01 -->
+
+<div class="flashcard">
+  <h1 id="rubric">4000 Essential English Words</h1>
+  <section class="flex">
+    <h2 class="word">{{Word}}</h2>
+    <div class="sound">{{Sound}}</div>
+  </section>
+  <hr />
+  <h3 class="ipa">{{IPA}}</h3>
+  <hr />
+  <details class="details">
+    <summary>Meaning</summary>
+    <p>{{Meaning/Translation}}</p>
+  </details>
+</div>

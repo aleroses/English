@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Anverso</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="flashcard">
+      <div class="front">
+        <div class="flex">
+          <div class="word-wrapper">
+            <div class="en-font word">{{word}}</div>
+            <div class="word-phonetic">{{hint:phonetic}}</div>
+          </div>
+          <div id="wordAudio">{{word audio}}</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<div class="flashcard">
+  <h1 id="rubric">4000 Essential English Words</h1>
+  <section class="flex">
+    <h2 class="word">{{Word}}</h2>
+    <div class="sound">{{Sound}}</div>
+  </section>
+  <hr />
+  <h3 class="ipa">{{IPA}}</h3>
+  <hr />
+  <details class="details">
+    <summary><i>Meaning</i></summary>
+    <p><i>{{Meaning/Translation}}</i></p>
+  </details>
+</div>
+
+<!-- 
+  1: Índice
+  2: Palabra
+  3: Definición
+  4: Formas Irregulares
+  5: Oración de Ejemplo
+  6: Traducción
+  7: audio_de_palabra
+  8: audio_de_oración
+-->
+
+<!-- 
+  1: Índice
+    001
+  2: Palabra
+    En inglés 
+  3: Definición
+    1. (adj.) palabra
+  4: Formas Irregulares
+    De tenerlas
+  5: Oración de Ejemplo
+    en inglés
+  6: Traducción
+  7: audio_de_palabra
+    [sound:ES_EN1K_dirty_word.mp3]
+  8: audio_de_oración
+  [sound:ES_EN1K_dirty_sentence.mp3]
+
+  Guardar En Windows: C:\Users\nombre_de_usuario\AppData\Roaming\Anki2\nombre_de_usuario\collection.media
+-->

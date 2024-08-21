@@ -1,0 +1,264 @@
+¡Por supuesto! Aquí tienes una oración en inglés con cada palabra y su traducción al español:
+
+1. Promise - Promesa
+   - I made a promise to my friend that I would help her move next weekend. (Hice una promesa a mi amiga de que la ayudaría a mudarse el próximo fin de semana.)
+
+2. Asynchronous - Asincrónico
+   - Asynchronous programming can be difficult to understand at first. (La programación asincrónica puede ser difícil de entender al principio.)
+
+3. Callback - Llamada de vuelta
+   - The function takes a callback as an argument. (La función toma una llamada de vuelta como argumento.)
+
+4. Resolve - Resolver
+   - I need to resolve this issue before we can move forward. (Necesito resolver este problema antes de que podamos avanzar.)
+
+5. Reject - Rechazar
+   - The company decided to reject my job application. (La empresa decidió rechazar mi solicitud de trabajo.)
+
+6. Pending - Pendiente
+   - The project is still pending approval from the client. (El proyecto aún está pendiente de aprobación por parte del cliente.)
+
+7. Synchronous - Sincrónico
+   - Synchronous programming is easier to reason about than asynchronous programming. (La programación sincrónica es más fácil de comprender que la programación asincrónica.)
+
+8. Throwing - Lanzamiento
+   - The function is throwing an error because the input is invalid. (La función está lanzando un error porque la entrada es inválida.)
+
+9. Exception - Excepción
+   - The program encountered an exception and crashed. (El programa encontró una excepción y se cerró.)
+
+10. Then - Luego
+    - First we need to finish this task, and then we can move on to the next one. (Primero tenemos que terminar esta tarea, y luego podemos pasar a la siguiente.)
+
+11. Catch - Capturar
+    - The try block will attempt to execute the code, and the catch block will catch any errors that occur. (El bloque try intentará ejecutar el código, y el bloque catch capturará cualquier error que ocurra.)
+
+12. Fulfillment - Cumplimiento
+    - The company is committed to the fulfillment of its promises to its customers. (La empresa está comprometida con el cumplimiento de sus promesas a sus clientes.)
+
+13. Rejection - Rechazo
+    - The rejection of the proposal was a disappointment to everyone involved. (El rechazo de la propuesta fue una decepción para todos los involucrados.)
+
+14. Executor - Ejecutor
+    - The executor of the estate is responsible for distributing the assets to the heirs. (El ejecutor de la herencia es responsable de distribuir los activos a los herederos.)
+
+15. Resolve function - Función de resolución
+    - The resolve function is called when the promise is fulfilled. (La función de resolución se llama cuando se cumple la promesa.)
+
+16. Reject function - Función de rechazo
+    - The reject function is called when the promise is rejected. (La función de rechazo se llama cuando se rechaza la promesa.)
+
+17. Error handling - Manejo de errores
+    - Proper error handling is crucial for creating stable and reliable software. (El manejo adecuado de errores es crucial para crear software estable y confiable.)
+
+18. Promise chaining - Encadenamiento de promesas
+    - Promise chaining allows you to execute multiple asynchronous operations in a specific order. (El encadenamiento de promesas le permite ejecutar múltiples operaciones asincrónicas en un orden específico.)
+
+19. Thenable - Entonces
+    - A thenable is an object that has a then method. (Un thenable es un objeto que tiene un método then.)
+
+20. Catchable - Capturable
+    - A catchable is an object that has a catch method. (Un capturable es un objeto que tiene un método catch.)
+
+21. Promise.all - Promise.all
+    - Promise.all returns a promise that is fulfilled when all of the input promises are fulfilled. (Promise.all devuelve una promesa que se cumple cuando se cumplen todas las promesas de entrada.)
+
+22. Promise.race - Promise.race
+    - Promise.race returns a promise that is fulfilled or rejected as soon as one of the input promises is fulfilled or rejected. (Promise.race devuelve una promesa que se cumple o se rechaza tan pronto como se cumple o se rechaza una de las promesas de entrada.)
+
+23. Promise API - API de promesa
+    - The Promise API provides a standardized way to work with asynchronous operations in JavaScript. (La API de promesa proporciona una forma estandarizada de trabajar con operacionesasincrónicas en JavaScript.)
+
+24. Promise states - Estados de promesa
+    - A promise can be in one of three states: pending, fulfilled, or rejected. (Una promesa puede estar en uno de tres estados: pendiente, cumplida o rechazada.)
+
+25. Promise constructor - Constructor de promesa
+    - The Promise constructor is used to create a new promise object. (El constructor de promesa se utiliza para crear un nuevo objeto de promesa.)
+
+26. Promise.resolve - Promise.resolve
+    - Promise.resolve returns a promise that is already fulfilled with the given value. (Promise.resolve devuelve una promesa que ya se ha cumplido con el valor dado.)
+
+27. Promise.reject - Promise.reject
+    - Promise.reject returns a promise that is already rejected with the given reason. (Promise.reject devuelve una promesa que ya se ha rechazado con la razón dada.)
+
+28. Promise.prototype.then - Promise.prototype.then
+    - The then method is used to attach a callback to a promise that will be called when the promise is fulfilled. (El método then se utiliza para adjuntar una llamada de vuelta a una promesa que se llamará cuando se cumpla la promesa.)
+
+29. Promise.prototype.catch - Promise.prototype.catch
+    - The catch method is used to attach a callback to a promise that will be called when the promise is rejected. (El método catch se utiliza para adjuntar una llamada de vuelta a una promesa que se llamará cuando se rechace la promesa.)
+
+30. Promise.prototype.finally - Promise.prototype.finally
+    - The finally method is used to attach a callback to a promise that will be called when the promise is settled. (El método finally se utiliza para adjuntar una llamada de vuelta a una promesa que se llamará cuando se resuelva la promesa.)
+
+31. Promise.prototype.toString - Promise.prototype.toString
+    - The toString method returns a string representation of a promise object. (El método toString devuelve una representación en cadena de caracteres de un objeto de promesa.)
+
+32. Promise.prototype[Symbol.toStringTag] - Promise.prototype[Symbol.toStringTag]
+    - The Symbol.toStringTag property is used to customize the string representation of a promise object. (La propiedad Symbol.toStringTag se utiliza para personalizar la representación en cadena de caracteres de un objeto de promesa.)
+
+33. Value - Valor
+    - The value of a fulfilled promise is the result of the asynchronous operation. (El valor de una promesa cumplida es el resultado de la operación asincrónica.)
+
+34. Reason - Razón
+    - The reason of a rejected promise is the explanation for why the asynchronous operation failed. (La razón de una promesa rechazada es la explicación de por qué falló la operación asincrónica.)
+
+35. Iterable - Iterador
+    - An iterable is an object that can be iterated over using a for...of loop. (Un iterador es un objeto que se puede iterar utilizando un bucle for...of.)
+
+36. Settled - Resuelto
+    - A promise is settled when it is either fulfilled or rejected. (Una promesa se resuelve cuando se cumple o se rechaza.)
+
+37. Any - Cualquier
+    - Promise.any returns a promise that is fulfilled when any of the input promises are fulfilled. (Promise.any devuelve una promesa que se cumple cuando se cumple cualquiera de las promesas de entrada.)
+
+38. Pending promise - Promesa pendiente
+    - A pending promise is a promise that has not yet been settled. (Una promesa pendiente es una promesa que aún no se ha resuelto.)
+
+39. Fulfilled promise - Promesa cumplida
+    - A fulfilled promise is a promise that has been successfully resolved with a value. (Una promesa cumplida es una promesa que se ha resuelto con éxito con un valor.)
+
+40. Rejected promise - Promesa rechazada
+    - A rejected promise is a promise that has been rejected with a reason. (Una promesa rechazada es una promesa que se ha rechazado con una razón.)
+
+41. Promise executor - Ejecutor de promesa
+    - The promise executor function is passed to the Promise constructor and is used to initiate an asynchronous operation. (La función ejecutora de promesa se pasa al constructor de promesa y se utiliza para iniciar una operación asincrónica.)
+
+42. Promise executor function - Función ejecutora de promesa
+    - The promise executor function is responsible for initiating an asynchronous operation and resolving or rejecting a promise. (La función ejecutora de promesa es responsable de iniciar una operación asincrónica y resolver o rechazar una promesa.)
+
+43. Promise executor parameters - Parámetros de ejecutor de promesa
+    - The
+    
+Tiene razón, lo siento por la confusión. A continuación, le proporcionaré una oración en inglés con su respectiva traducción al español para cada una de las 125 palabras que mencionó:
+
+1. Abstraction - Abstracción
+   - Abstraction is a fundamental concept in computer science. (La abstracción es un concepto fundamental en la informática.)
+
+2. Accumulator - Acumulador
+   - The accumulator variable is used to store the result of a computation. (La variable acumulador se utiliza para almacenar el resultado de una computación.)
+
+3. Adapter - Adaptador
+   - An adapter is an object that allows two incompatible interfaces to work together. (Un adaptador es un objeto que permite que dos interfaces incompatibles trabajen juntas.)
+
+4. Aggregation - Agregación
+   - Aggregation is a type of association between objects. (La agregación es un tipo de asociación entre objetos.)
+
+5. Algorithm - Algoritmo
+   - An algorithm is a set of instructions for solving a problem. (Un algoritmo es un conjunto de instrucciones para resolver un problema.)
+
+6. Analysis - Análisis
+   - Analysis is the process of breaking down a complex problem into simpler parts. (El análisis es el proceso de descomponer un problema complejo en partes más simples.)
+
+7. API - API
+   - An API is a set of rules and protocols for interacting with a software application. (Una API es un conjunto de reglas y protocolos para interactuar con una aplicación de software.)
+
+8. Application - Aplicación
+   - An application is a software program designed to perform a specific function for the user. (Una aplicación es un programa de software diseñado para realizar una función específica para el usuario.)
+
+9. Architecture - Arquitectura
+   - Architecture refers to the design and organization of software systems. (La arquitectura se refiere al diseño y organización de los sistemas de software.)
+
+10. Argument - Argumento
+    - An argument is a value passed to a function when it is called. (Un argumento es un valor que se pasa a una función cuando se llama.)
+
+11. Array - Arreglo
+    - An array is a data structure that holds a collection of elements. (Un arreglo es una estructura de datos que contiene una colección de elementos.)
+
+12. Assertion - Afirmación
+    - An assertion is a statement that a programmer believes to be true at a specific point in a program. (Una afirmación es una declaración que un programador cree que es verdad en un punto específico de un programa.)
+
+13. Asynchronous - Asincrónico
+    - Asynchronous programming allows multiple tasks to be executed concurrently. (La programación asincrónica permite ejecutar múltiples tareas en paralelo.)
+
+14. Attribute - Atributo
+    - An attribute is a characteristic or property of an object. (Un atributo es una característica o propiedad de un objeto.)
+
+15. Binary - Binario
+    - Binary is a number system that uses only two digits, 0 and 1. (El binario es un sistema numérico que utiliza solo dos dígitos, 0 y 1.)
+
+16. Binding - Enlace
+    - A binding is a connection between a variable and a value. (Un enlace es una conexión entre una variable y un valor.)
+
+17. Bit - Bit
+    - A bit is the smallest unit of information in a computer. (Un bit es la unidad más pequeña de información en una computadora.)
+
+18. Boolean - Booleano
+    - A boolean is a data type that can have one of two values, true or false. (Un booleano es un tipo de dato que puede tener uno de dos valores, verdadero o falso.)
+
+19. Branch - Rama
+    - A branch is a version of a source code repository that diverges from the main line of development. (Una rama es una versión de un repositorio de código fuente que diverge de la línea principal de desarrollo.)
+
+20. Bug - Error
+    - A bug is an error or flaw in a software program. (Un error es un fallo o defecto en un programa de software.)
+
+21. Byte - Byte
+    - A byte is a unit of digital information that consists of eight bits. (Un byte es una unidad de información digital que consta de ocho bits.)
+
+22. Cache - Caché
+    - A cache is a temporary storage location for frequently accessed data. (Una caché es una ubicación de almacenamiento temporal para datos que se acceden con frecuencia.)
+
+23. Callback - Llamada de vuelta
+    - A callback is a function that is passed as an argument to another function and is executed when that function completes. (Una llamada de vuelta es una función que sepasa como argumento a otra función y se ejecuta cuando esa función se completa.)
+
+24. Class - Clase
+    - A class is a blueprint for creating objects that share common characteristics. (Una clase es un modelo para crear objetos que comparten características comunes.)
+
+25. Client - Cliente
+    - A client is a computer program or device that requests services from a server. (Un cliente es un programa de computadora o dispositivo que solicita servicios de un servidor.)
+
+26. Closure - Cierre
+    - A closure is a function that has access to variables in its outer scope, even after the outer function has returned. (Un cierre es una función que tiene acceso a variables en su alcance externo, incluso después de que la función externa haya regresado.)
+
+27. Cloud - Nube
+    - The cloud refers to remote servers that provide services over the internet. (La nube se refiere a servidores remotos que proporcionan servicios a través de Internet.)
+
+28. Code - Código
+    - Code refers to the instructions that make up a software program. (El código se refiere a las instrucciones que componen un programa de software.)
+
+29. Compiler - Compilador
+    - A compiler is a program that translates source code into machine code. (Un compilador es un programa que traduce el código fuente en código de máquina.)
+
+30. Component - Componente
+    - A component is a modular, reusable part of a software system. (Un componente es una parte modular y reutilizable de un sistema de software.)
+
+31. Composition - Composición
+    - Composition is a type of association in which one object is made up of several other objects. (La composición es un tipo de asociación en la que un objeto está compuesto por varios otros objetos.)
+
+32. Concurrency - Concurrencia
+    - Concurrency refers to the ability of a program to execute multiple tasks at the same time. (La concurrencia se refiere a la capacidad de un programa para ejecutar múltiples tareas al mismo tiempo.)
+
+33. Console - Consola
+    - The console is a text-based interface for interacting with a computer system. (La consola es una interfaz basada en texto para interactuar con un sistema informático.)
+
+34. Constructor - Constructor
+    - A constructor is a special method that is used to create and initialize objects. (Un constructor es un método especial que se utiliza para crear e inicializar objetos.)
+
+35. Controller - Controlador
+    - A controller is a software component that manages the flow of data between a user interface and the rest of the system. (Un controlador es un componente de software que gestiona el flujo de datos entre una interfaz de usuario y el resto del sistema.)
+
+36. Cookie - Cookie
+    - A cookie is a small piece of data that is stored on a user's computer by a web browser. (Una cookie es una pequeña pieza de datos que se almacena en el ordenador de un usuario por un navegador web.)
+
+37. Coroutine - Corrutina
+    - A coroutine is a type of function that can be paused and resumed later, allowing for more efficient use of system resources. (Una coroutine es un tipo de función que se puede pausar y reanudar más tarde, lo que permite un uso más eficiente de los recursos del sistema.)
+
+38. CSS - CSS
+    - CSS stands for Cascading Style Sheets and is used to define the visual appearance of a web page. (CSS significa Hojas de Estilo en Cascada y se utiliza para definir la apariencia visual de una página web.)
+
+39. Cursor - Cursor
+    - The cursor is a graphical representation of the position and status of the mouse pointer on a computer screen. (El cursor es una representación gráfica de la posición y el estado del puntero del mouse en una pantalla de computadora.)
+
+40. Database - Base de datos
+    - A database is a collection of data that is organized and stored in a structured way. (Una base de datos es una colección de datos que se organiza y almacena de manera estructurada.)
+
+41. Debugging - Depuración
+    - Debugging is the process of finding and fixing errors in a software program. (La depuración es el proceso de encontrar y corregir errores en un programa de software.)
+
+42. Declaration - Declaración
+    - A declaration is a statement that introduces a new variable, function, or class. (Una declaración es una afirmación que introduce una nueva variable, función o clase.)
+
+43. Decorator - Decorador
+    - A decorator is a function that modifies the behavior of another function. (Un decorador es una función que modifica el comportamiento de otra función.)
+
+44. Default - Predeterminado
+    - Default refers to the value that is used when no other value is specified.

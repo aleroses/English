@@ -1,0 +1,207 @@
+Cap 1. Promise Basics
+1. Promise
+2. Asynchronous
+3. Callback
+4. Resolve
+5. Reject
+6. Pending
+7. Synchronous
+8. Throwing
+9. Exception
+10. Then
+11. Catch
+12. Fulfillment
+13. Rejection
+14. Executor
+15. Resolve function
+16. Reject function
+17. Error handling
+18. Promise chaining
+19. Thenable
+20. Catchable
+21. Promise.all
+22. Promise.race
+23. Promise API
+24. Promise states
+25. Promise constructor
+26. Promise.resolve
+27. Promise.reject
+28. Promise.prototype.then
+29. Promise.prototype.catch
+30. Promise.prototype.finally
+31. Promise.prototype.toString
+32. Promise.prototype[Symbol.toStringTag]
+33. Value
+34. Reason
+35. Iterable
+36. Settled
+37. Any
+38. Pending promise
+39. Fulfilled promise
+40. Rejected promise
+41. Promise executor
+42. Promise executor function
+43. Promise executor parameters
+44. Promise executor return value
+45. Promise executor error handling
+46. Promise executor asynchronous code
+47. Promise executor synchronous code
+48. Promise executor side effects
+49. Promise executor best practices
+50. Promise executor examples
+
+Cap 2. Chaining Promises 
+1. Chaining
+2. Promise chaining
+3. Then
+4. Catch
+5. Resolve
+6. Reject
+7. Asynchronous
+8. Callback
+9. Thenable
+10. Catchable
+11. Fulfillment
+12. Rejection
+13. Executor
+14. Error handling
+15. Promise.all
+16. Promise.race
+17. Promise API
+18. Promise states
+19. Promise.prototype.then
+20. Promise.prototype.catch
+21. Promise.prototype.finally
+22. Promise.prototype.toString
+23. Promise.prototype[Symbol.toStringTag]
+24. Promise.resolve(value)
+25. Promise.reject(reason)
+26. Promise.all(iterable)
+27. Promise.race(iterable)
+28. Promise.allSettled(iterable)
+29. Promise.any(iterable)
+30. Promise chaining benefits
+31. Promise chaining syntax
+32. Promise chaining examples
+33. Promise chaining best practices
+34. Promise chaining error handling
+35. Promise chaining with then
+36. Promise chaining with catch
+37. Promise chaining with finally
+38. Promise chaining with multiple then
+39. Promise chaining with multiple catch
+40. Promise chaining with multiple finally
+41. Promise chaining with multiple then and catch
+42. Promise chaining with multiple then and finally
+43. Promise chaining with multiple catch and finally
+44. Promise chaining with multiple then, catch, and finally
+45. Promise chaining with thenable objects
+46. Promise chaining with catchable objects
+47. Promise chaining with thenable and catchable objects
+48. Promise chaining with thenable and catchable objects examples
+49. Promise chaining with thenable and catchable objects best practices
+50. Promise chaining with thenable and catchable objects error handling
+
+Cap 3. Working with Multiple Promises 
+1. Multiple
+2. Parallel
+3. Promises
+4. Asynchronous
+5. Callback
+6. Resolve
+7. Reject
+8. Executor
+9. Error handling
+10. Promise.all
+11. Promise.race
+12. Promise API
+13. Promise states
+14. Promise.prototype.then
+15. Promise.prototype.catch
+16. Promise.prototype.finally
+17. Promise.prototype.toString
+18. Promise.prototype[Symbol.toStringTag]
+19. Promise.resolve(value)
+20. Promise.reject(reason)
+21. Promise.all(iterable)
+22. Promise.race(iterable)
+23. Promise.allSettled(iterable)
+24. Promise.any(iterable)
+25. Working with multiple promises
+26. Promise.all benefits
+27. Promise.all syntax
+28. Promise.all examples
+29. Promise.all best practices
+30. Promise.all error handling
+31. Promise.race benefits
+32. Promise.race syntax
+33. Promise.race examples
+34. Promise.race best practices
+35. Promise.race error handling
+36. Promise.allSettled benefits
+37. Promise.allSettled syntax
+38. Promise.allSettled examples
+39. Promise.allSettled best practices
+40. Promise.allSettled error handling
+41. Promise.any benefits
+42. Promise.any syntax
+43. Promise.any examples
+44. Promise.any best practices
+45. Promise.any error handling
+46. Promise.all with non-promise values
+47. Promise.race with non-promise values
+48. Promise.allSettled with non-promise values
+49. Promise.any with non-promise values
+50. Working with multiple promises best practices
+
+Final Thoughts
+1. Promises
+2. Asynchronous
+3. Callback
+4. Resolve
+5. Reject
+6. Executor
+7. Error handling
+8. Promise.all
+9. Promise.race
+10. Promise API
+11. Promise states
+12. Promise.prototype.then
+13. Promise.prototype.catch
+14. Promise.prototype.finally
+15. Promise.prototype.toString
+16. Promise.prototype[Symbol.toStringTag]
+17. Promise.resolve(value)
+18. Promise.reject(reason)
+19. Promise.all(iterable)
+20. Promise.race(iterable)
+21. Promise.allSettled(iterable)
+22. Promise.any(iterable)
+23. Benefits of promises
+24. Drawbacks of promises
+25. Promises vs callbacks
+26. Promises vs events
+27. Promises vs generators
+28. Promises vs async/await
+29. Promises vs observables
+30. Promises vs deferreds
+31. Promises vs futures
+32. Promises vs coroutines
+33. Promises vs threads
+34. Promises vs actors
+35. Promises vs reactive programming
+36. Promises vs reactive extensions
+37. Promises vs reactive streams
+38. Promises vs reactive systems
+39. Promises vs message passing
+40. Promises vs shared memory
+41. Promises vs distributed systems
+42. Promises vs microservices
+43. Promises vs serverless
+44. Promises vs REST
+45. Promises vs GraphQL
+46. Promises vs WebSockets
+47. Promises vs HTTP/2
+48. Promises vs gRPC
+49. Promises vs Apache Kafka
+50. Promises vs RabbitMQ

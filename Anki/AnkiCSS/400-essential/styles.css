@@ -1,0 +1,310 @@
+:root {
+  --first-bg-color: #090b10;
+  --second-bg-color: #0f111a;
+  --first-text-color: #4f46e5;
+  --second-text-color: #b094ff;
+  --third-text-color: #cbd5e1;
+  --fourth-text-color: #fff;
+
+  --alternative-bg-color: #000;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.card {
+  width: 100vw;
+  height: 100vh;
+  /* padding: 0 2px; */
+  font-family: arial;
+  text-align: center;
+  color: var(--first-bg-color);
+  background-color: var(--third-text-color);
+  margin: 0;
+}
+
+.card.nightMode {
+  width: 100vw;
+  height: 100vh;
+  /* padding: 0 2px; */
+  color: var(--third-text-color);
+
+  /*   background: linear-gradient(
+    180deg,
+    var(--alternative-bg-color),
+    var(--first-bg-color)
+  ); */
+
+  background-color: gold;
+
+  margin: 0;
+}
+
+/* Front Template*/
+
+.flashcard {
+  width: auto;
+  max-width: 500px;
+  height: auto;
+  max-height: 100vh;
+
+  border: 1px solid var(--first-text-color);
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* margin: 0 auto; */
+  justify-items: center;
+
+  background-color: cornflowerblue;
+}
+
+#rubric {
+  text-align: center;
+  padding: 10px 4px;
+  color: var(--third-text-color);
+  font-size: 22px;
+  font-weight: 500;
+
+  background: radial-gradient(
+    circle,
+    var(--second-bg-color),
+    var(--alternative-bg-color)
+  );
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60px;
+}
+
+.word,
+.ipa {
+  font-weight: 500;
+  font-size: 38px;
+}
+
+.word {
+  color: var(--first-text-color);
+}
+
+.ipa {
+  height: 50px;
+  color: var(--second-text-color);
+}
+
+.details {
+  text-align: start;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+.details summary {
+  color: var(--second-text-color);
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-around;
+  width: 100%;
+  height: 160px;
+  max-height: 200px;
+  gap: 6px;
+
+  /*   background-color: var(--first-text-color); */
+  padding: 10px 0 0;
+}
+
+ul li {
+  width: fit-content;
+  list-style: none;
+  text-align: center;
+}
+
+a {
+  color: var(--fourth-text-color);
+}
+
+/* Back Template */
+
+.back-flex {
+  /* position: sticky;
+  top: 0;
+  z-index: 1000; */
+
+  height: 46px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 4px solid var(--second-bg-color);
+
+  /* background-color: var(--alternative-bg-color); */
+  background-color: aqua;
+}
+
+.back-word {
+  font-size: 28px;
+  color: var(--first-text-color);
+
+  background-color: gold;
+}
+
+.back-sound {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  background-color: darkslateblue;
+}
+
+.meaning {
+  color: var(--second-text-color);
+}
+
+.example {
+  color: var(--fourth-text-color);
+}
+
+.meaning,
+.example {
+  text-align: start;
+  font-size: 19px;
+  margin: 0;
+}
+
+img {
+  aspect-ratio: 16/8;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+hr {
+  color: var(--second-bg-color);
+  /*background-color: #4f46e5;*/
+  border-width: 2px;
+  border-style: solid;
+}
+
+/* Buttons */
+
+.back-sounds {
+  display: flex;
+  justify-content: center;
+
+  border-top: 4px solid var(--second-bg-color);
+}
+
+.replay-button svg circle {
+  fill: none;
+  stroke: none;
+}
+
+.replay-button svg path {
+  fill: var(--first-text-color);
+  stroke: var(--second-text-color);
+}
+
+.back-sound svg {
+  width: 28px;
+  height: 28px;
+}
+
+/*.stop svg circle {
+  fill: var(--second-bg-color);
+  stroke:  var(--second-bg-color);
+}*/
+
+.stop svg path {
+  fill: var(--second-bg-color);
+  stroke: var(--second-text-color);
+}

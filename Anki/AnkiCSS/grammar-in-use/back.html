@@ -1,0 +1,106 @@
+<div id="rubric">{{Rubric}}</div>
+
+{{#Image}}
+<div id="container">
+  <div id="image" class="t-image">{{Image}}</div>
+  <div class="t-question">
+    <div id="question">{{cloze:Question}}</div>
+  </div>
+</div>
+{{/Image}} {{^Image}}
+<div id="question">{{cloze:Question}}</div>
+{{/Image}}
+
+<div id="audio">{{Audio}}</div>
+
+{{type:cloze:Question}}
+
+<div id="header">
+  <div id="category">{{Category}}</div>
+  <div id="unit">{{Unit}}</div>
+</div>
+
+<script>
+  (function () {
+    var question = document.getElementById("question").innerHTML;
+    document.getElementById("question").innerHTML = question.replace(
+      /\(<i>[^\)]*<\/i>\)/g,
+      ""
+    );
+
+    var question = document.getElementById("question").innerHTML;
+    question = question.replace(/<span class="cloze">-<\/span>/, "");
+    question = question.replace(/<span class="cloze">–<\/span>/, "");
+    question = question.replace(
+      / <span class="cloze">,/,
+      '<span class="cloze">,'
+    );
+    question = question.replace(
+      / <span class="cloze">'/,
+      '<span class="cloze">\''
+    );
+    question = question.replace(/<\/span> +,/, "</span>,");
+    question = question.replace(/ +\./, ".");
+    document.getElementById("question").innerHTML = question;
+
+    var isDialog = false;
+    var count = 0;
+    var lines = `{{cloze::Question}}`.split("<br />");
+    for (var i = 0; i < lines.length; i++) {
+      if (lines[i].indexOf(":") != -1) {
+        count = count + 1;
+      }
+    }
+    if (count >= 2) {
+      isDialog = true;
+    }
+    if (isDialog) {
+      var element = document.getElementById("question");
+      var parent = element.parentNode;
+      var wrapper = document.createElement("div");
+      parent.replaceChild(wrapper, element);
+      wrapper.appendChild(element);
+      element.className = "l";
+    }
+
+    if (
+      document.getElementById("question").innerHTML.length > 400 &&
+      document.getElementById("container") != null &&
+      !isDialog
+    ) {
+      document.getElementById("container").className = "";
+      document.getElementById("image").className = "p-image";
+      document.getElementById("question").className = "";
+      document.querySelector(".t-question").className = "p-question";
+    }
+
+    if (
+      /<span class="cloze">[^<]*<\/span> ?<u>[^<]*<\/u>/.test(question)
+    ) {
+      /*document.getElementById("question").innerHTML = question.replace(/ ?<u>[^<]*<\/u>/g, "");*/
+      var question = document.getElementById("question").innerHTML;
+      var regex = /<span class="cloze">[^<]*<\/span>( ?<u>[^<]*<\/u>)/g;
+      var m;
+      while (
+        (m = regex.exec(
+          document.getElementById("question").innerHTML
+        )) !== null
+      ) {
+        var underline_text = m[1];
+        question = question.replace(underline_text, "");
+      }
+      document.getElementById("question").innerHTML = question;
+    }
+
+    var question = document.getElementById("question").innerHTML;
+    if (/<span class="cloze">[^<]*-[^<]*<\/span>/.test(question)) {
+      var cloze_text = /<span class="cloze">([^<]*)<\/span>/.exec(
+        question
+      )[1];
+      document.getElementById("question").innerHTML = question.replace(
+        cloze_text,
+        cloze_text.replace("-", "–")
+      );
+    }
+  })();
+</script>

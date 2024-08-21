@@ -1,0 +1,202 @@
+## Primer entrenamiento 
+
+Te daré una palabra en inglés (revisa que sea una palabra en su forma base) y tú tienes que devolver algo así, te doy un ejemplo (sigue este formato de manera estricta):
+ 
+Hive (Base form)
+
+1. (sus.) Colmena
+2. (sus.) Enjambre
+
+Irregular Forms:
+- Simple past: hived (enjambro)
+- Past participle: hived (colocado/enjaulado)
+- Future: will hive (colocar/enjaular/enjambrar)
+
+The bees are busy building honeycomb in the hive.
+
+Las abejas están ocupadas construyendo panales en la colmena.
+
+Parámetros importantes: 
+1. Si la palabra tiene mas de 2 significados agrégalos donde corresponde. 
+2. Debes tener en cuenta que si la palabra no tiene pasado o futuro no debes agregar nada en la parte de irregular forms. 
+3. Si la palabra tiene irregular forms también quiero sus significados tal cual el ejemplo. 
+4. Si la palabra que te doy no es un verbo debes colocar a un lado que tipo de palabra es, así lo tendré en cuenta.
+5. Recuerda seguir de manera estricta el formato de ejemplo que te estoy proporcionando, no necesito mas información a menos que debas informarme algo importante.  
+6. Si la palabra que te doy no está en su forma base, debes transformarla.
+7. Si las palabras son sustantivos, verbos, pronombres, adjetivos siempre entregamelos en su forma abreviada tal cual lo haría un diccionario.  
+8. Los ejemplos que me des, los quiero con relación a programación o software.
+9. Compórtate como un diccionario English - Castellano. 
+
+
+Que es el Word Mining? 
+Sabes a lo que me refiero con minar palabras de un texto?
+
+Si te paso un pequeño texto, de que manera minarias palabras? de que manera o estructura seguirias para darme dichas palabras?
+
+----------------------------------------------------------
+## Segundo entrenamiento 
+
+
+Mina palabras. Te daré un texto en inglés y tú tienes que devolver algo así, te doy un ejemplo (sigue este formato de manera estricta):
+ 
+Hive (Base form)
+
+1. (sus.) Colmena
+2. (sus.) Enjambre
+
+Irregular Forms:
+- Simple past: hived (enjambro)
+- Past participle: hived (colocado/enjaulado)
+- Future: will hive (colocar/enjaular/enjambrar)
+
+The bees are busy building honeycomb in the hive.
+
+Las abejas están ocupadas construyendo panales en la colmena.
+
+Parámetros importantes: 
+1. Si la palabra tiene mas de 2 significados agrégalos donde corresponde. 
+2. Debes tener en cuenta que si la palabra no tiene pasado o futuro no debes agregar nada en la parte de irregular forms. 
+3. Si la palabra tiene irregular forms también quiero sus significados tal cual el ejemplo. 
+4. Si la palabra que te doy no es un verbo debes colocar a un lado que tipo de palabra es, así lo tendré en cuenta.
+5. Recuerda seguir de manera estricta el formato de ejemplo que te estoy proporcionando, no necesito mas información a menos que debas informarme algo importante.  
+6. IMPORTANTE: Si la palabra que te doy no está en su forma base, debes transformarla.
+7. Si las palabras son sustantivos, verbos, pronombres, adjetivos siempre entrégamelos en su forma abreviada tal cual lo haría un diccionario.  
+9. Compórtate como un diccionario English - Castellano. 
+10. IMPORTANTE: Debes entregarme un ejemplo para ver si comprendiste mis especificaciones, en caso de que tu primer resultado esté correcto te diré continua para que sigas generando el minado de palabras. 
+11. Trata de seguir los pasos que mencionaste previamente. 
+
+
+Que es el Word Mining? 
+Sabes a lo que me refiero con minar palabras de un texto?
+
+Si te paso un pequeño texto, de que manera minarías palabras? de que manera o estructura seguirías para darme dichas palabras?
+
+
+que significa que una palabra esté en su forma base?
+
+
+Esto es lo que me estas entregando: 
+Cat (Base form)
+
+(sus.) Gato
+Irregular Forms:
+
+Simple past: jumped (saltó)
+Past participle: jumped (saltado)
+Gerund: jumping (saltando)
+
+Y la forma que necesito es esta: 
+Hive (Base form)
+
+1. (sus.) Colmena
+2. (sus.) Enjambre
+
+Irregular Forms:
+- Simple past: hived (enjambro)
+- Past participle: hived (colocado/enjaulado)
+- Future: will hive (colocar/enjaular/enjambrar)
+
+The bees are busy building honeycomb in the hive.
+
+Las abejas están ocupadas construyendo panales en la colmena.
+
+Dame un ejemplo para ver si entendiste, para luego poderte pasar el texto a minar.
+
+
+
+-------------------------------------------------------------------
+A que Categorías gramaticales pertence: Hive
+
+Agrega mas significados
+
+Expresiones 
+
+style="font-size: 12px;"
+
+----------------------------------------------------------
+Ejemplos:  
+
+
+Sing (Base form)
+
+1. (verb) Cantar
+2. (noun) Canto
+
+Irregular Forms:
+- Pasado: sang
+- Participio pasado: sung
+- Futuro: will sing
+
+"She sings beautifully in the choir every Sunday."
+
+(Ella canta hermosamente en el coro todos los domingos.)
+
+-----
+
+Unstoppable (Base form)
+
+(adj.) Imparable, incontenible
+Irregular Forms:
+
+Simple past: -
+Past participle: -
+Future: -
+"The team's momentum was unstoppable as they won their seventh game in a row."
+
+El impulso del equipo era imparable mientras ganaban su séptimo juego consecutivo.
+
+
+
+---------------------------------------------
+Minar palabras 
+Sabes a lo que me refiero con minar palabras de un texto en ingles para aprender idiomas?
+
+
+----------------------------------
+Mina palabras. Te daré un texto en inglés y tú tienes que devolver palabras técnicas en el siguiente formato Ejemplo:
+
+Lightweight (Base form)
+
+1. (adj.) Liviano
+
+Example: 
+The new backpack is very lightweight.
+
+La nueva mochila es muy liviana.
+
+Parámetros importantes: 
+1. Si la palabra tiene mas de 2 significados agrégalos donde corresponde. 
+4. Si la palabra que te doy no es un verbo debes colocar a un lado que tipo de palabra es, así lo tendré en cuenta.
+5. Recuerda seguir de manera estricta el formato de ejemplo que te estoy proporcionando, no necesito mas información a menos que debas informarme algo importante.  
+6. Si la palabra que te doy no está en su forma base, debes transformarla. 
+7. Los ejemplos que me des, los quiero con relación a programación o software.
+8. Compórtate como un diccionario English - Castellano. 
+9. En pocas palabras debes minar palabras que se consideren técnicas o que solo se usen en informática, sistemas o software. 
+10. Debes numerar cada palabra nueva que me des 
+11. Recuerda esperar a que te de el texto
+
+
+Que es el Word Mining? 
+Sabes a lo que me refiero con minar palabras de un texto?
+
+Si te paso un pequeño texto, de que manera minarias palabras? de que manera o estructura seguirias para darme dichas palabras?
+
+
+
+
+Recuerda seguir de manera estricta el formato que te estoy dando en el ejemplo anterior
+
+
+
+
+
+
+
+
+
+
+
+
+Tienes una basta documentacion sobre js? right?
+
+Puedes minar tu propia información y dame palabras que me puedan ser utiles? Podrias entregarlas en el mismo formato anterior?

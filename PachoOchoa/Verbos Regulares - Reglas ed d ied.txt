@@ -1,0 +1,51 @@
+VERBOS REGULARES - REGLAS ED / D / IED
+
+1. Agregar ED:
+Play -> Played
+
+2. Agregar D: Si termina en E
+Dance -> Danced
+
+3. Agregar IED: Si termina en Y y precedida por consonante
+Consonante: Todas las del Abecedario menos aeiou
+Study -> Studied
+
+4. Duplicar consonante:
+Si termina en consonante, vocal, consonante y además con fuerza en la ultima consonante.
+Stop -> Stopped
+ cvc
+
+5. Excepciones:
+Open -> Opend
+ cvc
+
+
+***Ejercicios***
+1. Wash -> Washed
+2. Cry -> Cried
+3. Chopp -> Chopped
+4. Offer -> Offered
+5. Plan -> Planned
+6. Copy -> Copied
+7. Jump -> Jumped
+8. Try -> Tried
+9. Like -> Liked
+10. Listen -> Listened
+11. Ban -> Banned
+12. Enjoy -> Enjoyed
+13. Love -> Loved
+14. Talk -> Talked
+15. Live -> Lived
+16. Help -> Helped
+
+
+
+
+
+
+
+
+
+
+
+

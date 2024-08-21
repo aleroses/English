@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Reverso</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="flashcard">
+      <div class="front">
+        <div class="flex">
+          <div class="word-wrapper">
+            <div class="en-font word">{{word}}</div>
+            <div class="word-phonetic">{{hint:phonetic}}</div>
+          </div>
+          <div id="wordAudio">{{word audio}}</div>
+        </div>
+      </div>
+      <hr id="answer" />
+      <div class="back">
+        <div class="bilingual-definition">{{bilingual}}</div>
+        <div class="img">{{picture}}</div>
+        <div class="monolingual-definition">{{monolingual}}</div>
+        <div class="flex">
+          <div class="sentence-wrapper">
+            <div class="en-font sentence">{{sentence}}</div>
+            <div class="sentence-translation">{{hint:translation}}</div>
+          </div>
+          <div id="sentenceAudio">{{sentence audio}}</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

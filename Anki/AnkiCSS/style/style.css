@@ -1,0 +1,126 @@
+@font-face {
+  font-family: refold_jp;
+  src: url("_yumin.ttf");
+}
+
+.card {
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: left;
+  color: rgb(48, 32, 111);
+  background-color: rgb(251, 250, 254);
+}
+
+.card.nightMode {
+  color: rgba(255, 255, 255, 0.85);
+  background-color: rgb(11, 7, 22);
+}
+
+.flashcard {
+  display: block;
+  padding: 0 26px 30px 26px;
+  min-height: 200px;
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 5px 10px -5px rgba(133, 102, 255, 0.4);
+}
+
+.nightMode .flashcard {
+  background-color: rgb(19, 12, 34);
+  box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.75);
+}
+
+.front {
+  padding-top: 55px;
+  padding-bottom: 30px;
+  margin-bottom: -10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.back {
+  font-family: "Open Sans", sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.en-font {
+  font-family: refold_jp;
+  font-weight: 500;
+}
+
+.word {
+  color: rgb(101, 68, 233);
+  font-size: 32px;
+}
+
+.nightMode .word {
+  color: rgb(153, 128, 255);
+}
+
+.img {
+  width: 420px;
+  padding: 30px;
+}
+
+.sentence-wrapper {
+  display: block;
+  margin-top: 34px;
+}
+
+.sentence {
+  color: rgb(101, 68, 233);
+  font-size: 25px;
+}
+
+.nightMode .sentence {
+  color: rgb(153, 128, 255);
+}
+
+.sentence-translation {
+  font-style: italic;
+  font-size: 16px;
+}
+
+.replay-button svg circle {
+  fill: rgb(246, 245, 253);
+  stroke: rgb(216, 208, 249);
+  stroke-width: 1;
+}
+
+.replay-button svg path {
+  fill: rgb(75, 50, 174);
+  transform: scale(0.6) translate(19px, 20px);
+}
+
+.nightMode .replay-button svg circle {
+  fill: rgb(26, 18, 61);
+  stroke: rgb(48, 32, 111);
+}
+
+.nightMode .replay-button svg path {
+  fill: rgb(255, 255, 255);
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid rgb(216, 208, 249);
+  margin-bottom: 32px;
+}
+
+.nightMode hr {
+  border-color: rgb(48, 32, 111);
+}
+
+.hint {
+  color: rgb(101, 68, 233);
+}
+
+.nightMode .hint {
+  color: rgb(133, 102, 255);
+}

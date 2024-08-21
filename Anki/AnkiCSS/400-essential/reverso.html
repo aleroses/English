@@ -1,0 +1,88 @@
+<div class="flashcard back-flashcard">
+  <header class="header">
+    <h3 class="word">{{Word}}</h3>
+    <div class="word-sound">{{Sound}}</div>
+  </header>
+  <figure class="figure">{{Image}}</figure>
+  <main class="main">
+    <section class="main__meaning">
+      <p class="meaning">Meaning: {{Meaning}}</p>
+      <p class="meaning">Translation: {{Meaning_translation}}</p>
+    </section>
+    <section class="main__example">
+      <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p>
+      <p class="example">
+        &nbsp;→&nbsp;Translation: {{Example_translation}}
+      </p>
+    </section>
+  </main>
+  <footer class="footer">
+    <div>{{Sound_Meaning}}</div>
+    <div class="stop">[sound:_1sec.mp3]</div>
+    <div>{{Sound_Example}}</div>
+  </footer>
+
+  <script>
+    const card = document.querySelector(".card");
+    card.classList = "back-card";
+
+    // card.style.padding = "0px 2px";
+    // card.style.margin = "0";
+  </script>
+</div>
+
+<!-- Extra -->
+<!-- {{FrontSide}} -->
+
+<div class="flashcard">
+  <h1 id="rubric">{{Deck}}</h1>
+
+  <section class="back-flex">
+    {{IMG}} {{type:English}}
+
+    <hr />
+
+    <h3 class="ipa">{{Transcription}}</h3>
+
+    <div class="sound">{{Audio}}</div>
+  </section>
+
+  <script>
+    document.getElementById("rubric").innerHTML = "{{Deck}}".replace(
+      "::",
+      "::"
+    );
+  </script>
+</div>
+
+<!-- Change 01 -->
+<div class="flashcard">
+  <section class="back-flex">
+    <h3 class="back-word">{{Word}}</h3>
+    <div class="back-sound">{{Sound}}</div>
+  </section>
+  <!-- <hr /> -->
+  {{Image}}
+  <hr />
+  <p class="meaning">Meaning: {{Meaning}}</p>
+  <p class="meaning">Translation: {{Meaning_translation}}</p>
+  <hr />
+  <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p>
+  <p class="example">
+    &nbsp;→&nbsp;Translation: {{Example_translation}}
+  </p>
+  <!--   <hr /> -->
+  <section class="back-sounds">
+    <div>{{Sound_Meaning}}</div>
+    <div class="stop">[sound:_1sec.mp3]</div>
+    <div>{{Sound_Example}}</div>
+  </section>
+
+  <!--   <script>
+    const card = document.querySelector(".card");
+    card.classList = "back-card";
+
+    card.style.padding = "0px 2px";
+    card.style.margin = "0";
+  </script> -->
+</div>

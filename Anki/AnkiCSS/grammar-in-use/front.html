@@ -1,0 +1,113 @@
+<div id="rubric">{{Rubric}}</div>
+
+{{#Image}}
+<div id="container">
+  <div id="image" class="t-image">{{Image}}</div>
+  <div class="t-question">
+    <div id="question">{{cloze:Question}}</div>
+  </div>
+</div>
+{{/Image}} {{^Image}}
+<div id="question">{{cloze:Question}}</div>
+{{/Image}}
+
+<div id="choices">{{hint:Choices}}</div>
+
+{{type:cloze:Question}}
+
+<div id="header">
+  <div id="category">{{Category}}</div>
+  <div id="unit">{{Unit}}</div>
+</div>
+
+<script>
+  (function () {
+    var cloze = document.querySelectorAll(".cloze");
+    for (var i = 0; i < cloze.length; i++) {
+      cloze[i].textContent = " ___ ";
+    }
+
+    var hint = document.querySelectorAll(".hint");
+    if (hint.length > 0) {
+      hint[0].innerHTML = "Hint";
+
+      var id = hint[1].getAttribute("id");
+
+      var choices = hint[1].innerHTML;
+
+      var boxes = choices.split(" | ");
+
+      var list = "";
+      for (var j = 0; j < boxes.length; j++) {
+        var arr = boxes[j].split(";");
+        if (j != 0) {
+          list = list + '<p class="choices-box-delimiter"></p>';
+        }
+        list = list + "<ul>";
+        for (var i = 0; i < arr.length; i++) {
+          list = list + "<li>" + arr[i] + "</li>";
+        }
+        list = list + "</ul>";
+      }
+
+      document.getElementById(id).innerHTML = list;
+
+      if (arr.length < 5 && boxes.length == 1) {
+        document.getElementById("choices").className =
+          "choices_variants";
+      } else {
+        document.getElementById("choices").className = "choices_words";
+      }
+
+      document.querySelector("a.hint").style.display = "none";
+      document.querySelector("div.hint").style.display = "block";
+    }
+
+    var isDialog = false;
+    var count = 0;
+    var lines = `{{cloze::Question}}`.split("<br />");
+    for (var i = 0; i < lines.length; i++) {
+      if (lines[i].indexOf(":") != -1) {
+        count = count + 1;
+      }
+    }
+    if (count >= 2) {
+      isDialog = true;
+    }
+    if (isDialog) {
+      var element = document.getElementById("question");
+      var parent = element.parentNode;
+      var wrapper = document.createElement("div");
+      parent.replaceChild(wrapper, element);
+      wrapper.appendChild(element);
+      element.className = "l";
+    }
+
+    if (
+      document.getElementById("question").innerHTML.length > 400 &&
+      document.getElementById("container") != null &&
+      !isDialog
+    ) {
+      document.getElementById("container").className = "";
+      document.getElementById("image").className = "p-image";
+      document.getElementById("question").className = "";
+      document.querySelector(".t-question").className = "p-question";
+    }
+
+    var question = document.getElementById("question").innerHTML;
+    if (
+      /<span class="cloze">[^<]*<\/span> <u>'[^<]*<\/u>/.test(question)
+    ) {
+      document.getElementById("question").innerHTML = question
+        .replace(" <u>'", "<u>'")
+        .replace(' <span class="cloze">', '<span class="cloze">');
+    }
+    if (
+      /<span class="cloze">[^<]*<\/span> ?<u>[^<]*<\/u>/.test(question)
+    ) {
+      for (var i = 0; i < cloze.length; i++) {
+        cloze[i].style.display = "none";
+      }
+    }
+  })();
+</script>
