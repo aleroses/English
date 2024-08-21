@@ -33,7 +33,7 @@ Si revisamos los campos vemos:
 
 Para este caso los campos que me interesan son `9: Meaning_transaltion` y `11: Example_translation` que contendrán las traducciones de los campos `8: Meaning` y `10: Example`.
 
-Si en tu caso aún no agregaste los nuevos campos, puedes hacer desde aquí. Esto te puede evitar algunos errores a futuro.
+Si en tu caso aún no agregaste los nuevos campos, puedes hacerlo desde aquí. Esto te puede evitar algunos errores a futuro.
 
 Hay otra forma de añadir campos pero creo que puede traer problemas, te la muestro a continuación:
 
@@ -156,7 +156,7 @@ Para que Anki reconozca el nuevo contenido debemos tenerlo en formato `.csv` par
 	- Guardar como tipo: **CSV UTF-8** (Delimitado por comas `*.csv`)
 	- Guardar
 
-- Abre el archivo CSV en Excel quita las cebeceras, y dale guardar. 
+- Abre el archivo CSV en Excel, quita las **cebeceras**, y dale guardar. 
 
 📌 Recuerda que todas las columnas deben corresponder a los campos que tenemos en Anki.
 
