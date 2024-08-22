@@ -130,7 +130,7 @@ Meaning tiene oraciones que me gustaría que estén traducidas al castellano en 
 
 Podrías entregarme una tabla numerada con las traducciones de Meaning en la columna Meaning_translation y de Example en la columna Example_translation.
 
-Si alguna palabra tiene etiquetas HTML, no las quites, entrégame la información en la misma forma que te la he dado en las 4 columnas.
+Si alguna palabra tiene etiquetas HTML, también la debe tener en la traducción, no las quites, entrégame la información en la misma forma que te la he dado en las 4 columnas.
 ```
 
 Antes:
@@ -189,6 +189,6 @@ Entramos en Anki, seleccionamos el deck a actualizar.
 
 Terminamos dando en **Importar**.
 
-
+![](https://i.postimg.cc/jj1XTdbx/28-updated-notes.png)
 
 > Si hiciste como yo que no actualizaste todas las tarjetas del mazo y vez que algunas tarjetas no tienen los datos en los dos campos que agregamos, es por eso, solo actualizamos una parte, mañana seguiremos añadiendo más información a Excel y así hasta acabar con todas las tarjetas. Recuerda seguir los mismos pasos.
