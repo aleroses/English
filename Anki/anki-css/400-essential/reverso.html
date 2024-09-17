@@ -5,15 +5,33 @@
   </header>
   <figure class="figure">{{Image}}</figure>
   <main class="main">
-    <section class="main__meaning">
-      <p class="meaning">Meaning: {{Meaning}}</p>
-      <p class="meaning">Translation: {{Meaning_translation}}</p>
+    <section class="main__meaning accordion">
+      <input
+        type="radio"
+        name="accordion"
+        id="btn-accordion1"
+        class="btn-accordion"
+      />
+      <label class="meaning" for="btn-accordion1"> {{Meaning}} </label>
+      <!-- <p class="meaning">Meaning: {{Meaning}}</p> -->
+      <div class="accordion-content">
+        <p class="meaning__translation">{{Meaning_translation}}</p>
+      </div>
     </section>
-    <section class="main__example">
-      <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p>
-      <p class="example">
-        &nbsp;→&nbsp;Translation: {{Example_translation}}
-      </p>
+    <section class="main__example accordion">
+      <input
+        type="radio"
+        name="accordion"
+        id="btn-accordion2"
+        class="btn-accordion"
+      />
+      <label class="example" for="btn-accordion2">
+        E.g. {{Example}}
+      </label>
+      <!-- <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p> -->
+      <div class="accordion-content">
+        <p class="example__translation">{{Example_translation}}</p>
+      </div>
     </section>
   </main>
   <footer class="footer">

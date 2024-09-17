@@ -15,6 +15,7 @@
   --alternative-bg-color: #000;
   --alternative-bg-two: #17153b;
   --alternative-bg-three: #1f316f;
+  --alternative-bg-four: #2f3645;
 }
 
 * {
@@ -195,16 +196,23 @@
 
   display: flex;
   flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
   /* gap: 5px; */
 
   padding: 0;
   margin: 0;
 
   border-radius: 0 0 14px 14px;
-  background: linear-gradient(
+  /* background: linear-gradient(
     180deg,
-    var(--alternative-bg-color),
-    var(--second-bg-color)
+    var(--second-bg-color),
+    var(--alternative-bg-color)
+  ); */
+  background: radial-gradient(
+    circle,
+    var(--second-bg-color),
+    var(--alternative-bg-color)
   );
 
   margin: 0 auto;
@@ -248,35 +256,97 @@
 }
 
 .back-flashcard .main {
-  height: auto;
+  /* height: auto; */
 
   font-size: 18px;
-  padding: 0 4px;
-  /* border-top: 4px solid var(--second-bg-color); */
-  border-bottom: 4px solid var(--second-bg-color);
+  /* padding: 0 8px; */
 
-  /* background-color: aqua; */
+  /* Testing */
+  width: 100%;
+  max-width: 400px;
+  /* margin: auto; */
+  /* margin-top: 10px; */
 }
 
-.back-flashcard .main .main__meaning {
+.accordion {
+  /* background: #fff; */
+  /* background: var(--alternative-bg-four); */
+}
+
+.accordion .meaning,
+.accordion .example {
+  display: block;
+  padding: 6px;
+  /* font-size: 20px; */
+  /* background: #1c1c1c; */
+  background: var(--second-bg-color);
+
+  /* color: #fff; */
+  color: var(--third-text-color);
+  cursor: pointer;
+  margin-bottom: 2px;
+  transition: all 300ms ease;
+}
+
+.accordion .meaning,
+.meaning__translation {
   color: var(--second-text-color);
-  /* background-color: red; */
+}
+
+.accordion label:hover {
+  /* background: #2e2e2e; */
+  background: var(--alternative-bg-color);
+}
+
+.accordion .accordion-content {
+  padding: 0px;
+  margin: 0px 6px;
+  max-height: 0px;
+  overflow: hidden;
+  transition: all 300ms ease;
+
+  font-size: 16px;
+}
+
+.accordion-content .meaning__translation,
+.accordion-content .example__translation {
+  padding: 6px;
+  background: #000;
+}
+
+.btn-accordion:checked ~ .accordion-content {
+  max-height: 600px;
+  padding: 5px 0px;
+}
+
+.btn-accordion {
+  display: none;
+}
+
+/* .back-flashcard .main .main__meaning {
+  color: var(--second-text-color);
+}
+
+.back-flashcard .main .main__meaning .meaning__translation {
+  border-top: 1px solid white;
 }
 
 .back-flashcard .main .main__example {
-  /* background-color: crimson; */
-  border-top: 4px solid var(--second-bg-color);
-}
+  border-top: 2px solid var(--alternative-bg-color);
+} */
 
 .back-flashcard .footer {
   position: absolute;
   bottom: 0;
-  left: 0;
-  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 160px;
   height: 50px;
 
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+
 
   /* background-color: aqua; */
 }
