@@ -58,7 +58,7 @@ Si probaste este método verás que no se ve tan bien.
 
 ## Usando una librería
 
-Para obtener un buen resaltado usaré ``Prism``
+Para obtener un buen resaltado usaré [Prism](https://prismjs.com/)
 
 Front Template:
 
@@ -86,4 +86,4 @@ Back Template:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/prism.min.js"></script>
 ```
 
-[Prism](https://prismjs.com/)
+![](https://i.postimg.cc/d1S8dwGr/30-syntax-highlighting.png)
