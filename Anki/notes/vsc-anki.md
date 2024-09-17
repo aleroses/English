@@ -86,4 +86,6 @@ Back Template:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/prism.min.js"></script>
 ```
 
+[Alternativa: Highlightjs](https://highlightjs.org/)
+
 ![](https://i.postimg.cc/d1S8dwGr/30-syntax-highlighting.png)
