@@ -6,12 +6,12 @@
   --third-text-color: #cbd5e1;
   --fourth-text-color: #fff;
   /* 
-  #615EFC
-  #7E8EF1
-  #6482AD
-  #2F3645
-  #161A30
-  */
+    #615EFC
+    #7E8EF1
+    #6482AD
+    #2F3645
+    #161A30
+    */
   --alternative-bg-color: #000;
   --alternative-bg-two: #17153b;
   --alternative-bg-three: #1f316f;
@@ -31,11 +31,7 @@
 
   margin: 0;
   color: var(--fourth-text-color);
-  /* background-color: var(--first-text-color); */
-  background: radial-gradient(
-    var(--second-bg-color),
-    var(--alternative-bg-two)
-  );
+  background-color: var(--second-bg-color);
 }
 
 .card.nightMode {
@@ -44,11 +40,7 @@
 
   margin: 0;
   color: var(--fourth-text-color);
-  /* background-color: var(--first-text-color); */
-  background: radial-gradient(
-    var(--second-bg-color),
-    var(--alternative-bg-two)
-  );
+  background-color: var(--second-bg-color);
 }
 
 /* Front card */
@@ -58,15 +50,14 @@
   max-width: 400px;
   height: 96vh;
 
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 0.5fr 1fr;
+  gap: 10px;
   padding: 0;
   margin: 0;
 
   border-radius: 0 0 14px 14px;
-  background: linear-gradient(
-    180deg,
-    var(--alternative-bg-color),
-    var(--second-bg-color)
-  );
 
   margin: 0 auto;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -90,7 +81,8 @@
 }
 
 .front-flashcard .main {
-  height: 100px;
+  /* height: 140px; */
+  height: 100%;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 2fr 1fr;
@@ -98,7 +90,13 @@
   justify-items: center;
   align-items: center;
 
-  /* background-color: aqua; */
+  border-radius: 14px 14px 0 0;
+  background: radial-gradient(
+    circle,
+    var(--second-bg-color),
+    var(--alternative-bg-color)
+  );
+  /* background-color: var(--first-bg-color); */
 }
 
 .front-flashcard .main .main__word {
@@ -106,17 +104,18 @@
   height: 100%;
   grid-column: 1/2;
   grid-row: 1/2;
-  /* background-color: cornflowerblue; */
 
   display: flex;
   justify-content: space-around;
   align-items: center;
 
   font-size: 24px;
+  /* background-color: cornflowerblue; */
 }
 
 .front-flashcard .main .main__word .word {
   color: var(--first-text-color);
+  animation: blink 5s ease-in-out infinite;
 }
 
 .front-flashcard .main .main__word .word-sound {
@@ -131,34 +130,45 @@
   width: 100%;
   height: 100%;
   font-size: 20px;
-  /* background-color: crimson; */
 
   display: flex;
   justify-content: center;
+  /* background-color: crimson; */
 }
 
 .front-flashcard .details {
   width: 100%;
-  margin: 40px 0 0;
-  border-top: 4px solid rgba(0, 0, 0, 0.9);
+  min-height: 100%;
 
-  /* background-color: #4f46e5; */
   /* Testing */
   overflow: hidden;
-  transition: height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
   height: 40px;
   opacity: 0.5;
+
+  background: radial-gradient(
+    circle,
+    var(--second-bg-color),
+    var(--alternative-bg-color)
+  );
+  border-radius: 0 0 14px 14px;
+  /* background-color: #4f46e5; */
 }
 
 .front-flashcard .details[open] {
-  height: 240px;
-  /* background-color: #4f46e5; */
+  /* min-height: 100%; */
   opacity: 1;
+  /* background-color: #4f46e5; */
 }
 
 .front-flashcard .details summary {
   padding: 10px;
   /* background-color: hotpink; */
+}
+
+.front-flashcard .details[open] summary {
+  font-weight: 700;
+  color: var(--first-text-color);
 }
 
 .front-flashcard .details ul {
@@ -196,19 +206,11 @@
 
   display: flex;
   flex-direction: column;
-  /* justify-content: center;
-  align-items: center; */
-  /* gap: 5px; */
 
   padding: 0;
   margin: 0;
 
   border-radius: 0 0 14px 14px;
-  /* background: linear-gradient(
-    180deg,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  ); */
   background: radial-gradient(
     circle,
     var(--second-bg-color),
@@ -256,16 +258,11 @@
 }
 
 .back-flashcard .main {
-  /* height: auto; */
-
   font-size: 18px;
-  /* padding: 0 8px; */
 
   /* Testing */
   width: 100%;
   max-width: 400px;
-  /* margin: auto; */
-  /* margin-top: 10px; */
 }
 
 .accordion {
@@ -277,8 +274,6 @@
 .accordion .example {
   display: block;
   padding: 6px;
-  /* font-size: 20px; */
-  /* background: #1c1c1c; */
   background: var(--second-bg-color);
 
   /* color: #fff; */
@@ -323,18 +318,6 @@
   display: none;
 }
 
-/* .back-flashcard .main .main__meaning {
-  color: var(--second-text-color);
-}
-
-.back-flashcard .main .main__meaning .meaning__translation {
-  border-top: 1px solid white;
-}
-
-.back-flashcard .main .main__example {
-  border-top: 2px solid var(--alternative-bg-color);
-} */
-
 .back-flashcard .footer {
   position: absolute;
   bottom: 0;
@@ -346,7 +329,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-
 
   /* background-color: aqua; */
 }
@@ -368,4 +350,31 @@
   stroke: var(--second-text-color);
 }
 
+.word-sound svg path {
+  stroke: var(--first-text-color);
+
+  animation: stroke-flicker 5s ease-in-out infinite;
+}
+
 /* Animations */
+@keyframes blink {
+  0%,
+  100% {
+    color: var(--third-text-color);
+  }
+
+  50% {
+    color: var(--first-text-color);
+  }
+}
+
+@keyframes stroke-flicker {
+  0%,
+  100% {
+    stroke: var(--third-text-color);
+  }
+
+  50% {
+    stroke: var(--first-text-color);
+  }
+}
