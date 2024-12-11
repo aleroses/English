@@ -49,6 +49,7 @@
   width: 100%;
   max-width: 400px;
   height: 96vh;
+  min-height: 500px;
 
   display: grid;
   grid-template-columns: 1fr;
@@ -57,7 +58,7 @@
   padding: 0;
   margin: 0;
 
-  border-radius: 0 0 14px 14px;
+  border-radius: 0 0 20px 20px;
 
   margin: 0 auto;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -90,7 +91,7 @@
   justify-items: center;
   align-items: center;
 
-  border-radius: 14px 14px 0 0;
+  border-radius: 20px 20px 0 0;
   background: radial-gradient(
     circle,
     var(--second-bg-color),
@@ -142,16 +143,16 @@
 
   /* Testing */
   overflow: hidden;
-  transition: opacity 0.5s ease-in-out;
-  height: 40px;
   opacity: 0.5;
+  transition: opacity 1s ease-in-out;
+  /* height: 40px; */
 
   background: radial-gradient(
     circle,
     var(--second-bg-color),
     var(--alternative-bg-color)
   );
-  border-radius: 0 0 14px 14px;
+  border-radius: 0 0 20px 20px;
   /* background-color: #4f46e5; */
 }
 
@@ -167,7 +168,7 @@
 }
 
 .front-flashcard .details[open] summary {
-  font-weight: 700;
+  font-weight: 600;
   color: var(--first-text-color);
 }
 
@@ -186,23 +187,26 @@
 .front-flashcard .details ul li {
   width: fit-content;
   list-style: none;
-  /* background-color: aqua; */
+  color: var(--third-text-color);
 }
 
 /* Back card */
 
 .back-card {
   color: var(--fourth-text-color);
-  background: radial-gradient(
+  /* background: radial-gradient(
     var(--second-bg-color),
     var(--alternative-bg-two)
-  );
+  ); */
+
+  background-color: var(--second-bg-color);
 }
 
 .back-flashcard {
   width: 100%;
   max-width: 400px;
   height: 96vh;
+  min-height: 500px;
 
   display: flex;
   flex-direction: column;
@@ -210,7 +214,7 @@
   padding: 0;
   margin: 0;
 
-  border-radius: 0 0 14px 14px;
+  border-radius: 20px;
   background: radial-gradient(
     circle,
     var(--second-bg-color),
@@ -231,6 +235,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  /* gap: 40px; */
 
   /* background-color: aqua; */
   border-bottom: 4px solid var(--second-bg-color);
@@ -242,17 +247,22 @@
 }
 
 .back-flashcard .figure {
+  aspect-ratio: 16/8;
   display: flex;
   align-items: center;
-  padding: 0 2px;
-  border-bottom: 4px solid var(--second-bg-color);
-  /* background-color: aqua; */
+  padding: 0;
+  margin: 0;
+  /* padding: 0 2px; */
+  /* border-bottom: 4px solid var(--second-bg-color); */
+  border-radius: 20px 20px 0 0;
+  background-color: aqua;
 }
 
-.back-flashcard .figure img {
-  aspect-ratio: 16/9;
-  width: 100%;
-  height: auto;
+.back-flashcard img {
+  aspect-ratio: 16/8;
+  /* width: 100%; */
+  /* height: auto; */
+  /* height: 100%; */
   border-radius: 20px 20px 0 0;
   object-fit: cover;
 }
@@ -364,7 +374,8 @@
   }
 
   50% {
-    color: var(--first-text-color);
+    color: var(--second-text-color);
+    text-shadow: 1px 0px 0px var(--third-text-color);
   }
 }
 
@@ -372,9 +383,11 @@
   0%,
   100% {
     stroke: var(--third-text-color);
+    fill: var(--second-text-color);
   }
 
   50% {
     stroke: var(--first-text-color);
+    fill: var(--first-text-color);
   }
 }
