@@ -11,11 +11,17 @@
     #6482AD
     #2F3645
     #161A30
+    #ef4444
+    #10b981
+    #e11d48
+    #eab308
     */
   --alternative-bg-color: #000;
   --alternative-bg-two: #17153b;
   --alternative-bg-three: #1f316f;
   --alternative-bg-four: #2f3645;
+  --test-color: #e11d48;
+  --trial-color: #fda4af;
 }
 
 * {
@@ -169,7 +175,7 @@
 
 .front-flashcard .details[open] summary {
   font-weight: 600;
-  color: var(--first-text-color);
+  color: var(--test-color);
 }
 
 .front-flashcard .details ul {
@@ -243,7 +249,7 @@
 }
 
 .back-flashcard .header .word {
-  color: var(--first-text-color);
+  color: var(--test-color);
 }
 
 .back-flashcard .figure {
@@ -328,6 +334,14 @@
   display: none;
 }
 
+i {
+  color: var(--third-text-color);
+}
+
+b {
+  color: var(--second-text-color);
+}
+
 .back-flashcard .footer {
   position: absolute;
   bottom: 0;
@@ -351,7 +365,7 @@
 }
 
 .replay-button svg path {
-  fill: var(--first-text-color);
+  fill: var(--test-color);
   stroke: var(--second-text-color);
 }
 
@@ -374,8 +388,8 @@
   }
 
   50% {
-    color: var(--second-text-color);
-    text-shadow: 1px 0px 0px var(--third-text-color);
+    color: var(--test-color);
+    /* text-shadow: 1px 0px 0px var(--third-text-color); */
   }
 }
 
@@ -388,6 +402,6 @@
 
   50% {
     stroke: var(--first-text-color);
-    fill: var(--first-text-color);
+    fill: var(--test-color);
   }
 }
