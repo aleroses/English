@@ -5,6 +5,7 @@
   --second-text-color: #b094ff;
   --third-text-color: #cbd5e1;
   --fourth-text-color: #fff;
+
   /* 
     #615EFC
     #7E8EF1
@@ -14,14 +15,20 @@
     #ef4444
     #10b981
     #e11d48
+    #f43f5e
+    #fb7185
     #eab308
+    #a1aebf
     */
+
   --alternative-bg-color: #000;
   --alternative-bg-two: #17153b;
   --alternative-bg-three: #1f316f;
   --alternative-bg-four: #2f3645;
-  --test-color: #e11d48;
-  --trial-color: #fda4af;
+  --test-color: #f43f5e;
+  --test-highlighting: #fb7185;
+  --trial-color: #a1aebf;
+  --test-bg: #1a202c;
 }
 
 * {
@@ -140,7 +147,7 @@
 
   display: flex;
   justify-content: center;
-  /* background-color: crimson; */
+  color: var(--trial-color);
 }
 
 .front-flashcard .details {
@@ -175,7 +182,7 @@
 
 .front-flashcard .details[open] summary {
   font-weight: 600;
-  color: var(--test-color);
+  color: var(--test-highlighting);
 }
 
 .front-flashcard .details ul {
@@ -284,6 +291,7 @@
 .accordion {
   /* background: #fff; */
   /* background: var(--alternative-bg-four); */
+  background-color: var(--test-bg);
 }
 
 .accordion .meaning,
@@ -301,7 +309,7 @@
 
 .accordion .meaning,
 .meaning__translation {
-  color: var(--second-text-color);
+  color: var(--trial-color);
 }
 
 .accordion label:hover {
@@ -322,6 +330,7 @@
 .accordion-content .meaning__translation,
 .accordion-content .example__translation {
   padding: 6px;
+  color: var(--trial-color);
   background: #000;
 }
 
@@ -334,13 +343,14 @@
   display: none;
 }
 
-i {
-  color: var(--third-text-color);
+i,
+b {
+  color: var(--test-highlighting);
 }
 
-b {
+/* b {
   color: var(--second-text-color);
-}
+} */
 
 .back-flashcard .footer {
   position: absolute;
@@ -384,7 +394,7 @@ b {
 @keyframes blink {
   0%,
   100% {
-    color: var(--third-text-color);
+    color: var(--trial-color);
   }
 
   50% {
@@ -396,12 +406,12 @@ b {
 @keyframes stroke-flicker {
   0%,
   100% {
-    stroke: var(--third-text-color);
-    fill: var(--second-text-color);
+    stroke: var(--test-color);
+    fill: var(--second-bg-color);
   }
 
   50% {
-    stroke: var(--first-text-color);
+    stroke: var(--trial-color);
     fill: var(--test-color);
   }
 }
