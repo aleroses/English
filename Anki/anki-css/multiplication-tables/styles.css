@@ -23,6 +23,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  /* max-height: 500px; */
   margin: 0;
 
   font-family: "Roboto Mono", monospace;
@@ -35,6 +36,8 @@
 }
 
 .card.nightMode {
+  /*  height: 100vh;
+  max-height: 600px; */
   color: var(--first-text-color);
   /*background-color: var(--first-bg-color);*/
 
@@ -61,6 +64,11 @@
   align-items: center;
   width: 100%;
   height: 50%;
+}
+
+.front .question {
+  color: var(--first-text-color);
+  animation: blink 5s ease-in-out infinite;
 }
 
 .line {
@@ -97,4 +105,68 @@
 .replay-button svg path {
   fill: var(--second-bg-color);
   stroke: var(--first-text-color);
+}
+
+/* Animations */
+@keyframes blink {
+  0%,
+  100% {
+    color: var(--second-text-color);
+  }
+
+  50% {
+    color: var(--first-text-color);
+  }
+}
+
+/* Estilos solo para pantallas grandes (mayor a 1024px) */
+@media screen and (min-width: 900px) {
+  .card,
+  .card.nightMode {
+    height: 100vh;
+    max-height: 440px;
+    /* height: 100vh;
+    max-height: 600px; */
+  }
+
+  .flashcard {
+    /* width: 80vw;
+    max-width: 300px; */
+    height: 250px;
+  }
+
+  audio {
+    /* width: 100%; */
+    /* border-radius: 10px; */
+    border: none;
+    /* border: 1px solid var(--first-bg-color); */
+    outline: none;
+    box-shadow: none;
+    background: none;
+    /* filter: drop-shadow(0 0 10px cyan); */
+    /* background-color: var(--first-bg-color); */
+  }
+
+  /* Personalización de los controles (solo navegadores WebKit como Anki) */
+  audio::-webkit-media-controls-panel {
+    border: 1px solid var(--second-bg-color);
+    outline: none;
+    box-shadow: none;
+    background: none;
+    background-color: var(--second-bg-color);
+
+    /* border-radius: 10px; */
+  }
+
+  audio::-webkit-media-controls-play-button {
+    filter: invert(1);
+  }
+
+  audio::-webkit-media-controls-timeline {
+    filter: invert(1);
+  }
+
+  audio::-webkit-media-controls-volume-slider {
+    filter: invert(1);
+  }
 }

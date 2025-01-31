@@ -7,6 +7,14 @@
   --fourth-text-color: #fff;
 
   --alternative-bg-color: #000;
+  --alternative-bg-two: #17153b;
+  --alternative-bg-three: #1f316f;
+  --alternative-bg-four: #2f3645;
+  --test-color: #f43f5e;
+  --test-highlighting: #fb7185;
+  --trial-color: #a1aebf;
+  --test-bg: #1a202c;
+  --learn-word: #fda4af;
   --error-color: #eb1d36;
   --good-color: #15f5ba;
 }
@@ -17,283 +25,134 @@
   box-sizing: border-box;
 }
 
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-
 .card {
   width: 100vw;
-  height: 98.2vh;
-  font-family: arial;
-  font-size: 140%;
-  text-align: center;
-  color: var(--first-bg-color);
-  background-color: var(--third-text-color);
+  height: 100%;
+
   margin: 0;
+  color: var(--fourth-text-color);
+  background-color: var(--second-bg-color);
 }
 
 .card.nightMode {
   width: 100vw;
-  height: 98.2vh;
-  color: var(--third-text-color);
-  /* background-color: var(--first-bg-color); */
+  height: 100%;
 
-  background: linear-gradient(
-    180deg,
-    var(--alternative-bg-color),
-    var(--first-bg-color)
-  );
   margin: 0;
-}
-
-/* Front Template*/
-
-.flashcard {
-  width: 94vw;
-  height: 94vh;
-  /*  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly; */
-  max-width: 500px;
-  margin: 0 auto;
-}
-
-#rubric {
-  text-align: center;
-  margin: 10px 0 0;
-  padding: 4px;
+  color: var(--fourth-text-color);
   background-color: var(--second-bg-color);
-  color: var(--third-text-color);
-  font-size: 22px;
-  font-weight: 500;
 }
 
-.flex {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  height: 400px;
-  margin: 10px 0 0;
+/* Front card -------------------------------  */
 
-  /* border: 1px solid var(--first-text-color); */
-}
-
-/* .word, */
-.ipa {
-  font-weight: 500;
-  font-size: 38px;
-}
-
-/* .word {
-  color: var(--first-text-color);
-} */
-
-.ipa {
-  height: 50px;
-  color: var(--second-text-color);
-}
-/*
-.details {
-  text-align: start;
-  font-size: 16px;
-  padding: 0 10px;
-}
-
-.details summary {
-  color: var(--second-text-color);
-}
-
-ul {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: space-between;
-  align-content: space-around;
+.front-flashcard {
   width: 100%;
-  height: 150px;
-  max-height: 200px;
-  gap: 6px;
+  max-width: 400px;
+  height: 90vh;
+  min-height: 450px;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 0.4fr 1fr 0.5fr 0.5fr;
+
+  justify-items: center;
+  gap: 10px;
+  padding: 10px;
+  /* margin: 10px; */
+
+  border-radius: 0 0 20px 20px;
+
+  margin: 0 auto;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+
+  background-color: var(--first-bg-color);
 }
 
-ul li {
-  width: fit-content;
-  list-style: none;
-  text-align: center;
-}
-
-a {
-  color: var(--fourth-text-color);
-}
-  */
-
-/* Back Template */
-
-.back-flex {
-  height: 460px;
-  margin: 10px 0 0;
+.title {
+  width: 100%;
   display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  /* border: 1px solid #4f46e5; */
-}
-/*
-.back-word {
-  color: var(--first-text-color);
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid var(--test-highlighting);
+  /* background-color: #15f5ba; */
 }
 
-.meaning {
-  color: var(--second-text-color);
-}
-
-.example {
-  color: var(--fourth-text-color);
-}
-
-.meaning,
-.example {
-  text-align: start;
-  font-size: 20px;
-  margin: 0;
-}
-*/
 img {
   aspect-ratio: 16/11;
   object-fit: cover;
   border-radius: 20px;
 }
 
-hr {
-  color: var(--second-bg-color);
-  /*background-color: #4f46e5;*/
-  border-width: 2px;
-  border-style: solid;
+.word {
+  font-size: 24px;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* background-color: #15f5ba; */
+}
+
+.footer .sound svg path {
+  fill: var(--test-color);
+  stroke: var(--second-bg-color);
+}
+
+/* Back Template */
+
+.back-flashcard {
+  width: 100%;
+  max-width: 400px;
+  height: 96vh;
+  min-height: 500px;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 0.4fr 1fr 0.5fr 0.5fr;
+
+  justify-items: center;
+  gap: 10px;
+  padding: 10px;
+  /* margin: 10px; */
+
+  border-radius: 0 0 20px 20px;
+
+  margin: 0 auto;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+
+  background-color: var(--first-bg-color);
+}
+
+.back-flashcard .main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  /* background-color: var(--good-color); */
+}
+
+.back-flashcard .main .word {
+  font-size: 24px;
 }
 
 /* Buttons */
-
-/* .back-sounds {
-  display: flex;
-  justify-content: center;
-} */
-
-/* .replay-button {
-  background-color: var(--first-text-color);
-} */
 
 .replay-button svg circle {
   fill: none;
   stroke: none;
 }
 
-.replay-button svg path {
+/* .replay-button svg path {
   fill: var(--first-text-color);
   stroke: var(--second-text-color);
-}
-
-.back-sound svg {
-  width: 28px;
-  height: 28px;
-}
+} */
 
 /*.stop svg circle {
   fill: var(--second-bg-color);
   stroke:  var(--second-bg-color);
 }*/
-
-.stop svg path {
-  fill: var(--second-bg-color);
-  stroke: var(--second-text-color);
-}
-
-/*
-i {
-	color: var(--first-text-color);
-	text-shadow: 1px 1px 5px var(--first-text-color);
-}
-
-b {
-	color: var(--fourth-text-color);
-	text-shadow: 1px 1px 5px var(--second-text-color);
-}
-*/
 
 /* Other styles - Input */
 
@@ -304,7 +163,10 @@ b {
 }
 
 input#typeans {
-  border-radius: 9px;
+  padding: 5px;
+  border: none;
+  border-radius: 10px;
+  background-color: var(--second-bg-color);
 }
 
 /* solarize http://ethanschoonover.com/solarized
@@ -315,7 +177,7 @@ input#typeans {
   background-color: var(--first-bg-color);
 }
 .typeBad {
-  color: #dc322f;
+  color: var(--error-color);
   font-weight: bold;
   font-size: 23px;
 }
@@ -331,7 +193,7 @@ input#typeans {
   font-weight: bold;
 }
 
-/* .smartstep {
+.smartstep {
   position: absolute;
   top: 7px;
   right: 27px;
@@ -339,7 +201,7 @@ input#typeans {
   display: block;
   width: 50px;
   height: 50px;
-} */
+}
 .small {
   color: #27ae60;
   font-size: 0.7em;

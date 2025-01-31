@@ -1,0 +1,35 @@
+<div class="flashcard back-flashcard">
+  <h2 class="title">Bonus</h2>
+
+  {{IMG}}
+  <main class="main">
+    <h3 class="word">{{type:English}}</h3>
+
+    <h3 class="ipa">{{Transcription}}</h3>
+  </main>
+
+  <footer class="footer">
+    <div class="sound">{{Audio}}</div>
+  </footer>
+</div>
+
+<!-- Extra - Old -->
+
+<div class="flashcard">
+  <h1 id="rubric">{{Deck}}</h1>
+
+  <section class="back-flex">
+    {{IMG}} {{type:English}}
+    <hr />
+    <h3 class="ipa">{{Transcription}}</h3>
+
+    <div class="sound">{{Audio}}</div>
+  </section>
+
+  <script>
+    document.getElementById("rubric").innerHTML = "{{Deck}}".replace(
+      "::",
+      "::"
+    );
+  </script>
+</div>
