@@ -53,7 +53,7 @@
 
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 0.4fr 1fr 0.5fr 0.5fr;
+  grid-template-rows: 0.4fr 3fr 0.5fr;
 
   justify-items: center;
   gap: 10px;
@@ -77,29 +77,74 @@
   /* background-color: #15f5ba; */
 }
 
+/* Toggle --------------- */
+
+.toggle {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.toggle div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  backface-visibility: hidden;
+  transition: 1s;
+}
+
+.toggle .front {
+  background-color: var(--second-bg-color);
+  transform: perspective(500px) rotateY(0deg);
+}
+
+.toggle .back {
+  background: var(--second-bg-color);
+  transform: perspective(500px) rotateY(180deg);
+}
+
+.toggle:hover .front {
+  transform: perspective(500px) rotateY(180deg);
+}
+.toggle:hover .back {
+  transform: perspective(500px) rotateY(360deg);
+}
+
+/* Toggle --------------- */
+
 img {
-  aspect-ratio: 16/11;
+  width: 88%;
+  height: 88%;
   object-fit: cover;
   border-radius: 20px;
+  opacity: 0.8;
 }
 
-.word {
-  font-size: 24px;
-}
-
-.footer {
+.front-flashcard .footer {
   width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
   /* background-color: #15f5ba; */
 }
+
+/* .front-flashcard .footer .word {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  background-color: var(--first-text-color);
+} */
 
 .footer .sound svg path {
   fill: var(--test-color);
   stroke: var(--second-bg-color);
 }
 
-/* Back Template */
+/* Back Template ---------------- */
 
 .back-flashcard {
   width: 100%;
@@ -109,7 +154,7 @@ img {
 
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 0.4fr 1fr 0.5fr 0.5fr;
+  grid-template-rows: 0.4fr 3fr 0.5fr;
 
   justify-items: center;
   gap: 10px;
@@ -124,18 +169,42 @@ img {
   background-color: var(--first-bg-color);
 }
 
-.back-flashcard .main {
+/* .back-flashcard .toggle {
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
+} */
+
+.back-flashcard .footer {
+  width: 100%;
+  /* height: auto; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 50% 50%;
+  justify-items: center;
+  align-items: center;
+  gap: 10px;
   /* background-color: var(--good-color); */
 }
 
-.back-flashcard .main .word {
-  font-size: 24px;
+.back-flashcard .footer .word {
+  width: 100%;
+  display: flex;
+  font-size: 20px;
+  /* background-color: var(--alternative-bg-four); */
 }
+
+.back-flashcard .footer .ipa {
+  grid-column: 1/3;
+  font-size: 20px;
+  /* background-color: var(--first-text-color); */
+}
+
+/* .back-flashcard .footer .sound {
+  background-color: var(--first-text-color);
+} */
 
 /* Buttons */
 
@@ -166,6 +235,7 @@ input#typeans {
   padding: 5px;
   border: none;
   border-radius: 10px;
+  /* color: var(--test-color); */
   background-color: var(--second-bg-color);
 }
 
