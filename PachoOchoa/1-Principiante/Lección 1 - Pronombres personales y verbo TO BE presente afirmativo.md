@@ -20,20 +20,21 @@ Am - Are - Is
 |You, We, They |are  |
 |He, She, It       |is     |
 
-### 🔥 Ejemplos:   
+## 🔥 Ejemplos:   
 
-1. I am in class   
+1. I am in class.
 	- Estoy en clase  
 
-2. I am a teacher   
+2. I am a teacher.
 	- Soy profesor   
 
-3. Juan and Carmen are friends   
+3. Juan and Carmen are friends.
 	- (They) Juan y Carmen son amigos  
 
-4. (He) Emanuel is my brother   
+4. (He) Emanuel is my brother.
 	- Emmanuel es mi hermano
 
+## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=dFJvNYdKGrA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=1)    
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-1/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=dFJvNYdKGrA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=1)    
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-1/)

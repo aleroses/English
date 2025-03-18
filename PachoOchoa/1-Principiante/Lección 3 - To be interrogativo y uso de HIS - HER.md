@@ -6,7 +6,7 @@ sofa. My brother `IS` in **his** bedroom, and my
 grandmother `IS` in the garden with **her** best friend Lucero.
 
 |He 👈👀👉 |His |Su - Sus|
-|------------|----|--------|
+|----------|----|--------|
 |She 👈👀👉 |Her |Su - Sus|
 
 - Él es su padre.  
@@ -15,7 +15,7 @@ grandmother `IS` in the garden with **her** best friend Lucero.
 - Ella es su madre.  
 - She is `HER / HIS` mother.
 
-### 🔥 Practice
+## 🔥 Practice
 
 - `+` My brother **is** in his bedroom.
 	- `?` **Is** my brother in his bedroom? 🔥
@@ -30,7 +30,7 @@ grandmother `IS` in the garden with **her** best friend Lucero.
 - `?` Is my brother in the bedroom?
 	- `+` Yes, He is in the bedroom.
 
-### Respuestas Actividad 3
+## Respuestas Actividad 3
 
 - No, He is with his wife in the living room.
 - No, They are on the sofa.
@@ -42,6 +42,7 @@ grandmother `IS` in the garden with **her** best friend Lucero.
 
 ![Pronouns chart](https://i.postimg.cc/gcBW1MQq/pronouns-chart.jpg)
 
-[Clase en YouTube](https://www.youtube.com/watch?v=_BbUfWQiSO0&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=3)
+## Links
 
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-3/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=_BbUfWQiSO0&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=3)
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-3/)

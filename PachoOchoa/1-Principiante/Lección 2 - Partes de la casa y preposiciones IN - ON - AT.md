@@ -36,7 +36,7 @@ I am `in / on / at` the house.
 `in / on / at` = Pre   
 the house = Posición 
 
-### 🔥 Practice
+## 🔥 Practice
 
 1. William está en la casa, en la sala, en el sofá.
 	- William `is in` the house, `in` the living room, `on` the sofa.
@@ -44,6 +44,7 @@ the house = Posición
 2. Ellos están en el comedor, en la sillas, en la mesa.
 	- They `are in` the dining room, `on` the chairs, `at` the table.
 
-[Clase en YouTube](https://www.youtube.com/watch?v=ozpZ67NKgaI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=2)
+## Links
 
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-2/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=ozpZ67NKgaI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=2)
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-2/)
