@@ -1,6 +1,5 @@
 # Why / Because - Who: WH - Questions 
 
-
 ## Why / Because
 
 |Why?    |¿Por qué?   |
@@ -23,7 +22,6 @@
 	- Because it is white.
 	- Because it's white.
 
-
 ## Who 
 
 |Who |¿Quién? ¿Quienes? |
@@ -34,10 +32,11 @@
 ### Examples:
 
 1. Who is painting the house? Who's
+	- Who's (jus)
 2. Who are watching the movie?
+	- Who're ❌ mal
 
-
-### 🔥 Practice:
+## 🔥 Practice:
 
 - A. ¿Por qué está Brayan en el banco?
 	- Why is Brayan in the bank?
@@ -48,11 +47,19 @@
 - B. Ella es su hermana?
 	- She's his sister?
 
-### Vocabulary
-Want: Quiero  
-Rest: Descansar  
-Travel: Viajar  
-Withdrawing: Retirando  
+## Vocabulary
 
-[Clase en YouTube](https://www.youtube.com/watch?v=mqTQTONrHEA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=7)    
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-7/)
+- Want: Quiero
+- Rest: Descansar
+- Travel: Viajar
+- Withdrawing: Retirando
+
+## Links
+
+- [Clase en YouTube](https://www.youtube.com/watch?v=mqTQTONrHEA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=7)    
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-7/)
+
+### Obsidian links
+
+- [[Cuando usar TO antes de un verbo y cuando NO usarlo]]
+- [[Diferencias entre TO y FOR en inglés]]
