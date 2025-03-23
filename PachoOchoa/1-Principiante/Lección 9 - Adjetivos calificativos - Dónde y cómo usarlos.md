@@ -12,6 +12,16 @@
 - Dos carros azules.
 	- Two `blue` cars.
 
+- ¿Cuántos `[libros] [viejos]` hay sobre la mesa?
+	- How many `old books` are there on the table?
+
+```mermaid
+%%{init: {'scale': 0.5}}%%
+graph LR;
+    libros["libros"] -->|Change position| viejos["viejos"];
+    viejos --> libros;
+```
+
 📌 Los adjetivos nunca van en **plural** y tampoco tienen **genero**. 
 
 ## Después del To Be
