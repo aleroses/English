@@ -34,7 +34,7 @@
 1. Who is painting the house? Who's
 	- Who's (jus)
 2. Who are watching the movie?
-	- Who're ❌ mal
+	- Who're ❌ incorrecto.
 
 ## 🔥 Practice:
 

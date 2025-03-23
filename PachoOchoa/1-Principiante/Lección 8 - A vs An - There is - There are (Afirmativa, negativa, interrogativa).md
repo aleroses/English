@@ -6,10 +6,12 @@
 |---|---------|
 |an |un / una |
 
-A: Siguiente palabra con **SONIDO DE CONSONANTE**   
+A: Siguiente palabra con **SONIDO DE CONSONANTE** 
+
 - `A` car
 
-AN: Siguiente palabra con **SONIDO DE VOCAL**  
+AN: Siguiente palabra con **SONIDO DE VOCAL**
+
 - `An` apple
 
 ### Examples:
@@ -29,7 +31,7 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 
 ### Examples:
 
-- `+` There is a dog. / There are  2 dogs.
+- `+` There's a dog. / There are  2 dogs.
 - `-` There isn't a dog. / There aren't 2 dogs.
 - `?` Is there a dog? / Are there 2 dogs?
 	- Yes, there is   / Yes, there are.
@@ -37,7 +39,7 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 
 📌 Nota: si no sabes cuando usar `a` o `an` puedes usar `one`.
 
-### 🔥 Practice:
+## 🔥 Practice:
 
 1. En mi casa, sobre la mesa, hay dos manzanas.
 	- In my house, on the table, there are 2 apples.
@@ -47,7 +49,7 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 	- Are there 4 bathrooms in your house?
 	- No, there aren't 4 bathrooms.
 
-### Vocabulary
+## Vocabulary
 - Carpet - Alfombra  
 - Lamp - Lampara  
 - Cushions - Cojines  
@@ -56,5 +58,7 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 - Vase - Florero (veis)  
 - Many - Muchas   
 
-[Clase en YouTube](https://www.youtube.com/watch?v=vXmKsSnROjQ&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=8)    
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-8/)
+## Links
+
+- [Clase en YouTube](https://www.youtube.com/watch?v=vXmKsSnROjQ&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=8)    
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-8/)
