@@ -16,7 +16,6 @@
 	- How many `old books` are there on the table?
 
 ```mermaid
-%%{init: {'scale': 0.5}}%%
 graph LR;
     libros["libros"] -->|Change position| viejos["viejos"];
     viejos --> libros;
