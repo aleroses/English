@@ -1,13 +1,14 @@
 # Adjetivos Demostrativos
 
-|🐺          |Singular (is)          |Plural (are)        |
-|-------------|-----------------------|--------------------|
-|Near (cerca) |This: este, esta, esto |These: estas, estos |
-|Far (lejos)  |That: eso, esa, ese    |Those: esos, esas   |
+|🐺           |Singular (is)            |Plural (are)          |
+|-------------|-------------------------|----------------------|
+|Near (cerca) |`This:` este, esta, esto |`These:` estas, estos |
+|Far (lejos)  |`That:` eso, esa, ese    |`Those:` esos, esas   |
 
 ## 🔥 Singular: Is
 
 ### Near (Cerca)
+
 THIS: Este - Esta - Esto
 
 - This is a blue car.
@@ -15,15 +16,17 @@ THIS: Este - Esta - Esto
 - This is my friend John.
 
 ### Far (Lejos)
+
 THAT: Eso - Esa - Ese
 
-- That is a blue car.
+- That's a blue car.
 - That is an apple.
 - That is my friend John.
 
 ## 🔥 Plural: Are 
 
 ### Near (Cerca)
+
 THESE: Estas - Estos
 
 - These are two new cars.
@@ -31,6 +34,7 @@ THESE: Estas - Estos
 - These are my friends.
 
 ### Far (Lejos)
+
 THOSE: Esos - Esas
 
 - Those are two new cars.
