@@ -55,5 +55,5 @@ THOSE: Esos - Esas
 
 ## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=TXNJl0oaxxg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=14)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-12/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=TXNJl0oaxxg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=14)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-12/)

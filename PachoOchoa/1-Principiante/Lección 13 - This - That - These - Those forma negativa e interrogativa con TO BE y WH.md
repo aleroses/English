@@ -55,6 +55,7 @@
 - Closet: Armario    
 - Socks: Calcetines    
 
+## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=n671mANq9yA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=15)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-13/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=n671mANq9yA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=15)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-13/)
