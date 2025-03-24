@@ -1,6 +1,6 @@
 # How much + Verbo TO BE
 
-How much: ¿Cuánto?¿Cuánta?   
+How much: ¿Cuánto?¿Cuánta?
 
 - How much water **is there** in the pool?
 	- There is a lot of water.
@@ -8,9 +8,9 @@ How much: ¿Cuánto?¿Cuánta?
 	- There's some money on the table.
 
 
-📌 NOTA: Al trabajar con How much o sea cuanto, se debe usar `IS THERE`, contrario a How many que trabaja con cuantos, por lo que se debe usar `ARE THERE`.   
+📌 NOTA: Al trabajar con **How much** o sea cuanto, se debe usar `IS THERE`, contrario a **How many** que trabaja con cuantos, por lo que se debe usar `ARE THERE`.   
 
-### 🔥 Practice:
+## 🔥 Practice:
 
 1. ¿Cuánto azúcar hay en la taza?
 	- How much sugar is there in the cup?
@@ -25,7 +25,8 @@ How much: ¿Cuánto?¿Cuánta?
 	- How much soup is there in the plate/bowl?
 	- There's a lot of soup.
 
-### Vocabulary
+## Vocabulary
+
 - Pool: Piscina    
 - Some: Algo  
 - Cup: Taza  
@@ -52,7 +53,9 @@ How much: ¿Cuánto?¿Cuánta?
 - A little bit of: Un poquito de  
 - You're welcome: De nada
 
-[Clase en YouTube](https://www.youtube.com/watch?v=ghyXMPRY4ms&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=13)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-11/)
+## Links
+
+- [Clase en YouTube](https://www.youtube.com/watch?v=ghyXMPRY4ms&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=13)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-11/)
 
 
