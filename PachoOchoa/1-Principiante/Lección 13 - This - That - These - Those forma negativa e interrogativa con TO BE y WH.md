@@ -2,7 +2,7 @@
 
 - `+` This is a police officer.
 	- `?` Is this a police officer?
-		- Yes, this/that is. / Yes, he is.
+		- `+` Yes, this/that is. / Yes, he is.
 		- `-` No, this is not a police officer.
 		- `-` No, because this is a gardener.
 
@@ -20,15 +20,14 @@
 - Who are those?
 - Where are those men?
 
-
-### 🔥 Practice:
+## 🔥 Practice:
 
 1. Is that an apple?
 	- No, that is not an apple.
 2. What's that?
 	- That is a tomato.
 3. Are these news papers?
-	- No, these aren't news papers.
+	- No, these aren't newspapers.
 4. What are these?
 	- These are books.
 5. Are those your friends?
@@ -36,7 +35,8 @@
 6. Who are those?
 	- Those are my grandmother and my sister.
 
-### Vocabulary
+## Vocabulary
+
 - Uncles: Tíos    
 - Earrings: Aretes    
 - Noisy: Ruidosa    
