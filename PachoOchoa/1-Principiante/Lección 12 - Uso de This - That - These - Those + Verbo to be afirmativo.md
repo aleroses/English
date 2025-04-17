@@ -41,7 +41,8 @@ THOSE: Esos - Esas
 - Those are red apples.
 - Those are my friends. 
 
-### Vocabulary
+## Vocabulary
+
 - Boss: Jefe   
 - Long: Largo   
 - Fridge: Nevera   
