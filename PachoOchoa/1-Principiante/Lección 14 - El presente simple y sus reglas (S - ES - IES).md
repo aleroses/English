@@ -1,8 +1,8 @@
 # El Presente Simple / Simple Present Tense
 
-Solo aplica a oraciones afirmativas en 3ra Person (singular).   
+> Solo aplica a oraciones afirmativas en 3ra Person (singular).   
 
-|🔥🐺      |Singular   |Plural |
+|🔥🐺       |Singular   |Plural |
 |-----------|---------  |-------|
 |1st Person |I          |WE     |
 |2nd Person	|YOU        |YOU    |
@@ -11,23 +11,25 @@ Solo aplica a oraciones afirmativas en 3ra Person (singular).
 📌 Usado en "Actividades diarias o Rutinas"   
 📌 Estas reglas aplican solo para oraciones afirmativas en tercera persona. Si es negativa no aplica, tampoco para interrogativas y para primeras personas. 
 
-
 ## Reglas para Tercera Persona Singular (Solo oraciones afirmativas)
 
 ✨ Aplicada a los verbos  
 
 ### 1. Agregar como mínimo `S`:
+
 - She `calls` Juan.
 - He `drinks` water.
-- We drink water. -> Primera persona no aplica.
-- I drink water. -> Primera persona no aplica.
+- We drink water. -> Primera persona en plural no aplica.
+- I drink water. -> Primera persona en singular no aplica.
 
 ### 2. Agregar `ES` cuando terminen en: O - X - Z - S - SS - SH - CH
+
 - She `goes` to the park.
 - He `watches` TV.
 - They watch TV. -> No aplica.
 
 ### 3. Agregar `IES` si termina en Y precedida de consonante:
+
 - Try - `Tries`: ry consonante + y ✅✔
 - Study - `Studies`: dy consonante + y ✅
 - John `studies` English. 
@@ -36,18 +38,21 @@ No aplica para vocal and Y
 - Play - `Plays`: ay vocal + y ❌
 
 ### 4. Have - Has:
+
 - Carmen `has` a car.
 - They have a house.
 
 ### 5. Observación:
+
 Con los verbos modales no se aplican.
 
 - Can
 - Must
 
-### 🔥 Practice:
+## 🔥 Practice:
 
-SINGULAR   
+### Singular
+
 1. Miguel pesca en el rio.
 	- Miguel `fishes` in the river.
 2. Mi hija juega con sus juguetes.
@@ -57,7 +62,8 @@ SINGULAR
 4. Peter tiene clase de inglés hoy.
 	- Peter `has` English class today.
 
-PLURAL: NO APLICA   
+### Plural: NO APLICA
+
 1. Nosotros pescamos en el rio.
 	- We fish in the river.
 2. Mis hijas juegan con sus juguetes.
@@ -67,7 +73,8 @@ PLURAL: NO APLICA
 4. Ustedes tienen clase de inglés hoy.
 	- You have English class today.
 
-### Vocabulary
+## Vocabulary
+
 - Have: Tener   
 - Do: Hacer   
 - Has: Tiene   
@@ -78,5 +85,7 @@ PLURAL: NO APLICA
 - Eats: Come   
 - Answers: Respuestas   
 
-[Clase en YouTube](https://www.youtube.com/watch?v=m0kTGL6Flzg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=16)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-14/)
+## Links
+
+- [Clase en YouTube](https://www.youtube.com/watch?v=m0kTGL6Flzg&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=16)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-14/)
