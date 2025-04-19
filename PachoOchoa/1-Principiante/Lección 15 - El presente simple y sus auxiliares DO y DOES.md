@@ -3,30 +3,34 @@
 ## Tercera Persona Singular
 
 |DOES |
-|------ |
-|He     |
-|She    |
-|It        |
+|-----|
+|He   |
+|She  |
+|It   |
 
 🔊 das
 
-## Plurales and Yo
+### Examples:
 
-|DO    |
-|------|
-|I        |
-|You   |
-|We    |
-|They |
-
-🔊 du
-
-### Examples:  
 - `+` He plays soccer.
 	- `-` He `does not` (doesn't) play.
 	- `?` `Does` he play soccer?
 		- Yes, he does.
 		- No, he doesn't.
+
+## Plurales and Yo
+
+|DO    |
+|------|
+|I     |
+|You   |
+|We    |
+|They  |
+
+🔊 du
+
+### Examples:
+
 - Ellos no comen carne.
 - `+` They `do not` (don't) eat meat.
 	- `?` `Do` they eat meat?
@@ -35,11 +39,10 @@
 		- Yes, they do.
 		- No, the don't
 
-
 📌 NOTA: Al usar auxiliares ya no se agrega S ES IES
 
+## 🔥 Practice:
 
-### 🔥 Practice:  
 1. They like to eat pizza.
 	- `-` They do not like to eat pizza.
 	- `?` Do they like to eat pizza?
@@ -53,7 +56,8 @@
 	- `+` You have pets in your house.
 	- `-` You don't have pets in your house.
 
-### Vocabulary
+## Vocabulary
+
 - Pets: Mascotas   
 - Soccer: Fútbol   
 - Plane: Avión   
@@ -68,10 +72,13 @@
 - Live: Vivir    
 - Life: Vida   
 
-[Clase en YouTube](https://www.youtube.com/watch?v=8gN9rSN54VI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=17)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-15/)
+## Links
 
-#### Resumen: 
+- [Clase en YouTube](https://www.youtube.com/watch?v=8gN9rSN54VI&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=17)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-15/)
+
+## Resumen
+
 |Verbo en **infinitivo** |Jugar |
 |------------------------|------|
 
