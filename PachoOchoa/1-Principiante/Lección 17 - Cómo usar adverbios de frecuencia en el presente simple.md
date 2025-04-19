@@ -27,7 +27,7 @@
 - Very often: Muy a menudo
 - How often: Cada cuanto
 
-### Examples
+## Examples
 
 - I always work on Mondays.
 	- On Monday, I always work.
@@ -46,9 +46,8 @@
 
 ✨ Nota: Para los días de la semana se trabaja con la preposición `ON` y con CAPITAL LETTER (letra mayúscula). 
 
+## Vocabulary
 
-
-### Vocabulary
 - ADD: agregar  
 - FROM: de - desde
 - CHURCH: iglesia  
@@ -57,7 +56,7 @@
 - WINE: vino  
 - MANY: muchas   
 
+## Links
 
-
-[Clase en YouTube](https://www.youtube.com/watch?v=70aq3hZhrXw&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=20)    
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-17/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=70aq3hZhrXw&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=20)    
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-17/)
