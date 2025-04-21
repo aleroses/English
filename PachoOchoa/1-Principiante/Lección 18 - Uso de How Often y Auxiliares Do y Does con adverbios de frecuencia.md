@@ -15,7 +15,7 @@
 
 📌 How often 🔊 Jao ofen
 
-### 🔥 Practice:
+## 🔥 Practice:
 
 1. ¿Va ella a trabajar los fines de semana?
 	- `+` She goes to work on weekends?
@@ -30,7 +30,7 @@
 		- They travel every year.
 		- They always travel to Miami.
 
-### Vocabulary
+## Vocabulary
 
 - HOW OFTEN: cada cuanto   
 - WEEKEND: fin de semana
@@ -38,6 +38,7 @@
 - DURING: durante   
 - SLOWER: mas lento
 
+## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=ucjI50Jj-bY&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=21)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-18/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=ucjI50Jj-bY&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=21)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-18/)
