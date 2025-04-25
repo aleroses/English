@@ -17,7 +17,7 @@
 	- No , They don't. Because they go on Friday.
 	- No, because his Mexican friends go to the restaurant on Friday.
 
-### Vocabulary
+## Vocabulary
 
 - Special: Especial     
 - Plate: Plato    
@@ -30,9 +30,10 @@
 - Food: Comida   
 - Times: Veces   
 
+## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=gU-iDfNgMDA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=23)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-1/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=gU-iDfNgMDA&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=23)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-desde-cero/lecci%C3%B3n-1/)
 
 
 
