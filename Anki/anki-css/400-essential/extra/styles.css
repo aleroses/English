@@ -107,6 +107,31 @@
   transform: perspective(500px) rotateY(180deg);
 }
 
+.toggle .back ul {
+  /* background-color: red; */
+  width: 100%;
+  max-width: 300px;
+  height: 100%;
+  max-height: 280px;
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  /* column-gap: 16px; */
+}
+
+.toggle .back ul li {
+  /* background-color: #15f5ba; */
+  width: fit-content;
+  height: fit-content;
+  /* display: flex; */
+  /* justify-items: center; */
+  list-style: none;
+  /* align-items: center; */
+}
+
 .toggle:hover .front {
   transform: perspective(500px) rotateY(180deg);
 }
