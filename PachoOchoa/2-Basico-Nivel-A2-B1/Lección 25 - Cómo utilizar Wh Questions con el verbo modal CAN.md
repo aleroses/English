@@ -3,6 +3,7 @@
 ## How well - When - Where - How - How often - Who
 
 ### 🔥 Practice:
+
 1. ¿Quién puede trabajar el viernes?
 	-  Who can work on Friday?
 	- They can work on Friday
@@ -22,9 +23,8 @@
 	- How well can you speak English?
 	- I can speak English quite well.
 
+## Vocabulary
 
-
-### Vocabulary
 - FIND: Encontrar   
 - COME: Venir  
 - CHOPSTICKS: - Palillos chinos  
@@ -40,5 +40,7 @@
 - FEED / BILL FEED: Alimentar  
 - TODAY: Hoy  
 
-[Clase en YouTube](https://www.youtube.com/watch?v=VrvFvrYTtWs&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=29)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-25/)
+## Links
+
+- [Clase en YouTube](https://www.youtube.com/watch?v=VrvFvrYTtWs&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=29)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-25/)
