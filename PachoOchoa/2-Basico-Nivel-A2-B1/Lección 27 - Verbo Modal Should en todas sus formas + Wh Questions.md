@@ -2,7 +2,10 @@
 
 Should: Debería / shud
 
-### Examples:
+Shouldn't: shurent
+
+## Examples
+
 - Ella debería ayudar a sus amigos. 
 	- `+` She `should` help her friends. 
 	- `-` She `should not` / `shouldn't` help her friends. 
@@ -11,7 +14,7 @@ Should: Debería / shud
 		- Yes, she should.
 		- No, she shouldn't 
 
-### 🔥 Practice: 
+## 🔥 Practice
 
 1. Where should we go tonight? 
 2. When should John pay the bill? 
@@ -20,7 +23,8 @@ Should: Debería / shud
 5. Helen should eat something healthy.
 6. How often should I practice English? 
 
-### Vocabulary
+## Vocabulary
+
 - Pay attention: Prestar atención   
 - Lovely: Encantadora   
 - Feed: Alimentar    
@@ -32,6 +36,7 @@ Should: Debería / shud
 - As: Como    
 - Behavior: Comportamiento     
 
+## Links
 
-[Clase en YouTube](https://www.youtube.com/watch?v=LdQjwmOxvmM&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=31)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-27/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=LdQjwmOxvmM&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=31)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-27/)
