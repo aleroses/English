@@ -23,6 +23,12 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 5. a hospital
 6. `a` university (yuniversity)
 
+`vocal + s. consonante`
+`a d`og
+
+`consonante + s. vocal`
+a`n o`range
+
 ## There is / There are
 
 |There is  |Singular |Hay |
