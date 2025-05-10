@@ -24,9 +24,11 @@ AN: Siguiente palabra con **SONIDO DE VOCAL**
 6. `a` university (yuniversity)
 
 `vocal + s. consonante`
+
 `a d`og
 
 `consonante + s. vocal`
+
 a`n o`range
 
 ## There is / There are
