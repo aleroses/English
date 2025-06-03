@@ -4,7 +4,7 @@ Let: Dejar, dejar que / Permitir, permitir que
 
 > Estructura: `Let` + `Pronombre Objeto` + `Verbo Base`
 
-### Examples:  
+## Examples:  
 
 - Deja que él se vaya. Déjalo ir.
 	- Let him / her / it go.
@@ -15,7 +15,7 @@ Let: Dejar, dejar que / Permitir, permitir que
 - Déjanos hacerlo.
 	- Let us do it.
 
-### 🔥 Practice:
+## 🔥 Practice:
 1. Ellos deberían dejarnos ir.
 	- They should let us go.
 2. Yo no puedo permitir que ella se vaya.
@@ -28,9 +28,9 @@ Let: Dejar, dejar que / Permitir, permitir que
 	- Should i let you practice?
 6. ¡Vamos a practicar!
 	- Let us practice!
-	- let's run!
+	- Let's run!
 
-📌 NOTA: Tener en cuenta `lets` para las 3eras personas.
+📌 NOTA: Tener en cuenta `lets` para las 3.ras personas.
 
 ### Vocabulary
 - Paint: pintar
@@ -43,6 +43,7 @@ Let: Dejar, dejar que / Permitir, permitir que
 - Use: usar
 - Sofa / Couch: sofá 
 
+## Links:
 
-[Clase en YouTube](https://www.youtube.com/watch?v=kv64Oc-ObQk&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=33)  
-[Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-29/)
+- [Clase en YouTube](https://www.youtube.com/watch?v=kv64Oc-ObQk&list=PLgrNDDl9MxYmUmf19zPiljdg8FKIRmP78&index=33)  
+- [Clase en la Web](https://www.pacho8a.com/ingl%C3%A9s/curso-ingl%C3%A9s-nivel-b%C3%A1sico/lecci%C3%B3n-29/)
