@@ -16,6 +16,7 @@ Let: Dejar, dejar que / Permitir, permitir que
 	- Let us do it.
 
 ## 🔥 Practice:
+
 1. Ellos deberían dejarnos ir.
 	- They should let us go.
 2. Yo no puedo permitir que ella se vaya.
@@ -33,6 +34,7 @@ Let: Dejar, dejar que / Permitir, permitir que
 📌 NOTA: Tener en cuenta `lets` para las 3.ras personas.
 
 ### Vocabulary
+
 - Paint: pintar
 - Destroy: destruir
 - Burger: Hamburguesa  
