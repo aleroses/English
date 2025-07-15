@@ -1,12 +1,20 @@
 :root {
   --first-bg-color: #090b10;
   --second-bg-color: #0f111a;
+  --third-bg-color: #06923e;
   --first-text-color: #15f5ba;
+  --blend-bg-color: #063f3b;
   --second-text-color: #b6eada;
   --third-text-color: #cbd5e1;
   --fourth-text-color: #fff;
+  --fifth-text-color: #e5fef4;
   --test-color: #eb1d36;
 }
+
+/* 
+06923e
+00712D
+*/
 
 .card {
   font-family: tahoma;
@@ -35,18 +43,29 @@
 #rubric {
   font-size: 18px;
   font-family: arial;
-  text-align: left;
+  text-align: justify;
 
-  padding: 4px 14px;
+  padding: 8px 14px;
 
   margin-bottom: 20px;
-  color: var(--first-bg-color);
-  background-color: var(--first-text-color);
-  /* background: linear-gradient(
-    45deg,
-    var(--first-text-color) 70%,
-    var(--first-bg-color) 100%
+  color: black;
+  background-color: var(--third-bg-color);
+
+  /*  background: linear-gradient(
+    to right,
+    var(--third-bg-color),
+    var(--first-text-color),
+    var(--blend-bg-color)
   ); */
+
+  background: linear-gradient(
+    -45deg,
+    var(--third-bg-color),
+    var(--first-text-color),
+    var(--blend-bg-color)
+  );
+
+  border-radius: 12px;
   font-weight: 600;
 }
 
@@ -70,20 +89,23 @@
 }
 
 #category {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 #unit {
-  font-size: 17px;
+  font-size: 12px;
 }
 
 #question {
   margin-bottom: 8px;
+  font-size: 18px;
+  text-align: left;
 }
 
 #choices {
   margin: 4px auto;
   margin-bottom: 12px;
+  font-size: 16px;
 }
 
 #choices ul {
@@ -98,12 +120,12 @@
 
 .choices_words {
   font-family: tahoma;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
 }
 
 .choices_words li {
-  font-size: 18px;
+  font-size: 14px;
   display: inline-block;
   padding: 4px 8px;
 
@@ -118,6 +140,7 @@
 .choices_words ul:not(:first-child) li {
   /* background: #f7deb7; */
   background: var(--test-color);
+  /* font-size: 14px; */
 }
 
 #container {
@@ -212,4 +235,39 @@ input#typeans {
 .replay-button svg path {
   fill: var(--second-bg-color);
   stroke: var(--first-text-color);
+}
+
+/* Match */
+
+#typeans span {
+  background-color: var(--second-bg-color);
+}
+
+.typeBad {
+  /*color: var(--error-color);*/
+  color: white;
+  /*font-weight: 600;*/
+  font-size: 16px;
+}
+.typeMissed,
+.typePass {
+  color: #268bd2;
+  /*font-weight: bold;*/
+  font-size: 16px;
+}
+.typeGood {
+  color: #2ed85a;
+  /* color: var(--good-color); */
+  /*font-weight: bold;*/
+  font-size: 16px;
+}
+
+.smartstep {
+  position: absolute;
+  top: 7px;
+  right: 27px;
+  background: url("_sse_vk.png") top right no-repeat;
+  display: block;
+  width: 50px;
+  height: 50px;
 }
