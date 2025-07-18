@@ -1,14 +1,16 @@
 <div id="rubric">{{Rubric}}</div>
 
 {{#Image}}
-<div id="container">
-  <div id="image" class="t-image">{{Image}}</div>
-  <div class="t-question">
-    <div id="question">{{cloze:Question}}</div>
+  <div id="container">
+    <div id="image" class="t-image">{{Image}}</div>
+    <div class="t-question">
+      <div id="question">{{cloze:Question}}</div>
+    </div>
   </div>
-</div>
-{{/Image}} {{^Image}}
-<div id="question">{{cloze:Question}}</div>
+{{/Image}}
+
+{{^Image}}
+  <div id="question">{{cloze:Question}}</div>
 {{/Image}}
 
 <div id="choices">{{hint:Choices}}</div>

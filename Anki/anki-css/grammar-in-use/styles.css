@@ -69,8 +69,22 @@
   font-weight: 600;
 }
 
+#container {
+  display: flex;
+  padding: 0 8px;
+  gap: 1rem;
+  /* background-color: red; */
+}
+
+/* #container {
+  display: table;
+  width: 100%;
+} */
+
 #container img {
-  margin-right: 16px;
+  width: 100%;
+  /* margin-right: 16px; */
+  /* background-color: #063f3b; */
 }
 
 #audio {
@@ -97,9 +111,10 @@
 }
 
 #question {
-  margin-bottom: 8px;
+  /* margin: 16px; */
   font-size: 18px;
   text-align: left;
+  /* background-color: red; */
 }
 
 #choices {
@@ -143,29 +158,26 @@
   /* font-size: 14px; */
 }
 
-#container {
-  display: table;
-  width: 100%;
-}
-
 .t-image {
-  width: 30%;
-  display: table-cell;
-  padding-top: 6px;
+  /* width: 30%; */
+  /* display: table-cell; */
+  /* padding-top: 6px; */
   /*  vertical-align: middle; */
 }
 
 .t-question {
-  display: table-cell;
-  vertical-align: middle;
+  /* display: table-cell;
+  vertical-align: middle; */
+  /* background-color: #15f5ba; */
 }
 
 .p-image {
-  float: left;
+  /* float: left; */
 }
 
 .p-question {
-  text-align: justify;
+  /* text-align: justify; */
+  /* margin: 0 16px; */
 }
 
 #question > span:not(.cloze) {
