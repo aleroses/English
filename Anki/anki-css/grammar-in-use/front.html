@@ -7,10 +7,8 @@
       <p id="question">{{cloze:Question}}</p>
     </div>
   </div>
-{{/Image}}
-
-{{^Image}}
-  <div id="question">{{cloze:Question}}</div>
+{{/Image}} {{^Image}}
+  <p id="question">{{cloze:Question}}</p>
 {{/Image}}
 
 <div id="choices">{{hint:Choices}}</div>
@@ -25,21 +23,21 @@
 <script>
   (function () {
     var cloze = document.querySelectorAll(".cloze");
+
     for (var i = 0; i < cloze.length; i++) {
       cloze[i].textContent = " ___ ";
     }
 
     var hint = document.querySelectorAll(".hint");
+
     if (hint.length > 0) {
       hint[0].innerHTML = "Hint";
 
       var id = hint[1].getAttribute("id");
-
       var choices = hint[1].innerHTML;
-
       var boxes = choices.split(" | ");
-
       var list = "";
+
       for (var j = 0; j < boxes.length; j++) {
         var arr = boxes[j].split(";");
         if (j != 0) {
@@ -71,6 +69,7 @@
     var isDialog = false;
     var count = 0;
     var lines = `{{cloze::Question}}`.split("<br />");
+
     for (var i = 0; i < lines.length; i++) {
       if (lines[i].indexOf(":") != -1) {
         count = count + 1;
@@ -95,7 +94,7 @@
       !isDialog
     ) {
       document.getElementById("container").className = "";
-      document.getElementById("image").className = "p-image";
+      // document.getElementById("image").className = "p-image";
       document.getElementById("question").className = "";
       document.querySelector(".t-question").className =
         "p-question";
@@ -103,6 +102,7 @@
 
     var question =
       document.getElementById("question").innerHTML;
+
     if (
       /<span class="cloze">[^<]*<\/span> <u>'[^<]*<\/u>/.test(
         question
