@@ -1,14 +1,16 @@
 <header id="rubric">{{Rubric}}</header>
 
 {{#Image}}
-<div id="container">
-  <div id="image" class="t-image">{{Image}}</div>
-  <div class="t-question">
-    <p id="question">{{cloze:Question}}</p>
+  <div id="container">
+    <div id="image" class="t-image">{{Image}}</div>
+    <div class="t-question">
+      <p id="question">{{cloze:Question}}</p>
+    </div>
   </div>
-</div>
-{{/Image}} {{^Image}}
-<div id="question">{{cloze:Question}}</div>
+{{/Image}}
+
+{{^Image}}
+  <p id="question">{{cloze:Question}}</p>
 {{/Image}}
 
 <div id="audio">{{Audio}}</div>
@@ -22,7 +24,7 @@
 
 <script>
   (function () {
-    var question =
+    /* var question =
       document.getElementById("question").innerHTML;
     document.getElementById("question").innerHTML =
       question.replace(/\(<i>[^\)]*<\/i>\)/g, "");
@@ -47,11 +49,12 @@
     );
     question = question.replace(/<\/span> +,/, "</span>,");
     question = question.replace(/ +\./, ".");
-    document.getElementById("question").innerHTML = question;
+    document.getElementById("question").innerHTML = question; */
 
     var isDialog = false;
     var count = 0;
-    var lines = `{{cloze::Question}}`.split("<br />");
+    // var lines = `{{cloze::Question}}`.split("<br />");
+
     for (var i = 0; i < lines.length; i++) {
       if (lines[i].indexOf(":") != -1) {
         count = count + 1;
@@ -61,7 +64,7 @@
       isDialog = true;
     }
     if (isDialog) {
-      var element = document.getElementById("question");
+      // var element = document.getElementById("question");
       var parent = element.parentNode;
       var wrapper = document.createElement("div");
       parent.replaceChild(wrapper, element);
@@ -69,7 +72,7 @@
       element.className = "l";
     }
 
-    if (
+    /* if (
       document.getElementById("question").innerHTML.length >
         400 &&
       document.getElementById("container") != null &&
@@ -80,19 +83,20 @@
       document.getElementById("question").className = "";
       document.querySelector(".t-question").className =
         "p-question";
-    }
+    } */
 
-    if (
+    /* if (
       /<span class="cloze">[^<]*<\/span> ?<u>[^<]*<\/u>/.test(
         question
       )
     ) {
-      /*document.getElementById("question").innerHTML = question.replace(/ ?<u>[^<]*<\/u>/g, "");*/
+      document.getElementById("question").innerHTML = question.replace(/ ?<u>[^<]*<\/u>/g, "");
       var question =
         document.getElementById("question").innerHTML;
       var regex =
         /<span class="cloze">[^<]*<\/span>( ?<u>[^<]*<\/u>)/g;
       var m;
+
       while (
         (m = regex.exec(
           document.getElementById("question").innerHTML
@@ -119,6 +123,6 @@
           cloze_text,
           cloze_text.replace("-", "–")
         );
-    }
+    } */
   })();
 </script>
