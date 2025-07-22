@@ -1,19 +1,19 @@
-<div id="rubric">{{Rubric}}</div>
+<header id="rubric">{{Rubric}}</header>
 
 {{#Image}}
-  <div id="container">
-    <div id="image" class="t-image">{{Image}}</div>
-    <div class="t-question">
-      <p id="question">{{cloze:Question}}</p>
-    </div>
+<div id="container">
+  <div id="image" class="t-image">{{Image}}</div>
+  <div class="t-question">
+    <p id="question">{{cloze:Question}}</p>
   </div>
+</div>
 {{/Image}} {{^Image}}
-  <p id="question">{{cloze:Question}}</p>
+<p id="question">{{cloze:Question}}</p>
 {{/Image}}
 
 <div id="choices">{{hint:Choices}}</div>
 
-{{type:cloze:Question}}
+<section class="match">{{type:cloze:Question}}</section>
 
 <div id="header">
   <div id="category">{{Category}}</div>
@@ -96,12 +96,10 @@
       document.getElementById("container").className = "";
       // document.getElementById("image").className = "p-image";
       document.getElementById("question").className = "";
-      document.querySelector(".t-question").className =
-        "p-question";
+      // document.querySelector(".t-question").className = "p-question";
     }
 
-    var question =
-      document.getElementById("question").innerHTML;
+    // var question = document.getElementById("question").innerHTML;
 
     if (
       /<span class="cloze">[^<]*<\/span> <u>'[^<]*<\/u>/.test(

@@ -23,11 +23,14 @@
 }
 
 .card {
+  /* width: 320px; */
+  max-width: 480px;
   font-family: tahoma;
   font-size: 20px;
-  text-align: center;
+  /* text-align: center; */
   color: var(--first-text-color);
   background-color: var(--first-bg-color);
+  margin: 0 auto;
 }
 
 .card.nightMode {
@@ -132,7 +135,12 @@
   /* margin: 16px; */
   font-size: 18px;
   text-align: left;
+  margin: 0 0 12px 0;
   /* background-color: red; */
+}
+
+#container #question {
+  margin: 0;
 }
 
 .p-image {
@@ -152,28 +160,28 @@
 
 #question u {
   text-decoration: none;
-  display: inline-table;
-  vertical-align: text-top;
+  /* display: inline-table; */
+  /* vertical-align: text-top; */
 }
 
 #question u:before {
   content: "";
   border-bottom: 0.1em solid var(--test-color);
-  display: table-caption;
-  caption-side: bottom;
-  position: relative;
-  padding-top: 2px;
+  /* display: table-caption; */
+  /* caption-side: bottom; */
+  /* position: relative; */
+  /* padding-top: 2px; */
 }
 
 #question i {
   font-family: arial;
 }
 
-#question > p {
+/* #question > p {
   margin: 12px;
   margin-bottom: 0px;
   text-align: center;
-}
+} */
 
 #choices {
   width: 100%;
@@ -229,7 +237,11 @@
 }
 
 #audio {
-  margin-top: 2px;
+  width: 100%;
+  text-align: center;
+  /* background-color: red; */
+  /* margin-top: 2px; */
+  /* margin: 0 auto; */
 }
 
 #choices b,
@@ -285,6 +297,22 @@ input#typeans {
 }
 
 /* Match */
+
+.match {
+  width: 100%;
+  text-align: center;
+  margin: 0 0 12px 0;
+  /* margin: 0 auto; */
+  /* background-color: #06923e; */
+}
+
+#typeans {
+  /* width: 100%; */
+  /* text-align: center; */
+  /* margin: 0 auto; */
+  /* background-color: red; */
+  /* padding: 10px; */
+}
 
 #typeans span {
   background-color: var(--second-bg-color);

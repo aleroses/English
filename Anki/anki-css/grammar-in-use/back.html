@@ -1,21 +1,19 @@
-<div id="rubric">{{Rubric}}</div>
+<header id="rubric">{{Rubric}}</header>
 
 {{#Image}}
-  <div id="container">
-    <div id="image" class="t-image">{{Image}}</div>
-    <div class="t-question">
-      <p id="question">{{cloze:Question}}</p>
-    </div>
+<div id="container">
+  <div id="image" class="t-image">{{Image}}</div>
+  <div class="t-question">
+    <p id="question">{{cloze:Question}}</p>
   </div>
-{{/Image}}
-
-{{^Image}}
-  <div id="question">{{cloze:Question}}</div>
+</div>
+{{/Image}} {{^Image}}
+<div id="question">{{cloze:Question}}</div>
 {{/Image}}
 
 <div id="audio">{{Audio}}</div>
 
-{{type:cloze:Question}}
+<section class="match">{{type:cloze:Question}}</section>
 
 <div id="header">
   <div id="category">{{Category}}</div>
