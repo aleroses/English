@@ -25,12 +25,13 @@
 .card {
   /* width: 320px; */
   max-width: 480px;
-  font-family: tahoma;
+  /* font-family: tahoma; */
   font-size: 20px;
   /* text-align: center; */
   color: var(--first-text-color);
   background-color: var(--first-bg-color);
   margin: 0 auto;
+  font-family: "Roboto Mono", monospace;
 }
 
 .card.nightMode {
@@ -39,9 +40,9 @@
 }
 
 .cloze {
-  font-family: arial;
-  font-size: 20px;
-  /* font-weight: bold; */
+  /* font-family: arial; */
+  /* font-size: 20px; */
+  font-weight: bold;
   color: var(--first-text-color);
 }
 
@@ -50,22 +51,18 @@
 }
 
 #rubric {
-  font-size: 18px;
-  font-family: arial;
+  font-size: 16px;
+  /* font-family: arial; */
   text-align: justify;
-
+  font-weight: bold;
   padding: 8px 14px;
 
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
   color: black;
-  background-color: var(--third-bg-color);
+  /* background-color: var(--third-bg-color); */
 
-  /*  background: linear-gradient(
-    to right,
-    var(--third-bg-color),
-    var(--first-text-color),
-    var(--blend-bg-color)
-  ); */
+  text-shadow: 0 0 2px var(--first-bg-color), 0 0 6px #0f0f0f,
+    0 0 10px var(--second-bg-color);
 
   background: linear-gradient(
     -45deg,
@@ -133,7 +130,7 @@
   /* flex: 1 1 40%; revisar*/
   /* min-width: 180px; */
   /* margin: 16px; */
-  font-size: 18px;
+  font-size: 16px;
   text-align: left;
   margin: 0 0 12px 0;
   /* background-color: red; */
@@ -173,9 +170,9 @@
   /* padding-top: 2px; */
 }
 
-#question i {
+/* #question i {
   font-family: arial;
-}
+} */
 
 /* #question > p {
   margin: 12px;
@@ -189,7 +186,7 @@
   padding: 8px;
   /* margin: 4px auto; */
   /* margin-bottom: 12px; */
-  font-size: 16px;
+  font-size: 14px;
   /* text-align: center; */
 
   /* background-color: #063f3b; */
@@ -207,7 +204,7 @@
 }
 
 .choices_words {
-  font-family: tahoma;
+  /* font-family: tahoma; */
   font-size: 18px;
   text-align: center;
 }
@@ -243,6 +240,7 @@
   /* background-color: red; */
   /* margin-top: 2px; */
   /* margin: 0 auto; */
+  /* margin: 0 0 12px 0; */
 }
 
 #choices b,
@@ -250,18 +248,36 @@
   font-weight: normal;
 }
 
-#header {
-  font-family: calibri;
-  text-align: right;
-  margin-top: 6px;
+#footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  /* font-family: calibri; */
+  /* text-align: right; */
+  /* margin-top: 6px; */
+  margin: 0 0 0 48px;
+  /* background-color: red; */
 }
 
 #category {
+  width: fit-content;
   font-size: 16px;
+  /* background-color: #063f3b; */
 }
 
 #unit {
+  width: fit-content;
   font-size: 12px;
+
+  /* Brillo de neón */
+  color: var(--second-bg-color);
+  font-weight: bold;
+
+  text-shadow: 0 0 2px var(--first-bg-color),
+    0 0 4px var(--first-text-color), 0 0 6px #0f0f0f,
+    0 0 10px var(--second-bg-color);
+  background-color: var(--first-text-color);
+  padding: 0 12px 0 12px;
 }
 
 .l {
