@@ -25,7 +25,6 @@
 .card {
   /* width: 320px; */
   max-width: 480px;
-  /* font-family: tahoma; */
   font-size: 20px;
   /* text-align: center; */
   color: var(--first-text-color);
@@ -35,12 +34,12 @@
 }
 
 .card.nightMode {
+  font-family: "Roboto Mono", monospace;
   color: var(--fourth-text-color);
   background-color: var(--first-bg-color);
 }
 
 .cloze {
-  /* font-family: arial; */
   /* font-size: 20px; */
   font-weight: bold;
   color: var(--first-text-color);
@@ -52,7 +51,6 @@
 
 #rubric {
   font-size: 16px;
-  /* font-family: arial; */
   text-align: justify;
   font-weight: bold;
   padding: 8px 14px;
@@ -219,7 +217,6 @@
 }
 
 .choices_words {
-  /* font-family: tahoma; */
   font-size: 18px;
   text-align: center;
 }
@@ -267,7 +264,6 @@
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  /* font-family: calibri; */
   /* text-align: right; */
   /* margin-top: 6px; */
   margin: 0 0 0 48px;
@@ -354,19 +350,19 @@ input#typeans {
   /*color: var(--error-color);*/
   color: white;
   /*font-weight: 600;*/
-  font-size: 16px;
+  /* font-size: 16px; */
 }
 .typeMissed,
 .typePass {
   color: #268bd2;
   /*font-weight: bold;*/
-  font-size: 16px;
+  /* font-size: 16px; */
 }
 .typeGood {
   color: #2ed85a;
   /* color: var(--good-color); */
   /*font-weight: bold;*/
-  font-size: 16px;
+  /* font-size: 16px; */
 }
 
 .smartstep {
