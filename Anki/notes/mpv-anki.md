@@ -23,6 +23,20 @@ Primero descarga [Anki](https://apps.ankiweb.net/) y añade el add-on [AnkiConne
 - Ingresa el código de la web: **2055492159**
 - Cierra y vuelve a abrir Anki
 
+Para probar la conexión con AnkiConnect abre una terminal y ejecuta:
+
+```bash
+curl localhost:8765
+```
+
+```bash
+# Si funciona, debería responder algo como:
+{"error": "method not found", "result": null}
+
+# O esto
+{"apiVersion": "AnkiConnect v.6"}%   
+```
+
 ### Crear el Note Type en Anki
 
 - Abre **Anki**.
@@ -95,7 +109,7 @@ Cara Reversa (ejemplo):
 
 ## 3. Configuración de MPV
 
-### Descargar Anki y Añadir plugin
+### Descargar MPV y Añadir plugin
 
 Ve a tu gestor de paquetes e instala MPV o busca como instalarlo en tu sistema operativo.
 
@@ -103,7 +117,8 @@ Los siguiente pasos están descritos en la cuenta de GitHub de [SenneH](https://
 
 Ahora descarga y guarda `mpv2anki.lua` en la carpeta de scripts mpv o sigue los siguiente pasos:
 
-Copia este código
+Copia este código: Tambien lo puedes encontrar en el repositorio anterior [mpv2anki.lua](https://github.com/senneh/mpv2anki/blob/master/mpv2anki.lua)
+
 ```lua
 local util = require('mp.utils')
 local msg = require('mp.msg')
@@ -560,6 +575,126 @@ end
 
 mp.add_key_binding(options.shortcut, options.shortcut, menu_open)
 ```
+
+Abre una terminal, dirígete a la siguiente ruta, `~/.config/mpv/scripts/`, en caso la carpeta `scripts` no exista, debes crearla y acceder a ella con:
+
+```bash
+mkdir scripts
+cd scripts
+```
+
+Ahora escribe `vim mpv2anki.lua` para que se te abra el editor.
+
+Para que puedas pegar el código anterior, debes dentro de `Vim`:
+
+- Presionar `i`, esto cambiará al modo escritura.
+- Haces clic derecho pegar
+- Presiona `Esc` para salir del modo de escritura
+- Presiona `:wq` para guardar y salir.
+
+📌 Si no te gusta Vim puedes usar Visual Studio Code o cualquier editor que quieras.
+
+Ahora ingresa a esta ruta `~/.config/mpv/script-opts/`, nuevamente si la carpeta `script-opts` no existe creala:
+
+```bash
+cd ..
+pwd
+/home/username/.config/mpv
+
+mkdir script-opts
+cd script-opts
+```
+
+Crea el archivo `mpv2anki.conf` usando `vim mpv2anki.conf` e ingresa esta configuración:
+
+```bash
+# This is the only required value. replace "user" and "profile" with your own.
+# This must be an absolute path. '~' for home dir will NOT work
+media_path=/home/user/.local/share/Anki2/profile/collection.media/
+
+# These are the other options containing their default values.
+deckname=mpv2anki
+# The note type
+modelName=mpv2anki
+
+# You can use these options to remap the fields
+field_audio=audio
+field_snapshot=snapshot
+field_subtitle1=subtitle1
+field_subtitle2=subtitle2
+field_start_time=start_time
+field_end_time=end_time
+field_snapshot_time=snapshot_time
+field_title=title
+
+# The url and port AnkiConnect uses. This should be the default 
+anki_url=localhost:8765
+
+# The font size used in the menu.
+font_size=20
+shortcut=shift+f
+
+# audio & snapshot options
+audio_bitrate=128k
+snapshot_height=480
+```
+
+📌 En la configuración anterior debes cambiar `user`, `profile`, `deckname` por el nombre del Deck que creaste anteriormente en mi caso le coloqué `MyEnglish`
+
+Como ejemplo te dejo mi configuración:
+
+```bash
+media_path=/home/ghost/.local/share/Anki2/Ghost/collection.media/
+
+# These are the other options containing their default values.
+deckname=MyEnglish
+modelName=mpv2anki
+
+# You can use these options to remap the fields
+field_audio=audio
+field_snapshot=snapshot
+field_subtitle1=subtitle1
+field_subtitle2=subtitle2
+field_start_time=start_time
+field_end_time=end_time
+field_snapshot_time=snapshot_time
+field_title=title
+
+# The font size used in the menu.
+font_size=20
+shortcut=shift+f
+
+# audio & snapshot options
+audio_bitrate=128k
+snapshot_height=480
+```
+
+Para que puedas pegar el código anterior, dentro de `Vim`:
+
+- Presionar `i`, esto cambiará al modo escritura.
+- Haces clic derecho pegar
+- Presiona `Esc` para salir del modo de escritura
+- Presiona `:wq` para guardar y salir.
+
+## 4. Uso
+
+- Abre un video en MPV.
+- Presiona `Shift + F` → se abre el menú de **mpv2anki** (lo verás en pantalla).
+- Asegúrate de que Anki también está abierto.
+- Con las teclas:
+    
+    - `1` → marca inicio de audio
+        
+    - `2` → marca final de audio
+        
+    - `3` → snapshot de video
+        
+    - `d` → selecciona subtítulo actual
+        
+    - `e` → crea una nota en Anki (aparece la ventana de añadir tarjeta)
+        
+    - `Shift+E` → crea directamente la tarjeta sin mostrar ventana
+
 
 
 
