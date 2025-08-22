@@ -1,6 +1,6 @@
 # MPV + Anki (mpv2anki): Configuración y uso
 
-MPV es un reproductor multimedia gratuito y de código abierto, basado en MPlayer y mplayer2, que funciona en varios sistemas operativos como Linux, macOS y Windows.
+[MPV]https://mpv.io/ es un reproductor multimedia gratuito y de código abierto, basado en MPlayer y mplayer2, que funciona en varios sistemas operativos como Linux, macOS y Windows.
 
 Usaremos Anki + Plugins y MPV + Plugins para crear tarjetas en Anki con audios de videos que tengas descargados.
 
@@ -94,7 +94,6 @@ Cara Reversa (ejemplo):
 <div style="margin-top: 15px; text-align: center;">
     {{audio}}
 </div>
-
 ```
 
 ### Crear un nuevo Deck
@@ -699,6 +698,8 @@ Para que puedas pegar el código anterior, dentro de `Vim`:
 
 
 
+
+https://github.com/mpv-player/mpv/wiki/User-Scripts
 
 
 https://github.com/senneh/mpv2anki/blob/master/mpv2anki.lua
