@@ -137,6 +137,10 @@
   /* background-color: #eb1d36; */
 }
 
+#container #question {
+  margin: 0;
+}
+
 #question {
   /* flex: 1 1 40%; revisar*/
   /* min-width: 180px; */
@@ -149,9 +153,10 @@
   /* background-color: #eb1d36; */
 }
 
-#container #question {
-  margin: 0;
-}
+/* #question br {
+  margin: 12px 0 0 0;
+  border: 1px solid red;
+} */
 
 .p-image {
   /* float: left; */
