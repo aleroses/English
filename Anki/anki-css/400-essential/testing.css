@@ -190,7 +190,7 @@
 
 .front-flashcard .details ul {
   width: 100%;
-  height: 190px;
+  height: 178px;
 
   display: flex;
   flex-wrap: wrap;
@@ -383,11 +383,12 @@ b {
 
 .stop svg path {
   fill: var(--second-bg-color);
-  stroke: var(--second-text-color);
+  stroke: var(--learn-word);
 }
 
 .word-sound svg path {
-  stroke: var(--first-text-color);
+  /* stroke: var(--first-text-color); */
+  /* stroke: var(--test-color); */
 
   animation: stroke-flicker 5s ease-in-out infinite;
 }
@@ -409,7 +410,7 @@ b {
   0%,
   100% {
     stroke: var(--test-color);
-    fill: var(--second-bg-color);
+    fill: var(--learn-word);
   }
 
   50% {
