@@ -87,13 +87,18 @@ $RECYCLE.BIN/
 *.mp4
 
 *.pdf
+*.epub
 *.xlsx
 *.apkg
+*.apk
 
 *.zip
 *.rar
 *.tar
 
+*.srt
+*.ts
+
 *.obsidian
 
-Others/
+# Others/
