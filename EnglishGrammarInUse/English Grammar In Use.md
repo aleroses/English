@@ -254,7 +254,211 @@ b) is going to
 
 ## 🐣 4. Modals
 
-## ✏️ 5. Passive
+### Unit 26 – **can, could and (be) able to**
+
+- **can** = habilidad o posibilidad en presente/futuro.  
+    _I can swim._ (Sé nadar).
+    
+- **could** = habilidad en pasado o posibilidad hipotética.  
+    _When I was a child, I could run fast._
+    
+- **be able to** = más formal, se usa en todos los tiempos.  
+    _I haven’t been able to sleep lately._ (No he podido dormir).
+    
+
+### Unit 27 – **could (do) and could have (done)**
+
+- **could do** = posibilidad presente/futura.  
+    _We could go to the cinema tonight._
+    
+- **could have done** = posibilidad pasada que no ocurrió.  
+    _You could have hurt yourself!_ (¡Pudiste haberte hecho daño!).
+    
+
+---
+
+### Unit 28 – **must and can’t**
+
+- **must** = deducción lógica positiva.  
+    _You’ve been working all day – you must be tired._
+    
+- **can’t** = deducción lógica negativa.  
+    _That can’t be true!_ (¡Eso no puede ser verdad!).
+    
+
+---
+
+### Unit 29 – **may and might 1**
+
+- **may / might** = posibilidad en presente/futuro.  
+    _She may be at home._ (Quizá esté en casa).  
+    _It might rain later._ (Podría llover más tarde).
+    
+- Diferencia: _might_ = menos seguro que _may_.
+    
+
+---
+
+### Unit 30 – **may and might 2**
+
+- **may have / might have + past participle** = posibilidad pasada.  
+    _She may have missed the train._ (Quizá perdió el tren).
+    
+- **might not have** = es posible que no.  
+    _He might not have seen your message._
+    
+
+---
+
+### Unit 31 – **have to and must**
+
+- **have to** = obligación externa (reglas, circunstancias).  
+    _I have to wear a uniform at work._
+    
+- **must** = obligación interna o personal.  
+    _I must call my parents tonight._
+    
+
+---
+
+### Unit 32 – **must, mustn’t, needn’t**
+
+- **mustn’t** = prohibición.  
+    _You mustn’t park here._ (Prohibido estacionar).
+    
+- **needn’t** = no es necesario.  
+    _You needn’t come early._ (No hace falta que vengas temprano).
+    
+
+---
+
+### Unit 33 – **should 1**
+
+- **should** = consejo, recomendación.  
+    _You should see a doctor._
+    
+- También expectativa:  
+    _The train should arrive soon._
+    
+
+---
+
+### Unit 34 – **should 2**
+
+- **should have + participio** = algo que era recomendable en el pasado pero no ocurrió.  
+    _You should have called me._ (Deberías haberme llamado).
+    
+- **shouldn’t have + participio** = algo que hiciste pero no era correcto.  
+    _I shouldn’t have said that._
+    
+
+---
+
+### Unit 35 – **I’d better … / it’s time …**
+
+- **I’d better + verbo** = sería mejor que (consejo fuerte).  
+    _I’d better study for the exam._
+    
+- **It’s time + past simple** = ya es hora de.  
+    _It’s time we left._
+    
+
+---
+
+### Unit 36 – **would**
+
+- Deseos/hábitos pasados:  
+    _When we were kids, we would play outside all day._
+    
+- Condicionales irreales:  
+    _I would travel more if I had money._
+    
+
+---
+
+### Unit 37 – **can/could/would you … ?**
+
+(Pedidos, ofertas, permiso, invitaciones)
+
+- _Can I use your phone?_ (Permiso).
+    
+- _Could you help me?_ (Petición cortés).
+    
+- _Would you like some coffee?_ (Oferta / invitación).
+    
+
+---
+
+## 📘 5. If and Wish
+
+### 🔹 Unit 38 – **if I do … and if I did …**
+
+- **if + present → will** (condicional real).  
+    _If it rains, we’ll stay home._
+    
+- **if + past → would** (condicional irreal).  
+    _If I had a car, I would travel more._
+    
+
+---
+
+### 🔹 Unit 39 – **if I knew … / I wish I knew …**
+
+- **if + past** → situación irreal en presente.  
+    _If I knew her number, I would call her._
+    
+- **wish + past simple** = desear que algo fuera diferente ahora.  
+    _I wish I spoke better English._
+    
+
+---
+
+### 🔹 Unit 40 – **if I had known … / I wish I had known …**
+
+- **if + past perfect → would have + participle** (condicional irreal en pasado).  
+    _If I had studied, I would have passed._
+    
+- **wish + past perfect** = lamento sobre el pasado.  
+    _I wish I had gone to the party._
+    
+
+---
+
+### 🔹 Unit 41 – **wish**
+
+- **wish + past simple** = deseo sobre presente.  
+    _I wish I had more time._
+    
+- **wish + past perfect** = lamento sobre el pasado.  
+    _I wish I hadn’t said that._
+    
+- **wish + would** = queja sobre lo que otra persona hace.  
+    _I wish you would stop smoking._
+    
+
+---
+
+✅ En resumen:
+
+- Units 26–37 → cómo usar **modals** para habilidad, permiso, posibilidad, obligación, consejos y pedidos.
+    
+- Units 38–41 → cómo expresar **condiciones irreales** y **deseos** con _if_ y _wish_.
+    
+
+---
+
+¿Quieres que te prepare una **tabla comparativa con ejemplos en presente, pasado y futuro** para cada modal y cada tipo de condicional/wish?
+
+
+
+
+
+
+
+
+
+
+## ✏️ 6. Passive
 
 ### 42 Passive 1 (is done / was done)
 
