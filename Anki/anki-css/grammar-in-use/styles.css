@@ -73,6 +73,14 @@
   font-weight: 600;
 }
 
+#rubric i {
+  color: #f75270;
+  text-shadow: 0 0 5px #ff4ff8, 0 0 10px #ff4ff8,
+    0 0 20px #ff99ff;
+  /* font-style: normal; */
+  font-weight: 700;
+}
+
 #container {
   width: 100%;
   height: auto;

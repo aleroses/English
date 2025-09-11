@@ -1,1 +1,0 @@
-Traduce al castellano estas oraciones (se lo mas preciso posible), entrégame una tabla común y corriente (para un usuario común, no html, no css) con 3 cabeceras. Primero una numeración, segundo Meaning_translation y tercero Example_translation. Incluye las etiquetas html donde corresponda.
