@@ -628,8 +628,6 @@ f) **Infinitivo perfecto pasivo**
         (Los problemas parecen haber sido resueltos).
         
 
----
-
 #### Resumen de formas
 
 - **be done** → se hace / será hecho.
