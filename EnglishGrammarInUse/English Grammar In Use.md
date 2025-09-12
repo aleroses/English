@@ -275,8 +275,6 @@ b) is going to
     _You could have hurt yourself!_ (¡Pudiste haberte hecho daño!).
     
 
----
-
 ### Unit 28 – **must and can’t**
 
 - **must** = deducción lógica positiva.  
@@ -285,8 +283,6 @@ b) is going to
 - **can’t** = deducción lógica negativa.  
     _That can’t be true!_ (¡Eso no puede ser verdad!).
     
-
----
 
 ### Unit 29 – **may and might 1**
 
@@ -297,8 +293,6 @@ b) is going to
 - Diferencia: _might_ = menos seguro que _may_.
     
 
----
-
 ### Unit 30 – **may and might 2**
 
 - **may have / might have + past participle** = posibilidad pasada.  
@@ -307,8 +301,6 @@ b) is going to
 - **might not have** = es posible que no.  
     _He might not have seen your message._
     
-
----
 
 ### Unit 31 – **have to and must**
 
@@ -319,8 +311,6 @@ b) is going to
     _I must call my parents tonight._
     
 
----
-
 ### Unit 32 – **must, mustn’t, needn’t**
 
 - **mustn’t** = prohibición.  
@@ -329,8 +319,6 @@ b) is going to
 - **needn’t** = no es necesario.  
     _You needn’t come early._ (No hace falta que vengas temprano).
     
-
----
 
 ### Unit 33 – **should 1**
 
@@ -341,8 +329,6 @@ b) is going to
     _The train should arrive soon._
     
 
----
-
 ### Unit 34 – **should 2**
 
 - **should have + participio** = algo que era recomendable en el pasado pero no ocurrió.  
@@ -351,8 +337,6 @@ b) is going to
 - **shouldn’t have + participio** = algo que hiciste pero no era correcto.  
     _I shouldn’t have said that._
     
-
----
 
 ### Unit 35 – **I’d better … / it’s time …**
 
@@ -363,8 +347,6 @@ b) is going to
     _It’s time we left._
     
 
----
-
 ### Unit 36 – **would**
 
 - Deseos/hábitos pasados:  
@@ -373,8 +355,6 @@ b) is going to
 - Condicionales irreales:  
     _I would travel more if I had money._
     
-
----
 
 ### Unit 37 – **can/could/would you … ?**
 
@@ -391,7 +371,7 @@ b) is going to
 
 ## 📘 5. If and Wish
 
-### 🔹 Unit 38 – **if I do … and if I did …**
+### Unit 38 – **if I do … and if I did …**
 
 - **if + present → will** (condicional real).  
     _If it rains, we’ll stay home._
@@ -400,9 +380,7 @@ b) is going to
     _If I had a car, I would travel more._
     
 
----
-
-### 🔹 Unit 39 – **if I knew … / I wish I knew …**
+### Unit 39 – **if I knew … / I wish I knew …**
 
 - **if + past** → situación irreal en presente.  
     _If I knew her number, I would call her._
@@ -411,9 +389,7 @@ b) is going to
     _I wish I spoke better English._
     
 
----
-
-### 🔹 Unit 40 – **if I had known … / I wish I had known …**
+### Unit 40 – **if I had known … / I wish I had known …**
 
 - **if + past perfect → would have + participle** (condicional irreal en pasado).  
     _If I had studied, I would have passed._
@@ -422,9 +398,7 @@ b) is going to
     _I wish I had gone to the party._
     
 
----
-
-### 🔹 Unit 41 – **wish**
+### Unit 41 – **wish**
 
 - **wish + past simple** = deseo sobre presente.  
     _I wish I had more time._
@@ -445,22 +419,59 @@ b) is going to
 - Units 38–41 → cómo expresar **condiciones irreales** y **deseos** con _if_ y _wish_.
     
 
+### Was - Were
+
+En la frase:
+
+**If I were / was a pop star or film star, I'd be happy. I'd like to be famous.**  
+= _Si yo fuera una estrella de pop o de cine, sería feliz. Me gustaría ser famoso._
+
+¿Por qué aparecen **were** y **was**?
+
+- En inglés **tradicional y más formal**, con el **second conditional** y especialmente con **I/he/she/it**, se prefiere usar **were** en lugar de **was**.  
+    👉 Esto se llama **subjunctive were**.
+    
+
+Ejemplo:
+
+- _If I were rich, I’d buy a big house._
+    
+- _If she were here, she’d help us._
+    
+- En el **uso cotidiano** (informal), la mayoría de hablantes dice **was** con “I”.  
+    👉 _If I was rich, I’d buy a big house._ (muy común en conversación).
+    
+
+#### Regla práctica
+
+- **Were** = más formal, correcto gramaticalmente, típico en escritura o inglés cuidado.
+    
+- **Was** = aceptado en inglés hablado, más natural en el día a día.
+    
+
+📌 Ejemplos:
+
+- Formal / subjuntivo: _If I were you, I wouldn’t do that._ → _Si yo fuera tú, no haría eso._
+    
+- Conversación: _If I was you, I wouldn’t do that._ (la gente lo dice así en la vida real).
+    
+
 ---
 
-¿Quieres que te prepare una **tabla comparativa con ejemplos en presente, pasado y futuro** para cada modal y cada tipo de condicional/wish?
+👉 Entonces, en tu frase ambos son posibles:
 
+- _If I were a pop star…_ (más formal/tradicional).
+    
+- _If I was a pop star…_ (más coloquial/común).
+    
 
+¿Quieres que te arme una **mini tabla** con ejemplos de **If I were** vs **If I was** en diferentes contextos para que veas la diferencia de registro (formal/informal)?
 
-
-
-
-
-
-
+---
 
 ## ✏️ 6. Passive
 
-### 42 Passive 1 (is done / was done)
+### Unit 42 Passive 1 (is done / was done)
 
 #### Diferencia entre voz activa y pasiva
 
@@ -474,8 +485,6 @@ b) is going to
     
 
 👉 En pasiva, lo importante es **lo que le ocurre al sujeto**, no quién lo hace.
-
----
 
 #### Estructura de la pasiva
 
@@ -494,8 +503,6 @@ Ejemplos:
 
 ⚠️ Ojo: muchos participios son irregulares (_built, done, stolen_).
 
----
-
 #### Cuándo usamos la pasiva
 
 - Cuando **no sabemos** quién hace la acción:  
@@ -510,8 +517,6 @@ Ejemplos:
     _This house was built by my grandfather._  
     (Esta casa fue construida por mi abuelo).
     
-
----
 
 #### Comparación de tiempos
 
@@ -528,8 +533,6 @@ Ejemplos:
     (Esta habitación fue limpiada ayer).
     
 
----
-
 #### Ejemplos prácticos
 
 - _Two hundred people are employed by the company._  
@@ -542,20 +545,7 @@ Ejemplos:
     (¿Cuánto dinero fue robado en el asalto?).
     
 
----
-
-#### 👉 Resumen rápido:
-
-- Activa = alguien hace la acción.
-    
-- Pasiva = alguien recibe la acción.
-    
-- Fórmula = **be + participio pasado**.
-    
-- Se usa cuando no sabemos o no importa quién hizo la acción.
-    
-
-### 43 Passive 2 (be done / been done / being done)
+### Unit 43 Passive 2 (be done / been done / being done)
 
 #### Pasivo en diferentes tiempos
 
@@ -605,6 +595,7 @@ d) **Pasado continuo**
 - **Activo**: _Somebody was cleaning the room when I arrived._
     
 - **Pasivo**: _The room was being cleaned when I arrived._
+	(La habitación estaba siendo limpiada cuando llegué.)
     
 
 ---
@@ -648,25 +639,77 @@ f) **Infinitivo perfecto pasivo**
 - **being done** → está siendo hecho / estaba siendo hecho.
     
 
+### Unit 44 – Passive 3
+
+Uso del pasivo en construcciones especiales.
+
+- Verbos de **dicción, creencia, pensamiento, conocimiento** (say, think, believe, know, report…):
+    
+    - Activa: _People say she is a good teacher._
+        
+    - Pasiva:
+        
+        - _She is said to be a good teacher._
+            
+        - _It is said that she is a good teacher._
+            
+- Con tiempos perfectos e infinitivos:
+    
+    - _He is thought to have left the country._
+        
+    - _They are believed to have been stolen._
+        
+
+### Unit 45 – it is said that … / he is said to … / he is supposed to …
+
+- Dos formas para expresar rumores o creencias:
+    
+    1. _It is said that he lives in New York._
+        
+    2. _He is said to live in New York._
+        
+- Otros verbos: _suppose, expect, know, consider, report, believe, think…_
+    
+    - _She is supposed to be very strict._ (Se supone que es estricta).
+        
+    - _He is expected to arrive soon._ (Se espera que llegue pronto).
+        
+    - _They are considered to be good workers._
+        
+
 ---
 
-#### Ejemplos prácticos
+### Unit 46 – have something done
 
-- _A new bridge is being built across the river._  
-    (Un nuevo puente está siendo construido).
+No es exactamente pasivo, sino una estructura especial.  
+👉 Fórmula: **have/has + objeto + participio pasado**.
+
+- _I had my hair cut yesterday._  
+    (Me corté el cabello / hicieron que me lo corten).
     
-- _The car had been repaired before we arrived._  
-    (El auto ya había sido reparado antes de que llegáramos).
+- _We’re having the house painted._  
+    (Estamos haciendo que pinten la casa).
     
-- _Something must be done before it’s too late._  
-    (Debe hacerse algo antes de que sea demasiado tarde).
+- Expresa que alguien **hace un servicio por ti**.
+    
+- También puede usarse cuando algo negativo ocurre:  
+    _He had his car stolen last week._ (Le robaron su coche).
+    
+
+---
+
+✅ En resumen:
+
+- **42–43**: lo básico y los tiempos verbales de la voz pasiva.
+    
+- **44–45**: expresiones impersonales (_it is said… / he is believed to…_).
+    
+- **46**: estructura especial “have something done” (servicios, experiencias).
     
 
 ### Get
 
 El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _conseguir_, también funciona como **auxiliar informal** para formar pasiva, expresar cambios de estado o recibir algo. 
-
----
 
 #### 1. _I was afraid of **getting separated** from them in the crowd._
 
@@ -677,8 +720,6 @@ El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _cons
 - Traducción: _Tenía miedo de ser separado de ellos en la multitud._  
     👉 Uso: describe un estado que puede ocurrirle al sujeto.
     
-
----
 
 #### 2. _Sonia **got promoted** last week after only six months in her job._
 
@@ -692,8 +733,6 @@ El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _cons
     - _She got promoted_ = más conversacional
         
 
----
-
 #### 3. _We don't want the phone to **get disconnected.**_
 
 - Igual que arriba: **get + participio** = _be disconnected_.
@@ -701,8 +740,6 @@ El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _cons
 - Traducción: _No queremos que el teléfono sea desconectado._  
     👉 De nuevo, pasiva informal.
     
-
----
 
 #### 4. _Paul usually **gets given** money for his birthday…_
 
@@ -713,8 +750,6 @@ El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _cons
 - Equivalente: _Paul is usually given money…_  
     👉 Se usa **get** para sonar menos formal que con _be_.
     
-
----
 
 #### 📌 En resumen:
 
@@ -742,8 +777,6 @@ El verbo **get** en inglés es muy flexible: no solo significa _obtener_ o _cons
     
 - _The museum gets visited…_ = más hablado, natural en la vida diaria.
     
-
----
 
 #### 6 . _My trousers **got torn** when I fell off my bike._
 
@@ -781,14 +814,10 @@ Si en español decimos _“se me rompieron los pantalones”_, ese “se me” r
 
 Aquí se juntan dos cosas: la **voz pasiva** y el **infinitivo (_to be_)**.
 
----
-
 #### 📌 La frase
 
 > _The Mona Lisa **is said to be** the most famous painting in the world._  
 > Traducción: _Se dice que la Mona Lisa es la pintura más famosa del mundo._
-
----
 
 #### 🚦 Paso 1: ¿Qué significa _is said_?
 
@@ -796,8 +825,6 @@ Aquí se juntan dos cosas: la **voz pasiva** y el **infinitivo (_to be_)**.
     
 - O sea: “La gente dice que…”
     
-
----
 
 #### 🚦 Paso 2: ¿Por qué aparece _to be_?
 
@@ -809,8 +836,6 @@ En inglés, cuando se usa esta estructura con pasiva, muchas veces se añade un 
     
 
 👉 Ese **to be** funciona como el verbo principal de lo que “se dice”.
-
----
 
 #### 📌 Estructura general:
 
@@ -825,8 +850,6 @@ Ejemplos:
 - _This drug is known **to cause** side effects._ → Se sabe que esta medicina causa efectos secundarios.
     
 
----
-
 #### 🚦 Diferencia con español
 
 En español usamos “que” + verbo:
@@ -836,8 +859,6 @@ En español usamos “que” + verbo:
     
 - _The Mona Lisa is said to be…_
     
-
----
 
 👉 Entonces:
 
@@ -864,9 +885,7 @@ La fórmula es:
     (Vamos a hacer que pinten la casa).
     
 
----
-
-#### 📘 Ahora tu ejemplo
+#### Ahora tu ejemplo
 
 **Every week Amy has her nails painted by Rachel at the beauty salon.**
 
@@ -884,8 +903,6 @@ La fórmula es:
 👉 Significa:  
 “Amy se hace pintar las uñas cada semana en el salón de belleza (Rachel se las pinta).”
 
----
-
 #### 🚩 Diferencia clave
 
 - **Pasivo normal**: _Her nails are painted every week._  
@@ -901,14 +918,10 @@ La fórmula es:
 
 Aquí **get** aparece en otro de sus usos flexibles: no como “obtener”, sino como un auxiliar para expresar que **hago que alguien más realice una acción por mí**.
 
----
-
 #### 📌 La frase
 
 > _I must **get it translated**_  
 > Traducción natural: _Debo hacer que lo traduzcan_ o _Debo conseguir que lo traduzcan_.
-
----
 
 #### 🚦 Paso 1: ¿Qué significa aquí _get_?
 
@@ -916,8 +929,6 @@ Se usa en la estructura:
 **get + objeto + participio pasado**
 
 👉 Significa: _hacer que algo se haga por otra persona_, parecido a la idea de _have something done_.
-
----
 
 #### 🚦 Paso 2: Ejemplos
 
@@ -928,8 +939,6 @@ Se usa en la estructura:
 - _We must get the computer fixed._ → Tenemos que hacer que reparen la computadora.
     
 
----
-
 #### 🚦 Paso 3: Diferencia con usar _do_ uno mismo
 
 - _I’ll cut my hair tomorrow._ → Yo mismo me lo corto.
@@ -937,19 +946,15 @@ Se usa en la estructura:
 - _I’ll get my hair cut tomorrow._ → Voy a una peluquería y alguien más me lo corta.
     
 
----
-
 #### 📌 En tu ejemplo
 
 - _I must get it translated_ → No significa que **yo** lo voy a traducir, sino que **voy a buscar a alguien que lo traduzca** (porque no sé suficiente alemán).
     
 
----
-
 👉 Truco: cuando veas **get + objeto + participio**, piensa:  
 **“hacer que alguien haga algo por mí / para mí”**.
 
----
+
 
 
 
@@ -1031,4 +1036,3 @@ Emojis que transmiten desafío, profundidad y logro:
 👉 La idea es que empieces con **😀, 🙂, 🤓** y conforme avanza el libro vayas subiendo a **🤔, 😅, 🧩** y termines en **🧐, 🧠, 🏆**.  
 Así, visualmente ya sabes que la cosa se va poniendo más intensa.
 
-¿Quieres que te haga una **lista capítulo por capítulo (Unit 1 a la 145)** con un emoji asignado a cada uno según su dificultad? 🚀
