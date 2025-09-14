@@ -1,16 +1,25 @@
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link
+  rel="preconnect"
+  href="https://fonts.gstatic.com"
+  crossorigin
+/>
+<link
+  href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap"
+  rel="stylesheet"
+/>
+
 <header id="rubric">{{Rubric}}</header>
 
 {{#Image}}
-  <div id="container">
-    <div id="image" class="t-image">{{Image}}</div>
-    <div class="t-question">
-      <p id="question">{{cloze:Question}}</p>
-    </div>
+<div id="container">
+  <div id="image" class="t-image">{{Image}}</div>
+  <div class="t-question">
+    <p id="question">{{cloze:Question}}</p>
   </div>
-{{/Image}}
-
-{{^Image}}
-  <p id="question">{{cloze:Question}}</p>
+</div>
+{{/Image}} {{^Image}}
+<p id="question">{{cloze:Question}}</p>
 {{/Image}}
 
 <div id="choices">{{hint:Choices}}</div>

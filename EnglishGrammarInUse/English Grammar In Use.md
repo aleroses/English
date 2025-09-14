@@ -338,7 +338,7 @@ b) is going to
     _I shouldn’t have said that._
     
 
-### Unit 35 – **I’d better … / it’s time …**
+### Unit 35 – **I’d better … / it’s time …** (I had better)
 
 - **I’d better + verbo** = sería mejor que (consejo fuerte).  
     _I’d better study for the exam._
