@@ -136,14 +136,501 @@ A self-study reference and practice book for intermediate learners of English wi
 
 ## 🙂 2. Present perfect and past
 
+### Unit 7 – Present Perfect 1 (I have done)
 
+#### 1. Forma
 
+- **have/has + past participle**
+    
+    - I/you/we/they **have** done → I’ve done
+        
+    - He/she/it **has** done → He’s done
+        
 
+#### 2. Uso principal
 
+El **present perfect** conecta el pasado con el presente.
 
+- Algo ocurrió en el pasado, pero **tiene un resultado o relevancia ahora**.
+    
 
+**Ejemplos:**
 
+- _Tom has lost his key._ (= no la tiene ahora)
+    
+- _I’ve cut my finger._ (= está sangrando ahora)
+    
+- _The road is closed. There’s been an accident._ (= ahora está cerrada)
+    
 
+#### 3. Diferencia entre _gone_ y _been_
+
+- _He has gone to Italy._ (= todavía está allí o de camino)
+    
+- _He has been to Italy._ (= ya fue y regresó)
+    
+
+#### 4. Palabras comunes
+
+- **just, already, yet**
+    
+    - _I’ve just had lunch._
+        
+    - _I’ve already paid the bill._
+        
+    - _Have you finished yet?_
+        
+
+### Unit 8 – Present Perfect 2 (I have done)
+
+#### 1. Periodo de tiempo que continúa hasta ahora
+
+Se usa con expresiones como:
+
+- **in my life, recently, in the last few days, so far, since, this week, today, this year**
+    
+
+**Ejemplos:**
+
+- _I’ve been to China twice._
+    
+- _I’ve never ridden a horse._
+    
+- _Have you seen Anna this morning?_ (= todavía es de mañana)
+    
+
+#### 2. Experiencias (ever / never)
+
+- _Have you ever ridden a horse?_
+    
+- _I’ve never tried sushi._
+    
+
+#### 3. “It’s the first/second time …”
+
+- _It’s the first time I’ve driven a car._
+    
+- _This is the second time it has happened._
+    
+
+#### 4. Diferencia con Past Simple
+
+- Present perfect: experiencia o periodo hasta ahora → _I’ve travelled a lot._
+    
+- Past simple: hecho terminado en un tiempo acabado → _I travelled a lot last year._
+    
+
+### Unit 9 – Present Perfect Continuous (I have been doing)
+
+#### 1. Forma
+
+- **have/has + been + verb-ing**
+    
+    - I/you/we/they have been working
+        
+    - He/she/it has been working
+        
+
+#### 2. Uso principal
+
+1. **Actividad que empezó en el pasado y continúa ahora**
+    
+    - _How long have you been learning English?_
+        
+    - _It’s been raining for two hours._
+        
+2. **Actividad reciente (acabada o casi acabada) con efecto visible ahora**
+    
+    - _You’re out of breath. Have you been running?_
+        
+    - _He’s tired. He’s been working hard._
+        
+3. **Acciones repetidas**
+    
+    - _They’ve been going to the same café for years._
+        
+
+#### 3. Comparación con Present Continuous
+
+- Present continuous = lo que pasa **ahora**: _I’m working._
+    
+- Present perfect continuous = lo que pasa **durante un periodo hasta ahora**: _I’ve been working all morning._
+    
+
+---
+
+✅ En resumen:
+
+- **Unit 7 (have done)**: acción pasada con efecto presente.
+    
+- **Unit 8 (have done 2)**: experiencias y periodos que continúan hasta ahora.
+    
+- **Unit 9 (have been doing)**: actividades en progreso o repetidas hasta el presente.
+    
+
+### 🔹 Unit 10 – Present Perfect Continuous **and** Simple (I have been doing / I have done)
+
+#### 1. Diferencia clave
+
+- **Present Perfect Continuous (have/has been + -ing)**  
+    🔹 Se centra en la **actividad**, en la duración o repetición.
+    
+    - _She has been painting her bedroom._ (actividad, quizá no terminada)
+        
+    - _I’ve been working hard, so now I need a rest._
+        
+- **Present Perfect Simple (have/has + past participle)**  
+    🔹 Se centra en el **resultado o finalización**.
+    
+    - _She has painted her bedroom._ (el resultado: ahora está pintado)
+        
+    - _I’ve finished the book. You can have it now._
+        
+
+#### 2. Ejemplos comparativos
+
+- _My hands are dirty. I’ve been repairing my bike._ (actividad, causa visible)
+    
+- _The bike is OK again. I’ve repaired it._ (resultado final)
+    
+
+#### 3. Verbos de estado
+
+Algunos verbos (know, like, believe, etc.) normalmente no se usan en continuous:
+
+- _I’ve known her for a long time_ (NO _I’ve been knowing_).
+    
+
+---
+
+### 🔹 Unit 11 – How long have you (been) … ?
+
+#### 1. Uso con **How long … ?**
+
+- Para preguntar y hablar de la duración de una acción o situación que **empezó en el pasado y continúa ahora**.
+    
+
+**Ejemplos:**
+
+- _How long have you been learning English?_ (y todavía estudias)
+    
+- _How long has she had that car?_ (y todavía lo tiene)
+    
+
+#### 2. Continuous vs Simple
+
+- **Have been doing** → se usa con acciones repetidas o continuas.
+    
+    - _How long have you been working here?_
+        
+- **Have done / Have had / Have known …** → se usa con situaciones permanentes o verbos de estado.
+    
+    - _How long have you known Chris?_
+        
+    - _I’ve had my phone since 2019._
+        
+
+#### 3. Respuestas típicas
+
+- _I’ve been waiting for two hours._
+    
+- _We’ve lived here since 2010._
+    
+
+### 🔹 Unit 12 – For and Since / When … ? and How long … ?
+
+#### 1. **For** y **Since**
+
+- **for + periodo de tiempo** (cuánto dura)
+    
+    - _for two hours, for a week, for five years_
+        
+    - _I’ve been here for three days._
+        
+- **since + punto en el tiempo** (cuándo empezó)
+    
+    - _since Monday, since 2010, since I was a child_
+        
+    - _I’ve lived here since 2015._
+        
+
+👉 Ambos se usan con present perfect (simple o continuous).
+
+#### 2. Preguntas con **When … ?** y **How long … ?**
+
+- **When … ?** → se usa con **past simple** (tiempo terminado).
+    
+    - _When did it start raining?_
+        
+    - _When did you buy your car?_
+        
+- **How long … ?** → se usa con **present perfect** (tiempo hasta ahora).
+    
+    - _How long has it been raining?_
+        
+    - _How long have you had your car?_
+        
+
+#### 3. Ejemplos clave
+
+- _It’s been raining for two hours._ (duración → todavía llueve)
+    
+- _It started raining two hours ago._ (pasado simple → inicio)
+    
+- _I’ve had this watch since my birthday._
+    
+- _When did you get it?_
+    
+
+---
+
+✅ En resumen:
+
+- **Unit 10** → diferencia entre _have been doing_ (actividad, duración) y _have done_ (resultado, acción terminada).
+    
+- **Unit 11** → usamos _How long have you (been) … ?_ para duración hasta ahora.
+    
+- **Unit 12** → _for_ = periodo, _since_ = punto de inicio; _When … ?_ = past simple, _How long … ?_ = present perfect.
+    
+
+### 🔹 Unit 13 – Present Perfect and Past 1 (I have done / I did)
+
+#### 1. Diferencia principal
+
+- **Present Perfect (have/has + participio)** → Se usa cuando el tiempo **no está terminado** o cuando la acción está conectada con el presente.
+    
+- **Past Simple (did)** → Se usa cuando el tiempo **está terminado** o se especifica un momento en el pasado.
+    
+
+#### 2. Ejemplos
+
+- _I’ve seen that movie three times this week._ (= la semana aún no ha terminado)
+    
+- _I saw that movie last week._ (= la semana pasada, tiempo terminado)
+    
+- _Have you seen Anna this morning?_ (= todavía es por la mañana)
+    
+- _Did you see Anna this morning?_ (= la mañana ya terminó)
+    
+
+#### 3. Palabras clave
+
+- **Present Perfect**: today, this week, recently, in the last few days, ever, never, so far…
+    
+- **Past Simple**: yesterday, last year, ago, in 2005, when I was a child, etc.
+    
+
+### 🔹 Unit 14 – Present Perfect and Past 2 (I have done / I did)
+
+### 1. Uso de _have been (to)_ y _was/were in …_
+
+- _I’ve been to Paris twice._ (= en mi vida, experiencia)
+    
+- _I was in Paris last year._ (= hecho en un tiempo terminado)
+    
+
+#### 2. “Just”, “already”, “yet”
+
+En inglés británico → se usa más con **present perfect**:
+
+- _I’ve just had lunch._  
+    En inglés americano → es común usar past simple:
+    
+- _I just had lunch._
+    
+
+#### 3. Experiencias vs. hechos terminados
+
+- **Experiencia (present perfect):**  
+    _Have you ever eaten sushi?_
+    
+- **Hecho terminado (past simple):**  
+    _Yes, I ate sushi last night._
+    
+
+#### 4. When … ? y How long … ?
+
+- _When did you start your job?_ (past simple, tiempo específico)
+    
+- _How long have you worked there?_ (present perfect, duración hasta ahora)
+    
+
+---
+
+### 🔹 Unit 15 – Past Perfect (I had done)
+
+#### 1. Forma
+
+- **had + past participle**
+    
+    - I had done / She had gone / They had finished
+        
+
+#### 2. Uso principal
+
+Se usa para hablar de **algo que ocurrió antes de otro hecho en el pasado**.  
+Es como el “pasado del pasado”.
+
+#### 3. Ejemplos
+
+- _When I arrived at the station, the train **had left.**_  
+    (= primero se fue el tren, después llegué yo)
+    
+- _I couldn’t get into the house because I had lost my keys._
+    
+- _She was very tired because she hadn’t slept well._
+    
+
+#### 4. Past Perfect vs. Past Simple
+
+- Past simple → acciones en orden:  
+    _I finished dinner and went out._
+    
+- Past perfect → marca cuál acción ocurrió **antes**:  
+    _I went out after I had finished dinner._
+    
+
+#### 5. Palabras comunes
+
+- **after, before, when, because, by the time**
+    
+    - _By the time we arrived, the film had started._
+        
+
+---
+
+✅ Resumen:
+
+- **Unit 13:** Present perfect = conexión con el presente; Past simple = tiempo terminado.
+    
+- **Unit 14:** Diferencias más finas: experiencias (have done) vs hechos pasados (did).
+    
+- **Unit 15:** Past perfect = acción que ocurrió antes de otra en el pasado (el “pasado del pasado”).
+    
+
+### 🔹 Unit 16 – Past Perfect Continuous (I had been doing)
+
+#### 1. Forma
+
+- **had been + -ing**
+    
+    - I had been working
+        
+    - She had been studying
+        
+
+#### 2. Uso principal
+
+Se usa para describir **una acción en progreso que ocurrió antes de otra en el pasado**.  
+👉 Resalta la **duración** o repetición de algo antes de un momento pasado.
+
+#### 3. Ejemplos
+
+- _I was tired because I had been working all day._
+    
+- _The ground was wet. It had been raining._
+    
+- _She had been waiting for an hour before the bus arrived._
+    
+
+#### 4. Comparación con Past Perfect Simple
+
+- **Past perfect simple (had done):** resultado.
+    
+    - _I was tired because I had worked a lot._
+        
+- **Past perfect continuous (had been doing):** proceso/duración.
+    
+    - _I was tired because I had been working all day._
+        
+
+### 🔹 Unit 17 – Have and Have Got
+
+#### 1. Significado
+
+Ambos significan lo mismo cuando hablamos de **posesión** o **relaciones**.
+
+- _I have a car._ = _I’ve got a car._
+    
+- _She has two brothers._ = _She’s got two brothers._
+    
+
+#### 2. Diferencias de uso
+
+- **Have got** → más común en inglés británico (más informal).
+    
+- **Have** → más común en inglés americano y en situaciones formales.
+    
+
+#### 3. Preguntas y negativas
+
+- _Have you got a car?_ = _Do you have a car?_
+    
+- _I haven’t got any money._ = _I don’t have any money._
+    
+
+#### 4. Otros usos de “have”
+
+Cuando “have” significa _comer, beber, hacer_ → **NO se usa con “got”**.
+
+- _I had breakfast at 8._ ✅
+    
+- _I had a shower this morning._ ✅  
+    (NO: _I’ve got breakfast_)
+    
+
+---
+
+### 🔹 Unit 18 – Used to (do)
+
+#### 1. Forma
+
+- **used to + verb** (solo en pasado)
+    
+
+#### 2. Uso
+
+Hablar de **acciones o situaciones habituales en el pasado que ya no ocurren ahora**.
+
+#### 3. Ejemplos
+
+- _I used to play football every weekend._ (= ya no lo hago)
+    
+- _She used to live in London, but now she lives in New York._
+    
+- _There used to be a cinema here, but it closed years ago._
+    
+
+#### 4. Negativa y preguntas
+
+- _I didn’t use to like coffee._
+    
+- _Did you use to play the piano?_
+    
+
+#### 5. Diferencia con “be/get used to”
+
+- **used to do** → hábito pasado.
+    
+    - _I used to smoke._ (= antes, ya no)
+        
+- **be/get used to + -ing** → estar acostumbrado / acostumbrarse.
+    
+    - _I’m used to getting up early._ (= no me resulta difícil)
+        
+    - _I’m getting used to my new job._ (= todavía me adapto)
+        
+
+---
+
+✅ Resumen:
+
+- **Unit 16:** _Past perfect continuous_ → duración/proceso antes de un momento en el pasado.
+    
+- **Unit 17:** _have_ y _have got_ → mismo significado para posesión; diferencias de uso entre UK y US.
+    
+- **Unit 18:** _used to do_ → hábitos o estados pasados que ya no son ciertos.
+    
 
 ## 🤓 3. Future
 
