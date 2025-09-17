@@ -12,18 +12,19 @@
 <header id="rubric">{{Rubric}}</header>
 
 {{#Image}}
-<div id="container">
-  <div id="image" class="t-image">{{Image}}</div>
-  <div class="t-question">
-    <p id="question">{{cloze:Question}}</p>
-  </div>
-</div>
+<main class="main main__one">
+  <div id="image" class="image-box">{{Image}}</div>
+  <section class="question-box">
+    <p class="question">{{cloze:Question}}</p>
+  </section>
+</main>
 {{/Image}} {{^Image}}
-<p id="question">{{cloze:Question}}</p>
+<main class="main main__two">
+  <p class="question">{{cloze:Question}}</p>
+</main>
 {{/Image}}
 
-<div id="audio">{{Audio}}</div>
-
+<section id="audio">{{Audio}}</section>
 <section class="match">{{type:cloze:Question}}</section>
 
 <div id="footer">

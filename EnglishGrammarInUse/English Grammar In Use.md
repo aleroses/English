@@ -1034,3 +1034,6 @@ Emojis que transmiten desafío, profundidad y logro:
 👉 La idea es que empieces con **😀, 🙂, 🤓** y conforme avanza el libro vayas subiendo a **🤔, 😅, 🧩** y termines en **🧐, 🧠, 🏆**.  
 Así, visualmente ya sabes que la cosa se va poniendo más intensa.
 
+---
+
+incluye una explicación completa de porqué y como se usan estas reglas.

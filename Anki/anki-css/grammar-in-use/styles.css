@@ -42,15 +42,6 @@
   font-style: normal;
 }
 
-.cloze {
-  font-weight: bold;
-  color: var(--first-text-color);
-}
-
-.cloze-deleted {
-  color: var(--test-color); /* Color por defecto */
-}
-
 #rubric {
   font-size: 16.5px;
   text-align: justify;
@@ -70,7 +61,7 @@
   font-weight: 600;
 
   box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
-  padding: 1rem 2rem;
+  padding: 1rem 1.8rem;
 }
 
 #rubric i {
@@ -80,11 +71,14 @@
   font-weight: 500;
 }
 
-#container {
+.main {
   width: 100%;
   height: auto;
   padding: 8px;
-  margin: 0 0 12px 0;
+  margin: 0 0 20px 0;
+}
+
+.main__one {
   overflow: hidden;
   background: radial-gradient(
     circle,
@@ -93,7 +87,7 @@
   );
 }
 
-#container .t-image {
+.main__one .image-box {
   float: left;
   width: 40%;
   display: flex;
@@ -101,22 +95,14 @@
   /* background-color: var(--first-text-color); */
 }
 
-#container .t-image img {
+.main__one .image-box img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   /* background-color: #063f3b; */
 }
 
-.t-image {
-  /* height: 80px; */
-  /* width: 30%; */
-  /* display: table-cell; */
-  /* padding-top: 6px; */
-  /*  vertical-align: middle; */
-}
-
-.t-question {
+.question-box {
   /* width: 40%; */
   /* height: 100%; */
   /* display: table-cell;
@@ -124,68 +110,49 @@
   /* background-color: #eb1d36; */
 }
 
-#container #question {
-  margin: 0;
-}
-
-#question {
+.question {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   text-align: left;
   line-height: 1.15;
-  margin: 0 0 12px 0;
+  /* margin: 0 0 12px 0; */
   /* background-color: #eb1d36; */
 }
 
-/* #question br {
-  margin: 12px 0 0 0;
-  border: 1px solid red;
-} */
-
-.p-image {
-  /* float: left; */
+.main__two .question {
+  padding: 0.25rem 1rem;
 }
 
-.p-question {
-  /* text-align: justify; */
-  /* margin: 0 16px; */
-}
-
-#question > span:not(.cloze) {
+.question > span:not(.cloze) {
   color: var(--first-text-color);
   font-weight: bold;
   text-decoration: underline;
 }
 
-#question u {
+.question u {
   text-decoration: none;
   /* vertical-align: text-top; */
 }
 
-#question u:before {
+.question u:before {
   content: "";
 }
 
-/* #question i {
-  font-family: arial;
-} */
+.cloze {
+  font-weight: 500;
+  color: var(--first-text-color);
+}
 
-/* #question p {
-  font-size: 10px;
-  color: red;
-} */
-
-/* #question > p {
-  margin: 12px;
-  margin-bottom: 0px;
-  text-align: center;
-} */
+.cloze-deleted {
+  color: var(--test-color); /* Color por defecto */
+}
 
 #choices {
   width: 100%;
-  margin: 0 0 12px 0;
-  padding: 8px;
+  margin: 0 0 20px 0;
+  padding: 0.25rem 1rem;
   font-size: 14px;
+  font-weight: 500;
 
   /* background-color: #063f3b; */
 }
@@ -207,14 +174,15 @@
 }
 
 .choices_words li {
-  font-size: 14.5px;
+  font-size: 14px;
+  font-weight: 400;
   display: inline-block;
   padding: 4px 8px;
 
   border-radius: 0.4em;
 
   border: 2px solid var(--first-text-color);
-  background-color: var(--second-bg-color);
+  background-color: var(--first-bg-color);
   margin: 5px;
 }
 
@@ -224,14 +192,16 @@
   /* font-size: 14px; */
 }
 
-.choices-box-delimiter {
+/* .choices-box-delimiter {
   height: 6px;
   margin: 0px;
 }
+ */
 
 #audio {
   width: 100%;
   text-align: center;
+  margin: 0 0 20px 0;
 }
 
 #choices b,
@@ -249,21 +219,22 @@
 #category {
   width: fit-content;
   font-size: 16px;
+  font-weight: 500;
 }
 
 #unit {
   width: fit-content;
-  font-size: 12px;
+  font-size: 13px;
+  /* font-weight: 900; */
 
-  /* Brillo de neón */
-  color: var(--second-bg-color);
-  font-weight: bold;
+  color: var(--first-bg-color);
+  background-color: var(--first-text-color);
 
   text-shadow: 0 0 2px var(--first-bg-color),
     0 0 4px var(--first-text-color), 0 0 6px #0f0f0f,
     0 0 10px var(--second-bg-color);
-  background-color: var(--first-text-color);
-  padding: 0 12px 0 12px;
+
+  padding: 0 12px;
 }
 
 .l {
@@ -304,33 +275,38 @@ input#typeans {
 .match {
   width: 100%;
   text-align: center;
-  margin: 0 0 12px 0;
+  margin: 0 0 20px 0;
+
+  font-size: 15px;
+  /* color: #15f5ba;
+  background-color: #eb1d36; */
 }
 
 #typeans {
-  /* width: 100%; */
-  /* text-align: center; */
   /* margin: 0 auto; */
   /* background-color: red; */
 }
 
 #typeans span {
+  padding: 0.1rem 0.2rem;
   background-color: var(--second-bg-color);
 }
 
 .typeBad {
   color: white;
-  /* font-size: 16px; */
+  font-size: 15px;
+  font-weight: 400;
 }
 .typeMissed,
 .typePass {
   color: #268bd2;
-  /* font-size: 16px; */
+  font-size: 15px;
+  font-weight: 400;
 }
 .typeGood {
   color: #2ed85a;
-  /* color: var(--good-color); */
-  /* font-size: 16px; */
+  font-size: 15px;
+  font-weight: 400;
 }
 
 .smartstep {
