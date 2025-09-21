@@ -634,110 +634,394 @@ Hablar de **acciones o situaciones habituales en el pasado que ya no ocurren aho
 
 ## 🤓 3. Future
 
-### Unit 19. Present tenses (I am doing / I do) for the future
+### 🔹Unit 19 – Present tenses (I am doing / I do) for the future
 
-- **Present continuous (I’m doing)** → se usa para **planes o arreglos ya decididos**.  
-    👉 _I’m meeting Kate tomorrow._
+#### 1. Present continuous (I am doing) con significado futuro
+
+- Usamos **present continuous** para hablar de planes **ya decididos y organizados**.
     
-- **Present simple (I do)** → se usa para **horarios o programas fijos**.  
-    👉 _The train leaves at 11.30._
+- Ejemplos:
+    
+    - _What are you doing on Saturday evening?_ → _I’m going to the cinema._
+        
+    - _Steve isn’t playing football next Saturday. He’s hurt his leg._
+        
+- **NO se usa “will”** para planes ya arreglados.
+    
+    - Correcto: _What are you doing tonight?_
+        
+    - Incorrecto: _What will you do tonight?_
+        
+- También se usa para acciones inmediatas (sobre todo con verbos de movimiento: _go, come, leave_).
+    
+    - _I’m tired. I’m going to bed now._
+        
+
+#### 2. Present simple (I do) con significado futuro
+
+- Se usa para **horarios, programas, itinerarios** (como transportes o clases).
+    
+- Ejemplos:
+    
+    - _My train leaves at 11.30._
+        
+    - _The film starts at 8.15._
+        
+- Puede aplicarse a personas si su plan está **fijo como un horario**:
+    
+    - _I start my new job on Monday._
+        
+
+#### 3. Comparación
+
+- Present continuous → planes personales, ya organizados.  
+    _What time are you meeting Kate tomorrow?_
+    
+- Present simple → horarios oficiales.  
+    _What time does the train arrive?_
     
 
 ---
 
-### Unit 20. I’m going to (do)
+### 🔹Unit 20 – I’m going to (do)
 
-- Se usa para:
+#### 1. “I’m going to do” = intención / decisión ya tomada
+
+- Expresa algo que la persona ha decidido hacer.
     
-    1. **Planes ya decididos** (igual que continuous, pero más enfocado en la intención).  
-        👉 _I’m going to buy a new laptop._
+- Ejemplos:
+    
+    - _I’m going to clean my shoes._
         
-    2. **Predicciones basadas en evidencia presente.**  
-        👉 _Look at those clouds! It’s going to rain._
+    - _We’re going to buy a new car._
+        
+
+#### 2. Diferencia con “I’m doing”
+
+- _I’m doing_ = ya está organizado (por ejemplo, con otra persona o con horario).
+    
+- _I’m going to do_ = es tu decisión, aunque no lo hayas organizado aún.
+    
+    - _I’m leaving next week. (I’ve booked my flight.)_
+        
+    - _Tomorrow I’m going to look for somewhere else to stay._
+        
+
+#### 3. Predicciones basadas en la situación presente
+
+- Usamos “going to” cuando la situación actual muestra que algo ocurrirá.
+    
+    - _Look at those clouds! It’s going to rain._
+        
+    - _He isn’t looking where he’s going. He’s going to walk into the wall._
+        
+
+#### 4. “Was going to”
+
+- Habla de una intención en el pasado que **no se cumplió**.
+    
+    - _We were going to travel by train, but we drove instead._
+        
+    - _I thought it was going to rain, but it didn’t._
         
 
 ---
 
-### Unit 21–22. Will and shall
+### 🔹Unit 21 – will and shall 1
 
-- **Will (’ll)**:
+#### 1. Uso de “will” (I’ll …)
+
+- Se usa para decisiones espontáneas, hechas en el momento de hablar.
     
-    - Decisiones tomadas en el momento: _I’m thirsty. I’ll get some water._
+    - _I’ll open the window._ (decisión ahora)
         
-    - Promesas, ofertas: _I’ll help you with that._
-        
-    - Predicciones: _You’ll enjoy this movie._
-        
-- **Shall** (más británico, formal):
+- También para **ofrecimientos, promesas y sugerencias rápidas**.
     
-    - Con _I/we_: _Shall we go out?_ (oferta/sugerencia).
+    - _I’ll help you with that._
         
-    - Hoy en día se usa poco fuera de contextos formales.
+    - _I’ll call you tonight._
         
 
----
+#### 2. Opiniones o creencias sobre el futuro
 
-### Unit 23. I will and I’m going to
-
-- Ambos hablan del futuro, pero:
+- _I think I’ll go to bed._
     
-    - **Will** → decisión en el momento / promesa.
-        
-    - **Going to** → plan previo o predicción basada en evidencia.  
-        👉 _I’ve decided. I’m going to study tonight._  
-        👉 _I’m tired. I’ll go to bed early._ (decisión en el momento).
-        
-
----
-
-### Unit 24. Will be doing & will have done
-
-- **Future continuous (will be doing)** → acción en progreso en un momento futuro.  
-    👉 _This time tomorrow, I’ll be flying to Paris._
-    
-- **Future perfect (will have done)** → acción que **se habrá completado** antes de cierto momento futuro.  
-    👉 _By next year, I’ll have finished my degree._
+- _I don’t think I’ll have lunch today._
     
 
----
+#### 3. Negación
 
-### Unit 25. When I do / When I’ve done / If and when
+- _won’t_ = _will not_
+    
+    - _I won’t forget._
+        
+    - _It won’t rain tomorrow._
+        
 
-- Usamos **present simple o present perfect** después de _when, if, before, after, until, as soon as…_ (no “will”).  
-    👉 _I’ll call you when I arrive._ (no _when I will arrive_).  
-    👉 _When I’ve finished my work, I’ll watch TV._
+#### 4. “Shall”
+
+- Hoy en día se usa poco (más en inglés británico).
+    
+- Normalmente aparece en:
+    
+    - **Ofertas / sugerencias con “I” y “we”**:
+        
+        - _Shall I open the window?_
+            
+        - _Where shall we go on holiday?_
+            
+- Equivale a: _Do you want me/us to…?_
     
 
 ---
 
-💡 Trucos para recordar:
+👉 En resumen:
 
-- **Plans** → _I’m doing / I’m going to do_.
+- **Present continuous**: planes ya organizados.
     
-- **Timetables** → _I do_.
+- **Present simple**: horarios oficiales.
     
-- **Decisions now** → _I’ll do_.
+- **Going to**: decisiones ya tomadas o predicciones basadas en la situación actual.
     
-- **In progress in future** → _I’ll be doing_.
+- **Will**: decisiones espontáneas, promesas, opiniones sobre el futuro.
     
-- **Completed in future** → _I’ll have done_.
+- **Shall**: sugerencias u ofertas (con _I_ o _we_).
     
 
 ---
 
-👉 Pregunta para ti:  
-¿Cuál usarías en esta frase y por qué?
+### 🔹Unit 22 – will and shall 2
 
-_"Look at those black clouds! It ___ rain soon."_
+#### 1. Usos de “will”
 
-a) will  
-b) is going to
+- **Futuro en general**: lo usamos para hablar de lo que creemos que sucederá.  
+    Ejemplos:
+    
+    - _It will look great._
+        
+    - _She’ll come to the party._
+        
+- **Predicciones y suposiciones**:
+    
+    - _People will live longer in the future._
+        
+    - _Do you think it will rain?_
+        
+- **Respuestas rápidas / promesas / decisiones espontáneas**:
+    
+    - _I’ll never forget it._
+        
+    - _I’ll be in bed by midnight._
+        
 
+#### 2. Preguntas con “Do you think … will … ?”
 
+- _Do you think it will rain?_
+    
+- _When do you think it will end?_
+    
+- _How much do you think it will cost?_
+    
 
+#### 3. Negaciones con “won’t”
 
+- _It won’t hurt._
+    
+- _I won’t tell anyone._
+    
 
+#### 4. **“Shall” (usos adicionales)**
 
+- Muy limitado hoy en día.
+    
+- Normalmente aparece en **preguntas con “I” o “we”** para hacer propuestas:
+    
+    - _Shall we go out tonight?_
+        
+    - _What time shall we meet?_
+        
+
+---
+
+### 🔹Unit 23 – I will and I’m going to
+
+#### 1. Diferencia principal
+
+- **Will**: decisión espontánea, tomada en el momento de hablar.
+    
+    - _I’ll lend you some money._
+        
+    - _I’ll call her now._
+        
+- **Going to**: decisión previa / plan ya pensado.
+    
+    - _I’m going to wash the car._
+        
+    - _I’m going to buy some things for dinner._
+        
+
+#### 2. Ejemplo de comparación
+
+- _A: Why are you filling that bucket with water?_  
+    _B: I’m going to wash the car._ (decisión previa)
+    
+- _A: I forgot my wallet._  
+    _B: Don’t worry, I’ll lend you some money._ (decisión en el momento)
+    
+
+#### 3. **Predicciones**
+
+- Ambos se pueden usar, pero con matices:
+    
+    - _I’m sure you’ll find your driving licence._ (creencia/opinión)
+        
+    - _Look at the clouds! It’s going to rain._ (evidencia actual)
+        
+
+---
+
+### 🔹Unit 24 – will be doing and will have done
+
+#### 1. Future continuous (will be doing)
+
+- Acción que estará en progreso en un momento del futuro.
+    
+    - _This time next week, I’ll be lying on the beach._
+        
+    - _At 10 o’clock tomorrow, she’ll be working._
+        
+- Usado también para **planes normales / expectativas**:
+    
+    - _The team’s star player won’t be playing on Saturday._
+        
+    - _I’ll be talking to the Minister later in the programme._
+        
+
+#### 2. Future perfect (will have done)
+
+- Acción que **habrá terminado antes de un momento en el futuro**.
+    
+    - _She leaves at 8.30. At 9, she’ll have gone to work._
+        
+    - _By the time we get to the cinema, the film will already have started._
+        
+- Ejemplo comparativo:
+    
+    - _Ted and Amy have been married for 24 years._
+        
+    - _Next year they will have been married for 25 years._
+        
+
+#### 3. Comparaciones clave
+
+- **Will be doing** = acción en curso en el futuro.
+    
+    - _Don’t phone at 7. We’ll be eating._
+        
+- **Will have done** = acción completada antes de un momento futuro.
+    
+    - _By 11 o’clock, the meeting will have finished._
+        
+
+---
+
+✅ En resumen:
+
+- **Unit 22**: “will” para predicciones, promesas, decisiones rápidas; “shall” solo en sugerencias con _I/we_.
+    
+- **Unit 23**: “will” = espontáneo; “going to” = plan/intención previa.
+    
+- **Unit 24**: “will be doing” = acción en curso en el futuro; “will have done” = acción finalizada antes de cierto momento en el futuro.
+    
+
+---
+
+### 🔹Unit 25 – when I do and when I’ve done / if and when
+
+#### A. When I do (no “will”)
+
+- Cuando hablamos del **futuro** en una oración con _when_, usamos **present simple**, no _will_.
+    
+    - ✅ _I’ll call you when I arrive._
+        
+    - ❌ _I’ll call you when I will arrive._
+        
+- Lo mismo con _while / before / after / as soon as / until_:
+    
+    - _Don’t forget to lock the door when you go out._
+        
+    - _Wait here until I come back._
+        
+    - _What are you going to do while I’m away?_
+        
+
+---
+
+#### B. When I’ve done (present perfect)
+
+- Podemos usar **present perfect** después de _when, after, until, as soon as_ para indicar que **una acción debe estar completada antes de otra**.
+    
+    - _Can I have the newspaper when you’ve finished with it?_
+        
+    - _Wait until he has gone._
+        
+    - _When I’ve phoned Kate, we can go out._ (= primero la llamo, luego salimos).
+        
+
+⚠️ **No usamos present perfect cuando las dos acciones ocurren al mismo tiempo**:
+
+- ✅ _When I phone Kate, I’ll ask her about the party._
+    
+- ❌ _When I’ve phoned Kate, I’ll ask her …_ (incorrecto en este caso).
+    
+- A veces es posible usar **present simple o present perfect**:
+    
+    - _I’ll come as soon as I finish._
+        
+    - _I’ll come as soon as I’ve finished._ (ambas correctas).
+        
+    - _You’ll feel better after you eat._
+        
+    - _You’ll feel better after you’ve eaten._ (ambas correctas).
+        
+
+---
+
+#### C. If and when
+
+- Después de _if_, usamos también **present simple** para hablar del futuro (no _will_).
+    
+    - _I’ll be angry if it happens again._
+        
+    - _Hurry up! If we don’t hurry, we’ll be late._
+        
+- Diferencia:
+    
+    - **When** = algo seguro.
+        
+        - _I’ll call you when I arrive._ (es seguro que llegará).
+            
+    - **If** = posibilidad, no seguridad.
+        
+        - _If it rains, I won’t go out._
+            
+        - _Don’t worry if I’m late._
+            
+
+---
+
+✅ En resumen:
+
+- Después de _when, if, before, after, until, as soon as, while_ → **NO usamos “will”**, sino present simple o present perfect.
+    
+- _When I do_ = acción al mismo tiempo.
+    
+- _When I’ve done_ = una acción termina antes de la otra.
+    
+- _When_ = evento seguro; _If_ = evento posible.
+    
+
+---
 
 ## 🐣 4. Modals
 
