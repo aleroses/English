@@ -1539,49 +1539,162 @@ El verbo _be_ cambia de forma según el tiempo verbal:
 |Passive -ing|_being done_ → _The road is being repaired_|Siendo hecho → La carretera está siendo reparada|
 |Present perfect passive|_has/have been done_ → _The work has been finished_|Ha sido hecho → El trabajo ha sido terminado|
 
-### Unidad 44 — Passive 3
+### 📘 Unidad 44 — Passive 3
 
-👉 Aquí el libro se enfoca en **cambiar el enfoque de la oración**: en vez de poner primero a la persona que hace la acción, ponemos primero el **objeto o la cosa**, usando la pasiva.
+#### 🔹 A. **I was offered … / We were given …**
 
-#### 1. Dos formas posibles (activa vs pasiva)
+👉 Algunos verbos en inglés pueden tener **dos objetos** (doble complemento).  
+Ejemplo clásico: **give**
 
-- **Activa:** _They gave me a present._
+- _My grandfather gave me this watch._  
+    → _Mi abuelo me dio este reloj._
     
-- **Pasiva:** puedes enfocarte en:
+
+Aquí tenemos:
+
+- **Objeto 1 (persona):** _me_
     
-    - _I was given a present._ (yo recibí un regalo).
+- **Objeto 2 (cosa):** _this watch_
+    
+
+Con estos verbos se pueden formar **dos pasivas diferentes**:
+
+1. _I was given this watch (by my grandfather)._  
+    → _Me fue dado este reloj (por mi abuelo)._
+    
+2. _This watch was given to me (by my grandfather)._  
+    → _Este reloj me fue dado (por mi abuelo)._
+    
+
+👉 En la práctica, lo más común es comenzar con **la persona**.
+
+Otros verbos que funcionan igual:
+
+- **ask, offer, pay, show, tell**
+    
+
+**Ejemplos del libro:**
+
+- _I’ve been offered the job, but I don’t think I want it._  
+    → _Me han ofrecido el trabajo, pero no creo que lo quiera._
+    
+- _You will be given plenty of time to decide._  
+    → _Se te dará mucho tiempo para decidir._
+    
+- _I didn’t see the original document, but I was shown a copy._  
+    → _No vi el documento original, pero me mostraron una copia._
+    
+- _Tim has an easy job – he’s paid a lot of money to do very little._  
+    → _Tim tiene un trabajo fácil: le pagan mucho dinero por hacer muy poco._
+    
+
+#### 🔹 B. **I don’t like being …**
+
+👉 El pasivo también se usa con **-ing forms**: _being + past participle_.
+
+**Comparación:**
+
+- Activa: _I don’t like people telling me what to do._
+    
+- Pasiva: _I don’t like being told what to do._  
+    → _No me gusta que me digan lo que tengo que hacer._
+    
+
+**Ejemplos del libro:**
+
+- _I remember being taken to the zoo when I was a child._  
+    → _Recuerdo que me llevaron al zoológico cuando era niño._
+    
+- _Steve hates being kept waiting._  
+    → _Steve odia que lo hagan esperar._
+    
+- _We climbed over the wall without being seen._  
+    → _Escalamos el muro sin ser vistos._
+    
+
+👉 Nota: este uso (_being + participio_) es muy común con verbos de gusto, memoria o situaciones generales.
+
+#### 🔹 C. **I was born …**
+
+👉 La expresión correcta es **I was born**, no _I am born_:
+
+- _I was born in Chicago._  
+    → _Nací en Chicago._
+    
+- _Where were you born?_  
+    → _¿Dónde naciste?_
+    
+
+❌ _Where are you born?_ (incorrecto).
+
+Pero en presente sí se puede usar con _babies/people in general_:
+
+- _How many babies are born every day?_  
+    → _¿Cuántos bebés nacen cada día?_
+    
+
+#### 🔹 D. **Get passive (get + past participle)**
+
+👉 En inglés informal, muchas veces usamos **get** en lugar de _be_ en pasiva.
+
+- _There was a fight, but nobody got hurt._  
+    → _Hubo una pelea, pero nadie resultó herido._
+    
+- _I don’t get invited to many parties._  
+    → _No me invitan a muchas fiestas._
+    
+- _I’m surprised Liz didn’t get offered the job._  
+    → _Me sorprende que no le ofrecieran el trabajo a Liz._
+    
+
+**Atención:**
+
+- Usamos _get_ solo cuando algo **pasa/ocurre**.
+    
+- No se usa con estados:
+    
+    - _Jessica is liked by everybody._ (✅)
         
-    - _A present was given to me._ (un regalo me fue dado).
+    - ❌ _Jessica gets liked by everybody._
+        
+- Tampoco:
+    
+    - _Very little was known about him._ (✅)
+        
+    - ❌ _Very little got known about him._
         
 
-👉 Ambas son correctas, pero la más común es poner **a la persona primero** (_I was given …_).
+**Estilo:**
 
-#### 2. Otros ejemplos del libro
-
-- **Activa:** _Somebody told me that Chris was ill._
+- _be_ puede usarse en todas las situaciones (formal/informal).
     
-- **Pasiva:**
-    
-    - _I was told that Chris was ill._
-        
-    - _It was told to me that Chris was ill._ (mucho menos natural).
-        
-
-#### 3. Con verbos como _give, send, offer, show, teach, tell_
-
-- _We were offered jobs._ → _Nos ofrecieron trabajos._
-    
-- _He was taught French by his aunt._ → _Le enseñaron francés por su tía._
+- _get_ es más común en **conversación informal**.
     
 
-👉 Es común usar la forma pasiva para resaltar lo que **recibe la persona**.
+#### 🔹 Expresiones con _get_ (no pasivas)
 
-#### 4. Preguntas en pasiva
+👉 Importante: no todas las expresiones con _get_ son pasivas, aunque parecen. Ejemplos:
 
-- _Who was the money given to?_ → _¿A quién se le dio el dinero?_
+- _get married_ → casarse
     
-- _What was Tom given?_ → _¿Qué le dieron a Tom?_
+- _get divorced_ → divorciarse
     
+- _get dressed_ → vestirse
+    
+- _get lost_ → perderse
+    
+- _get changed_ → cambiarse de ropa
+    
+
+### 📑 Resumen visual de la unidad 44
+
+|Tema|Ejemplo|Traducción|
+|---|---|---|
+|Verbo con dos objetos|_I was given a present_|Me dieron un regalo|
+|Pasiva con _being_|_I don’t like being told what to do_|No me gusta que me digan qué hacer|
+|_I was born_|_Where were you born?_|¿Dónde naciste?|
+|_Get passive_|_Nobody got hurt in the fight_|Nadie resultó herido en la pelea|
+|Expresiones con _get_ (no pasivas)|_get married, get dressed, get lost_|casarse, vestirse, perderse|
 
 ### Unidad 45 — _It is said that … / He is said to … / He is supposed to …_
 
