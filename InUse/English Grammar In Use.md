@@ -1142,34 +1142,161 @@ Hablar de **acciones o situaciones habituales en el pasado que ya no ocurren aho
 
 ## 📘 5. If and Wish
 
-### Unit 38 – **if I do … and if I did …**
+### Unidad 38 — **if I do …** y **if I did …**
 
 - **if + present → will** (condicional real).  
     _If it rains, we’ll stay home._
     
 - **if + past → would** (condicional irreal).  
     _If I had a car, I would travel more._
+
+**Idea general:** hay dos tipos principales de condicionales aquí:
+
+1. **Condicional real / posible (1st conditional)**
+    
+    - **Estructura:** _If + present simple_, → _will / can / may + verbo_
+        
+    - **Significado:** hablo de algo que **es posible** o que puede ocurrir en el futuro.
+        
+    - **Ejemplo:** _If I lose my passport, I’ll be in trouble._ — _Si pierdo mi pasaporte, tendré problemas._
+        
+    - (El libro da contrastes similares entre _If I find it, can you call me?_ frente a _If you found a wallet…_).
+        
+2. **Condicional hipotético / irreal del presente o futuro (2nd conditional)**
+    
+    - **Estructura:** _If + past simple_, → _would / could / might + verbo_
+        
+    - **Significado:** imaginas una situación **irreal** o poco probable en el presente/futuro, o contraria a la realidad actual. No indica pasado: el uso del pasado es una “marca” de irrealidad.
+        
+    - **Ejemplo:** _If I won the lottery, I’d buy a big house._ — _Si ganara la lotería, me compraría una casa grande._
+        
+    - Otro contraste útil del libro: _I don’t know what I’ll do if I lose my passport_ (posible) frente a _I don’t know what I’d do if I lost my passport_ (imaginación/hipótesis).
+        
+
+**Puntos importantes / matices (Unidad 38):**
+
+- **No se suele poner _would_ en la cláusula _if_.** Es decir, evitamos _If I would…_; _would_ aparece en la otra parte de la oración: _If I were rich, I would travel._
+    
+- Para menor certeza que _would_, puedes usar _might_ o _could_ en la cláusula principal: _If I won a lot of money, I might/could buy a house._
     
 
-### Unit 39 – **if I knew … / I wish I knew …**
+### Unidad 39 — **if I knew …** y **I wish I knew …**
 
 - **if + past** → situación irreal en presente.  
     _If I knew her number, I would call her._
     
 - **wish + past simple** = desear que algo fuera diferente ahora.  
     _I wish I spoke better English._
+
+**Idea general:** aquí se usa el pasado simple (o _were_) para hablar de una situación **presente** que no es real — es exactamente la misma forma que en la 2ª condicional, pero con _wish_ se expresa **lamento/deseo**.
+
+1. **If + past** para situaciones imaginadas ahora
+    
+    - **Estructura:** _If + past simple_, → _would / could / might + verbo_
+        
+    - **Significado:** imagino lo que haría en una situación que **no es real ahora**.
+        
+    - **Ejemplo del libro:** _I’d phone him if I knew his number._ — _Le llamaría si supiera su número._ (pero no lo sé).
+        
+2. **Wish + past** para expresar lamento por la situación presente
+    
+    - **Estructura:** _I wish + past simple_
+        
+    - **Significado:** lamento que la realidad sea diferente; quiero que sea distinta ahora.
+        
+    - **Ejemplo:** _I wish I knew Paul’s phone number._ — _Ojalá supiera el número de Paul._ (= no lo sé y me arrepiento).
+        
+
+**Were vs was:** después de _if_ y _wish_ puedes usar _were_ en lugar de _was_ (especialmente en estilos más formales): _If I were you… / I wish she were here._ El libro indica que _was_ también se usa en habla cotidiana, pero _were_ es la forma tradicional para situaciones contrarias a la realidad.
+
+**Nota sobre _wish … would …_ (distinción útil):**
+
+- _I wish + past_ es para **deseos sobre el presente** (estado/realidad).
+    
+- _I wish … would …_ se usa para **pedir o quejarse** sobre un cambio de comportamiento o acción futura (p. ej. _I wish it would stop raining_ = quiero que deje de llover). El libro trata esto en la unidad relacionada con _wish_ (41).
     
 
-### Unit 40 – **if I had known … / I wish I had known …**
+### Errores frecuentes y consejos prácticos
+
+- _No usar “if … would …”_ en la cláusula _if_: di _If I had time, I would help_ (no _If I would have time…_).
+    
+- Confundir _If I do_ (real/posible) con _If I did_ (hipótesis). Una prueba rápida: ¿crees que puede pasar? → usa _if + present_; ¿estás imaginando algo improbable o contrario a la realidad? → usa _if + past_.
+    
+- Cuando quieras expresar **arrepentimiento por algo pasado**, usa _I wish + past perfect_ (esto está en la unidad 40: _I wish I had known_).
+    
+
+### 3 ejercicios cortos (con respuesta y explicación)
+
+1. Inglés: _If I finish early, I will call you._  
+    Español: _Si termino temprano, te llamaré._ → **Real/posible** (1st conditional).
+    
+2. Inglés: _If I finished early, I would call you._  
+    Español: _Si terminara temprano, te llamaría._ → **Hipótesis/irreal** (2nd conditional): imaginas que podrías terminar temprano (no es el caso ahora).
+    
+3. Inglés: _I wish I knew more languages._ → _Ojalá supiera más idiomas._ (regret about present: I don’t know them).
+    
+
+### Unidad 40 — **if I had known …** / **I wish I had known …**
 
 - **if + past perfect → would have + participle** (condicional irreal en pasado).  
     _If I had studied, I would have passed._
     
 - **wish + past perfect** = lamento sobre el pasado.  
     _I wish I had gone to the party._
+
+👉 Aquí entramos al **condicional pasado** (_3rd conditional_) y al *_wish para arrepentimiento del pasado_.
+
+#### 1. If + past perfect → would have + past participle
+
+**Uso:** para hablar de una situación en el pasado que **no ocurrió**, y sus posibles consecuencias.
+
+- **Estructura:**  
+    _If + past perfect_, → _would / could / might have + past participle_
+    
+- **Ejemplos (del libro):**
+    
+    - _If I had known you were ill, I would have gone to see you._  
+        → _Si hubiera sabido que estabas enfermo, te habría ido a ver._ (pero no lo supe y no fui).
+        
+    - _I didn’t see you. If I’d seen you, I would have said hello._  
+        → _No te vi. Si te hubiera visto, te habría saludado._
+        
+
+**Notas:**
+
+- La contracción es común: _If I’d known…_, _I’d have gone…_.
+    
+- También se puede usar _could have_ o _might have_ para posibilidades:
+    
+    - _If you had asked me, I could have helped you._
+        
+    - _If we’d left earlier, we might have caught the train._
+        
+
+#### 2. Wish + past perfect
+
+**Uso:** para lamentar algo que no sucedió en el pasado.
+
+- **Estructura:**  
+    _I wish + past perfect_
+    
+- **Ejemplos:**
+    
+    - _I wish I had known that Gary was ill._  
+        → _Ojalá hubiera sabido que Gary estaba enfermo._ (pero no lo supe).
+        
+    - _It was a stupid thing to say. I wish I hadn’t said it._  
+        → _Fue una tontería decir eso. Ojalá no lo hubiera dicho._
+        
+
+**Comparación rápida:**
+
+- _If I had …, I would have …_ = condicional pasado, consecuencia hipotética.
+    
+- _I wish I had …_ = arrepentimiento por algo que **realmente no sucedió**.
     
 
-### Unit 41 – **wish**
+### Unidad 41 — **wish**
 
 - **wish + past simple** = deseo sobre presente.  
     _I wish I had more time._
@@ -1179,16 +1306,64 @@ Hablar de **acciones o situaciones habituales en el pasado que ya no ocurren aho
     
 - **wish + would** = queja sobre lo que otra persona hace.  
     _I wish you would stop smoking._
+
+👉 El verbo _wish_ tiene varios usos, según el tiempo verbal que sigue.
+
+#### 1. Wish + past simple → deseo sobre el presente
+
+**Significado:** lamentar o querer que la situación presente sea distinta.
+
+- _I wish I knew Paul’s phone number._  
+    → _Ojalá supiera el número de Paul._ (pero no lo sé).
+    
+- _Do you ever wish you could fly?_  
+    → _¿Alguna vez deseas poder volar?_
     
 
----
+#### 2. Wish + past continuous → deseo sobre una acción en progreso ahora
 
-✅ En resumen:
+- _It’s very noisy here. I wish it weren’t so noisy._  
+    → _Ojalá no fuera tan ruidoso aquí._
+    
+- _I’m driving. I wish I wasn’t driving._  
+    → _Ojalá no estuviera manejando._
+    
 
-- Units 26–37 → cómo usar **modals** para habilidad, permiso, posibilidad, obligación, consejos y pedidos.
+#### 3. Wish + past perfect → arrepentimiento sobre el pasado
+
+Ya visto en la unidad 40.
+
+- _I wish I had studied harder for the exam._  
+    → _Ojalá hubiera estudiado más para el examen._
     
-- Units 38–41 → cómo expresar **condiciones irreales** y **deseos** con _if_ y _wish_.
+
+#### 4. Wish + would → quejas o deseos de cambio futuro
+
+**Uso:** para expresar molestia con acciones de otras personas o cosas externas que quieres que cambien.  
+❌ No se usa para hablar de ti mismo (excepto en _I wish I would…_, que suena extraño).
+
+- _I wish it would stop raining._  
+    → _Ojalá dejara de llover._
     
+- _I wish Sarah would call me._  
+    → _Ojalá Sarah me llamara._
+    
+
+#### 5. Wish to do something → uso más formal (= want)
+
+- _I wish to speak to the manager, please._  
+    → _Deseo hablar con el gerente, por favor._
+    
+
+### Resumen visual rápido
+
+|Estructura|Uso|Ejemplo|
+|---|---|---|
+|**wish + past simple**|Deseo sobre el presente|_I wish I knew more people here._|
+|**wish + past continuous**|Deseo sobre acción en progreso|_I wish it wasn’t raining._|
+|**wish + past perfect**|Arrepentimiento sobre el pasado|_I wish I had studied harder._|
+|**wish + would**|Queja/deseo de cambio futuro|_I wish she would stop complaining._|
+|**wish to + infinitive**|Formal (want)|_I wish to make a complaint._|
 
 ### Was - Were
 
@@ -1227,8 +1402,6 @@ Ejemplo:
 - Conversación: _If I was you, I wouldn’t do that._ (la gente lo dice así en la vida real).
     
 
----
-
 👉 Entonces, en tu frase ambos son posibles:
 
 - _If I were a pop star…_ (más formal/tradicional).
@@ -1236,244 +1409,326 @@ Ejemplo:
 - _If I was a pop star…_ (más coloquial/común).
     
 
-¿Quieres que te arme una **mini tabla** con ejemplos de **If I were** vs **If I was** en diferentes contextos para que veas la diferencia de registro (formal/informal)?
-
 ---
 
 ## ✏️ 6. Passive
 
-### Unit 42 Passive 1 (is done / was done)
+### Unidad 42 — Passive 1 _(is done / was done)_
 
-#### Diferencia entre voz activa y pasiva
+👉 **¿Qué es la voz pasiva?**  
+En inglés usamos la **voz pasiva** cuando el foco está en la acción o en lo que le ocurre al objeto, **no en quién la hace**.
 
-- **Activa**: el sujeto **hace** la acción.  
-    Ejemplo: _My grandfather built this house in 1981._  
-    (Mi abuelo construyó esta casa en 1981).
+#### 1. Formación básica
+
+- **Estructura:**  
+    **subject + be (en el tiempo correcto) + past participle**  
+    (opcional: _by + agente_)
     
-- **Pasiva**: el sujeto **recibe** la acción.  
-    Ejemplo: _This house was built in 1981._  
-    (Esta casa fue construida en 1981).
+- **Ejemplos (del libro):**
     
+    - _This house was built in 1935._  
+        → _Esta casa fue construida en 1935._
+        
+    - _My car is being repaired._  
+        → _Mi coche está siendo reparado._
+        
+    - _The office is cleaned every day._  
+        → _La oficina se limpia todos los días._
+        
 
-👉 En pasiva, lo importante es **lo que le ocurre al sujeto**, no quién lo hace.
+#### 2. Diferencia activa ↔ pasiva
 
-#### Estructura de la pasiva
-
-El **pasivo = be (is/was/etc.) + participio pasado** (done/cleaned/seen…).
-
-Ejemplos:
-
-- _is done_ → es hecho
+- **Activa:** _Somebody cleans the office every day._
     
-- _was done_ → fue hecho
-    
-- _are cleaned_ → son limpiados
-    
-- _was stolen_ → fue robado
-    
-
-⚠️ Ojo: muchos participios son irregulares (_built, done, stolen_).
-
-#### Cuándo usamos la pasiva
-
-- Cuando **no sabemos** quién hace la acción:  
-    _A lot of money was stolen in the robbery._  
-    (Se robó mucho dinero en el asalto).
-    
-- Cuando **no importa** quién lo hizo:  
-    _Is this room cleaned every day?_  
-    (¿Se limpia esta habitación todos los días?).
-    
-- Si queremos decir quién lo hizo, usamos **by**:  
-    _This house was built by my grandfather._  
-    (Esta casa fue construida por mi abuelo).
+- **Pasiva:** _The office is cleaned every day._
     
 
-#### Comparación de tiempos
+👉 En la pasiva **no siempre decimos quién hace la acción**, porque no es importante o no lo sabemos.
 
-- **Presente simple activo**: Somebody cleans this room every day.  
-    (Alguien limpia esta habitación cada día).
-    
-- **Presente simple pasivo**: This room is cleaned every day.  
-    (Esta habitación se limpia cada día).
-    
-- **Pasado simple activo**: Somebody cleaned this room yesterday.  
-    (Alguien limpió esta habitación ayer).
-    
-- **Pasado simple pasivo**: This room was cleaned yesterday.  
-    (Esta habitación fue limpiada ayer).
+- _The window was broken last night._ (no sabemos quién la rompió).
     
 
-#### Ejemplos prácticos
+#### 3. Verbos transitivos e intransitivos
 
-- _Two hundred people are employed by the company._  
-    (Doscientas personas son empleadas por la empresa).
+- Solo se puede usar pasiva con **verbos transitivos** (que tienen objeto).
     
-- _We were woken up by a loud noise during the night._  
-    (Fuimos despertados por un ruido fuerte durante la noche).
+- Ejemplo: _Somebody stole my bag._ → _My bag was stolen._
     
-- _How much money was stolen in the robbery?_  
-    (¿Cuánto dinero fue robado en el asalto?).
+- No con verbos intransitivos (sin objeto):
+    
+    - ❌ _happen_ → _Something happened_ (no _was happened_).
+        
+    - ❌ _sleep_ → _He slept_ (no _was slept_).
+        
+
+#### 4. Pasiva en diferentes tiempos
+
+El verbo _be_ cambia de forma según el tiempo verbal:
+
+|Tiempo|Activa|Pasiva|
+|---|---|---|
+|Present simple|_They clean the office_|_The office is cleaned_|
+|Past simple|_They built the house in 1935_|_The house was built in 1935_|
+|Present continuous|_They are cleaning the office_|_The office is being cleaned_|
+|Past continuous|_They were repairing the road_|_The road was being repaired_|
+|Present perfect|_They have finished the work_|_The work has been finished_|
+|Future simple|_They will invite you_|_You will be invited_|
+
+### Unidad 43 — Passive 2 _(be done / been done / being done)_
+
+👉 Esta unidad se centra en **formas más complejas de la pasiva**: infinitivos, _perfect_ y _continuous_.
+
+#### 1. Passive infinitive (_be done_)
+
+- **Ejemplo:** _This machine can’t be used._  
+    → _Esta máquina no puede usarse._
+    
+- _I don’t want to be disturbed._  
+    → _No quiero que me molesten._
     
 
-### Unit 43 Passive 2 (be done / been done / being done)
+#### 2. Perfect infinitive pasivo (_have been done_)
 
-#### Pasivo en diferentes tiempos
-
-Ya sabes que el pasivo = **be + participio pasado**. Ahora verás cómo funciona en tiempos más avanzados:
-
-a) **Presente perfecto**
-
-- **Activo**: _Somebody has cleaned the room._  
-    (Alguien ha limpiado la habitación).
+- **Ejemplo:** _The project should have been finished yesterday._  
+    → _El proyecto debería haber sido terminado ayer._
     
-- **Pasivo**: _The room has been cleaned._  
-    (La habitación ha sido limpiada).
+- Se usa mucho con modales: _might / should / could + have been done_.
     
 
-Otros ejemplos:
+#### 3. Passive -ing form (_being done_)
 
-- _The trip has been cancelled._ (El viaje ha sido cancelado).
+- Se usa cuando el verbo necesita forma _-ing_ (después de preposiciones o ciertos verbos).
     
-- _Have you ever been bitten by a dog?_ (¿Alguna vez te ha mordido un perro?).
+- **Ejemplo:** _I don’t like being shouted at._  
+    → _No me gusta que me griten._
+    
+- _The office is being cleaned._  
+    → _La oficina está siendo limpiada._
+    
+
+#### 4. Have/has been done
+
+- Es la forma pasiva del **present perfect**.
+    
+- **Ejemplo:** _The work has been finished._  
+    → _El trabajo ha sido terminado._
+    
+- _I’ve never been invited to a party._  
+    → _Nunca me han invitado a una fiesta._
+    
+
+#### 5. Usos especiales
+
+- **Reported speech pasivo:**
+    
+    - _People say that he is rich._ → _He is said to be rich._
+        
+- **Se construyen frases impersonales:**
+    
+    - _It is expected that the company will lose money._
+        
+    - _The company is expected to lose money._
+        
+
+### Resumen visual
+
+|Forma|Ejemplo|Traducción|
+|---|---|---|
+|Passive infinitive|_to be done_ → _I want to be invited_|Ser hecho → Quiero ser invitado|
+|Passive perfect infinitive|_to have been done_ → _He should have been told_|Haber sido hecho → Deberían habérselo dicho|
+|Passive -ing|_being done_ → _The road is being repaired_|Siendo hecho → La carretera está siendo reparada|
+|Present perfect passive|_has/have been done_ → _The work has been finished_|Ha sido hecho → El trabajo ha sido terminado|
+
+### Unidad 44 — Passive 3
+
+👉 Aquí el libro se enfoca en **cambiar el enfoque de la oración**: en vez de poner primero a la persona que hace la acción, ponemos primero el **objeto o la cosa**, usando la pasiva.
+
+#### 1. Dos formas posibles (activa vs pasiva)
+
+- **Activa:** _They gave me a present._
+    
+- **Pasiva:** puedes enfocarte en:
+    
+    - _I was given a present._ (yo recibí un regalo).
+        
+    - _A present was given to me._ (un regalo me fue dado).
+        
+
+👉 Ambas son correctas, pero la más común es poner **a la persona primero** (_I was given …_).
+
+#### 2. Otros ejemplos del libro
+
+- **Activa:** _Somebody told me that Chris was ill._
+    
+- **Pasiva:**
+    
+    - _I was told that Chris was ill._
+        
+    - _It was told to me that Chris was ill._ (mucho menos natural).
+        
+
+#### 3. Con verbos como _give, send, offer, show, teach, tell_
+
+- _We were offered jobs._ → _Nos ofrecieron trabajos._
+    
+- _He was taught French by his aunt._ → _Le enseñaron francés por su tía._
+    
+
+👉 Es común usar la forma pasiva para resaltar lo que **recibe la persona**.
+
+#### 4. Preguntas en pasiva
+
+- _Who was the money given to?_ → _¿A quién se le dio el dinero?_
+    
+- _What was Tom given?_ → _¿Qué le dieron a Tom?_
+    
+
+### Unidad 45 — _It is said that … / He is said to … / He is supposed to …_
+
+👉 Aquí el libro trata estructuras pasivas impersonales, muy usadas en inglés formal y en reportes de noticias.
+
+#### 1. It is said that …
+
+- Se usa para dar información de forma impersonal.
+    
+- **Ejemplos:**
+    
+    - _It is said that she works 16 hours a day._  
+        → _Se dice que trabaja 16 horas al día._
+        
+    - _It is believed that the company is losing money._  
+        → _Se cree que la empresa está perdiendo dinero._
+        
+
+#### 2. He is said to … (estructura más común)
+
+- En lugar de _It is said that he …_, se usa directamente _He is said to …_.
+    
+- **Ejemplos:**
+    
+    - _He is said to be very rich._  
+        → _Se dice que es muy rico._
+        
+    - _The driver is thought to have fallen asleep._  
+        → _Se cree que el conductor se quedó dormido._
+        
+
+👉 Observa que:
+
+- Para hablar del presente: _is said to + infinitive simple_
+    
+- Para hablar del pasado: _is said to have + past participle_
+    
+
+#### 3. He is supposed to …
+
+- Tiene un significado diferente: expresa **expectativa** o lo que la gente cree que debe ocurrir.
+    
+- **Ejemplos:**
+    
+    - _He is supposed to be very rich._  
+        → _Se supone que es muy rico._
+        
+    - _I’m supposed to be meeting Anna tomorrow._  
+        → _Se supone que me reuniré con Anna mañana._
+        
+
+👉 También se usa para reglas:
+
+- _You’re not supposed to park here._  
+    → _No se supone que debas estacionar aquí._ (_Está prohibido / No deberías_).
     
 
 ---
 
-b) **Pasado perfecto**
+# Resumen visual
 
-- **Activo**: _Somebody had cleaned the room._
-    
-- **Pasivo**: _The room had been cleaned._  
-    Ejemplo: _The vegetables had been cooked too long._  
-    (Las verduras habían sido cocinadas demasiado tiempo).
-    
-
----
-
-c) **Presente continuo**
-
-- **Activo**: _Somebody is cleaning the room at the moment._
-    
-- **Pasivo**: _The room is being cleaned at the moment._  
-    Ejemplo: _We are being followed._ (Nos están siguiendo).
-    
+|Estructura|Uso|Ejemplo|
+|---|---|---|
+|**It is said that …**|Información impersonal|_It is said that she works hard._|
+|**He is said to …**|Forma más común, sujeto + pasiva|_She is said to be rich._|
+|**He is said to have …**|Pasado|_He is said to have left the country._|
+|**He is supposed to …**|Expectativa / regla|_You’re supposed to wear a uniform._|
 
 ---
 
-d) **Pasado continuo**
+👉 Con estas dos unidades completas, ya tienes:
 
-- **Activo**: _Somebody was cleaning the room when I arrived._
+- cómo usar la pasiva con verbos de doble objeto (44),
     
-- **Pasivo**: _The room was being cleaned when I arrived._
-	(La habitación estaba siendo limpiada cuando llegué.)
-    
-
----
-
-e) **Infinitivo pasivo**
-
-- **Activo**: _Somebody will clean this room later._
-    
-- **Pasivo**: _This room will be cleaned later._  
-    Ejemplos:
-    
-    - _Something must be done._ (Debe hacerse algo).
-        
-    - _I want to be left alone._ (Quiero que me dejen en paz).
-        
-
----
-
-f) **Infinitivo perfecto pasivo**
-
-- **Activo**: _Somebody should have cleaned the room._
-    
-- **Pasivo**: _The room should have been cleaned._  
-    Ejemplos:
-    
-    - _It might have been sent to the wrong address._  
-        (Podría haber sido enviado a la dirección equivocada).
-        
-    - _The problems seem to have been solved._  
-        (Los problemas parecen haber sido resueltos).
-        
-
-#### Resumen de formas
-
-- **be done** → se hace / será hecho.
-    
-- **been done** → ha sido hecho / había sido hecho.
-    
-- **being done** → está siendo hecho / estaba siendo hecho.
+- y cómo expresar rumores, creencias o expectativas con pasiva impersonal (45).
     
 
-### Unit 44 – Passive 3
+### Unidad 46 — **Have something done**
 
-Uso del pasivo en construcciones especiales.
+👉 Esta estructura es muy típica en inglés para decir que **alguien hace algo por ti** (generalmente un servicio), o que **algo te ocurre** (a veces negativo), sin decir exactamente quién lo hizo.
 
-- Verbos de **dicción, creencia, pensamiento, conocimiento** (say, think, believe, know, report…):
-    
-    - Activa: _People say she is a good teacher._
-        
-    - Pasiva:
-        
-        - _She is said to be a good teacher._
-            
-        - _It is said that she is a good teacher._
-            
-- Con tiempos perfectos e infinitivos:
-    
-    - _He is thought to have left the country._
-        
-    - _They are believed to have been stolen._
-        
+#### 1. Estructura básica
 
-### Unit 45 – it is said that … / he is said to … / he is supposed to …
-
-- Dos formas para expresar rumores o creencias:
-    
-    1. _It is said that he lives in New York._
-        
-    2. _He is said to live in New York._
-        
-- Otros verbos: _suppose, expect, know, consider, report, believe, think…_
-    
-    - _She is supposed to be very strict._ (Se supone que es estricta).
-        
-    - _He is expected to arrive soon._ (Se espera que llegue pronto).
-        
-    - _They are considered to be good workers._
-        
-
----
-
-### Unit 46 – have something done
-
-No es exactamente pasivo, sino una estructura especial.  
-👉 Fórmula: **have/has + objeto + participio pasado**.
+**have + objeto + past participle**
 
 - _I had my hair cut yesterday._  
-    (Me corté el cabello / hicieron que me lo corten).
+    → _Me corté el pelo ayer._ (literal: “Tuve mi pelo cortado por alguien” = otra persona lo hizo por mí).
     
-- _We’re having the house painted._  
-    (Estamos haciendo que pinten la casa).
-    
-- Expresa que alguien **hace un servicio por ti**.
-    
-- También puede usarse cuando algo negativo ocurre:  
-    _He had his car stolen last week._ (Le robaron su coche).
+- _We are having the house painted this week._  
+    → _Estamos haciendo que pinten la casa esta semana._
     
 
----
+👉 Aquí no dices quién lo hizo (porque no importa: peluquero, pintor, mecánico…).
 
-✅ En resumen:
+#### 2. Diferencia con la voz pasiva normal
 
-- **42–43**: lo básico y los tiempos verbales de la voz pasiva.
+- _My hair was cut yesterday._  
+    → Pasiva normal, simplemente describes lo que pasó.
     
-- **44–45**: expresiones impersonales (_it is said… / he is believed to…_).
+- _I had my hair cut yesterday._  
+    → Expresas que **tú organizaste o pediste el servicio**.
     
-- **46**: estructura especial “have something done” (servicios, experiencias).
+
+#### 3. Usos comunes (servicios)
+
+- _I’m going to have my car serviced tomorrow._  
+    → _Voy a llevar mi coche al servicio mañana._
+    
+- _She has her teeth checked twice a year._  
+    → _Ella se revisa los dientes dos veces al año._
+    
+- _We’re having the roof repaired next week._  
+    → _Vamos a hacer que reparen el techo la próxima semana._
+    
+
+#### 4. Tiempos verbales
+
+La forma _have something done_ se adapta al tiempo verbal de _have_:
+
+|Tiempo|Ejemplo|
+|---|---|
+|Present simple|_I have my car washed every week._|
+|Past simple|_I had my car washed yesterday._|
+|Future|_I will have my car repaired tomorrow._|
+|Present perfect|_I’ve had my watch fixed._|
+|Continuous|_I’m having my house painted._|
+
+#### 5. Usos con cosas negativas (cuando algo te pasa)
+
+No siempre es un servicio que tú organizas. A veces es **algo que te ocurre** (generalmente negativo).
+
+- _George had his wallet stolen last week._  
+    → _A George le robaron la billetera la semana pasada._
+    
+- _We had our car broken into while we were on holiday._  
+    → _Nos forzaron el coche mientras estábamos de vacaciones._
+    
+
+👉 En estos casos significa “algo le pasó a …”, no “organizamos que ocurriera”.
+
+### Resumen rápido
+
+**have + objeto + past participle**
+
+1. **Servicio organizado:** _I had my hair cut._ → Me corté el pelo (alguien lo hizo por mí).
+    
+2. **Evento negativo:** _He had his car stolen._ → Le robaron el coche.
     
 
 ### Get
