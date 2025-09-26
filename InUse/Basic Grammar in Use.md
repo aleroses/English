@@ -87,13 +87,70 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 	1. I'm interested in politics.
 	2. I'm not interested in politics.
 
+> Additional exercise 1 (page 238)
+
 ### Unit 2 – am/is/are (questions)
 
+#### 2.1 Find the right answers for the questions.
+
+1. Where's the camera? → G. In your bag.
+2. Is your car blue? → F. No, it's black.
+3. Is Nicole from London? → H. No, she's American.
+4. Am I late? → C. Yes, you are.
+5. Where's Megan from? → A. Toronto.
+6. What color is your bag? → E. Black.
+7. Are you hungry? → B. No, I'm not.
+8. How is Christopher? → I. Fine.
+9. Who's that woman? → D. My sister.
+
+#### 2.2 Make questions with these words.
+
+1. Is your mother home?
+2. How are your parents?
+3. Is your job interesting?
+4. Are the stores open today?
+5. Where are you from?
+6. Are you interested in sports?
+7. Is the train station near here?
+8. Are your children at school?
+9. Why are you late?
+
+#### 2.3 Complete the questions. Use What... / Who... / Where... / How...
+
+1. How are your children? They're fine.
+2. Where is the bus stop? At the end of the block.
+3. How old are your children? Five, six, and ten.
+4. How much are these oranges? $1.50 a pound.
+5. What is your favorite sport? Skiing.
+6. How is the man in this photo? That's my father.
+7. What color are your new shoes? Black.
+
+#### 2.4 Write the questions.
+
+1. What's your name? Eric.
+2. Are you from Australian? No, I'm Canadian.
+3. How old are you? I'm 30.
+4. Are you a teacher? No, I'm a lawyer.
+5. Are you married? Yes, I am.
+6. Is your wife a lawyer? No, she's a teacher.
+7. Where is she from? She's from Mexico.
+8. What is her name? Ana.
+9. How old is she? She's 27.
+
+#### 2.5 Write short answers (Yes, I am. / No, he isn't., etc.).
+
+1. Are you married? No, I'm not.
+2. Are you thirsty? Yes, I'm.
+3. Is it cold today? No, it's not.
+4. Are your hands cold? Yes, they're.
+5. Is it dark now? No, it's not.
+6. Are you a teacher? Yes, I'm.
+
+> Additional exercises 1-2 (pages 238-239)
 
 
 
-
-
+→
 
 
 
@@ -102,7 +159,7 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ## Present perfect
 
-
+→
 
 ## Passive
 

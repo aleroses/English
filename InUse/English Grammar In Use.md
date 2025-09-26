@@ -1539,7 +1539,7 @@ El verbo _be_ cambia de forma según el tiempo verbal:
 |Passive -ing|_being done_ → _The road is being repaired_|Siendo hecho → La carretera está siendo reparada|
 |Present perfect passive|_has/have been done_ → _The work has been finished_|Ha sido hecho → El trabajo ha sido terminado|
 
-### 📘 Unidad 44 — Passive 3
+### Unidad 44 — Passive 3
 
 #### 🔹 A. **I was offered … / We were given …**
 
@@ -1754,7 +1754,7 @@ Pero en presente sí se puede usar con _babies/people in general_:
 
 ---
 
-# Resumen visual
+### Resumen visual
 
 |Estructura|Uso|Ejemplo|
 |---|---|---|
@@ -2176,3 +2176,177 @@ Así, visualmente ya sabes que la cosa se va poniendo más intensa.
 ---
 
 incluye una explicación completa de porqué y como se usan estas reglas.
+
+---
+## Prompt
+
+### Opción 1: Prompt Básico (Si no puedes proporcionar el texto)
+
+Este es el caso si solo tienes el nombre del libro y la sección, pero no puedes copiar y pegar el contenido. La IA se basará en su conocimiento general del tema y de ese libro en particular (que es muy conocido).
+
+**Ejemplo de Prompt:**
+
+> "Actúa como un profesor de inglés experto. Necesito una explicación detallada de la sección 46 del libro 'Grammar in Use' (de Raymond Murphy) titulada **'Have something done'**.
+> 
+> Por favor, explica:
+> 
+> 1. **El concepto principal:** ¿Qué significa esta estructura gramatical?
+>     
+> 2. **Forma gramatical:** ¿Cómo se construye la oración (estructura afirmativa, negativa e interrogativa)?
+>     
+> 3. **Uso y función:** ¿En qué situaciones se utiliza? Proporciona varios ejemplos de la vida real.
+>     
+> 4. **Diferencias clave:** Compara esta estructura con una oración similar en voz activa (por ejemplo, "I cut my hair" vs. "I had my hair cut") para destacar la diferencia de significado.
+>     
+> 5. **Errores comunes:** Menciona errores típicos que cometen los estudiantes con este punto gramatical."
+>     
+
+**¿Por qué funciona?**
+
+- Le das un **rol** ("profesor de inglés experto").
+    
+- Es **específico** (libro, sección, título).
+    
+- Es **estructurado** (usa números o viñetas), lo que guía a la IA para que no se desvíe.
+    
+
+---
+
+### Opción 2: Prompt Avanzado y MUY Recomendado (Si PUEDES proporcionar el texto)
+
+Esta es la forma **más precisa y poderosa**. Le das a la IA el texto exacto del libro para que lo analice. Así te aseguras de que la explicación se base 100% en el contenido del libro y no en la información general de la IA.
+
+**Cómo hacerlo:**
+
+1. Toma una foto clara o escanea la página de la sección 46 de tu libro "Grammar in Use".
+    
+2. Usa una herramienta de OCR (Reconocimiento Óptico de Caracteres) para extraer el texto. Puedes usar:
+    
+    - **Google Lens** (en muchos teléfonos).
+        
+    - **ChatGPT-4** o **Google Gemini** (subiendo la imagen y pidiéndole que extraiga el texto).
+        
+3. Copia el texto extraído.
+    
+
+**Ejemplo de Prompt (El Mejor):**
+
+> "A continuación, te proporciono el texto exacto de la sección 46, 'Have something done', del libro 'English Grammar in Use' de Raymond Murphy. Por favor, analiza **únicamente este texto** y proporciona una explicación detallada basada en él.
+> 
+> **--- INICIO DEL TEXTO DEL LIBRO ---**  
+> [PEGA AQUÍ EL TEXTO COMPLETO DE LA SECCIÓN 46]  
+> **--- FIN DEL TEXTO DEL LIBRO ---**
+> 
+> Basándote **exclusivamente** en el texto proporcionado, por favor:
+> 
+> 1. **Extrae y parafrasea la regla gramatical principal.**
+>     
+> 2. **Enumera y explica los puntos clave o usos que se mencionan.**
+>     
+> 3. **Utiliza los ejemplos que aparecen en el libro para ilustrar cada punto. Si es necesario, crea uno o dos ejemplos adicionales que sean consistentes con el estilo y las reglas del libro.**
+>     
+> 4. **Resume la información de la sección en una tabla o lista de puntos clave para facilitar el estudio.**
+>     
+> 5. **Si la sección incluye ejercicios, explícame cuál es la lógica detrás de ellos para practicar este concepto."**
+
+
+Editado:
+
+**Ejemplo de Prompt (El Mejor):**
+
+> "A continuación, te proporciono el texto exacto de la sección 46, 'Have something done', del libro 'English Grammar in Use' de Raymond Murphy. Por favor, analiza **únicamente este texto** y proporciona una explicación detallada basada en él.
+> 
+> **--- INICIO DEL TEXTO DEL LIBRO ---**  
+
+Unit
+have something done
+46
+A
+Study this example situation:
+The roof of Lisa’s house was damaged.
+So she called a builder, and yesterday he came
+and repaired it.
+Lisa had the roof repaired yesterday.
+This means: Lisa arranged for somebody else to
+repair the roof. She didn’t repair it herself.
+LISA
+If you have something done, you arrange for somebody to do it for you.
+Compare:
+Lisa repaired the roof. (= she repaired it herself)
+Lisa had the roof repaired. (= she arranged for somebody else to repair it)
+a: Did you make those curtains yourself?
+b: Yes, I like making things.
+a: Did you have those curtains made?
+b: No, I made them myself.
+B
+Study the word order:
+have
+Lisa had
+Where did you have
+We are having
+I think you should have
+I don’t like having
+objectpast participle
+the roof
+your hair
+the house
+that coat
+my picturerepaired.
+cut?
+painted.
+cleaned.
+taken.
+We say:
+How often do you have your car serviced? (not have serviced your car)
+Our neighbour is having a garage built. (not having built a garage)
+Your hair looks nice. Did you have it cut?
+C
+get something done
+You can say ‘get something done’ instead of ‘have something done’:
+When are you going to get the roof repaired? (= have the roof repaired)
+I think you should get your hair cut really short.
+D
+We also use have something done with a different meaning. For example:
+Paul and Karen had their bags stolen while they were travelling.
+This does not mean that they arranged for somebody to steal their bags. ‘They had their bags stolen’
+means only: ‘Their bags were stolen’.
+With this meaning, we use have something done to say that something happens to somebody or their
+belongings:
+Gary had his nose broken in a fight. (= his nose was broken)
+Have you ever had your bike stolen?
+
+> **--- FIN DEL TEXTO DEL LIBRO ---**
+> 
+> Basándote **exclusivamente** en el texto proporcionado, por favor:
+> 
+> 1. **Extrae y parafrasea la regla gramatical principal.**
+>     
+> 2. **Enumera y explica los puntos clave o usos que se mencionan.**
+>     
+> 3. **Utiliza los ejemplos que aparecen en el libro para ilustrar cada punto. Si es necesario, crea uno o dos ejemplos adicionales que sean consistentes con el estilo y las reglas del libro.**
+>     
+> 4. **Resume la información de la sección en una tabla o lista de puntos clave para facilitar el estudio.**
+>     
+> 5. **Si la sección incluye ejercicios, explícame cuál es la lógica detrás de ellos para practicar este concepto."**
+
+
+
+---
+
+Quiero que analices y me expliques detalladamente la siguiente sección de un libro de gramática en inglés.  
+⚠️ Importante: tu explicación debe basarse únicamente en el texto que te paso, sin usar información externa o inventada.
+
+Por favor:
+
+- Resume las ideas principales del texto.
+    
+- Explica cada punto con ejemplos claros.
+    
+- Aclara posibles dudas o confusiones comunes.
+    
+
+Aquí está el texto exacto del libro:
+
+**--- INICIO DEL TEXTO ---**  
+[pega aquí la sección del libro]  
+**--- FIN DEL TEXTO ---**
