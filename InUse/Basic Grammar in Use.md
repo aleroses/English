@@ -122,13 +122,13 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 3. How old are your children? Five, six, and ten.
 4. How much are these oranges? $1.50 a pound.
 5. What is your favorite sport? Skiing.
-6. How is the man in this photo? That's my father.
+6. Who's the man in this photo? That's my father.
 7. What color are your new shoes? Black.
 
 #### 2.4 Write the questions.
 
 1. What's your name? Eric.
-2. Are you from Australian? No, I'm Canadian.
+2. Are you Australian? No, I'm Canadian.
 3. How old are you? I'm 30.
 4. Are you a teacher? No, I'm a lawyer.
 5. Are you married? Yes, I am.
@@ -148,10 +148,35 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 > Additional exercises 1-2 (pages 238-239)
 
+### Unit 3 – I am doing (present continuous)
+
+
+
+
+
 
 
 →
 
+
+
+
+
+
+
+
+
+### Unit 4 – are you doing? (present continuous questions)
+
+### Unit 5 – I do/work/like, etc. (simple present)
+
+### Unit 6 – I don't ... (simple present negative)
+
+### Unit 7 – Do you... ? (simple present questions)
+
+### Unit 8 – I am doing (present continuous) and I do (simple present)
+
+### Unit 9 – I have ... and I've got...
 
 
 
