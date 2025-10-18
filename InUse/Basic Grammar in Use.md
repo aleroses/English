@@ -150,23 +150,57 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 3 – I am doing (present continuous)
 
+#### 3.1 What are these people doing? Use these verbs to complete the sentences:
 
+~~`eat`~~ `have` `lie` `play` `sit` `wait`
 
+1. **She's eating** an apple.
+2. He **is waiting** for a bus.
+3. They **are playing** soccer.
+4. He's lying on the floor.
+5. They're having breakfast.
+6. She's sitting on the table.
 
+#### 3.2 Complete the sentences. Use these verbs.
 
+`build` `cook` `leave` `stand` `stay` `swim` `take` ~~`work`~~
 
+1. Please be quiet. I'm working.
+2. "Where's John?" "He's in the kitchen. He's cooking."
+3. "You're standing on my foot." "Oh, I'm sorry."
+4. Look! Somebody is swimming in the river.
+5. We're here on vacation. We're staying at a hotel on the beach.
+6. "Where's Sue?" "She's taking a shower."
+7. They're building a new hotel downtown.
+8. I'm leaving now. Goodbye!
 
-→
+#### 3.3 Look at the picture. Write sentences about Jane. Use `She's -ing` or `She isn't -ing`.
 
+1. (have dinner) Jane isn't having dinner.
+2. (watch TV) She's watching TV.
+3. (sit on the floor) She's sitting on the floor.
+4. (read a book) She's not reading a book.
+5. (play the piano) She's not playing the piano.
+6. (laugh) She's laughing.
+7. (wear a hat) She's wearing a hat.
+8. (drink a coffee) She's not drinking a coffee.
 
+#### 3.4 What's happening now? Write true sentences.
 
-
-
-
-
-
+1. (I / wash / my hair) I'm not washing my hair.
+2. (it / snow) It's snowing. or It isn't snowing.
+3. (I / sit / on a chair) I'm sitting on a chair.
+4. (I / eat) I'm not eating .
+5. (it / rain) It's not raining.
+6. (I / study / English) I'm studying English.
+7. (I / listen / to music)  I'm not listening to music.
+8. (the sun / shine) The sun isn't shining.
+9. (I / wear / shoes) I'm wearing shoes.
+10. (I / read / a newspaper) I'm not reading a newspaper.
 
 ### Unit 4 – are you doing? (present continuous questions)
+
+→
 
 ### Unit 5 – I do/work/like, etc. (simple present)
 
