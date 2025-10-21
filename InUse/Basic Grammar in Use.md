@@ -200,6 +200,49 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 4 – are you doing? (present continuous questions)
 
+#### 4.1 Look at the pictures and write the questions.
+
+1. (you / watch / it?)
+	- Are you watching it?
+	- No, you can turn it off.
+2. (you / leave / now?)
+	- Are you leaving now?
+	- Yes, see you tomorrow.
+3. (it / rain?)
+	- Is it raining?
+	- No, not right now.
+4. (you / enjoy / the movie?)
+	- Are you enjoying the movie?
+	- Yes, it's really funny.
+5. (that clock / work?)
+	- Is that clock working?
+	- No, it's broken.
+6. (you / wait / for a bus)
+	- Are you waiting for a bus?
+	- No, for a taxi.
+
+#### 4.2 Look at the pictures and complete the questions. Use:
+
+`cry` `eat` `go` `laugh` `look at` ~~`read`~~
+
+1. What are you reading?
+2. Where is she going?
+3. What is he eating?
+4. Why are you crying?
+5. What are they looking at?
+6. Why is he laughing?
+
+#### 4.3 Make questions with these words. Put the words in the right order.
+
+
+
+
+
+
+
+
+
+
 →
 
 ### Unit 5 – I do/work/like, etc. (simple present)
@@ -228,3 +271,20 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 238 more exercises
 280 Answer 
+
+Puedes colocar [^1] notas en el pie de página [^2] fácilmente.
+[^1]: Aquí encuentras el texto de la nota al pie de página.
+[^2]: **Las notas de pie de página** pueden *formatearse* también.
+Estas pueden ocupar varias líneas.
+
+``Todo esto es `código`.``
+
+A & B
+α
+1 < 2
+<p>
+{
+xd
+}
+
+Esto es un \*ejemplo con asteriscos\*.
