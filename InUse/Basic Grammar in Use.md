@@ -87,7 +87,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 	1. I'm interested in politics.
 	2. I'm not interested in politics.
 
-> Additional exercise 1 (page 238)
+> Additional exercise 1 (page 238)  
+> Answer Key to Exercises 270 or 280
 
 ### Unit 2 – am/is/are (questions)
 
@@ -146,7 +147,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 5. Is it dark now? No, it's not.
 6. Are you a teacher? Yes, I'm.
 
-> Additional exercises 1-2 (pages 238-239)
+> Additional exercises 1-2 (pages 238-239)  
+> Answer Key to Exercises 270 or 280
 
 ### Unit 3 – I am doing (present continuous)
 
@@ -198,6 +200,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 9. (I / wear / shoes) I'm wearing shoes.
 10. (I / read / a newspaper) I'm not reading a newspaper.
 
+> Answer Key to Exercises 270 or 280
+
 ### Unit 4 – are you doing? (present continuous questions)
 
 #### 4.1 Look at the pictures and write the questions.
@@ -227,18 +231,40 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 1. What are you reading?
 2. Where is she going?
-3. What is he eating?
+3. What are you eating?
 4. Why are you crying?
 5. What are they looking at?
 6. Why is he laughing?
 
 #### 4.3 Make questions with these words. Put the words in the right order.
 
+1. (is / working / Ben / today)
+	- Is Ben working today?
+2. (what / the children / are / doing)
+	- What are the children doing?
+3. (you / are / listening / to me)
+	- Are you listening to me?
+4. (where / your friends / are / going)
+	- Where are your friends going?
+5. (are / watching / your parents / TV)
+	- Are your parents watching TV?
+6. (what / Jessica / is / cooking)
+	- What is Jessica cooking?
+7. (why / you / are / looking / at me)
+	- Why are you looking at me.
+8. (is / coming / the bus)
+	- Is the bus coming
+
+#### 4.4
+
+> Additional exercise 3 (page 239)
+> Answer Key to Exercises 271 or 281
 
 
 
+solo falta revisar 4.4
 
-
+respuestas pagina 271 o 281
 
 
 
