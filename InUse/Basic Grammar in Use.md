@@ -255,14 +255,31 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 8. (is / coming / the bus)
 	- Is the bus coming
 
-#### 4.4
+#### 4.4 Write short answers (Yes, I am. / No, he isn't., etc.).
+
+1. Are you watching TV? No, I'm not.
+2. Are you wearing a watch? Yes, I am.
+3. Are you eating something? No, I'm not.
+4. Is it raining? Yes' It is.
+5. Are you sitting on the floor? No, I'm not.
+6. Are you feeling all right? Yes, I am.
 
 > Additional exercise 3 (page 239)
 > Answer Key to Exercises 271 or 281
 
+### Unit 5 – I do / work / like, etc. (simple present)
 
+#### 5.1 Write these verbs with -s or -es
 
-solo falta revisar 4.4
+1. (read) she reads.
+2. (think) he thinks.
+3. (fly) It flies.
+4. (dance) He dances.
+5. (have) She has.
+6. (finish) It finishes.
+
+#### 5.2 
+
 
 respuestas pagina 271 o 281
 
