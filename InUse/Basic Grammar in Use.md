@@ -4,6 +4,8 @@
 
 ### Unit 1 – am/is/are
 
+> Page: 3 or 14
+
 #### 1.1 Write the short form (she's / we aren't, etc.).
 
 1. She's
@@ -92,6 +94,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 2 – am/is/are (questions)
 
+> Page: 5 or 16
+
 #### 2.1 Find the right answers for the questions.
 
 1. Where's the camera? → G. In your bag.
@@ -152,6 +156,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 3 – I am doing (present continuous)
 
+> Page: 7 or 18
+
 #### 3.1 What are these people doing? Use these verbs to complete the sentences:
 
 ~~`eat`~~ `have` `lie` `play` `sit` `wait`
@@ -203,6 +209,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 > Answer Key to Exercises 270 or 280
 
 ### Unit 4 – are you doing? (present continuous questions)
+
+> Page: 9 or 20
 
 #### 4.1 Look at the pictures and write the questions.
 
@@ -269,6 +277,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 5 – I do / work / like, etc. (simple present)
 
+> Page: 11 or 22
+
 #### 5.1 Write these verbs with -s or -es
 
 1. (read) she reads.
@@ -278,7 +288,42 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 5. (have) She has.
 6. (finish) It finishes.
 
-#### 5.2 
+#### 5.2 Complete the sentences about the people in the pictures. Use:
+
+`eat` `go` `live` ~~`play`~~ `play` `sleep`
+
+1. He plays the piano.
+2. They live in a very big house.
+3. She eats a lot of fruit.
+4. He plays tennis.
+5. They go to the movies a lot.
+6. He sleeps seven hours a night.
+
+#### 5.3 Complete the sentences. Use:
+
+`boil` `close` `cost` `like` `like` `meet` `open` ~~`speak`~~ `teach` `wash`
+
+1. Maria speaks four languages.
+2. Banks usually open at 9:00 in the morning.
+3. The art museum closes at 5:00 in the afternoon.
+4. Jessica is a teacher. She teaches match to young children.
+5. My job is very interesting. I meet a lot of people.
+6. Mike's car is always dirty. He never washes it.
+7. Food is expensive. It costs a lot of money.
+8. Shoes are expensive. They cost a lot of money.
+9. Water boils at 100 degrees Celsius.
+10. Julia and I are good friends. I like her, and she likes me.
+
+#### 5.4 
+
+
+
+
+
+
+
+
+
 
 
 respuestas pagina 271 o 281
