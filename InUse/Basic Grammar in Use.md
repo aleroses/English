@@ -314,7 +314,94 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 9. Water boils at 100 degrees Celsius.
 10. Julia and I are good friends. I like her, and she likes me.
 
-#### 5.4 
+#### 5.4 Write sentences from these words. Use the right form of the verb (arrive or arrives, etc.).
+
+1. Sue always arrives early.
+2. I never go to the movies.
+3. Hannah always works hard.
+4. Children usually like chocolate.
+5. Julia always enjoys parties.
+6. I often forget people's names.
+7. Nick never watches TV.
+8. We usually have dinner at 6:30.
+9. Jenn always wears nice clothes.
+
+#### 5.5 Write sentences about yourself. Use always / never / often / usually / sometimes.
+
+1. I usually watch TV in the evening.
+2. I sometimes read in bed.
+3. I often get up before 7:00.
+4. I never go to work by bus.
+5. I always drink coffee in the morning.
+
+> Answer Key to Exercises 271 or 281
+
+### Unit 6 – I don't... (simple present negative)
+
+> Page: 12 or 23
+
+#### 6.1 Write the negative.
+
+1. I don't play the piano very well.
+2. Anna doesn't play the piano very well.
+3. They don't know my phone number.
+4. We don't work very hard.
+5. Mike doesn't have a car.
+6. You don't do the same thing every day.
+
+#### 6.2 Study the information and write sentences with like.
+
+1. Bill and Rose like classical music. Carol doesn't like classical music. I like classical music.
+2. Bill and Rose don't like boxing. Carol like boxing. I like boxing.
+3. Bill and Rose like horror movies. Carol doesn't like horror movies. I don't like horror movies.
+
+#### 6.3 Write about yourself. Use:
+
+ `I never` or  `I... a lot` or  `I don't... very often.`
+
+1. I don't watch TV very often. or I never watch TV. or I watch TV a lot.
+2. I never go to the theater.
+3. I don't ride a bike a lot.
+4. I don't eat in restaurants very often.
+5. I don't travel by train a lot.
+
+#### 6.4 Complete the sentences. All of them are negative. User don't / doesn't + these verbs:
+
+ `cost`  `go`  `know` ~~`rain`~~ `see` `use` `wear`
+
+1. The weather here is usually nice. It `doesn't rain` a lot.
+2. Andy has a car, by he `doesn't use` it very often.
+3. Dan and his friends like movies, but they `don't go` to the movies very often.
+4. Amanda is married, but she `doesn't wear` a ring.
+5. I `don't know` much about politics. I'm not interested in it.
+6. The Regent Hotel isn't expensive. It `doesn't cost` much to stay there.
+7. David lives near us, but we `don't see` him very often. 
+
+#### 6.5 Put the verb into the correct form, affirmative or negative.
+
+1. Lauren `speaks` four languages - English, Korean, Arabic, and Spanish.
+2. I `don't like` my job. It's very boring.
+3. "Where's David?" "I'm, sorry. I `don't know`."
+4. Sue is a very quiet person. She `doesn't talk` very much.
+5. Andy `drinks` a lot of coffee. It's his favorite drink.
+6. That's not true! I `don't believe`it!
+7. That's a very beautiful picture. I `like` it a lot.
+8. John is a vegetarian. He `doesn't eat` it a lot.
+
+> Answer Key to Exercises 271 or 281
+
+### Unit 7 – Do you...? (simple present questions)
+
+#### 7.1 Write questions with Do ...? and Does ...?
+
+1. I like chocolate. How about you?
+	Do you like chocolate?
+2. I play tennis. How about you?
+	Do you play tennis?
+3. You live near here. How about Emily?
+	Does Emily live near here?
+4. Tom plays tennis. How about his friends?
+	Do Tom's friends play tennis?
 
 
 
@@ -326,7 +413,11 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 
 
-respuestas pagina 271 o 281
+
+
+> Page: 12 or 23
+
+> Answer Key to Exercises 271 or 281
 
 
 
