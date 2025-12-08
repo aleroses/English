@@ -402,35 +402,77 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 	Does Emily live near here?
 4. Tom plays tennis. How about his friends?
 	Do Tom's friends play tennis?
+5. You speak English. How about your brother?
+	Does he speak English?
+6. I do yoga every morning. How about you?
+	Do you do yoga every morning?
+7. Sue often travels on business. How about Eric?
+	Does Eric often travel on business?
+8. I want to be famous. How about you?
+	- Do you want to be famous?
+9. You work hard. How about Anna?
+	Does Anna work hard.
 
+#### 7.2 Make questions from these words + do / does Put the words in the right order.
 
+1. Where do your parents live?
+2. Do you always get up early?
+3. How often do you watch TV?
+4. What do you want for dinner?
+5. Do you like football?
+6. Does your brother like football?
+7. What do you do in your free time?
+8. Where does your sister work?
+9. Do you always have breakfast?
+10. What does this word mean?
+11. Does it snow here in the winter?
+12. What time do you usually go to bed?
+13. How much does it cost to call Mexico?
+14. What do you usually have for breakfast?
 
+#### 7.3 Complete the questions. Use these verbs:
 
+~~`do`~~ `do` `enjoy` `get` `like` `start` `teach` `work`
 
+1. What do you do? I work in a bookstore.
+2. Do you like it? It's ok.
+3. What time do you start in the morning? At 9:00.
+4. Do you work on Saturday? Sometimes.
+5. How do you get to work? Usually by bus.
+6. And your husband. What does he do? He's a teacher.
+7. What does he teach? Science.
+8. Does he enjoy his job? Yes, he loves it.
 
+#### 7.4 Write short answers (Yes, he does. / No, I don't. etc.).
 
+1. Do you watch TV a lot? No, I don't. or Yes, I do.
+2. Do you live in a big city? Yes, I do.
+3. Do you ever ride a bike? Yes, I do.
+4. Does it rain a lot where you live? No, it doesn't.
+5. Do you play the piano? No, I don't.
 
-
-
-
-
-
-> Page: 12 or 23
-
+> Page: 15 or 26  
 > Answer Key to Exercises 271 or 281
+
+### Unit 8 – I am doing (present continuous) and I do (simple present)
+
+#### 8.1 
+
+
+
+
+
+
+
+> Page: 16 or 27  
+> Answer Key to Exercises 271 or 281
+
 
 
 
 
 →
 
-### Unit 5 – I do/work/like, etc. (simple present)
-
-### Unit 6 – I don't ... (simple present negative)
-
-### Unit 7 – Do you... ? (simple present questions)
-
-### Unit 8 – I am doing (present continuous) and I do (simple present)
 
 ### Unit 9 – I have ... and I've got...
 
