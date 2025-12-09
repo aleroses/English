@@ -456,7 +456,56 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 8 – I am doing (present continuous) and I do (simple present)
 
-#### 8.1 
+#### 8.1 Answer the questions about the pictures.
+
+1. I'm a photographer.
+	- Does he take photographs?
+		Yes, he does.
+	- Is he taking a photograph?
+		- No, he isn't.
+	- What is he doing?
+		He is taking a shower.
+
+2. I'm a bus driver
+	- Is she driving a bus?
+		No, she isn't.
+	- Does she drive a bus?
+		Yes, she does.
+	- What is she doing?
+		- She is playing the piano.
+3. I'm a window washer.
+	- Does he wash windows?
+		Yes, he does.
+	- Is he washing a window?
+		Yes, he is.
+	- What is he doing?
+		He is washing a window.
+4. We are teachers.
+	- Are they teaching?
+		No, they aren't.
+	- Do they teach?
+		Yes, they do.
+	What do they do?
+		They teach.
+
+#### 8.2 Complete the sentences with am / is / are or do / don't / does / doesn't
+
+1. Excuse me, do you speak English?
+2. "Where's Kate?" "I don't know."
+3. What's so funny? Why are you laughing?
+4. "What does your sister do?" "She's a dentist."
+5. It is raining. I don't want to go out in the rain.
+6. "Where do you come from?" "Canada."
+7. How much does it cost to stay at this hotel? Is it expensive?
+8. Steve is a good tennis player, but he doesn't play very often.
+
+#### 8.3 Put the verb in the present continuous (I am doing) or the simple present (I do)
+
+1. Excuse me, do you speak (you / speak) English?
+2. "Where's Tom?" "He's taking a shower."
+3. I don't watch TV very often.
+4. Listen! Somebody is singing.
+5. Sarah is tired. She wants to go home now.
 
 
 
@@ -464,7 +513,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 
 
-> Page: 16 or 27  
+
+> Page: 17 or 28  
 > Answer Key to Exercises 271 or 281
 
 
