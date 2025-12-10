@@ -392,6 +392,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 7 – Do you...? (simple present questions)
 
+> Page: 15 or 26
+
 #### 7.1 Write questions with Do ...? and Does ...?
 
 1. I like chocolate. How about you?
@@ -456,6 +458,8 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 ### Unit 8 – I am doing (present continuous) and I do (simple present)
 
+> Page: 17 or 28
+
 #### 8.1 Answer the questions about the pictures.
 
 1. I'm a photographer.
@@ -506,27 +510,26 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 3. I don't watch TV very often.
 4. Listen! Somebody is singing.
 5. Sarah is tired. She wants to go home now.
+6. How often do you use your car? Every day?
+7. "Excuse me, but you are sitting in my seat. " "Oh, I'm sorry."
+8. I'm sorry, I don't understand. Can you speak more slowly?
+9. It's late. I'm going home now. Are you coming with me?
+10. What time does your father finish work every day?
+11. You can turn off the radio. I'm not listening to it.
+12. "Where's Eric?" "In the kitchen. He is cooking something."
+13. Josh doesn't usually drive to work. He usually walks.
+14. Sue doesn't like coffee. She prefers tea.
 
-
-
-
-
-
-
-
-> Page: 17 or 28  
-> Answer Key to Exercises 271 or 281
-
-
-
-
-
-→
-
+> Answer Key to Exercises 271–272 or 281–282
 
 ### Unit 9 – I have ... and I've got...
+> Page: 17 or 28
+
+#### 9.1 
 
 
+
+> Answer Key to Exercises 271 or 281
 
 ## Past
 
@@ -537,6 +540,11 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 ## Passive
 
 ## Verb forms
+
+
+
+
+→
 
 ## Future
 
