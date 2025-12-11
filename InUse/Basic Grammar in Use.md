@@ -523,13 +523,66 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 > Answer Key to Exercises 271–272 or 281–282
 
 ### Unit 9 – I have ... and I've got...
-> Page: 17 or 28
 
-#### 9.1 
+> Page: 19 or 30
+
+Tanto **I have** como **I’ve got** significan **“yo tengo”**.
+
+- I have = más formal, más general, más internacional
+- I’ve got = más informal, más común en conversación
+
+Negative:
+
+Americano: 
+	I don't have a car.
+
+Británico: 
+	I haven't got a car.
+
+#### 9.1 Write these sentences with have / has or don't have / doesn't have. The meaning is the same.
+
+1. They have got two children.
+	They have two children.
+2. She hasn't got a key.
+	She doesn't have a key.
+3. He has got a new job.
+	He has a new job.
+4. Have you got an umbrella?
+	Do you have an umbrella?
+5. We have got a lot of work to do.
+	We have a lot of work to do.
+6. I haven't got your phone number.
+	I don't have your phone number.
+7. Has your father got a car?
+	Does your father have a car?
+8. How much money have we got?
+	How much money do we have?
+
+#### 9.2 Write these sentences with got.  The meaning is the same.
+
+1. Do you have any money?
+	Have you got any money?
+2. I don't have many clothes.
+	I haven't got many clothes.
 
 
 
-> Answer Key to Exercises 271 or 281
+
+
+
+
+
+
+
+
+> Answer Key to Exercises 272 or 282
+
+
+
+
+
+
+
 
 ## Past
 
