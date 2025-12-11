@@ -541,21 +541,21 @@ Británico:
 
 #### 9.1 Write these sentences with have / has or don't have / doesn't have. The meaning is the same.
 
-1. They have got two children.
+1. They have got two children.  
 	They have two children.
-2. She hasn't got a key.
-	She doesn't have a key.
-3. He has got a new job.
+2. She hasn't got a key.  
+	She doesn't have a key.  
+3. He has got a new job.  
 	He has a new job.
-4. Have you got an umbrella?
+4. Have you got an umbrella?  
 	Do you have an umbrella?
-5. We have got a lot of work to do.
+5. We have got a lot of work to do.  
 	We have a lot of work to do.
-6. I haven't got your phone number.
+6. I haven't got your phone number.  
 	I don't have your phone number.
-7. Has your father got a car?
+7. Has your father got a car?  
 	Does your father have a car?
-8. How much money have we got?
+8. How much money have we got?  
 	How much money do we have?
 
 #### 9.2 Write these sentences with got.  The meaning is the same.
