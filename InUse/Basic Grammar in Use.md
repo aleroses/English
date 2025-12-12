@@ -533,11 +533,13 @@ Tanto **I have** como **I’ve got** significan **“yo tengo”**.
 
 Negative:
 
-Americano: 
-	I don't have a car.
+Americano:  
+	I don't have a car.  
+	He doesn’t have a car.
 
-Británico: 
-	I haven't got a car.
+Británico:  
+	I haven't got a car.  
+	He hasn’t got a car. (nota el has en 3a persona)
 
 #### 9.1 Write these sentences with have / has or don't have / doesn't have. The meaning is the same.
 
@@ -560,37 +562,114 @@ Británico:
 
 #### 9.2 Write these sentences with got.  The meaning is the same.
 
-1. Do you have any money?
+1. Do you have any money?  
 	Have you got any money?
-2. I don't have many clothes.
+2. I don't have many clothes.  
 	I haven't got many clothes.
+3. Does Tom have a brother?  
+	Has Tom got a brother?
+4. How many children do they have?  
+	How many children have they got?
+5. Do you have any questions?  
+	Have you got any questions?
+6. Sam doesn't have a job.
+	Sam hasn't got a job.
 
+#### 9.3 Read the questions and answers. Then write sentences about Mark.
 
+1. Do you have a car?  
+	No. He doesn't have a car.
+2. Do you have a bike? 
+	Yes. He has a bike.
+3. Do you have a dog?  
+	No, He hasn't got a dog.
+4. Do you have a cell phone?  
+	No. He hasn't got a cell phone.c
+5. Do you have a watch?  
+	No. He doesn't have a watch.
+6. Do you have any brothers or sisters?
+	Yes. He has two brothers and a sister.
 
+What about you? Write sentences with I have or I don't have.
 
+7. I don't have a dog.
+8. I don't have a bike.
+9. I have a sister.
 
+#### 9.4 Complete the sentences with have, has, don't have or doesn't have.
 
+1. Sarah doesn't have a car.  
+	She goes everywhere by bike.
+2. They like animals.  
+	They have three dogs and two cats.
+3. Matt isn't happy.  
+	He has a lot of problems.
+4. They are always busy.  
+	They don't have much free time.
+5. "What's wrong?"  
+	"I have something in my eye."
+6. "Where's my pen?" "I don't know."  
+	I don't have it.
+7. Melissa wants to go to the concert, but
+	she doesn't have a ticket.
 
+#### 9.5 Complete the sentences. Use have / has or don't have / doesn't have with:
 
+`a lot of friends` `much time` ~~`a headache`~~ `six legs` `a job` `a key`
 
-
+1. I'm not feeling well.  
+	I have a headache.
+2. Everybody like Tom.  
+	He has a lot of friends.
+3. She can't open the door.  
+	She doesn't have a key.
+4. Hurry!  
+	We don't have much time.
+5. An insect has six legs.
+6. I'm unemployed.
+	I don't have a job.
 
 > Answer Key to Exercises 272 or 282
 
+---
+
+## 2. Past
+
+### 10. 
 
 
+### 11.
+
+### 12.
+
+### 13.
+
+### 14.
+
+### 15.
+
+---
+
+## 3. Present perfect
+
+### 16.
+
+### 17.
+
+### 18.
+
+### 19.
 
 
-
-
-
-## Past
-
-## Present perfect
+---
 
 →
 
-## Passive
+## 4. Passive
+
+### 20.
+
+### 21.
 
 ## Verb forms
 
