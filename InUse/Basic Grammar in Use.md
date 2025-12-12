@@ -48,7 +48,7 @@
 
 #### 1.5 Write sentences for the pictures. Use:
 
-`angry` `cold` `hot` `hungry` `scared` `thirsty`
+`angry` `cold` `hot` `hungry` `scared` ~~`thirsty`~~
 
 1. She's thirsty.
 2. They're cold.
@@ -59,35 +59,37 @@
 
 #### 1.6 Write true sentences, affirmative or negative. Use is/isn't or are/aren't.
 
-1. (it / hot today) It isn't hot today. or It's hot today.
-2. (it / windy today)
-	1. It isn't windy today.
-	2. It's windy today.
-3. (my hands / cold)
-	1. My hands aren't cold.
-	2. My hands are cold.
-4. (Brazil / a very big country)
-	1. Brazil isn't a very big country.
-	2. Brazil's a very big country.
-5. (diamonds / cheap)
-	1. The diamonds aren't cheap.
-	2. The diamonds are cheap.
-6. (Quebec / in the United States)
-	1. Quebec isn't in the United States.
-	2. Quebec is in the United States.
+1. (it / hot today)  
+	It isn't hot today. or It's hot today.
+2. (it / windy today)  
+	It isn't windy today.  
+	It's windy today.  
+3. (my hands / cold)  
+	My hands aren't cold.  
+	My hands are cold.  
+4. (Brazil / a very big country)  
+	Brazil isn't a very big country.  
+	Brazil's a very big country.  
+5. (diamonds / cheap)  
+	The diamonds aren't cheap.  
+	The diamonds are cheap.  
+6. (Quebec / in the United States)  
+	Quebec isn't in the United States.  
+	Quebec is in the United States.  
 
 Write true sentences, affirmative or negative. Use I'm / I'm not.
 
-7. (tired) I'm tired. or I'm not tired.
-8. (hungry)
-	1. I'm hungry.
-	2. I'm not hungry.
-9. (in bed)
-	1. I'm in bed.
-	2. I'm not in bed.
-10. (interested in politics)
-	1. I'm interested in politics.
-	2. I'm not interested in politics.
+7. (tired)  
+	I'm tired. or I'm not tired.
+8. (hungry)  
+	I'm hungry.  
+	I'm not hungry.  
+9. (in bed)  
+	I'm in bed.  
+	I'm not in bed.  
+10. (interested in politics)  
+	I'm interested in politics.  
+	I'm not interested in politics.  
 
 > Additional exercise 1 (page 238)  
 > Answer Key to Exercises 270 or 280
