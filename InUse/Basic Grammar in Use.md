@@ -637,30 +637,107 @@ What about you? Write sentences with I have or I don't have.
 
 ## 2. Past
 
-### 10. 
+### 10. was / were
+
+> Page: 21 or 32
+
+#### 10.1 Where were these people at 3:00 yesterday afternoon?
+
+1. San was in bed.
+2. Jack and Kate were at the movies.
+3. Sue was at the train station.
+4. Mr. And Mrs. Hall were in a restaurant.
+5. Ben was at the beach.
+6. And you? I was studying programming.
+
+#### 10.2 Write am / is / are (present) or was / were (past).
+
+1. Last year she was 22, so she is 23 now.
+2. Today the weather is nice, but yesterday it was very cold.
+3. I am hungry. Can I have something to eat?
+4. I feel fine this morning, but I was very tired last night.
+5. Where were you at 11:00 last Friday morning?
+6. Don't buy those shoes. They are very expensive.
+7. I like your new jacket. Was it expensive?
+8. This time last year, I was in Paris.
+9. "Where are Sam and Joe?" "I don't know. They were here a few minutes ago."
+
+#### 10.3
 
 
-### 11.
 
-### 12.
 
-### 13.
 
-### 14.
 
-### 15.
+
+
+
+
+
+
+
+> Answer Key to Exercises 272 or 282
+
+
+
+
+
+
+
+
+
+
+
+### 11. Worked / got / went, etc. (simple past)
+
+
+
+
+
+
+
+
+
+
+
+### 12. I didn't... Did you...? (simple past negative and questions)
+
+
+
+
+
+
+
+
+
+
+### 13. I was doing (past continuous)
+
+
+
+
+
+
+
+
+
+
+
+### 14. I was doing (past continuous) and I did (simple past)
+
+### 15. I used to...
 
 ---
 
 ## 3. Present perfect
 
-### 16.
+### 16. Have you...?
 
-### 17.
+### 17. How log have you...?
 
-### 18.
+### 18. for since ago
 
-### 19.
+### 19. I have done (present perfect) and I did (past)
 
 
 ---
