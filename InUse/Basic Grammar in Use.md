@@ -662,9 +662,35 @@ What about you? Write sentences with I have or I don't have.
 8. This time last year, I was in Paris.
 9. "Where are Sam and Joe?" "I don't know. They were here a few minutes ago."
 
-#### 10.3
+#### 10.3 Write was / were or wasn't / weren't
 
+1. We weren't happy with the hotel. Our room was very small, and it wasn't clean.
+2. Nick wasn't at work last week because he was sick. He's better now.
+3. Yesterday was a holiday, so the banks were closed. They're open today.
+4. "Were Kate and Bill at the party?" "Kate was there, but Bill wasn't."
+5. Where are my keys? They were on the table, but they're not there now.
+6. You weren't home last night. Where were you?
 
+#### 10.4 Write questions from these words + was / were. Put the words in the right order.
+
+1. Why were you late this morning?  
+	The traffic was bad.
+2. Was your exam difficult?  
+	No, it was easy.
+3. Where were Sue and Chris last week?  
+	They were on vacation.
+4. How much was your new camera?  
+	One hundred and twenty dollars.
+5. Why were you angry yesterday?  
+	Because you were late.
+6. Was the weather nice last week?  
+	Yes, it was beautiful.
+
+> Answer Key to Exercises 272 or 282
+
+### 11. Worked / got / went, etc. (simple past)
+
+> Page: 23 or 34
 
 
 
@@ -677,26 +703,6 @@ What about you? Write sentences with I have or I don't have.
 
 
 > Answer Key to Exercises 272 or 282
-
-
-
-
-
-
-
-
-
-
-
-### 11. Worked / got / went, etc. (simple past)
-
-
-
-
-
-
-
-
 
 
 
