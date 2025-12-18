@@ -1,4 +1,4 @@
-VERBOS REGULARES - REGLAS ED / D / IED
+# VERBOS REGULARES - REGLAS ED / D / IED
 
 1. Agregar ED:
 Play -> Played

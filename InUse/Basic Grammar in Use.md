@@ -637,7 +637,7 @@ What about you? Write sentences with I have or I don't have.
 
 ## 2. Past
 
-### 10. was / were
+### Unit 10 – was / were
 
 > Page: 21 or 32
 
@@ -688,9 +688,65 @@ What about you? Write sentences with I have or I don't have.
 
 > Answer Key to Exercises 272 or 282
 
-### 11. Worked / got / went, etc. (simple past)
+### Unit 11 – Worked / got / went, etc. (simple past)
 
 > Page: 23 or 34
+
+#### 11.1 Complete the sentences. Use a verb from the box.
+~~`brush`~~ `die` `end` `enjoy` `happen` `open` `rain` `start` `stay` `want`
+
+1. I brushed my teeth three times yesterday.
+2. It was hot in the room, so I opened the window.
+3. The movie was very long. It started at 7:15 and ended at 10:00
+4. When I was a child, I wanted to be a doctor.
+5. The accident happened last Sunday afternoon.
+6. The weather is nice today, but yesterday it rained all day.
+7. We enjoyed our vacation last year. We stayed at a very nice place.
+8. Anna's grandfather died when he was 90 years old.
+
+#### 11.2 Read about Liz's trip to Madrid. Put the verbs in the correct form.
+
+Las Tuesday, Liz flew from Los Angeles to Madrid.  
+She `got` up at 6:00 in the morning and `had` a cup  
+of coffee. Al 7:15 she `left` home and `drove` to the  
+airport. When she `got` there, she `parked` the car,  
+`walked` to the terminal, and `checked` in. Then she  
+`had` breakfast at an airport café and `waited` for  
+her flight. The plane `departed` on time and `arrived` in  
+Madrid 13 hours later. Finally, she `took` a taxi from the airport  
+to her hotel downtown.
+
+#### 11.3 Write sentences about the past (yesterday / last week, etc.).
+
+1. James always goes to work by car. Yesterday he went to work by car.
+2. Rachel often loses her keys. She lost her keys last week.
+3. Kate meets her friends every night. She met her friends last night.
+4. I buy a newspaper every day. Yesterday I bought a newspaper yesterday.
+5. We often go to the movies on weekends. Last Sunday we went to the movies.
+6. I eat an orange every day. Yesterday I ate an orange.
+7. Tom always takes a shower in the morning. This morning, he took a shower.
+8. Our friends often come to see us. They came to see us last Friday.
+
+#### 11.4 Write a sentence with just for each picture.
+
+1. They just arrived.
+2. He just got up.
+3. They just bought a new car.
+4. The race just started.
+
+> Answer Key to Exercises 272 or 282
+
+### Unit 12 – I didn't... Did you...? (simple past negative and questions)
+
+> Page: 25 or 36
+
+
+
+
+
+
+
+
 
 
 
@@ -706,18 +762,6 @@ What about you? Write sentences with I have or I don't have.
 
 
 
-### 12. I didn't... Did you...? (simple past negative and questions)
-
-
-
-
-
-
-
-
-
-
-### 13. I was doing (past continuous)
 
 
 
@@ -729,21 +773,33 @@ What about you? Write sentences with I have or I don't have.
 
 
 
-### 14. I was doing (past continuous) and I did (simple past)
+### Unit 13 -  I was doing (past continuous)
 
-### 15. I used to...
+
+
+
+
+
+
+
+
+
+
+### Unit 14 – I was doing (past continuous) and I did (simple past)
+
+### Unit 15 – I used to...
 
 ---
 
 ## 3. Present perfect
 
-### 16. Have you...?
+### Unit 16 – Have you...?
 
-### 17. How log have you...?
+### Unit 17 - How log have you...?
 
-### 18. for since ago
+### Unit 18 - for since ago
 
-### 19. I have done (present perfect) and I did (past)
+### Unit 19 - I have done (present perfect) and I did (past)
 
 
 ---
