@@ -740,13 +740,31 @@ to her hotel downtown.
 
 > Page: 25 or 36
 
+#### 12.1 Complete these sentences with the verb in the negative.
 
+1. I saw Rachel, but I didn't see Jenn.
+2. They worked on Monday, but they didn't work on Tuesday.
+3. We went to the post office, but we didn't go to the bank.
+4. She had a pen, but she didn't have any paper.
+5. Jack did some work in the yard, but he didn't do any work in the house.
 
+#### 12.2 Write questions with Did...?
 
+1. I watched TV last night. How about you?  
+	Did you watch TV last night?
+2. I enjoyed the party. How about you?  
+	Did you enjoy the party?
+3. I had a nice vacation. How about you?   
+	Did you have a nice vacation?
+4. I finished work early. How about you?  
+	Did you finish work early?
+5. I slept well last night. How about you?  
+	Did you sleep well last night.
 
+#### 12.3 What did you do yesterday? Write affirmative or negative sentences.
 
-
-
+1. I watched TV. or I didn't watch TV.
+2. I got up before 7:00. or I didn't get up before 7:00.
 
 
 
