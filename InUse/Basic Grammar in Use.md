@@ -765,18 +765,63 @@ to her hotel downtown.
 
 1. I watched TV. or I didn't watch TV.
 2. I got up before 7:00. or I didn't get up before 7:00.
+3. I took a shower. or I didn't take a shower.
+4. I bought a magazine. or I didn't buy a magazine.
+5. I ate meat. or I didn't eat meat.
+6. I went to bed before 10:30. I didn't go to the bed before 10:30.
+
+#### 12.4 Write B's questions. Use:
+
+`cost` `get to work` `go` `go to bed late` `happen` `have a nice time` ~~`stay`~~ `win`
+
+1. One  
+	A: We went to Chicago last month.  
+	B: Where did you stay?  
+	A: With some friends.
+
+2. Two  
+	A: I was late for the meeting.  
+	B: What time did you get to work?  
+	A: 9:30  
+
+3. Three  
+	A: I played tennis this afternoon.  
+	B: Did you win?  
+	A: No, I lost.  
+
+4. Four
+	A: I had a nice vacation.  
+	B: Good. Where did you go?  
+	A: To the mountains.
+
+5. Five  
+	A: We came home by taxi.  
+	B: How much did you cost?  
+	A: Twenty dollars.
+
+6. Six  
+	A: I'm tired this morning.  
+	B: Did you go to bed late?  
+	A: No, but I didn't sleep very well.  
+
+7. Seven  
+	A: We went to the beach yesterday.  
+	B: Did you have a nice time?  
+	A: Yes, it was great.  
+
+8. Eight  
+	A: The window is broken.  
+	B: How did it happen?  
+	A: I don't know.
+
+#### 12.5 Put the verb in the correct form - affirmative, negative, or question.
+
+1. We went to the movies, but 
 
 
 
 
-
-
-
-
-
-
-
-> Answer Key to Exercises 272 or 282
+> Answer Key to Exercises 272 or 282 – 273 or 283
 
 
 
