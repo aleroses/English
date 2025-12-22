@@ -816,10 +816,14 @@ to her hotel downtown.
 
 #### 12.5 Put the verb in the correct form - affirmative, negative, or question.
 
-1. We went to the movies, but 
-
-
-
+1. We went to the movies, but the film wasn't very good. We didn't enjoy it.
+2. Tom bought some new clothes yesterday - two shirts, a jacket, and a sweater.
+3. "Did it rain yesterday?" "No, it was a nice day."
+4. We were tired, so we didn't stay long at the party.
+5. It was very warm in the room, so I opened a window.
+6. "Did you call Chris this morning?"  "No, I didn't have time."
+7. "I cut my hand this morning." "How did you do that?"
+8. "Why weren't you at the meeting yesterday?" "I didn't know about it."
 
 > Answer Key to Exercises 272 or 282 – 273 or 283
 
