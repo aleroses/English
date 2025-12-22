@@ -827,22 +827,34 @@ to her hotel downtown.
 
 > Answer Key to Exercises 272 or 282 – 273 or 283
 
+### Unit 13 - I was doing (past continuous)
+
+> Page: 27 or 38
+
+#### 13.1 Look at the pictures. Where were these people at 3:00 yesterday afternoon? And what were the doing? Write two sentences for each picture.
+
+1. Rachel was home. She was watching TV.
+2. Jack and Kate were at the movies. They were watching a movie.
+3. Tom was in his car. He was driving.
+4. Amanda was at the station. She was waiting for a train.
+5. Mr. and Mrs. Hall were in the park. They were walking.
+6. And you? I was in my room. I was studying English.
+
+#### 13.2 Sarah did a lot of things yesterday. Look at the pictures and complete the sentences.
+
+1. At 8:45 she was washing her car.
+2. At 10:45 she was playing tennis.
+3. At 8:00 she was reading a newspaper.
+4. At 12:10 she was cooking.
+5. At 7:15 she was having breakfast.
+6. At 9:30 she was cleaning the kitchen.
+
+#### 13.3 Complete the questions. Use was / were -ing. Use what / where / why if necessary.
 
 
+13 sin revisar
 
-
-
-
-
-
-
-
-
-
-
-### Unit 13 -  I was doing (past continuous)
-
-
+> Answer Key to Exercises 272 or 282 – 273 or 283
 
 
 
