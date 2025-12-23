@@ -851,21 +851,39 @@ to her hotel downtown.
 
 #### 13.3 Complete the questions. Use was / were -ing. Use what / where / why if necessary.
 
+1. Where were you living in 2012?  
+	In Brazil.
+2. What were you doing at 2:00?  
+	I was asleep.
+3. Was it raining when you got up?  
+	No, it was sunny.
+4. Why was Sue driving so fast?  
+	Because she was late.
+5. Was Tom wearing a suit yesterday?  
+	No, a T-shirt and jeans.
 
-13 sin revisar
+#### 13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing? Write affirmative or negative sentences.
 
-> Answer Key to Exercises 272 or 282 – 273 or 283
+1. He wasn't wearing a jacket.
+2. He was carrying a bag.
+3. He wasn't riding a bike.
+4. He wasn't going home.
+5. He was wearing a hat.
+6. He wasn't carrying an umbrella.
+7. He wasn't going to the dentist.
+8. He was eating an ice cream cone.
 
-
-
-
-
-
-
-
+> Answer Key to Exercises 273 or 283
 
 ### Unit 14 – I was doing (past continuous) and I did (simple past)
 
+> Page: 29 or 40
+
+#### 14.1 
+
+
+
+> Answer Key to Exercises 273 or 283
 ### Unit 15 – I used to...
 
 ---
