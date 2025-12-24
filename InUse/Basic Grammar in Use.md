@@ -879,7 +879,74 @@ to her hotel downtown.
 
 > Page: 29 or 40
 
-#### 14.1 
+#### 14.1 Look at the pictures. Put the verbs in the correct form, past continuous or simple past.
+
+1. ----  
+	Emily broke her arm last week.  
+	It happened when  
+	she was painting her  
+	room. She fell off the ladder.
+	
+2. ----  
+	The train arrived  
+	at the station, and Adriana got off.  
+	Two friends of hers, Jon and  
+	Rachel, were waiting to  
+	meet her.
+	
+3. ----  
+	Yesterday Sue was walking down the street when she  
+	met James.  
+	He was going to  
+	the station to catch a train, and he  
+	was carrying a bag.  
+	They stopped to  
+	talk for a few minutes.  
+
+#### 14.2 Put the verb into the past continuous or simple past.
+
+1. ----  
+	A: What was the weather like when you got up this morning?  
+	B: It was raining.
+
+2. ----  
+	A: Was Emma busy when you went to see her?  
+	B: Yes, she was studying.
+
+3. ---  
+	A: Did Eric call you this morning?  
+	B: Yes, he called me while I was having breakfast.
+
+4. ----  
+	A: Was Natalie at work today?  
+	B: No, she didn't go to work. She was sick.
+
+5. ----  
+	A: How fast were you driving when the police stopped you?  
+	B: I'm not sure, but I wasn't driving very fast.
+
+6. ----  
+	A: Did your team win the baseball game yesterday?  
+	B: No, the weather was very bad, so we didn't play.
+
+7. ----  
+	A: How did you break the window?  
+	B: We were playing baseball. I hit the ball and it broke the window.  
+	
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
