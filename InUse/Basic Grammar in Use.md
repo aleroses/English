@@ -933,24 +933,22 @@ to her hotel downtown.
 	A: How did you break the window?  
 	B: We were playing baseball. I hit the ball and it broke the window.  
 	
-8. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+8. ----  
+	A: Did you see Jenny last night?  
+	B: Yes, she was wearing a very nice jacket.
+	
+9. ---- 
+	A: What were you doing at 2:00 this morning?  
+	B: I was sleeping.
+	
+10. ----  
+	A: I lost my key last night.  
+	B: How did you get into your apartment?  
+	A: I climbed in through a window.  
 
 > Answer Key to Exercises 273 or 283
+
+
 ### Unit 15 – I used to...
 
 ---
