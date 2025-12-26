@@ -948,8 +948,34 @@ to her hotel downtown.
 
 > Answer Key to Exercises 273 or 283
 
-
 ### Unit 15 – I used to...
+
+> Page: 31 or 42
+
+#### 15.1 Look at the pictures. Complete the sentences with used to...
+
+1. This is me a few years ago.  
+	She used to have long hair.
+2. When I was younger...  
+	He used to play soccer.
+3. I'm a hairdresser now.  
+	She used to be a taxi driver.
+4. We live in New York City now.  
+	We used to live in the country.
+5. This is me 20 years ago. I never wear glasses now.  
+	He used to wear glasses.
+6. This build used to be beautiful.
+
+#### 15.2
+
+
+revisar todo
+####
+
+####
+
+
+> Answer Key to Exercises 273 or 283
 
 ---
 
