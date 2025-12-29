@@ -961,19 +961,34 @@ to her hotel downtown.
 3. I'm a hairdresser now.  
 	She used to be a taxi driver.
 4. We live in New York City now.  
-	We used to live in the country.
+	They used to live in the country.
 5. This is me 20 years ago. I never wear glasses now.  
 	He used to wear glasses.
-6. This build used to be beautiful.
+6. This building used to be a hotel.
 
-#### 15.2
+#### 15.2 Amanda works very hard and has very little free time. A few years ago, things were different.
 
+Write sentences about Amanda with used to...
 
-revisar todo
-####
+1. She used to swim every day.
+2. She used to play volleyball.
+3. She used to go out three or four nights a week.
+4. She used to play the guitar.
+5. She used to read a lot.
+6. She used to take two or three trips a year.
 
-####
+#### 15.3 Complete these sentences. Use used to or the simple present (I play / he lives, etc.).
 
+1. I used to play tennis. I stopped playing a few years ago.
+2. "Do you play any sports?" "Yes, I play basketball."
+3. "Do you have a car?" "No, I used to have one, but I sold it."
+4. Kevin used to be a waiter. Now he's the manger of a hotel.
+5. "Do you go to work by car?" "Sometimes, but most days I go to work by train."
+6. When I was a child, I never used to eat meat, but I eat it now.
+7. Hannah loves to watch TV. She watches TV every night.
+8. We used to live near the airport, but we moved downtown a few years ago.
+9. Normally I start work at 7:00, so I get up very early.
+10. Where did you use work before you come to this company?
 
 > Answer Key to Exercises 273 or 283
 
@@ -983,12 +998,75 @@ revisar todo
 
 ### Unit 16 – Have you...?
 
+> Page: 33 or 44  
+> Appendix 3: 231
+
+|Simple Past             | Past Participle |
+|------------------------|-----------------|
+|Se usa **solo**         |Se usa **con auxiliares** |
+|Indica pasado terminado |Forma tiempos perfectos y pasiva|
+|I **went** to school yesterday.|I **have gone** to school today.|
+
+#### 16.1 You are asking Lauren questions beginning with Have you ever...? Write the questions.
+
+1. Have you ever been to Montreal? No, never.
+2. Have you ever played golf? Yes, many times.
+3. Have you ever been to South Korea? Yes, once.
+4. Have you ever lost your passport? No, never.
+5. Have you ever flown in a helicopter? Yes, a few times.
+6. Have you ever won a race? No, never.
+7. Have you ever been to Peru? Yes, twice.
+8. Have you ever driven a bus? No, never.
+9. Have you ever broken your leg? Yes, once.
+
+#### 16.2 Write sentences about Lauren. (Look at her answers in Exercise 16.1.)
+
+1. She's been to Peru twice.
+2. She's been to South Korea once.
+3. She's never won a race.
+4. She's flew in a helicopter a few times.
+
+Now write about yourself. How often have you done these things?
+
+5. I've never been to New York.
+6. I've never played tennis.
+7. I've never driven a truck.
+8. I've been late for work or school a few times.
+
+#### 16.3 Mary is 65 years old. She has had an interesting life. What has she done?
+
+1. She has had many different jobs.
+2. She
+
+
+
+
+
+
+
+
+
+#### 16.4 Complete the sentences. Use the present perfect.
+
+> Answer Key to Exercises 273 or 283
+
 ### Unit 17 - How log have you...?
+
+> Page: 35 or 46
+
+
+> Answer Key to Exercises 273 or 283
 
 ### Unit 18 - for since ago
 
+
+
+> Answer Key to Exercises 273 or 283
+
 ### Unit 19 - I have done (present perfect) and I did (past)
 
+
+> Answer Key to Exercises 273 or 283
 
 ---
 
