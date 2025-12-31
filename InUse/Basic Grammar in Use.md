@@ -1024,29 +1024,34 @@ Write sentences about Amanda with used to...
 1. She's been to Peru twice.
 2. She's been to South Korea once.
 3. She's never won a race.
-4. She's flew in a helicopter a few times.
+4. She's flown in a helicopter a few times.
 
 Now write about yourself. How often have you done these things?
 
 5. I've never been to New York.
-6. I've never played tennis.
+6. I've never played tennis many times.
 7. I've never driven a truck.
 8. I've been late for work or school a few times.
 
 #### 16.3 Mary is 65 years old. She has had an interesting life. What has she done?
 
 1. She has had many different jobs.
-2. She
-
-
-
-
-
-
-
-
+2. She has traveled all over the world.
+3. She has done a lot of interesting things.
+4. She has been married three times.
+5. She has written 10 books.
+6. She has met a lot of interesting people.
 
 #### 16.4 Complete the sentences. Use the present perfect.
+
+1. I've seen that woman before, but I can't remember her name.
+2. "Have you ever played golf?" "Yes, I play golf a lot."
+3. Have you ever written a poem? "Yes, in high school."
+4. "Does Emma know Sam?" "No, she has never met him."
+5. Amanda and Josh have lots of books, and they have read all of them.
+6. I have never been to Australia, but my brother has been there twice.
+7. Danielle's favorite movie is Only Tomorrow. She has seen it five times, but I have never seen it.
+8. I have traveled by plane, bus, and train. Someday, I want to take a trip by boat.
 
 > Answer Key to Exercises 273 or 283
 
@@ -1054,8 +1059,20 @@ Now write about yourself. How often have you done these things?
 
 > Page: 35 or 46
 
+#### 17.1 Complete these sentences.
 
-> Answer Key to Exercises 273 or 283
+1. Rachel is in Brazil. She has been there since Monday.
+2. I know Lisa. I have known her for a long time.
+3. Amy and Jason are married. They have been married since 2025.
+4. Matt is sick. He has been sick for the last few days.
+5. We live on Main Street. We have been living there for a long time.
+6. Catherine works in a bank. She has worked in a bank for five years.
+7. Nick has a headache. He has had a headache since he got up this morning.
+8. I'm studying English. I have studied English for six months.
+
+#### 17.2 
+
+> Answer Key to Exercises 273 – 274 or 283 – 284
 
 ### Unit 18 - for since ago
 
