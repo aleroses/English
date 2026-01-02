@@ -1068,9 +1068,47 @@ Now write about yourself. How often have you done these things?
 5. We live on Main Street. We have been living there for a long time.
 6. Catherine works in a bank. She has worked in a bank for five years.
 7. Nick has a headache. He has had a headache since he got up this morning.
-8. I'm studying English. I have studied English for six months.
+8. I'm studying English. I have been studying English for six months.
 
-#### 17.2 
+#### 17.2 Make questions with How long...?
+
+1. Emily is on vacation.  
+	How long has she been on vacation?
+2. Dan and Megan are in Brazil.  
+	How long have they been in Brazil?
+3. I know Emma.  
+	How long have you known her?
+4. Rachel is studying Italian.  
+	How long has she been studying Italian?
+5. My brother lives in Seattle.  
+	How long has he lived in Seattle?
+6. I'm a teacher.  
+	How long have you been a teacher?
+7. It is raining.  
+	How long has it been raining?
+
+#### 17.3 Look at the pictures and complete the sentences with:
+
+1. They have been married for 10 years.
+2. She has lived in South Korea all her life.
+3. They have been on vacation since Sunday.
+4. The sun has been shining all day.
+5. He has been waiting for 10 minutes.
+6. He has had a beard since he was 20.
+
+#### 17.4 Which is right?
+
+1. Ryan has lived in Canada since April.
+2. Olivia and I are friends. I know her very well.
+3. Olivia and I are friends. I've known her for a long time.
+4. ----  
+	A: Sorry, I'm late. How long have you been waiting?
+	B: Not long. Only five minutes.
+5. John works in a hotel now. He likes his job a lot.
+6. Amanda is reading a newspaper. She has been reading it for two hours.
+7. "How long have you lived in this house?" "About 10 years."
+8. "Is that a new coat?" "No, I've had this coat for a long time."
+9. Tom is in Seattle right now. He has been there for the last three days.
 
 > Answer Key to Exercises 273 – 274 or 283 – 284
 
