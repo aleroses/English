@@ -827,7 +827,7 @@ to her hotel downtown.
 
 > Answer Key to Exercises 272 or 282 – 273 or 283
 
-### Unit 13 - I was doing (past continuous)
+### Unit 13 – I was doing (past continuous)
 
 > Page: 27 or 38
 
@@ -1055,7 +1055,7 @@ Now write about yourself. How often have you done these things?
 
 > Answer Key to Exercises 273 or 283
 
-### Unit 17 - How log have you...?
+### Unit 17 – How log have you...?
 
 > Page: 35 or 46
 
@@ -1112,13 +1112,60 @@ Now write about yourself. How often have you done these things?
 
 > Answer Key to Exercises 273 – 274 or 283 – 284
 
-### Unit 18 - for since ago
+### Unit 18 – for since ago
+
+> Page: 37 or 48
+
+#### 18.1 Write for or since.
+
+1. Rachel has been in Brazil since Monday.
+2. Rachel has been in Brazil for three days.
+3. My aunt has lived in Australia for 15 years.
+4. Jennifer is in her office. She has been there since 7:00.
+5. Mexico has been an independent country since 1821.
+6. The bus is late. We've been waiting for 20 minutes.
+7. Nobody lives in those houses. They have been empty for many years.
+8. Michael has been sick for a long time. He has been in the hospital since October.
+
+#### 18.2 Answer these questions. Use ago.
+
+1. When was the last time you ate?  
+	Three houses ago.
+2. When was the last time you were sick?  
+	Four weeks ago.
+3. When was the last time you went to the movies?  
+	One month ago.
+4. When was the last time you were in a car?  
+	Four hours ago.
+5. When was the last time you went on vacation?  
+	2 year ago.
+
+#### 18.3 Complete the sentences. Use for or ago with these words.
+
+1. Rachel arrived in Brazil three days ago.
+2. Rachel has been in Brazil for three days.
+3. Stephanie and Robert have been married for 20 years.
+4. Stephanie and Robert got married 20 years ago.
+5. Dan arrived an hour ago.
+6. I bought these shoes a few days ago.
+7. Ana has been studying English for six months.
+8. Have you known Allison for a long time?
+
+#### 18.4 Complete the sentences with for or since.
+
+1. Rachel has been in Brazil for three days.
+2. Jack has been here since on Tuesday.
+3. It's been raining since an hour ago.
+4. I've known Sue since 2008.
+5. Emily and Matthew have been married since six months ago.
+6. 
+
 
 
 
 > Answer Key to Exercises 273 or 283
 
-### Unit 19 - I have done (present perfect) and I did (past)
+### Unit 19 – I have done (present perfect) and I did (past)
 
 
 > Answer Key to Exercises 273 or 283
@@ -1135,7 +1182,7 @@ Now write about yourself. How often have you done these things?
 
 ## Verb forms
 
-
+–
 
 
 →
