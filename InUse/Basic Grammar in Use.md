@@ -1155,15 +1155,21 @@ Now write about yourself. How often have you done these things?
 
 1. Rachel has been in Brazil for three days.
 2. Jack has been here since on Tuesday.
-3. It's been raining since an hour ago.
+3. It's been raining for an hour.
 4. I've known Sue since 2008.
-5. Emily and Matthew have been married since six months ago.
-6. 
+5. Emily and Matthew have been married for six months.
+6. Liz has been studying medicine for three years ago.
+7. David has played the piano since he was seven years old.
 
+#### 18.5 Write sentences about yourself. Begin your sentences with:
 
+1. I've lived in this town for three years.
+2. I've been to Quito three times.
+3. I've been studying programming for 5 years.
+4. I've known Ivonne for a long time.
+5. I've had a bike when I was a child.
 
-
-> Answer Key to Exercises 273 or 283
+> Answer Key to Exercises 274 or 284
 
 ### Unit 19 – I have done (present perfect) and I did (past)
 
