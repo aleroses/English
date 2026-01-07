@@ -100,15 +100,24 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 #### 2.1 Find the right answers for the questions.
 
-1. Where's the camera? → G. In your bag.
-2. Is your car blue? → F. No, it's black.
-3. Is Nicole from London? → H. No, she's American.
-4. Am I late? → C. Yes, you are.
-5. Where's Megan from? → A. Toronto.
-6. What color is your bag? → E. Black.
-7. Are you hungry? → B. No, I'm not.
-8. How is Christopher? → I. Fine.
-9. Who's that woman? → D. My sister.
+1. Where's the camera?  
+	→ G. In your bag.
+2. Is your car blue?  
+	→ F. No, it's black.
+3. Is Nicole from London?  
+	→ H. No, she's American.
+4. Am I late?  
+	→ C. Yes, you are.
+5. Where's Megan from?  
+	→ A. Toronto.
+6. What color is your bag?  
+	→ E. Black.
+7. Are you hungry?  
+	→ B. No, I'm not.
+8. How is Christopher?  
+	→ I. Fine.
+9. Who's that woman?  
+	→ D. My sister.
 
 #### 2.2 Make questions with these words.
 
@@ -398,23 +407,23 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 #### 7.1 Write questions with Do ...? and Does ...?
 
-1. I like chocolate. How about you?
+1. I like chocolate. How about you?  
 	Do you like chocolate?
-2. I play tennis. How about you?
+2. I play tennis. How about you?  
 	Do you play tennis?
-3. You live near here. How about Emily?
+3. You live near here. How about Emily?  
 	Does Emily live near here?
-4. Tom plays tennis. How about his friends?
+4. Tom plays tennis. How about his friends?  
 	Do Tom's friends play tennis?
-5. You speak English. How about your brother?
+5. You speak English. How about your brother?  
 	Does he speak English?
-6. I do yoga every morning. How about you?
+6. I do yoga every morning. How about you?  
 	Do you do yoga every morning?
-7. Sue often travels on business. How about Eric?
+7. Sue often travels on business. How about Eric?  
 	Does Eric often travel on business?
-8. I want to be famous. How about you?
-	- Do you want to be famous?
-9. You work hard. How about Anna?
+8. I want to be famous. How about you?  
+	Do you want to be famous?
+9. You work hard. How about Anna?  
 	Does Anna work hard.
 
 #### 7.2 Make questions from these words + do / does Put the words in the right order.
