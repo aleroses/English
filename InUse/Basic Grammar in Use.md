@@ -583,7 +583,7 @@ Británico:
 	How many children have they got?
 5. Do you have any questions?  
 	Have you got any questions?
-6. Sam doesn't have a job.
+6. Sam doesn't have a job.  
 	Sam hasn't got a job.
 
 #### 9.3 Read the questions and answers. Then write sentences about Mark.
