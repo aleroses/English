@@ -637,7 +637,7 @@ What about you? Write sentences with I have or I don't have.
 4. Hurry!  
 	We don't have much time.
 5. An insect has six legs.
-6. I'm unemployed.
+6. I'm unemployed.  
 	I don't have a job.
 
 > Answer Key to Exercises 272 or 282
