@@ -717,7 +717,7 @@ What about you? Write sentences with I have or I don't have.
 
 Last Tuesday, Liz flew from Los Angeles to Madrid.  
 She `got` up at 6:00 in the morning and `had` a cup  
-of coffee. Al 7:15 she `left` home and `drove` to the  
+of coffee. At 7:15 she `left` home and `drove` to the  
 airport. When she `got` there, she `parked` the car,  
 `walked` to the terminal, and `checked` in. Then she  
 `had` breakfast at an airport café and `waited` for  
@@ -743,7 +743,8 @@ to her hotel downtown.
 3. They just bought a new car.
 4. The race just started.
 
-> Answer Key to Exercises 272 or 282
+> Answer Key to Exercises 272 or 282  
+> Additional exercise 10 (page 242 or 252)
 
 ### Unit 12 – I didn't... Did you...? (simple past negative and questions)
 
