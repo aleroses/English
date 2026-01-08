@@ -598,7 +598,7 @@ Británico:
 	No. He hasn't got a cell phone.c
 5. Do you have a watch?  
 	No. He doesn't have a watch.
-6. Do you have any brothers or sisters?
+6. Do you have any brothers or sisters?  
 	Yes. He has two brothers and a sister.
 
 What about you? Write sentences with I have or I don't have.
