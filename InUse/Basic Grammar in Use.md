@@ -715,7 +715,7 @@ What about you? Write sentences with I have or I don't have.
 
 #### 11.2 Read about Liz's trip to Madrid. Put the verbs in the correct form.
 
-Las Tuesday, Liz flew from Los Angeles to Madrid.  
+Last Tuesday, Liz flew from Los Angeles to Madrid.  
 She `got` up at 6:00 in the morning and `had` a cup  
 of coffee. Al 7:15 she `left` home and `drove` to the  
 airport. When she `got` there, she `parked` the car,  
