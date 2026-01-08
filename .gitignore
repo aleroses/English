@@ -83,7 +83,7 @@ $RECYCLE.BIN/
 *.jpg
 *.png
 
-*.mp3
+# *.mp3
 *.mp4
 
 *.pdf
