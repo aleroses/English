@@ -770,7 +770,7 @@ to her hotel downtown.
 4. I finished work early. How about you?  
 	Did you finish work early?
 5. I slept well last night. How about you?  
-	Did you sleep well last night.
+	Did you sleep well last night?
 
 #### 12.3 What did you do yesterday? Write affirmative or negative sentences.
 
