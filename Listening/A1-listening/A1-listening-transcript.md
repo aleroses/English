@@ -1,6 +1,6 @@
-# Transcript
+# A1 listening
 
-## A good night's sleep
+## 1. A good night's sleep
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep)
 
@@ -41,7 +41,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 </details>
 
-## At the library – giving personal information
+## 2. At the library – giving personal information
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/library-giving-personal-information)
 
@@ -79,5 +79,40 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **School librarian:** Goodbye.
 
-## Band auditions
+## 3. Band auditions
 
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/band-auditions)
+
+![[A1_band_audition.mp3]]
+
+**Boy:** Ah, band auditions. Great! I'd love to be in a band! ... Hi. Is this the band audition?
+
+**Girl:** Hello. Yes. So, you'd like to be in our band?
+
+**Boy:** Yes, I love music.
+
+**Girl:** Well, we need a singer, a guitarist and a drummer.
+
+**Boy:** Oh, I love singing!
+
+**Girl:** OK, so you can sing. Let's sing the beginning of this song.
+
+**Boy:** (_singing_) Tonight I'm going to have myself a real good time. I feel alive ...
+
+**Girl:** Right, OK, mmm, maybe not. Can you play an instrument?
+
+**Boy:** Er, well, I can play the guitar a little.
+
+**Girl:** OK, let's hear you. What can you play? ... That's it?
+
+**Boy:** Er, yeah. I can't remember any more.
+
+**Girl:** Erm, can you play the drums?
+
+**Boy:** Yeah, sure.
+
+**Girl:** OK! OK! STOP! That's enough. Erm, what about the maracas? Can you play the maracas?
+
+**Boy:** Yes, I can. (_singing_) Young and strong and ... er ...
+
+**Girl:** Great, great! Hmm ... thanks for coming. I'll call you next week.
