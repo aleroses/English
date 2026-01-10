@@ -79,3 +79,5 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **School librarian:** Goodbye.
 
+## Band auditions
+
