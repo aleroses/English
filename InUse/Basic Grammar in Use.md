@@ -959,7 +959,7 @@ to her hotel downtown.
 
 > Answer Key to Exercises 273 or 283
 
-### Unit 15 – I used to...
+### 🔸Unit 15 – I used to...
 
 > Page: 31 or 42
 
@@ -1182,7 +1182,7 @@ Now write about yourself. How often have you done these things?
 
 > Answer Key to Exercises 274 or 284
 
-### Unit 19 – I have done (present perfect) and I did (past)
+### 🔸 Unit 19 – I have done (present perfect) and I did (past)
 
 
 > Answer Key to Exercises 273 or 283
