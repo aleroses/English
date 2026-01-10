@@ -1113,7 +1113,7 @@ Now write about yourself. How often have you done these things?
 2. Olivia and I are friends. I know her very well.
 3. Olivia and I are friends. I've known her for a long time.
 4. ----  
-	A: Sorry, I'm late. How long have you been waiting?
+	A: Sorry, I'm late. How long have you been waiting?  
 	B: Not long. Only five minutes.
 5. John works in a hotel now. He likes his job a lot.
 6. Amanda is reading a newspaper. She has been reading it for two hours.
