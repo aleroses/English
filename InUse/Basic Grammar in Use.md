@@ -91,6 +91,19 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 	I'm interested in politics.  
 	I'm not interested in politics.  
 
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- am/is/are (questions) → Unit 2
+- there is/are → Unit 35
+- it's ... → Unit 37
+- a/an → Unit 63
+- (at) home → Unit 106
+- short forms → Appendix 4 (232 or 242)
+
+</details>
+
 > Additional exercise 1 (page 238)  
 > Answer Key to Exercises 270 or 280
 
