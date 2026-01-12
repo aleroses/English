@@ -1184,8 +1184,57 @@ Now write about yourself. How often have you done these things?
 
 ### 🔸 Unit 19 – I have done (present perfect) and I did (past)
 
+> Page: 39 or 50
 
-> Answer Key to Exercises 273 or 283
+#### 19.1 Complete the sentences. Use the present perfect (I've made, etc.) with these words
+
+`change` `decide` `finish` `fix` `go up` `invite` ~~`make`~~ `see` `stop`
+
+1. I've `made` some coffee. Would you like some?
+2. The wedding is in June. We've `invited` 50 peoples.
+3. I can't find my glasses. `Have` you `seen` them anywhere?
+4. The weather has `changed`. It's colder now.
+5. What are your plans? What `Have` you `decided` to do?
+6. Food prices have `gone up` a lot. Everything is more expensive now.
+7. `Have` you `finished` the book you were reading?
+8. There was a problem with the car, but I've `fixed` it. It's OK now.
+9. It's `stopped` raining. We can go out now.
+
+#### 19.2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Answer Key to Exercises 274 or 284
 
 ---
 
