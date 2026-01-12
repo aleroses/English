@@ -175,6 +175,17 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 5. Is it dark now? No, it's not.
 6. Are you a teacher? Yes, I'm.
 
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+ - am/is/are → Unit 1
+ - questions → Unit 42
+ - what/which/how → Unit 45
+ - (at) home → Unit 106
+
+</details>
+
 > Additional exercises 1-2 (pages 238-239)  
 > Answer Key to Exercises 270 or 280
 
@@ -1287,3 +1298,16 @@ xd
 }
 
 Esto es un \*ejemplo con asteriscos\*.
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- am/is/are (questions) → Unit 2
+- there is/are → Unit 35
+- it's ... → Unit 37
+- a/an → Unit 63
+- (at) home → Unit 106
+- short forms → Appendix 4 (232 or 242)
+
+</details>
