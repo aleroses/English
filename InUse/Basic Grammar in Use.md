@@ -104,7 +104,7 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 </details>
 
-> Additional exercise 1 (page 238)  
+> Additional exercise 1 (page 238 or 248)  
 > Answer Key to Exercises 270 or 280
 
 ### Unit 2 – am/is/are (questions)
@@ -186,7 +186,7 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 
 </details>
 
-> Additional exercises 1-2 (pages 238-239)  
+> Additional exercises 1-2 (pages 238 or 239)  
 > Answer Key to Exercises 270 or 280
 
 ### Unit 3 – I am doing (present continuous)
@@ -240,6 +240,15 @@ Write true sentences, affirmative or negative. Use I'm / I'm not.
 8. (the sun / shine) The sun isn't shining.
 9. (I / wear / shoes) I'm wearing shoes.
 10. (I / read / a newspaper) I'm not reading a newspaper.
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+
+
+→
+</details>
 
 > Answer Key to Exercises 270 or 280
 
