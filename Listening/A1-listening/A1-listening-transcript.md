@@ -144,3 +144,29 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 **Hannah:** They’re exactly the same! They’re both tall and thin. They’ve both got short brown hair, green eyes and big ears!
 
 **Aurelia:** They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
+
+## 5. First day at school
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/first-day-school)
+
+![[A1_first_day_at_school.mp3]]
+
+**Tania:** Hi. I'm Tania. What's your name?
+
+**Jing:** Hello. My name's Jing.
+
+**Tania:** Nice to meet you, Jing. What class are you in?
+
+**Jing:** I'm in class 1B. And you?
+
+**Tania:** Me too. I'm in Class 1B too.
+
+**Jing:** Who's our teacher?
+
+**Tania:** Mr Smith.
+
+**Jing:** And where's our classroom?
+
+**Tania:** This way. Come with me.
+
+**Jing:** OK. Great.
