@@ -1262,28 +1262,66 @@ Now write about yourself. How often have you done these things?
 4. Some people (not you) are having a meeting at work. Maybe the meeting has finished.  
 	You ask a colleague: Has the meeting finished yet?
 
+> Additional exercise 19 – 23 (page 246 – 248 or 256)  
+> Answer Key to Exercises 274 or 284
+
+---
+
+## 4. Passive
+
+### 20. is donewas done (passive 1)
+
+> Page: 39 or 50
+
+
+
+
+> Additional exercise 19 – 23 (page 246 – 248 or 256)  
+> Answer Key to Exercises 274 or 284
+
+### 21. is being done has been done (passive 2)
+
+> Page: 39 or 50
+
+
+
+
+
 
 > Additional exercise 19 – 23 (page 246 – 248 or 256)  
 > Answer Key to Exercises 274 or 284
 
 ---
 
-→
 
-## 4. Passive
 
-### 20.
+## 5. Verb forms
 
-### 21.
+### 22. be/have/do in present and past tenses
 
-## Verb forms
+### 23. Regular and irregular verbs
+
+---
+
+## 6. Future
+
+### 24. What are you doing tomorrow?
+
+### 25. I'm going to...
+
+### 26. will
+
+
+
+---
+
 
 –
 
 
 →
 
-## Future
+## 6. Future
 
 238 more exercises
 280 Answer 
@@ -1317,3 +1355,5 @@ Esto es un \*ejemplo con asteriscos\*.
 - short forms → Appendix 4 (232 or 242)
 
 </details>
+
+→
