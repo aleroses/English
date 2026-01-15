@@ -103,7 +103,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **Boy:** Er, well, I can play the guitar a little.
 
-**Girl:** OK, let's hear you. What can you play? ... That's it?
+**Girl:** OK, let's hear you. What can you play? ... That's it? (¿Eso es todo?)
 
 **Boy:** Er, yeah. I can't remember any more.
 
@@ -167,6 +167,6 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **Jing:** And where's our classroom?
 
-**Tania:** This way. Come with me.
+**Tania:** This way. Come with me. (Por aquí. Ven conmigo.)
 
 **Jing:** OK. Great.
