@@ -1227,46 +1227,43 @@ Now write about yourself. How often have you done these things?
 2. The wedding is in June. We've `invited` 50 peoples.
 3. I can't find my glasses. `Have` you `seen` them anywhere?
 4. The weather has `changed`. It's colder now.
-5. What are your plans? What `Have` you `decided` to do?
+5. What are your plans? What `have` you `decided` to do?
 6. Food prices have `gone up` a lot. Everything is more expensive now.
 7. `Have` you `finished` the book you were reading?
 8. There was a problem with the car, but I've `fixed` it. It's OK now.
 9. It's `stopped` raining. We can go out now.
 
-#### 19.2 
+#### 19.2 Are the verbs in these sentences OK? Correct them if necessary. (The verbs are underlined.)
+
+1. Where were you on Sunday?
+2. I'm looking for Amy. Have you seen her?
+3. I've washed all the clothes. Everything is clean.
+4. Vicky bought some clothes yesterday.
+5. I've decided to try to learn Japanese.
+6. Last year, I decided to try to learn Japanese.
+7. The weather wasn't good last weekend.
+8. Steve's grandmother died six months ago.
+
+#### 19.3 Write negative sentences with yet (They haven't... yet / She hasn't... yet, etc.).
+
+1. She hasn't gone out yet.
+2. The train hasn't left yet.
+3. He hasn't opened his present yet.
+4. The movie hasn't started yet.
+
+#### 19.4 Write questions. Use the present perfect + yet.
+
+1. Your friend has a new job. Maybe she has started it.  
+	You ask her: Have you started your new job yet?
+2. Your friend has some new neighbors. Maybe he has met them.  
+	You ask him: Have you met your new neighbors yet?
+3. Your friend is going on a trip soon. Maybe she has booked her flight.  
+	You ask her: Have you booked your flight yet?
+4. Some people (not you) are having a meeting at work. Maybe the meeting has finished.  
+	You ask a colleague: Has the meeting finished yet?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Additional exercise 19 – 23 (page 246 – 248 or 256)  
 > Answer Key to Exercises 274 or 284
 
 ---

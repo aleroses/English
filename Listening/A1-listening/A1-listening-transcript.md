@@ -116,3 +116,31 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 **Boy:** Yes, I can. (_singing_) Young and strong and ... er ...
 
 **Girl:** Great, great! Hmm ... thanks for coming. I'll call you next week.
+
+## 4. Describing people
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/describing-people)
+
+![[A1_describing_people.mp3]]
+
+**Aurelia**: Who’s that boy over there, Hannah?
+
+**Hannah:** That? Er, that’s my brother, Jem.
+
+**Aurelia:** Your brother?
+
+**Hannah:** Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.
+
+**Aurelia:** Oh right. So, you’ve got a brother?
+
+**Hannah:** No, I’ve got two brothers. Jem and Alex.
+
+**Aurelia:** Really? ... and ... how old is Alex?
+
+**Hannah:** Alex and Jem are twins, they’re both 15.
+
+**Aurelia:** 15, mmm ... and does Alex look like Jem?
+
+**Hannah:** They’re exactly the same! They’re both tall and thin. They’ve both got short brown hair, green eyes and big ears!
+
+**Aurelia:** They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
