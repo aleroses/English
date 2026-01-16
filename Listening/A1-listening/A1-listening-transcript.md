@@ -170,3 +170,59 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 **Tania:** This way. Come with me. (Por aquí. Ven conmigo.)
 
 **Jing:** OK. Great.
+
+## 6. Getting an ID card
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/getting-id-card)
+
+![[A1_getting_an_ID_card.mp3]]
+
+**Admin worker:** International Student ID card?
+
+**Student:** Yes, that’s right.
+
+**Admin worker:** Have you got the form?
+
+**Student:** Yes, here it is.
+
+**Admin worker:** OK, let’s see. Name – Ahmed, surname – Saeed, age 14, address ... (pause) ... oh, what’s your address?
+
+**Student:** 14 Spring Avenue …
+
+**Admin worker:** 14 Spring Avenue ...
+
+**Student:** Leicester.
+
+**Admin worker:** Can you spell that, please?
+
+**Student:** L-E-I-C-E-S-T-E-R.
+
+**Admin worker:** What’s your postcode?
+
+**Student:** LE14 2GZ.
+
+**Admin worker:** LE14 2GS.
+
+**Student:** No, 2GZ.
+
+**Admin worker:** OK, 2GZ. And what’s your nationality?
+
+**Student:** I’m British.
+
+**Admin worker:** What’s your school?
+
+**Student:** Newtown Secondary School. N-E-W-T-O-W-N.
+
+**Admin worker:** And what’s your date of birth?
+
+**Student:** The 2nd of June 1998.
+
+**Admin worker:** 02/06/1998 (the second of the sixth, 1998). Have you got a photo?
+
+**Student:** Yes, here you are.
+
+**Admin worker:** Thank you. One moment, please ... (pause) ... and here’s your card.
+
+**Student:** Thanks. Bye.
+
+_This audio is for you to practise your listening skills. Some of the information it contains may not be up to date._
