@@ -1269,9 +1269,12 @@ Now write about yourself. How often have you done these things?
 
 ## 4. Passive
 
-### 20. is donewas done (passive 1)
+### 🔸20. is done was done (passive 1)
 
-> Page: 39 or 50
+> Page: 41 or 52
+
+
+
 
 
 
@@ -1281,14 +1284,39 @@ Now write about yourself. How often have you done these things?
 
 ### 21. is being done has been done (passive 2)
 
-> Page: 39 or 50
+> Page: 40 or 51
+
+#### 20.1 Write sentences from these words. Some of the sentences are questions.
+
+Sentences 1 – 7 are present.
+
+1. The office is cleaned every day.
+2. How often are these rooms cleaned?
+3. Glass is made from sand.
+4. The windows are washed every two weeks.
+5. This word isn't used very often.
+6. Are we allowed to park here?
+7. How is this word pronounced?
+
+Sentences 8 – 15 are past.
+
+8. The office was cleaned yesterday.
+9. The house was painted last month.
+10. My phone was stolen a few days ago.
 
 
 
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
 
+- is being done / has been done → Unit 21
+- irregular verbs → Unit 23, Appendixes 2-3
+- by → Unit 109
+- active and passive → Appendix 1
 
+</details>
 
-> Additional exercise 19 – 23 (page 246 – 248 or 256)  
 > Answer Key to Exercises 274 or 284
 
 ---
@@ -1299,7 +1327,17 @@ Now write about yourself. How often have you done these things?
 
 ### 22. be/have/do in present and past tenses
 
+
+> Additional exercise 19 – 23 (page 246 – 248 or 256)  
+> Answer Key to Exercises 274 or 284
+
+
 ### 23. Regular and irregular verbs
+
+
+> Additional exercise 19 – 23 (page 246 – 248 or 256)  
+> Answer Key to Exercises 274 or 284
+
 
 ---
 
