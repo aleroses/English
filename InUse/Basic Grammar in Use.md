@@ -1273,19 +1273,6 @@ Now write about yourself. How often have you done these things?
 
 > Page: 41 or 52
 
-
-
-
-
-
-
-> Additional exercise 19 – 23 (page 246 – 248 or 256)  
-> Answer Key to Exercises 274 or 284
-
-### 21. is being done has been done (passive 2)
-
-> Page: 40 or 51
-
 #### 20.1 Write sentences from these words. Some of the sentences are questions.
 
 Sentences 1 – 7 are present.
@@ -1303,9 +1290,47 @@ Sentences 8 – 15 are past.
 8. The office was cleaned yesterday.
 9. The house was painted last month.
 10. My phone was stolen a few days ago.
+11. Three people were injured in the accident.
+12. When was this bridge built?
+13. I wasn't woken up by the noise.
+14. How were these windows broken?
+15. Were you invited to Jon's party last week?
+
+#### 20.2 These sentences are not correct. Correct them.
+
+1. This house was built 100 years ago.
+2. Soccer is played in most countries of the world.
+3. Why was the email sent to the wrong address?
+4. A movie studio is a place where movies are made.
+5. Where were you born?
+6. How many languages are spoken in Switzerland?
+7. Somebody broke into our house, but nothing was stolen.
+8. When was the bicycle invented?
+
+#### 20.3 Complete the sentences. Use the passive (present or past) of these verbs.
+
+~~`clean`~~ `damage` `find` `give` `invite` `make` `make` `show` `steal` ~~`take`~~
+
+1. The room `is cleaned` every day.
+2. I saw an accident yesterday. Two people `were taken` to the hospital.
+3. Paper `is made` from wood.
+4. There was a fire at the hotel last week. Two of the rooms `were damaged`.
+5. "Where did you get this picture?" "It `gave` to me by a friend of mine."
+6. Many British programs `are showed` on American TV.
+7. "Did Jim and Sue go to the wedding?" "No, They `wasn't made`, but they didn't go."
+8. "How old is this movie?" "It `was made` in 1985."
+9. My car `was stolen` last week, but the next day it `was found` by the police.
+
+#### 20.4 Where were they born?
+
+1. Haruka was born in Tokyo.
+2. Isabela was born in São Paulo.
+3. Her parents were born in Rio de Janeiro.
+4. I was born in Piura.
+5. My mother was born in Piura.
 
 
-
+revisar 20.3 y 20.4
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -1318,6 +1343,8 @@ Sentences 8 – 15 are past.
 </details>
 
 > Answer Key to Exercises 274 or 284
+
+### 21. is being done has been done (passive 2)
 
 ---
 
