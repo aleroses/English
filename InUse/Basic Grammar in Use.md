@@ -1315,9 +1315,9 @@ Sentences 8 – 15 are past.
 2. I saw an accident yesterday. Two people `were taken` to the hospital.
 3. Paper `is made` from wood.
 4. There was a fire at the hotel last week. Two of the rooms `were damaged`.
-5. "Where did you get this picture?" "It `gave` to me by a friend of mine."
-6. Many British programs `are showed` on American TV.
-7. "Did Jim and Sue go to the wedding?" "No, They `wasn't made`, but they didn't go."
+5. "Where did you get this picture?" "It `was given` to me by a friend of mine."
+6. Many British programs `are shown` on American TV.
+7. "Did Jim and Sue go to the wedding?" "No, They `were invited`, but they didn't go."
 8. "How old is this movie?" "It `was made` in 1985."
 9. My car `was stolen` last week, but the next day it `was found` by the police.
 
@@ -1329,8 +1329,6 @@ Sentences 8 – 15 are past.
 4. I was born in Piura.
 5. My mother was born in Piura.
 
-
-revisar 20.3 y 20.4
 <details>
   <summary>More 🔥☠️</summary>
   </br>
