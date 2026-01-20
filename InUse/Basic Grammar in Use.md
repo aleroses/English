@@ -1342,7 +1342,44 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 274 or 284
 
-### 21. is being done has been done (passive 2)
+### 🔸21. is being done has been done (passive 2)
+
+> Page: 43 or 54
+
+#### 21.1 What's happening?
+
+1. The car `is being repaired`.
+2. A bridge `is being built`.
+3. The windows `are being washed/cleaned`.
+4. The grass `is being cut`.
+
+#### 21.2 Look at the pictures. What is happening or what has happened? Use the present continuous (is / are being) or the present perfect (has / have been...).
+
+1. The office is being cleaned.
+2. The shirts have been ironed.
+3. The window has been broken.
+4. The roof is being repaired.
+5. The car has been damaged.
+6. The houses are being torn down (demolidas).
+7. The trees have been cut down (talados).
+8. They have been invited to a party.
+
+#### 21.3 
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- is done / was done → Unit 20
+- active and passive → Appendix 1
+
+</details>
+
+> Answer Key to Exercises 274 – 275 or 284 – 285
+
 
 ---
 
