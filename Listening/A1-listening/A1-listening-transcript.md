@@ -266,3 +266,73 @@ _This audio is for you to practise your listening skills. Some of the informatio
 **Dan:** I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.
 
 **Interviewer:** Thanks, Dan. That’s a busy day!
+
+## 8. Introducing a friend
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/introducing-friend)
+
+![[A1_introducing_a_friend.mp3]]
+
+**Sumi:** Hi, Pablo. How are you?
+
+**Pablo:** Hi, Sumi. I'm fine, thanks.
+
+**Sumi:** Pablo, this is Greta.
+
+**Pablo:** Hi, Greta, I'm Pablo.
+
+**Greta:** Hi. How are you?.
+
+**Pablo:** I'm fine, thanks. Where are you from, Greta?
+
+**Greta:** I'm from Germany. Where are you from?
+
+**Pablo:** I'm from Argentina. Nice to meet you.
+
+**Greta:** Nice to meet you too.
+
+## 9. Inviting someone to the cinema
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/inviting-someone-cinema)
+
+![[A1_inviting_someone_to_the_cinema.mp3]]
+
+**Jack:** Hi, Ismael. How are you?
+
+**Ismael:** Hi, Jack. I'm OK, but I've got loads of homework. (_loads of_ → **un montón de / muchísima / demasiada** (informal).)
+
+**Jack:** Me too, but would you like to come with us to the cinema tonight?
+
+**Ismael:** Who's 'us'? (_¿A quién te refieres con “nosotros”?_)
+
+**Jack:** Me, Jamie, Nicola and Selina.
+
+**Ismael:** OK, and what's the film?
+
+**Jack:** We don't know. We can't decide. There's that new horror film, 'Light and Dark'.
+
+**Ismael:** No, no, no! I don't like horror films.
+
+**Jack:** OK, well, there's a comedy about a school.
+
+**Ismael:** Oh, no more school, please! What about a romcom?
+
+**Jack:** Romcom?
+
+**Ismael:** You know, romantic comedy, boy meets girl ...
+
+**Jack:** What? Really? No, I hate romantic films. I like action.
+
+**Ismael:** Well, there's a new science fiction film, 'Alien attacks'.
+
+**Jack:** OK, I like science fiction. Let's see that.
+
+**Ismael:** OK, I'll ask the others if they like sci-fi.
+
+**Jack:** What time is the film?
+
+**Ismael:** At 8 o'clock. Let’s meet at 7:30 outside the cinema.
+
+**Jack:** OK. See you later.
+
+**Ismael:** Bye.
