@@ -1364,7 +1364,12 @@ Sentences 8 – 15 are past.
 7. The trees have been cut down (talados).
 8. They have been invited to a party.
 
-#### 21.3 
+#### 21.3 Complete the sentences. (Study Unit 20 before you do this exercise.)
+
+1. I can't use my office right now. It is being painted.
+2. We didn't go to the party. We weren't invited.
+3. The washing machine was broken, but it's OK now. It was repaired it.
+4. The washing machine was repaired yesterday afternoon.
 
 
 
