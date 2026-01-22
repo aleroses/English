@@ -1368,11 +1368,14 @@ Sentences 8 – 15 are past.
 
 1. I can't use my office right now. It is being painted.
 2. We didn't go to the party. We weren't invited.
-3. The washing machine was broken, but it's OK now. It was repaired it.
-4. The washing machine was repaired yesterday afternoon.
-
-
-
+3. The washing machine was broken, but it's OK now. It `was repaired` it.
+4. The washing machine `has been repaired` / `was repaired` yesterday afternoon.
+5. A factory is a place where things `are made`.
+6. How old are these houses? When `were they built`?
+7. `Is the photocopier being used` right now? No. You can use it.
+8. I've never seen these flowers before. What `are they called`?
+9. My sunglasses `were stolen` at the beach yesterday.
+10. The bridge is closed. It `was damaged` last week, and it `hasn't been repaired` yet.
 
 <details>
   <summary>More 🔥☠️</summary>
