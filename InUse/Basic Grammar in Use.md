@@ -1388,14 +1388,23 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 274 – 275 or 284 – 285
 
-
 ---
-
-
 
 ## 5. Verb forms
 
-### 22. be/have/do in present and past tenses
+### 🔸22. be/have/do in present and past tenses
+
+> Page: 45 or 56
+
+
+
+
+
+
+
+
+
+
 
 
 > Additional exercise 19 – 23 (page 246 – 248 or 256)  
@@ -1403,6 +1412,10 @@ Sentences 8 – 15 are past.
 
 
 ### 23. Regular and irregular verbs
+
+> Page: 44 or 55
+
+
 
 
 > Additional exercise 19 – 23 (page 246 – 248 or 256)  

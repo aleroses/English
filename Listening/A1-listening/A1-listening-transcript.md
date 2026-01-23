@@ -337,5 +337,86 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Ismael:** Bye.
 
+## 10. Online safety conversation
 
-band audition
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/online-safety-conversation)
+
+![[A1_Online_safety_conversation.mp3]]
+
+**Charlie:** Mum! That's my computer!
+
+**Mum:** I know, I know. Don't worry, I'm changing your privacy settings.
+
+**Charlie:** Privacy settings?
+
+**Mum:** Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
+
+**Charlie:** Oh. What are the privacy settings for?
+
+**Mum:** To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
+
+**Charlie:** Everyone?
+
+**Mum:** Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
+
+**Charlie:** No! But I can delete things, can't I?
+
+**Mum:** Well, you can, but it's very difficult. Some things stay there forever.
+
+**Charlie:** That's really scary, Mum.
+
+**Mum:** Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
+
+**Charlie:** I won't!
+
+**Mum:** Crazy Charlie one two one, isn't it?
+
+**Charlie:** Mum! Yes, it is. How …
+
+**Mum:** It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
+
+**Charlie:** No, it isn't.
+
+<details>
+  <summary>More 👀👇</summary>
+  <br/>
+
+1. You're logged in!  
+	¡Estás conectado!  
+	¡Tienes la sesión iniciada!  
+	¡Has iniciado sesión!  
+	
+2. What are the privacy settings for?  
+	¿Para qué sirven las configuraciones de privacidad?
+	
+3. Don't you? **Question tag**  
+	¿Verdad que sí?  
+	¿No es cierto?  
+	
+4. Upload  
+	Subir  
+	Download: Descargar
+	
+5. Do you? **Question tag**  
+	¿Verdad?  
+	¿No?  
+	
+6. Can't I?  
+	¿No puedo?  
+	¿Verdad que sí puedo?  
+	¿No?  
+	
+7. I won't! **will not**  
+	¡No lo haré!  
+	
+8. Right there.  
+	Ahí mismo  
+	Justo ahí  
+	Justo en ese momento  
+	Exactamente eso (enfatizar)  
+	
+9. Is it?
+	¿Verdad?  
+	¿No lo es?  
+
+</details>
