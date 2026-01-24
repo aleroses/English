@@ -1436,30 +1436,42 @@ Sentences 8 – 15 are past.
 
 #### 22.4 Write is/are/was/were/has/has
 
+1. Joe has lost his passport.
+2. This bridge `was` built 10 years ago.
+3. `Have` you finished your work yet?
+4. This town is always clean. The streets `are` cleaned every day.
+5. Where `were` you born?
+6. I `have` just made some coffee. Would you like some?
+7. Glass `is` made from sand.
+8. This is a very old photograph. It `was` taken a long time age.
+9. David `has` bought a new car.
 
+#### 22.5 Complete the sentences. Choose from the box and put the verb into the correct form.
 
+`damage` ~~`rain`~~ `enjoy` ~~`go`~~ `pronounce` `eat` `listen` `use` `open` `go` `understand`
 
-
-
-
-
-
-
-
-
-
+1. I'm going to take an umbrella with me. It's raining.
+2. Why are you so tired? Did you go to bed late last night?
+3. Where are the chocolates? Have you `eaten` all of them?
+4. How is your new job? Are you `enjoying` it?
+5. My car was badly `damaged` in the accident, but I was OK.
+6. Chris has a car, but he doesn't `use` it very often.
+7. Mary isn't at home. She has `gone` away for a few days.
+8. I don't `understand` the problem. Can you explain it again?
+9. Tony is in his room. He's `listening` to music.
+10. I don't know how to say this word. How is it `pronounced`?
+11. How do you `open` this window? Can you show me?
 
 > Answer Key to Exercises 275 or 285
 
-
 ### 23. Regular and irregular verbs
 
-> Page: 44 or 55
+> Page: 47 or 58
 
 
 
 
-> Additional exercise 19 – 23 (page 246 – 248 or 256)  
+>  Irregular verbs → Appendixes 2-3 spelling (regular verbs) → Appendix 5  
 > Answer Key to Exercises 274 or 284
 
 
