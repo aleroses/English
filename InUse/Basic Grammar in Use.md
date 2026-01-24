@@ -1386,6 +1386,7 @@ Sentences 8 – 15 are past.
 
 </details>
 
+> Additional exercise 24 – 27 (page 249 – 250 or 259)  
 > Answer Key to Exercises 274 – 275 or 284 – 285
 
 ---
@@ -1396,6 +1397,44 @@ Sentences 8 – 15 are past.
 
 > Page: 45 or 56
 
+#### 22.1 Write is/are or do/does.
+
+1. Do you work at night?
+2. Where are they going?
+3. Why `are` you looking at me?
+4. `Does` Bill live near you?
+5. `Do` you like to cook?
+6. `Is` the sun shining?
+7. What time `do` the stores close?
+8. `Is` Maria working today?
+9. What `does` this word mean?
+10. `Are` you feeling all right?
+
+#### 22.2 Write am not / isn't / aren't or don't / doesn't. All these sentences are negative.
+
+1. Tom doesn't work at night.
+2. I'm very tired. I `don't` want to go out tonight.
+3. I'm very tired. `I'm not` going out tonight.
+4. Josh `isn't` working this week. He's on vacation.
+5. My parents are usually at home. They `don't` go out very often.
+6. Nicole has traveled a lot, but she `doesn't` speak any foreign languages.
+7. You can turn off the television. `I'm not` watching it.
+8. Liz has invited us to her party next week, but we `aren't` going.
+
+#### 22.3 Write was/were/did/have/has.
+
+1. Where were your shoes made?
+2. `Did` you go out last night?
+3. What `were` you doing at 10:30?
+4. Where `was` your mother born?
+5. `Did` Anna go home?
+6. What time `did` she leave?
+7. When `were` these house built?
+8. `Has` Mike arrived yet?
+9. Why `did` you go home early?
+10. How long `have` they been married?
+
+#### 22.4 Write is/are/was/were/has/has
 
 
 
@@ -1407,8 +1446,10 @@ Sentences 8 – 15 are past.
 
 
 
-> Additional exercise 19 – 23 (page 246 – 248 or 256)  
-> Answer Key to Exercises 274 or 284
+
+
+
+> Answer Key to Exercises 275 or 285
 
 
 ### 23. Regular and irregular verbs
