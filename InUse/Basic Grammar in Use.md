@@ -1462,17 +1462,54 @@ Sentences 8 – 15 are past.
 10. I don't know how to say this word. How is it `pronounced`?
 11. How do you `open` this window? Can you show me?
 
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+-  Irregular verbs → Unit 23, Appendixes 2-3
+
+</details>
+
 > Answer Key to Exercises 275 or 285
 
 ### 23. Regular and irregular verbs
 
 > Page: 47 or 58
 
+#### 23.1 Write the simple past / past participle of these verbs. (The simple past and past participle are the same for all the verbs in this exercise.)
+
+1. make - made
+2. cut - cut
+3. say - said
+4. bring - brought
+5. pay - paid
+6. enjoy - enjoyed
+7. buy - bought
+8. sit - sat
+9. leave - left
+10. happen - happened
+11. hear - heard
+12. put - put
+13. catch - caught
+14. watch - watched
+15. understand - understood
 
 
 
->  Irregular verbs → Appendixes 2-3 spelling (regular verbs) → Appendix 5  
-> Answer Key to Exercises 274 or 284
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+-  Irregular verbs → Appendixes 2-3
+- Spelling (regular verbs) → Appendix 5
+
+</details>
+
+> Answer Key to Exercises 275 or 285
 
 
 ---
