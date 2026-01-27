@@ -429,3 +429,35 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	¿No lo es?  
 
 </details>
+
+## 11. Ordering food in a café
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/ordering-food-cafe)
+
+![[A1_ordering_food.mp3]]
+
+**Café worker:** Next, please! What would you like?
+
+**Andi:** Can I have a burger, please?
+
+**Café worker:** A cheeseburger or double cheeseburger?
+
+**Andi:** Double cheeseburger, please.
+
+**Café worker:** Anything else?
+
+**Andi:** Yeah, I'd like some banana cake.
+
+**Café worker:** Would you like a drink?
+
+**Andi:** Yes, can I have an apple juice, please?
+
+**Café worker:** OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
+
+**Andi:** Table 3. How much is that?
+
+**Café worker:** That's £8.37, please.
+
+**Andi:** Here you are.
+
+**Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...

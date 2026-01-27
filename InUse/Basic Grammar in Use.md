@@ -1494,9 +1494,15 @@ Sentences 8 – 15 are past.
 14. watch - watched
 15. understand - understood
 
+#### 23.2 Write the simple past and past participle of these verbs.
 
+1. break - broke - broken
+2. begin - began - begun
+3. eat - ate - eaten
+4. drink - drank - drunk
+5. drive - drove - driven
 
-
+23.1 revisado
 
 
 
