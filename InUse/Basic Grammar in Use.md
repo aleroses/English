@@ -1501,8 +1501,36 @@ Sentences 8 – 15 are past.
 3. eat - ate - eaten
 4. drink - drank - drunk
 5. drive - drove - driven
+6. speak - spoke - spoken
+7. write - wrote - written
+8. come - came - come
+9. know - knew - known
+10. take - took - taken
+11. go - went - gone
+12. give - gave - given
+13. throw - threw - thrown
+14. get - got - gotten
 
-23.1 revisado
+#### 23.3 Put the verb in the right form.
+
+1. I `washed` my hands because they were dirty.
+2. Somebody has `broken` this window.
+3. I feel good. I `slept` really well last night.
+4. We `saw` a really good movie yesterday.
+5. It rained a lot while we were on vacation.
+6. I lost my bag. Have you seen it?
+7. Laura's bike was stolen last week.
+8. I went to bed early because I was tired.
+9. Have you finished your work yet?
+10. The shopping mall was built about 20 years ago.
+11. Anna learned to drive when she was 16.
+12. I've never ridden a horse.
+13. Julia is a good friend of mine. I've known her for a long time.
+14. Yesterday I fall and hurt my leg.
+15. My brother run in the Boston Marathon last year. Have you ever run in a marathon?
+
+
+23.3 por revisado
 
 
 
