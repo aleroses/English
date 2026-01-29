@@ -1517,20 +1517,38 @@ Sentences 8 – 15 are past.
 2. Somebody has `broken` this window.
 3. I feel good. I `slept` really well last night.
 4. We `saw` a really good movie yesterday.
-5. It rained a lot while we were on vacation.
-6. I lost my bag. Have you seen it?
-7. Laura's bike was stolen last week.
-8. I went to bed early because I was tired.
-9. Have you finished your work yet?
-10. The shopping mall was built about 20 years ago.
-11. Anna learned to drive when she was 16.
-12. I've never ridden a horse.
-13. Julia is a good friend of mine. I've known her for a long time.
-14. Yesterday I fall and hurt my leg.
-15. My brother run in the Boston Marathon last year. Have you ever run in a marathon?
+5. It `rained` a lot while we were on vacation.
+6. I `lost` my bag. Have you `seen` it?
+7. Laura's bike was `stolen` last week.
+8. I `went` to bed early because I was tired.
+9. Have you `finished` your work yet?
+10. The shopping mall was `built` about 20 years ago.
+11. Anna `learned` to drive when she was 16.
+12. I've never `ridden` a horse.
+13. Julia is a good friend of mine. I've `known` her for a long time.
+14. Yesterday I `fell` and `hurt` my leg.
+15. My brother `ran` in the Boston Marathon last year. Have you ever `run` in a marathon?
+
+#### 23.4 Complete the sentences. Choose from the box and put the verb into the correct form.
+
+`cost` `drive` `fly` ~~`make`~~ `meet` `sell` `speak` `swim` `tell` `think` `wake up` `win`
+
+1. I have `made` some coffee. Would you like some?
+2. Have you `told` John about your new job yet?
+3. We played basketball on Sunday. We didn't play very well, but we `won` the game.
+4. I know Josh, but I've never `met` his wife.
+5. We were `woken up` by loud music in the middle of the night.
+6. Stephanie jumped into the river and `swam` to the other side.
+7. "Did you like the movie?" "Yes, I `thought` it was very good."
+8. Many different languages are `spoken` in the Philippines.
+9. Our vacation `cost` a lot of money because we stayed in an expensive hotel.
+10. Have you ever `driven` a very fast car?
+11. All the tickets for the concert were `sold` very quickly.
+12. A bird `flew` in through the open window while we were having our dinner.
 
 
-23.3 por revisado
+
+23.4 revisado
 
 
 
