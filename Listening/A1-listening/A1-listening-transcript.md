@@ -461,3 +461,29 @@ _This audio is for you to practise your listening skills. Some of the informatio
 **Andi:** Here you are.
 
 **Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
+
+## 12. Spelling colours
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/spelling-colours)
+
+![[A1_spelling_colours.mp3]]
+
+**Number 1:** R-E-D
+
+**Number 2:** Y-E-L-L-O-W
+
+**Number 3:** G-R-E-E-N
+
+**Number 4:** B-L-U-E
+
+**Number 5:** B-L-A-C-K
+
+**Number 6:** B-R-O-W-N
+
+**Number 7:** W-H-I-T-E
+
+**Number 8:** P-I-N-K
+
+**Number 9:** P-U-R-P-L-E
+
+**Number 10:** O-R-A-N-G-E

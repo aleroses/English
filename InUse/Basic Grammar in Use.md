@@ -1546,12 +1546,6 @@ Sentences 8 – 15 are past.
 11. All the tickets for the concert were `sold` very quickly.
 12. A bird `flew` in through the open window while we were having our dinner.
 
-
-
-23.4 revisado
-
-
-
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -1562,7 +1556,6 @@ Sentences 8 – 15 are past.
 </details>
 
 > Answer Key to Exercises 275 or 285
-
 
 ---
 
