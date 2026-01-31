@@ -487,3 +487,29 @@ _This audio is for you to practise your listening skills. Some of the informatio
 **Number 9:** P-U-R-P-L-E
 
 **Number 10:** O-R-A-N-G-E
+
+## 13. Spelling names
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/spelling-names)
+
+![[A1_spelling_names.mp3]]
+
+**A:** What’s your name?
+
+**B:** Anika.
+
+**A:** Can you spell that?
+
+**B:** A-N-I-K-A.
+
+**A:** What’s your surname?
+
+**B:** Reeves.
+
+**A:** Can you spell that?
+
+**B:** R-E-E-V-E-S.
+
+**A:** R-double E-V-E-S.
+
+**B:** That’s right.
