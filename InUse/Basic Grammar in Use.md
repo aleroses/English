@@ -1563,6 +1563,37 @@ Sentences 8 – 15 are past.
 
 ### 24. What are you doing tomorrow?
 
+> Page: 49 or 60
+
+#### 24.1 Look at the picture. What are these people doing next Friday?
+
+1. Andrew `is playing` tennis on Friday.
+2. Dan `is going to` the movies on Friday.
+3. Rachel `is meeting` Dave on Friday.
+4. On Friday, Karen `is having` lunch with Will.
+5. Sue and Tom `are going to` a party on Friday.
+
+
+
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- Present continuous → Units 3-4
+- Simple present → Units 5-7
+- I'm going to... → Unit 25
+
+</details>
+
+> Answer Key to Exercises 275 or 285
+
+
+
 ### 25. I'm going to...
 
 ### 26. will
