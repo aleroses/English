@@ -1625,15 +1625,33 @@ Sentences 8 – 15 are past.
 
 ### 25. I'm going to...
 
+#### 25.1 What are these people saying?
+
+1. I'm going to watch TV.
+2. I'm going to take a bath.
+3. I'm going to buy a new car.
+4. We're going to play football / soccer.
+
+#### 25.2 Complete the sentences. Use going to + these verbs.
+
+`do` `eat` `give` `lie down` `stay` `walk` ~~`wash`~~ `watch` ~~`wear`~~
+
+1. My hands are dirty. I'm going to wash them.
+2. What are you going to wear to the party tonight?
+3. It's a nice day. I don't want to take the bus. I'm going to `walk`.
+4. Ryan is going to San Diego next week. He `is going to stay` with some friends.
+5. I'm hungry. I `am going to eat` this sandwich.
+6. It's Megan's birthday next week. We `are going to give` her a present.
+7. Sue says she's feeling very tired. She `is going to lie down` for an hour.
+8. The president's speech is on TV tonight. Are you going to watch it?
+9. What `is` Rachel `going to do` when she finishes school?
+
+#### 25.3 
+
+todo revisado
 
 
-
-
-
-
-
-
-
+> Answer Key to Exercises 275 or 285
 
 
 
