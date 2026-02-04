@@ -545,3 +545,29 @@ _This audio is for you to practise your listening skills. Some of the informatio
 **Katy:** That isn't a good idea! It's important to get up and move your body.
 
 **Ben:** OK. Thanks. Next time I think I can get good marks!
+
+## 15. Understanding numbers
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/understanding-numbers)
+
+![[A1_understanding_numbers.mp3]]
+
+0208 542 8976
+
+14
+
+1985
+
+25th June
+
+1 metre 27
+
+68
+
+103
+
+671
+
+5,325
+
+8,000,000
