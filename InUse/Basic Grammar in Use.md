@@ -1573,12 +1573,43 @@ Sentences 8 – 15 are past.
 4. On Friday, Karen `is having` lunch with Will.
 5. Sue and Tom `are going to` a party on Friday.
 
+#### 24.2 Write questions. All the sentences are future.
 
+1. Are you going out tonight?
+2. Are you working next week?
+3. What are you doing tomorrow night?
+4. What time are your friends coming?
+5. When is Liz going on vacation?
 
+#### 24.3 Write sentences about yourself. What are you doing in the next few days?
 
+1. I'm staying home tonight.
+2. I'm going to the theater on Monday.
+3. I'm doing exercises tonight.
+4. I'm studying listening in two hours.
+5. I'm listening music tonight.
+6. I'm programming later.
 
+#### 24.4 Put the verb in the present continuous (he is leaving, etc.) or simple present (the train leaves, etc.).
 
-
+1. "Are you going out tonight?" "No, I'm too tired."
+2. We're going to a concert tonight. It starts at 7:30.
+3. Listen to this! Karen `is getting` married next month!
+4. -  
+	A: My parents `are going to` on vacation next week.  
+	B: Oh, that's nice. Where `are they going`?
+5. Ana is taking an English course this semester. The course `ends` on Friday.
+6. There's a party tomorrow night, but I`'m not going`.
+7. I`'m going to` out with some friends tonight. Why don't you come, too? We`'re meeting` at John's house at 8:00.
+8. -  
+	A: How `are you getting` home after the party tomorrow? By taxi?  
+	B: No, I can go by bus. The last bus `leaves` at midnight.
+9. -  
+	A: Do you want to go to the movies tonight?  
+	B: Yes, what time `does the movie begin`?
+10. -  
+	A: What `are you doing` tomorrow afternoon?  
+	B: I`'m working`.
 
 <details>
   <summary>More 🔥☠️</summary>
