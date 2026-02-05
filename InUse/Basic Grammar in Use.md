@@ -1657,7 +1657,7 @@ Sentences 8 – 15 are past.
 
 #### 25.4 What are you going to do today or tomorrow? Write three sentences.
 
-1. I'm going to do exercise tonight.
+1. I'm going to exercise tonight.
 2. I'm going to have lunch late.
 3. I'm going to stop the music in a moment.
 
