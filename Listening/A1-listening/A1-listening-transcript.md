@@ -343,39 +343,39 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_Online_safety_conversation.mp3]]
 
-**Charlie:** Mum! That's my computer!
-
-**Mum:** I know, I know. Don't worry, I'm changing your privacy settings.
-
-**Charlie:** Privacy settings?
-
-**Mum:** Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
-
-**Charlie:** Oh. What are the privacy settings for?
-
-**Mum:** To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
-
-**Charlie:** Everyone?
-
-**Mum:** Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
-
-**Charlie:** No! But I can delete things, can't I?
-
-**Mum:** Well, you can, but it's very difficult. Some things stay there forever.
-
-**Charlie:** That's really scary, Mum.
-
-**Mum:** Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
-
-**Charlie:** I won't!
-
-**Mum:** Crazy Charlie one two one, isn't it?
-
-**Charlie:** Mum! Yes, it is. How …
-
-**Mum:** It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
-
-**Charlie:** No, it isn't.
+	**Charlie:** Mum! That's my computer!
+	
+	**Mum:** I know, I know. Don't worry, I'm changing your privacy settings.
+	
+	**Charlie:** Privacy settings?
+	
+	**Mum:** Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
+	
+	**Charlie:** Oh. What are the privacy settings for?
+	
+	**Mum:** To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
+	
+	**Charlie:** Everyone?
+	
+	**Mum:** Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
+	
+	**Charlie:** No! But I can delete things, can't I?
+	
+	**Mum:** Well, you can, but it's very difficult. Some things stay there forever.
+	
+	**Charlie:** That's really scary, Mum.
+	
+	**Mum:** Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
+	
+	**Charlie:** I won't!
+	
+	**Mum:** Crazy Charlie one two one, isn't it?
+	
+	**Charlie:** Mum! Yes, it is. How …
+	
+	**Mum:** It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
+	
+	**Charlie:** No, it isn't.
 
 <details>
   <summary>More 👀👇</summary>
@@ -436,31 +436,31 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_ordering_food.mp3]]
 
-**Café worker:** Next, please! What would you like?
-
-**Andi:** Can I have a burger, please?
-
-**Café worker:** A cheeseburger or double cheeseburger?
-
-**Andi:** Double cheeseburger, please.
-
-**Café worker:** Anything else?
-
-**Andi:** Yeah, I'd like some banana cake.
-
-**Café worker:** Would you like a drink?
-
-**Andi:** Yes, can I have an apple juice, please?
-
-**Café worker:** OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
-
-**Andi:** Table 3. How much is that?
-
-**Café worker:** That's £8.37, please.
-
-**Andi:** Here you are.
-
-**Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
+	**Café worker:** Next, please! What would you like?
+	
+	**Andi:** Can I have a burger, please?
+	
+	**Café worker:** A cheeseburger or double cheeseburger?
+	
+	**Andi:** Double cheeseburger, please.
+	
+	**Café worker:** Anything else?
+	
+	**Andi:** Yeah, I'd like some banana cake.
+	
+	**Café worker:** Would you like a drink?
+	
+	**Andi:** Yes, can I have an apple juice, please?
+	
+	**Café worker:** OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
+	
+	**Andi:** Table 3. How much is that?
+	
+	**Café worker:** That's £8.37, please.
+	
+	**Andi:** Here you are.
+	
+	**Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
 
 ## 12. Spelling colours
 
@@ -468,25 +468,25 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_spelling_colours.mp3]]
 
-**Number 1:** R-E-D
-
-**Number 2:** Y-E-L-L-O-W
-
-**Number 3:** G-R-E-E-N
-
-**Number 4:** B-L-U-E
-
-**Number 5:** B-L-A-C-K
-
-**Number 6:** B-R-O-W-N
-
-**Number 7:** W-H-I-T-E
-
-**Number 8:** P-I-N-K
-
-**Number 9:** P-U-R-P-L-E
-
-**Number 10:** O-R-A-N-G-E
+	**Number 1:** R-E-D
+	
+	**Number 2:** Y-E-L-L-O-W
+	
+	**Number 3:** G-R-E-E-N
+	
+	**Number 4:** B-L-U-E
+	
+	**Number 5:** B-L-A-C-K
+	
+	**Number 6:** B-R-O-W-N
+	
+	**Number 7:** W-H-I-T-E
+	
+	**Number 8:** P-I-N-K
+	
+	**Number 9:** P-U-R-P-L-E
+	
+	**Number 10:** O-R-A-N-G-E
 
 ## 13. Spelling names
 
@@ -494,25 +494,25 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_spelling_names.mp3]]
 
-**A:** What’s your name?
-
-**B:** Anika.
-
-**A:** Can you spell that?
-
-**B:** A-N-I-K-A.
-
-**A:** What’s your surname?
-
-**B:** Reeves.
-
-**A:** Can you spell that?
-
-**B:** R-E-E-V-E-S.
-
-**A:** R-double E-V-E-S.
-
-**B:** That’s right.
+	**A:** What’s your name?
+	
+	**B:** Anika.
+	
+	**A:** Can you spell that?
+	
+	**B:** A-N-I-K-A.
+	
+	**A:** What’s your surname?
+	
+	**B:** Reeves.
+	
+	**A:** Can you spell that?
+	
+	**B:** R-E-E-V-E-S.
+	
+	**A:** R-double E-V-E-S.
+	
+	**B:** That’s right.
 
 ## 14. Study tips
 
@@ -520,31 +520,31 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_Study_tips.mp3]]
 
-**Ben:** You always get good marks at school. You're lucky! I study but I don't always get good marks.
-
-**Katy:** I'm not lucky! I know how to study. I always do three things. Do you want to know them?
-
-**Ben:** Yeah, please!
-
-**Katy:** OK, number one. Always study in a quiet place.
-
-**Ben:** I usually study in my bedroom. It's very quiet.
-
-**Katy:** Number two. Have a clear desk!
-
-**Ben:** Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.
-
-**Katy:** Well, that isn't very good!
-
-**Ben:** What's tip number three?
-
-**Katy:** Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.
-
-**Ben:** I never have a break. I sometimes study for two or three hours.
-
-**Katy:** That isn't a good idea! It's important to get up and move your body.
-
-**Ben:** OK. Thanks. Next time I think I can get good marks!
+	**Ben:** You always get good marks at school. You're lucky! I study but I don't always get good marks.
+	
+	**Katy:** I'm not lucky! I know how to study. I always do three things. Do you want to know them?
+	
+	**Ben:** Yeah, please!
+	
+	**Katy:** OK, number one. Always study in a quiet place.
+	
+	**Ben:** I usually study in my bedroom. It's very quiet.
+	
+	**Katy:** Number two. Have a clear desk!
+	
+	**Ben:** Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.
+	
+	**Katy:** Well, that isn't very good!
+	
+	**Ben:** What's tip number three?
+	
+	**Katy:** Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.
+	
+	**Ben:** I never have a break. I sometimes study for two or three hours.
+	
+	**Katy:** That isn't a good idea! It's important to get up and move your body.
+	
+	**Ben:** OK. Thanks. Next time I think I can get good marks!
 
 ## 15. Understanding numbers
 
@@ -552,22 +552,22 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_understanding_numbers.mp3]]
 
-0208 542 8976
-
-14
-
-1985
-
-25th June
-
-1 metre 27
-
-68
-
-103
-
-671
-
-5,325
-
-8,000,000
+	0208 542 8976
+	
+	14
+	
+	1985
+	
+	25th June
+	
+	1 metre 27
+	
+	68
+	
+	103
+	
+	671
+	
+	5,325
+	
+	8,000,000

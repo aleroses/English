@@ -1625,6 +1625,8 @@ Sentences 8 – 15 are past.
 
 ### 25. I'm going to...
 
+> Page: 51 or 62
+
 #### 25.1 What are these people saying?
 
 1. I'm going to watch TV.
@@ -1646,10 +1648,27 @@ Sentences 8 – 15 are past.
 8. The president's speech is on TV tonight. Are you going to watch it?
 9. What `is` Rachel `going to do` when she finishes school?
 
-#### 25.3 
+#### 25.3 Look at the pictures. What is going to happen?
 
-todo revisado
+1. It's going to rain.
+2. The shelf is going to fall (down).
+3. The car is going to turn left.
+4. He is going to kick the ball.
 
+#### 25.4 What are you going to do today or tomorrow? Write three sentences.
+
+1. I'm going to do exercise tonight.
+2. I'm going to have lunch late.
+3. I'm going to stop the music in a moment.
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- Present for the future → Unit 24
+- Will → Unit 26
+
+</details>
 
 > Answer Key to Exercises 275 or 285
 
