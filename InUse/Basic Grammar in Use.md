@@ -1672,13 +1672,58 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 275 or 285
 
-
-
-
-
 ### 26. will
 
+> Page: 53 or 64
 
+#### 26.1 Hannah is traveling in South America. Complete the sentences with she was, she's, or she'll be.
+
+1. Yesterday she was in Rio de Janeiro.
+2. Tomorrow `she'll be` in Bogotá.
+3. Last week `she was` in Santiago.
+4. Next week `she'll be` in Caracas.
+5. Right now `she's` in Lima.
+6. Three days ago `she was` in Buenos Aires.
+7. At the end of her trip `she'll be` very tired.
+
+#### 26.2 Complete the sentences with 'll (will) or won't.
+
+1. Don't drink coffee before you go to bed. You `won't` sleep well.
+2. "Are you ready yet?" "Not yet. `I'll` be ready in five minutes."
+3. You don't need to take an umbrella. It `won't` rain.
+4. It's a good movie. I think you `will` like it.
+5. I'm sorry I was late this morning. It `won't` happen again.
+6. It's Ben's birthday next Monday. `He'll` be 25.
+
+#### 26.3 Complete the sentences. Use I'll (I will) + these verbs:
+
+~~`carry`~~ `do` `eat` `have` `show` `sit` `stay`
+
+1. My suitcase is very heavy. `I'll carry` it for you.
+2. Did you call Jen? Oh no, I forgot. `I'll do` it now.
+3. What would you like to drink? `I'll have` some tea, please.
+4. Do you want a chair? No, it's OK. `I'll sit` on the floor.
+5. I don't want this banana. Well, I'm hungry. `I'll eat` it.
+6. Are you coming with me? No, I don't think so. `I'll stay` here.
+7. How do you use this camera? Give it to me, and `I'll show` you.
+
+
+
+> Decisiones espontáneas, promesas o predicciones con evidencia.
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Answer Key to Exercises 275 – 276 or 285 – 286
 
 ---
 
@@ -1689,6 +1734,8 @@ Sentences 8 – 15 are past.
 →
 
 ## 6. Future
+
+> Page: 51 or 62
 
 238 more exercises
 280 Answer 
@@ -1717,9 +1764,6 @@ Esto es un \*ejemplo con asteriscos\*.
 - am/is/are (questions) → Unit 2
 - there is/are → Unit 35
 - it's ... → Unit 37
-- a/an → Unit 63
-- (at) home → Unit 106
-- short forms → Appendix 4 (232 or 242)
 
 </details>
 
