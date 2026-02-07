@@ -1707,12 +1707,31 @@ Sentences 8 – 15 are past.
 6. Are you coming with me? No, I don't think so. `I'll stay` here.
 7. How do you use this camera? Give it to me, and `I'll show` you.
 
+#### 26.4 Complete the sentences. Use I think I'll... or I don't think I'll... + these verbs:
 
+`buy` `buy` ~~`go`~~ `have` `play`
+
+1. It's cold today. I `don't think I'll go` out.
+2. I'm hungry. I `think I'll have` something to eat.
+3. I feel very tired. I `don't think I'll play` tennis.
+4. I like this hat. I `think I'll buy` it.
+5. This camera is too expensive. I `don't think I'll buy` it.
+
+#### 26.5 Which is right? (If necessary, study Units 24 - 25 before you do this exercise.)
+
+1. `I'll call` you tomorrow, OK?
+2. I haven't done the shopping yet. `I'll do` it later.
+3. I like sports. `I watch` a lot of sports on TV.
+4. I think your aunt `will lend` us some money. She's very rich.
+5. Why are you putting on your coat? `Are you going out`?
+6. I don't know where `I'll be` two years from now.
+7. Gerry `is going to buy` a new car. He told me last week.
+8. Do you think Emily `will pass` the driving test?
+9. -  
+	A: Do you have any plans for tonight?  
+	B: Yes, `I'm meeting` some friends.
 
 > Decisiones espontáneas, promesas o predicciones con evidencia.
-
-
-
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -1723,19 +1742,252 @@ Sentences 8 – 15 are past.
 
 </details>
 
+> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 275 – 276 or 285 – 286
 
 ---
 
+## 7. Modals, imperative, etc.
 
-–
+### 27. might
 
-
-→
-
-## 6. Future
 
 > Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 275 – 276 or 285 – 286
+
+
+### 28. can and could
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 29. must
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+
+### 30. should
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 31. I have to...
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 32. Would you like...? I'd like...
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+
+### 33. I'd rather...
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 34. Do this! Don't do that! Let's do this!
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+## 8. There and it
+
+### 35. there is     there are
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 36. there was / were  there has / have been  there will be
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 37. it
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+## 9. Auxiliary verbs
+
+### 38. I am, I don't, etc.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 39. You have? Have you? You are? Are you?, etc
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 40. too/either  so am I / neither do I, etc.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+### 41. isn't, haven't, don't, etc. (negatives)
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+
+
+
+
+
+
 
 238 more exercises
 280 Answer 
@@ -1767,4 +2019,7 @@ Esto es un \*ejemplo con asteriscos\*.
 
 </details>
 
+→
+
+–
 →
