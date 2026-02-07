@@ -1717,7 +1717,7 @@ Sentences 8 – 15 are past.
 4. I like this hat. I `think I'll buy` it.
 5. This camera is too expensive. I `don't think I'll buy` it.
 
-#### 26.5 Which is right? (If necessary, study Units 24 - 25 before you do this exercise.)
+#### 26.5 Which is right? (If necessary, study Units 24 – 25 before you do this exercise.)
 
 1. `I'll call` you tomorrow, OK?
 2. I haven't done the shopping yet. `I'll do` it later.
@@ -1751,8 +1751,20 @@ Sentences 8 – 15 are past.
 
 ### 27. might
 
+> Page: 55 or 66
 
-> Page: 51 or 62
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
