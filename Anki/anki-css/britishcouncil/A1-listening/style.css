@@ -1,0 +1,77 @@
+/* Estilos para los controles de audio */
+.audio-container {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.audio-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+.control-btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+  min-width: 60px;
+  touch-action: manipulation;
+}
+
+.control-btn:active {
+  background-color: #45a049;
+  transform: scale(0.95);
+}
+
+.control-btn:hover {
+  background-color: #45a049;
+}
+
+.play-pause-btn {
+  background-color: #2196f3;
+  min-width: 80px;
+  font-size: 18px;
+}
+
+.play-pause-btn:active {
+  background-color: #0b7dda;
+}
+
+.time-display {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+/* Ocultar el reproductor de audio nativo */
+audio {
+  display: none;
+}
+
+/* Barra de progreso personalizada */
+.progress-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 10px auto;
+  background-color: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  height: 8px;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: #4caf50;
+  width: 0%;
+  transition: width 0.1s;
+}

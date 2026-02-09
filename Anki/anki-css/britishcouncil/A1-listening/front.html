@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Controles de Audio para Anki</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="audio-container">
+      <!-- Aquí va tu audio de Anki. Reemplaza "{{Audio}}" con el campo correspondiente -->
+      <audio id="audioPlayer">
+        <!-- <source src="{{Audio}}" type="audio/mpeg" /> -->
+        <source
+          src="./A1_A_good_nights_sleep.mp3"
+          type="audio/mpeg"
+        />
+        Tu navegador no soporta el elemento de audio.
+      </audio>
+
+      <!-- Barra de progreso -->
+      <div
+        class="progress-container"
+        id="progressContainer"
+      >
+        <div class="progress-bar" id="progressBar"></div>
+      </div>
+
+      <!-- Controles -->
+      <div class="audio-controls">
+        <button class="control-btn" id="backward">
+          ⏪ -5s
+        </button>
+        <button
+          class="control-btn play-pause-btn"
+          id="playPause"
+        >
+          ▶️ Play
+        </button>
+        <button class="control-btn" id="forward">
+          ⏩ +5s
+        </button>
+      </div>
+
+      <!-- Tiempo transcurrido -->
+      <div class="time-display" id="timeDisplay">
+        0:00 / 0:00
+      </div>
+    </div>
+
+    <script>
+      // Referencias a elementos
+      const audio = document.getElementById('audioPlayer');
+      const playPauseBtn =
+        document.getElementById('playPause');
+      const backwardBtn =
+        document.getElementById('backward');
+      const forwardBtn = document.getElementById('forward');
+      const progressBar =
+        document.getElementById('progressBar');
+      const progressContainer = document.getElementById(
+        'progressContainer'
+      );
+      const timeDisplay =
+        document.getElementById('timeDisplay');
+
+      // Función para reproducir/pausar
+      function togglePlayPause() {
+        if (audio.paused) {
+          audio.play();
+          playPauseBtn.textContent = '⏸️ Pausa';
+        } else {
+          audio.pause();
+          playPauseBtn.textContent = '▶️ Play';
+        }
+      }
+
+      // Función para retroceder 5 segundos
+      function backward() {
+        audio.currentTime = Math.max(
+          0,
+          audio.currentTime - 5
+        );
+      }
+
+      // Función para adelantar 5 segundos
+      function forward() {
+        audio.currentTime = Math.min(
+          audio.duration,
+          audio.currentTime + 5
+        );
+      }
+
+      // Función para formatear tiempo
+      function formatTime(seconds) {
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        return `${mins}:${secs < 10 ? '0' : ''}${secs}`;
+      }
+
+      // Actualizar barra de progreso y tiempo
+      function updateProgress() {
+        const progress =
+          (audio.currentTime / audio.duration) * 100;
+        progressBar.style.width = progress + '%';
+        timeDisplay.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+      }
+
+      // Event listeners para los botones
+      playPauseBtn.addEventListener(
+        'click',
+        togglePlayPause
+      );
+      backwardBtn.addEventListener('click', backward);
+      forwardBtn.addEventListener('click', forward);
+
+      // Actualizar progreso mientras se reproduce
+      audio.addEventListener('timeupdate', updateProgress);
+
+      // Permitir hacer clic en la barra de progreso
+      progressContainer.addEventListener(
+        'click',
+        function (e) {
+          const rect =
+            progressContainer.getBoundingClientRect();
+          const clickX = e.clientX - rect.left;
+          const percentage = clickX / rect.width;
+          audio.currentTime = percentage * audio.duration;
+        }
+      );
+
+      // Soporte para atajos de teclado (útil en PC)
+      document.addEventListener('keydown', function (e) {
+        if (e.key === ' ' || e.key === 'Spacebar') {
+          e.preventDefault();
+          togglePlayPause();
+        } else if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          backward();
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          forward();
+        }
+      });
+
+      // Resetear al pausar
+      audio.addEventListener('ended', function () {
+        playPauseBtn.textContent = '▶️ Play';
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    {{Front}}
+
+    <hr />
+
+    <div class="card">
+      <div class="content">{{Back}}</div>
+
+      <div class="audio-controls">
+        <button onclick="playAudio()">▶️</button>
+        <button onclick="pauseAudio()">⏸</button>
+        <button onclick="replayAudio()">🔁</button>
+      </div>
+    </div>
+
+    <script>
+      function getAudio() {
+        return document.querySelector('audio');
+      }
+
+      function playAudio() {
+        const audio = getAudio();
+        if (audio) audio.play();
+      }
+
+      function pauseAudio() {
+        const audio = getAudio();
+        if (audio) audio.pause();
+      }
+
+      function replayAudio() {
+        const audio = getAudio();
+        if (audio) {
+          audio.currentTime = 0;
+          audio.play();
+        }
+      }
+    </script>
+  </body>
+</html>
