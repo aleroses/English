@@ -1753,6 +1753,8 @@ Sentences 8 – 15 are past.
 
 > Page: 55 or 66
 
+#### 27.1 Write sentences with might.
+
 
 
 
@@ -1770,12 +1772,11 @@ Sentences 8 – 15 are past.
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- will → Unit 26
+- can → Unit 28
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 275 – 276 or 285 – 286
 
 
