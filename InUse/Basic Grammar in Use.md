@@ -1773,27 +1773,51 @@ Write sentences with might not.
 1. Where are you going for your vacation?  
 	I'm not sure. I might go to Italy.
 2. What are you doing this weekend?  
-	I don't know. I might go to fish.
+	I don't know. I might take a trip.
 3. When will you see Kate again?  
 	I'm not sure. I might see her on Monday.
 4. What are you going to have for dinner?  
-	I don't know. I might eat fish.
+	I don't know. I might have fish.
 5. How are you going to get home tonight?  
 	I'm not sure. I might take a taxi.
 6. I hear you won some money. What are you going to do with it?  
-	I haven't decided yet. I might take a trip.
+	I haven't decided yet. I might buy/get a new car.
 
+#### 27.3 You ask Ben questions about his plans for tomorrow. Sometimes he is sure, but usually he is not sure.
 
+1. Are you playing tennis tomorrow?  
+	Yes, in the afternoon.
+2. Are you going out tomorrow evening?  
+	Possibly.
+3. Are you going to get up early?  
+	Maybe.
+4. Are you working tomorrow?  
+	No, I'm not
+5. Will you be at home tomorrow morning?  
+	Maybe.
+6. Are you going to watch TV?  
+	I might.
+7. Are you going out in the afternoon?  
+	Yes, I am.
+8. Are you going shopping?  
+	Maybe. I'm not sure.
 
+Now write about Ben. Use might where necessary.
 
+1. He's playing tennis tomorrow afternoon.
+2. He might go out tomorrow evening.
+3. He might get up early.
+4. He isn't working tomorrow.
+5. He might be at home tomorrow morning.
+6. He might watch TV.
+7. He's going out in the afternoon.
+8. He might go shopping.
 
+#### 27.4 Write three things that you might do tomorrow.
 
-
-
-
-
-
-
+1. I might do exercises.
+2. I might go out with my girlfriend.
+3. I might cook spaghetti.
 
 <details>
   <summary>More 🔥☠️</summary>
