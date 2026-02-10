@@ -1769,17 +1769,17 @@ Write sentences with might not.
 
 `fish` ~~`Italy`~~ `Monday` `a new car` `a trip` `a taxi`
 
-1. Where are you going for your vacation?
+1. Where are you going for your vacation?  
 	I'm not sure. I might go to Italy.
-2. What are you doing this weekend?
+2. What are you doing this weekend?  
 	I don't know. I might go to fish.
-3. When will you see Kate again?
+3. When will you see Kate again?  
 	I'm not sure. I might see her on Monday.
-4. What are you going to have for dinner?
+4. What are you going to have for dinner?  
 	I don't know. I might eat fish.
-5. How are you going to get home tonight?
+5. How are you going to get home tonight?  
 	I'm not sure. I might take a taxi.
-6. I hear you won some money. What are you going to do with it?
+6. I hear you won some money. What are you going to do with it?  
 	I haven't decided yet. I might take a trip.
 
 
