@@ -1755,6 +1755,32 @@ Sentences 8 – 15 are past.
 
 #### 27.1 Write sentences with might.
 
+1. I might go to the movies.
+2. I might see you tomorrow.
+3. Sarah might forget to call.
+4. It might snow today.
+5. I might be late tonight.
+
+Write sentences with might not.
+6. Tony might not be here next week.
+7. I might not have time to go out.
+
+#### 27.2 Somebody is asking you about your plans. You have some ideas, but you are not sure. Choose from the list and write sentences with I might.
+
+`fish` ~~`Italy`~~ `Monday` `a new car` `a trip` `a taxi`
+
+1. Where are you going for your vacation?
+	I'm not sure. I might go to Italy.
+2. What are you doing this weekend?
+	I don't know. I might go to fish.
+3. When will you see Kate again?
+	I'm not sure. I might see her on Monday.
+4. What are you going to have for dinner?
+	I don't know. I might eat fish.
+5. How are you going to get home tonight?
+	I'm not sure. I might take a taxi.
+6. I hear you won some money. What are you going to do with it?
+	I haven't decided yet. I might take a trip.
 
 
 
