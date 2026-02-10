@@ -1,6 +1,8 @@
 # A1 listening
 
-## 1. A good night's sleep
+## First part
+
+### 1. A good night's sleep
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep)
 
@@ -41,7 +43,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 </details>
 
-## 2. At the library – giving personal information
+### 2. At the library – giving personal information
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/library-giving-personal-information)
 
@@ -79,7 +81,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **School librarian:** Goodbye.
 
-## 3. Band auditions
+### 3. Band auditions
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/band-auditions)
 
@@ -117,7 +119,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **Girl:** Great, great! Hmm ... thanks for coming. I'll call you next week.
 
-## 4. Describing people
+### 4. Describing people
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/describing-people)
 
@@ -145,7 +147,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **Aurelia:** They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
 
-## 5. First day at school
+### 5. First day at school
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/first-day-school)
 
@@ -171,7 +173,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 **Jing:** OK. Great.
 
-## 6. Getting an ID card
+### 6. Getting an ID card
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/getting-id-card)
 
@@ -227,7 +229,7 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 _This audio is for you to practise your listening skills. Some of the information it contains may not be up to date._
 
-## 7. Interview with a swimmer
+### 7. Interview with a swimmer
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/interview-swimmer)
 
@@ -267,7 +269,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Interviewer:** Thanks, Dan. That’s a busy day!
 
-## 8. Introducing a friend
+### 8. Introducing a friend
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/introducing-friend)
 
@@ -291,7 +293,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Greta:** Nice to meet you too.
 
-## 9. Inviting someone to the cinema
+### 9. Inviting someone to the cinema
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/inviting-someone-cinema)
 
@@ -337,7 +339,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Ismael:** Bye.
 
-## 10. Online safety conversation
+### 10. Online safety conversation
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/online-safety-conversation)
 
@@ -430,7 +432,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 </details>
 
-## 11. Ordering food in a café
+### 11. Ordering food in a café
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/ordering-food-cafe)
 
@@ -462,7 +464,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	
 	**Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
 
-## 12. Spelling colours
+### 12. Spelling colours
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/spelling-colours)
 
@@ -488,7 +490,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	
 	**Number 10:** O-R-A-N-G-E
 
-## 13. Spelling names
+### 13. Spelling names
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/spelling-names)
 
@@ -514,7 +516,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	
 	**B:** That’s right.
 
-## 14. Study tips
+### 14. Study tips
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/study-tips)
 
@@ -546,7 +548,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	
 	**Ben:** OK. Thanks. Next time I think I can get good marks!
 
-## 15. Understanding numbers
+### 15. Understanding numbers
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/understanding-numbers)
 
@@ -571,3 +573,53 @@ _This audio is for you to practise your listening skills. Some of the informatio
 	5,325
 	
 	8,000,000
+
+## Second part
+
+### 1. A request from your boss
+
+[Learnenglish](https://learnenglish.britishcouncil.org/skills/listening/a1-listening/request-your-boss)
+
+![[LE_listening_A1_A_request_from_your_boss.mp3]]
+
+**Susanne**: Hi, Mario. Can you help me prepare some things for the next month?
+
+**Mario**: OK, sure. What can I help you with?
+
+**Susanne**: I need to visit the customer in Germany. It's important.
+
+**Mario**: What can I do to help?
+
+**Susanne**: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.
+
+**Mario**: Right. I'll do it today.
+
+**Susanne**: Thanks. This next task is also important. Can you invite everyone to the next team meeting?
+
+**Mario**: Yes, I will.
+
+**Susanne**: But first you need to book a meeting room. After that, please send everyone an email about it.
+
+**Mario**: Yes, of course.
+
+**Susanne**: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.
+
+**Mario**: Sure, no problem. I can do it this week.
+
+**Susanne**: There's no hurry. Take your time.
+
+### 2. A voicemail message
+
+[Learnenglish](https://learnenglish.britishcouncil.org/skills/listening/a1-listening/voicemail-message)
+
+![[LE_listening_A1_A_voicemail_message.mp3]]
+
+**John**: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.
+
+**Marina**: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.
+
+I need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
+
+Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
+
+Thanks a lot. I look forward to hearing from you.
