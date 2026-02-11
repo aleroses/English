@@ -1832,33 +1832,83 @@ Now write about Ben. Use might where necessary.
 
 ### 28. can and could
 
-> Page: 51 or 62
+> Page: 57 or 68
 
-#### 28.1
+#### 28.1 Ask Andy if he can do these things:
 
+1. Can you swim?
+2. Can you ski?
+3. Can you play chess?
+4. Can you run 10 kilometers?
+5. Can you drive a car?
+6. Can you ride a horse?
 
+Can you do these things? Write sentences about yourself. Use I can or I can't.
 
+7. I can't swim.
+8. I can't ski.
+9. I can't play chess.
+10. I can't run 10 kilometers.
+11. I can't drive a car.
+12. I can ride a horse.
 
+#### 28.2 Complete these sentences. Use can or can't + one of these verbs:
 
+~~`come`~~  `find` `hear` `see` `speak`
 
+1. I'm sorry, but we `can't come` to your party next Saturday.
+2. I like this hotel room. You `can see` the mountains from the window.
+3. You are speaking very quietly. I `can't hear` you.
+4. Have you seen my suitcase? I `can't find` it.
+5. Catherine got the job because she `can speak` five languages. 
 
+#### 28.3 Complete these sentences. Use can't or couldn't + one of these verbs:
 
+`decide` `eat` `find` `go` `go` ~~`sleep`~~
 
+1. I was tired, but I `couldn't sleep`.
+2. I wasn't hungry yesterday. I `couldn't eat` my dinner.
+3. Kate doesn't know what to do. She `can't decide`.
+4. I wanted to speak to Dan yesterday, but I `couldn't find` him.
+5. James `can't go` to the concert next Saturday. He has to work.
+6. Caterina `couldn't go` to the meeting last week. She was sick.
+
+#### 28.4 What do you say in these situations? Use can or could.
+
+1. Can/Could you open the door, please?
+2. Can/Could you pass me some the salt?
+3. Can/Could I have these postcards please?
+4. Can/Could you turn off the radio please?
+5. Can/Could I borrow your newspaper please?
+6. Can/Could I use your pen please?
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- May I...? → Unit 27
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
 
 ### 29. must
 
-> Page: 51 or 62
+> Page: 57 or 68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -1870,7 +1920,7 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-
+> Answer Key to Exercises 276 or 286
 
 ### 30. should
 
@@ -1886,6 +1936,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ### 31. I have to...
 
@@ -1901,6 +1953,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ### 32. Would you like...? I'd like...
 
@@ -1916,7 +1970,7 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-
+> Answer Key to Exercises 276 or 286
 
 ### 33. I'd rather...
 
@@ -1932,6 +1986,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ### 34. Do this! Don't do that! Let's do this!
 
@@ -1947,6 +2003,7 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
 
 ## 8. There and it
 
@@ -1964,6 +2021,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ### 36. there was / were  there has / have been  there will be
 
@@ -1979,6 +2038,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ### 37. it
 
@@ -1994,6 +2055,8 @@ Now write about Ben. Use might where necessary.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 276 or 286
+
 
 ## 9. Auxiliary verbs
 
