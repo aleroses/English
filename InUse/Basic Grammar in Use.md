@@ -1894,32 +1894,70 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 ### 29. must
 
-> Page: 57 or 68
+> Page: 69 or 70
 
+#### 29.1 Complete the sentences. Use must be + these words or phrases:
 
+`for you` `good` ~~`hungry`~~ `in the kitchen` `tired` `very happy`
 
+1. It's evening, and you haven't eaten anything all day. You `must be hungry`.
+2. Mariana worked 10 hours today. She `must be tired`.
+3. It's the most popular restaurant in town, so the food `must be good`.
+4. "I got the job." "You did? You `must be very happy`."
+5. The phone's ringing. I know it's not for me. It `must be for you`.
+6. My keys aren't in the living room, so they `must be in the kitchen`.
 
+#### 29.2 Complete the sentences. Use must + these verbs:
 
+`drink` `have` ~~`know`~~ `like` `work`
 
+1. My brother has worked at your company for years. You `must know` him.
+2. Jessica wears something blue every day. She `must like` the color blue.
+3. The Hills have six children and three dogs. They `must have` a big house.
+4. Mrs. Lee bought three gallons of milk at the store. Her children `must drink` a lot of milk.
+5. I know Mrs. Romo as a job, but she's always home during the day. She `must work` at night.
 
+#### 29.3 Write must or must not.
 
+1. (on the phone) This isn't John? I `must` have the wrong number.
+2. Miguel takes the bus everywhere. He `must not` have a car.
+3. Brandon is very thin. He `must not` eat very much.
+4. I never see my neighbor in the morning. He `must` leave for work very early.
+5. I always have to repeat things when I talk to Emma. She `must not` hear very well.
+6. Jim wears the same clothes every day. He `must not` have many clothes.
+7. You have a cold and fever. Poor thing! You `must` feel awful.
 
+#### 29.4 Write must or must not.
 
+1. We `must not` forget to send Sam a birthday card.
+2. We `must` wear safety glasses when we visit the factory.
+3. The city `must` do something about the traffic. It's a big problem.
+4. Members of the club `must not` disobey the rules.
+5. Keep these papers in a safe place. You `must not` lose them.
+6. Bicyclists `must` follow the same traffic rules as drivers.
+7. Everyone `must` wait in line for their turn.
 
+#### 29.5 Complete the sentences. Use must, must not, or had to + these verbs.
 
+~~`be`~~ `be` `feed` `go` `know` `miss` `take` `wear`
 
-
+1. In most of the United States, you `must be` at least 16 to get a driver's license.
+2. In my last job, all employees `had to know` both English and Spanish.
+3. People in the front seat of a car `must wear` a seat belt.
+4. Students who want good grades `must not miss` class often.
+5. This highway was closed. Drivers `had to take` a different road.
+6. A tennis player `must be` very good to play professionally.
+7. You `must not feed` the animals in the zoo.
+8. There was no food in the house. We `had to go` to the supermarket.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- I have to... → Unit 31
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 276 or 286
 
 ### 30. should
