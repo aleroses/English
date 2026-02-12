@@ -1962,18 +1962,29 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 ### 30. should
 
-> Page: 51 or 62
+> Page: 61 or 72
+
+#### 30.1 
+
+#### 30.2
+
+#### 30.3
+
+#### 30.4
+
+#### 30.5
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Must → Unit 29
+- Have to → Unit 31
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 276 or 286
 
 
