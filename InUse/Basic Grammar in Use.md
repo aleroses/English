@@ -1964,17 +1964,54 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 > Page: 61 or 72
 
-#### 30.1 
+#### 30.1 Complete the sentences. Use you should + these verbs:
 
-#### 30.2
+`eat` `go` `read` `visit` ~~`watch`~~ `wear`
 
-#### 30.3
+1. When you play tennis, `you should watch` the ball.
+2. It's late, and you're very tired. `You should go` to bed.
+3. `You should eat` plenty of fruit and vegetables.
+4. If you have time, `you should visit` the Science Museum. It's very interesting.
+5. When you're driving, `you should wear` a seat belt.
+6. It's a very good book. `You should read` it. 
 
-#### 30.4
+#### 30.2 Write about the people in the pictures. Use He / She shouldn't... so....
 
-#### 30.5
+1. She shouldn't watch TV so much.
+2. He shouldn't eat so much.
+3. She shouldn't work so hard.
+4. He shouldn't drive too/so fast.
 
+#### 30.3 You are not sure what to do, so you ask a friend. Use Do you think I should...?
 
+1. You are in a store. You are trying on a jacket.  
+	You ask your friend: Do you think I should buy this jacket?
+2. You can't drive.  
+	You ask your friend: Do you think I should learn to drive?
+3. You don't like your job.  
+	You ask your friend: Do you think I should get another job?
+4. You are going to have a party.  
+	You ask your friend: Do you think I should invite Ryan to the party?
+
+#### 30.4 Write sentences with I think... should... or I don't think... should...
+
+1. We have to get up early tomorrow. I think we should go home now.
+2. That coat is too big for you. I don't think you should buy it.
+3. You don't need your car. I think you should sell it.
+4. Amanda needs a change. I think she should take a trip.
+5. Nicole and Dan are too young. I don't think they should get married.
+6. You're still sick. I don't think you should go to work.
+
+#### 30.5 What does Anne say to Kathy? Find the right answers.
+
+|🔥☠️|Kathy                        |Anne                             |
+|----|-----------------------------|---------------------------------|
+|1   |It's very warm in this room. |Should I open the window?        |
+|2   |Should I wait here?          |No, come with me.                |
+|3   |Should we have a party.      |Yes, who should we invite?       |
+|4   |It's dark in this room.      |Should I turn on the light?      |
+|5   |Do you have any bread?       |No, should I go and get some?    |
+|6   |Should we go out ?           |If you want. Where should we go? |
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -1986,7 +2023,6 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 </details>
 
 > Answer Key to Exercises 276 or 286
-
 
 ### 31. I have to...
 
