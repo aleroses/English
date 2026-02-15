@@ -1,70 +1,120 @@
-/* ---------- VARIABLES LIGHT MODE ---------- */
+/* ============================= */
+/* VARIABLES */
+/* ============================= */
+
 :root {
   --bg-color: #ffffff;
   --text-color: #1e1e1e;
-  --card-bg: #f5f5f5;
-  --accent: #3b82f6;
-  --border: #e0e0e0;
+  --card-bg: #f8f9fb;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --border: #e5e7eb;
+  --shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
 }
 
-/* ---------- DARK MODE AUTOMÁTICO ---------- */
+/* DARK MODE */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #121212;
-    --text-color: #f1f1f1;
-    --card-bg: #1e1e1e;
+    --bg-color: #0f172a;
+    --text-color: #f1f5f9;
+    --card-bg: #1e293b;
     --accent: #60a5fa;
-    --border: #2c2c2c;
+    --accent-hover: #3b82f6;
+    --border: #334155;
+    --shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
   }
 }
 
-/* ---------- BASE CARD ---------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ============================= */
+/* BASE CARD */
+/* ============================= */
+
 .card {
-  background-color: var(--bg-color);
+  background: var(--bg-color);
   color: var(--text-color);
   font-family:
-    -apple-system, BlinkMacSystemFont, sans-serif;
+    -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    sans-serif;
+  padding: 24px;
   text-align: center;
-  padding: 20px;
 }
 
-/* ---------- CONTENEDOR ---------- */
+/* ============================= */
+/* CONTAINER */
+/* ============================= */
+
 .card-container {
   background: var(--card-bg);
-  padding: 20px;
-  border-radius: 12px;
+  padding: 28px;
+  border-radius: 18px;
   border: 1px solid var(--border);
-  max-width: 500px;
+  max-width: 520px;
   margin: auto;
+  box-shadow: var(--shadow);
+  transition:
+    background 0.3s ease,
+    color 0.3s ease;
 }
 
-/* ---------- TITULO ---------- */
+/* ============================= */
+/* HEADER */
+/* ============================= */
+
 .audio-title {
-  margin-bottom: 15px;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 600;
+  margin-bottom: 22px;
+  letter-spacing: 0.5px;
 }
 
-/* ---------- AUDIO ---------- */
+/* ============================= */
+/* AUDIO */
+/* ============================= */
+
 .audio-wrapper audio {
   width: 100%;
-  margin-bottom: 20px;
+  border-radius: 12px;
+  margin-bottom: 18px;
 }
 
-/* ---------- ACCORDION ---------- */
+/* .audio-stop {
+  display: none;
+} */
+
+/* ============================= */
+/* ACCORDION */
+/* ============================= */
+
+.transcription-section {
+  margin-top: 10px;
+}
+
 .accordion {
   border-top: 1px solid var(--border);
-  padding-top: 10px;
+  padding-top: 18px;
 }
 
-.accordion summary {
+.accordion-title {
   cursor: pointer;
   font-weight: 600;
-  padding: 10px;
-  border-radius: 8px;
+  padding: 12px 16px;
+  border-radius: 12px;
   background: var(--accent);
   color: white;
-  list-style: none;
+  transition:
+    background 0.25s ease,
+    transform 0.15s ease;
+}
+
+.accordion-title:hover {
+  background: var(--accent-hover);
+  transform: scale(1.02);
 }
 
 .accordion summary::-webkit-details-marker {
@@ -72,14 +122,51 @@
 }
 
 .accordion-content {
-  margin-top: 10px;
-  padding: 10px;
-  background: rgba(0, 0, 0, 0.05);
-  border-radius: 8px;
+  margin-top: 14px;
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.04);
+  line-height: 1.6;
+  text-align: left;
+  animation: fadeIn 0.25s ease;
 }
 
 @media (prefers-color-scheme: dark) {
   .accordion-content {
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.04);
+  }
+}
+
+/* ============================= */
+/* LINK */
+/* ============================= */
+
+.source-link {
+  display: inline-block;
+  margin-top: 22px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: var(--accent);
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+}
+
+.source-link:hover {
+  opacity: 1;
+}
+
+/* ============================= */
+/* ANIMATION */
+/* ============================= */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
