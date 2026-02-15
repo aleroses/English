@@ -6,45 +6,27 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0"
     />
-    <title>Document</title>
+    <title>Back card</title>
+    <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    {{Front}}
+    <div class="card-container">
+      <h2 class="audio-title">{{Title}}</h2>
 
-    <hr />
+      <div class="audio-wrapper">{{Sound}}</div>
+      <div class="stop">[sound:_1sec.mp3]</div>
 
-    <div class="card">
-      <div class="content">{{Back}}</div>
+      <details class="accordion">
+        <summary class="accordion-title">
+          Transcription
+        </summary>
 
-      <div class="audio-controls">
-        <button onclick="playAudio()">▶️</button>
-        <button onclick="pauseAudio()">⏸</button>
-        <button onclick="replayAudio()">🔁</button>
-      </div>
+        <div class="accordion-content">
+          <p>{{Sound_transcription}}</p>
+        </div>
+      </details>
     </div>
-
-    <script>
-      function getAudio() {
-        return document.querySelector('audio');
-      }
-
-      function playAudio() {
-        const audio = getAudio();
-        if (audio) audio.play();
-      }
-
-      function pauseAudio() {
-        const audio = getAudio();
-        if (audio) audio.pause();
-      }
-
-      function replayAudio() {
-        const audio = getAudio();
-        if (audio) {
-          audio.currentTime = 0;
-          audio.play();
-        }
-      }
-    </script>
   </body>
 </html>
+
+

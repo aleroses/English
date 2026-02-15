@@ -586,7 +586,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Mario**: OK, sure. What can I help you with?
 
-**Susanne**: I need to visit the customer in Germany. It's important.
+**Susanne**: I `need to visit` the customer in Germany. It's important.
 
 **Mario**: What can I do to help?
 
@@ -598,7 +598,7 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 **Mario**: Yes, I will.
 
-**Susanne**: But first you need to book a meeting room. After that, please send everyone an email about it.
+**Susanne**: But first you need to book a meeting room. After that, please send everyone `an email` about it.
 
 **Mario**: Yes, of course.
 
@@ -614,13 +614,13 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[LE_listening_A1_A_voicemail_message.mp3]]
 
-**John**: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.
+**John**: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message `and I'll call` you back.
 
-**Marina**: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.
+**Marina**: Hi, John, this is Marina Silva calling from Old Time Toys. Your `colleague` Alex gave me your phone number. She said you can help me.
 
-I need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
+I need some information on your new products. Could you please call me when you are `back in the` office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
 
-Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
+Also, can you please `email me your new` brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
 
 Thanks a lot. I look forward to hearing from you.
 

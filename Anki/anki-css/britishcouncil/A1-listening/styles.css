@@ -1,0 +1,85 @@
+/* ---------- VARIABLES LIGHT MODE ---------- */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1e1e1e;
+  --card-bg: #f5f5f5;
+  --accent: #3b82f6;
+  --border: #e0e0e0;
+}
+
+/* ---------- DARK MODE AUTOMÁTICO ---------- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121212;
+    --text-color: #f1f1f1;
+    --card-bg: #1e1e1e;
+    --accent: #60a5fa;
+    --border: #2c2c2c;
+  }
+}
+
+/* ---------- BASE CARD ---------- */
+.card {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family:
+    -apple-system, BlinkMacSystemFont, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+/* ---------- CONTENEDOR ---------- */
+.card-container {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  max-width: 500px;
+  margin: auto;
+}
+
+/* ---------- TITULO ---------- */
+.audio-title {
+  margin-bottom: 15px;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+/* ---------- AUDIO ---------- */
+.audio-wrapper audio {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* ---------- ACCORDION ---------- */
+.accordion {
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+
+.accordion summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: white;
+  list-style: none;
+}
+
+.accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-content {
+  margin-top: 10px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .accordion-content {
+    background: rgba(255, 255, 255, 0.05);
+  }
+}
