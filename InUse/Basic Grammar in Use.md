@@ -2077,6 +2077,8 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 3. Why did you get up early?  
 	You `didn't have to` get up early.
 
+Nada ha sido revisado
+
 #### 31.5
 
 <details>
