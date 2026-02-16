@@ -15,13 +15,14 @@
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #0f172a;
+    --bg-color: #030712;
     --text-color: #f1f5f9;
-    --card-bg: #1e293b;
+    --card-bg: #101828;
     --accent: #60a5fa;
     --accent-hover: #3b82f6;
     --border: #334155;
     --shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    --button-color: #ffb900;
   }
 }
 
@@ -41,7 +42,7 @@
   font-family:
     -apple-system, BlinkMacSystemFont, 'Segoe UI',
     sans-serif;
-  padding: 24px;
+  padding: 1rem;
   text-align: center;
 }
 
@@ -51,7 +52,7 @@
 
 .card-container {
   background: var(--card-bg);
-  padding: 28px;
+  padding: 1rem;
   border-radius: 18px;
   border: 1px solid var(--border);
   max-width: 520px;
@@ -77,15 +78,57 @@
 /* AUDIO */
 /* ============================= */
 
-.audio-wrapper audio {
+/* .audio-wrapper audio {
   width: 100%;
   border-radius: 12px;
   margin-bottom: 18px;
-}
+} */
 
 /* .audio-stop {
   display: none;
 } */
+
+/* ============================= */
+/* Buttons */
+/* ============================= */
+
+.audio-section {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.back-sounds {
+  display: flex;
+  justify-content: center;
+
+  border-top: 4px solid var(--bg-color);
+}
+
+.replay-button svg circle {
+  fill: none;
+  stroke: none;
+}
+
+.replay-button svg path {
+  fill: var(--button-color);
+  stroke: var(--bg-color);
+}
+
+.back-sound svg {
+  width: 28px;
+  height: 28px;
+}
+
+/*.stop svg circle {
+  fill: var(--second-bg-color);
+  stroke:  var(--second-bg-color);
+}*/
+
+.stop svg path {
+  fill: var(--button-color);
+  stroke: var(--bg-color);
+}
 
 /* ============================= */
 /* ACCORDION */
@@ -103,9 +146,9 @@
 .accordion-title {
   cursor: pointer;
   font-weight: 600;
-  padding: 12px 16px;
-  border-radius: 12px;
-  background: var(--accent);
+  padding: 0.8rem 1rem;
+  border-radius: 0.8rem;
+  background: var(--bg-color);
   color: white;
   transition:
     background 0.25s ease,
@@ -113,11 +156,21 @@
 }
 
 .accordion-title:hover {
-  background: var(--accent-hover);
+  background: var(--button-color);
+  color: var(--bg-color);
+  font-weight: 800;
   transform: scale(1.02);
 }
 
+.accordion summary {
+  list-style: none;
+}
+
 .accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion summary::marker {
   display: none;
 }
 
