@@ -2026,18 +2026,67 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 ### 31. I have to...
 
-> Page: 51 or 62
+> Page: 63 or 74
+
+#### 31.1 Complete the sentences. Use have to or has to + these verbs:
+
+`hit` `read` `speak` `take` `travel` ~~`wear`~~
+
+1. My eyes are not very good. I `have to wear` glasses.
+2. At the end of the course all the students `have to take` a test.
+3. Sarah is studying literature. She `has to read` a lot of books.
+4. Alberto doesn't understand much English. You `have to speak` very slowly to him.
+5. Kate is not at home much. She `has to travel` a lot for her job.
+6. In tennis you `have to hit` the ball over the net.
+
+#### 31.2 Complete the sentences. Use have to or had to + these verbs.
+
+`answer` `buy` `change` `go` `take` `wake` ~~`walk`~~
+
+1. We `had to walk` home last night. There were no buses.
+2. It's late. I `have to go` now. I'll see you tomorrow.
+3. I went to the store after work yesterday. I `had to buy` some food.
+4. This train doesn't go all the way downtown. You `have to wake` at First Avenue.
+5. We took a test yesterday. We `had to answer` six questions out of ten.
+6. I'm going to bed. I `have to wake` up early tomorrow.
+7. Amy and her cousin can't go out with us tonight. They `have to take` care of Amy's little brother.
+
+#### 31.3 Complete the questions. Some are present and some are past.
+
+1. I have to get up early tomorrow.  
+	What time `do you have to get up`?
+2. John had to wait a long time.  
+	How long `did you have to wait`?
+3. Liz has to go somewhere.  
+	Where `does she have to go`?
+4. We had to pay a lot of money.  
+	How much money did we have to pay?
+5. I have to do some work.  
+	What exactly do you have to do?
+6. They had to leave early.  
+	Why did they have to leave early?
+7. Jim has to go to Moscow.  
+	When does Jim have to go?
+
+#### 31.4 Write sentences with don't / doesn't / didn't have to...
+
+1. Why are you going out?  
+	You don't have to go out.
+2. Why is Sue waiting?  
+	She `doesn't have to` wait.
+3. Why did you get up early?  
+	You `didn't have to` get up early.
+
+#### 31.5
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Must → Unit 29
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 276 or 286
 
 
