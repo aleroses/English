@@ -345,39 +345,39 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_Online_safety_conversation.mp3]]
 
-	**Charlie:** Mum! That's my computer!
-	
-	**Mum:** I know, I know. Don't worry, I'm changing your privacy settings.
-	
-	**Charlie:** Privacy settings?
-	
-	**Mum:** Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
-	
-	**Charlie:** Oh. What are the privacy settings for?
-	
-	**Mum:** To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
-	
-	**Charlie:** Everyone?
-	
-	**Mum:** Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
-	
-	**Charlie:** No! But I can delete things, can't I?
-	
-	**Mum:** Well, you can, but it's very difficult. Some things stay there forever.
-	
-	**Charlie:** That's really scary, Mum.
-	
-	**Mum:** Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
-	
-	**Charlie:** I won't!
-	
-	**Mum:** Crazy Charlie one two one, isn't it?
-	
-	**Charlie:** Mum! Yes, it is. How …
-	
-	**Mum:** It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
-	
-	**Charlie:** No, it isn't.
+Charlie: Mum! That's my computer!
+
+Mum: I know, I know. Don't worry, I'm changing your privacy settings.
+
+Charlie: Privacy settings?
+
+Mum: Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
+
+Charlie: Oh. What are the privacy settings for?
+
+Mum: To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
+
+Charlie: Everyone?
+
+Mum: Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
+
+Charlie: No! But I can delete things, can't I?
+
+Mum: Well, you can, but it's very difficult. Some things stay there forever.
+
+Charlie: That's really scary, Mum.
+
+Mum: Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
+
+Charlie: I won't!
+
+Mum: Crazy Charlie one two one, isn't it?
+
+Charlie: Mum! Yes, it is. How …
+
+Mum: It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
+
+Charlie: No, it isn't.
 
 <details>
   <summary>More 👀👇</summary>
@@ -438,31 +438,31 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_ordering_food.mp3]]
 
-	**Café worker:** Next, please! What would you like?
-	
-	**Andi:** Can I have a burger, please?
-	
-	**Café worker:** A cheeseburger or double cheeseburger?
-	
-	**Andi:** Double cheeseburger, please.
-	
-	**Café worker:** Anything else?
-	
-	**Andi:** Yeah, I'd like some banana cake.
-	
-	**Café worker:** Would you like a drink?
-	
-	**Andi:** Yes, can I have an apple juice, please?
-	
-	**Café worker:** OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
-	
-	**Andi:** Table 3. How much is that?
-	
-	**Café worker:** That's £8.37, please.
-	
-	**Andi:** Here you are.
-	
-	**Café worker:** Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
+Café worker: Next, please! What would you like?
+
+Andi: Can I have a burger, please?
+
+Café worker: A cheeseburger or double cheeseburger?
+
+Andi: Double cheeseburger, please.
+
+Café worker: Anything else?
+
+Andi: Yeah, I'd like some banana cake.
+
+Café worker: Would you like a drink?
+
+Andi: Yes, can I have an apple juice, please?
+
+Café worker: OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
+
+Andi: Table 3. How much is that?
+
+Café worker: That's £8.37, please.
+
+Andi: Here you are.
+
+Café worker: Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
 
 ### 12. Spelling colours
 
@@ -470,25 +470,25 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_spelling_colours.mp3]]
 
-	**Number 1:** R-E-D
-	
-	**Number 2:** Y-E-L-L-O-W
-	
-	**Number 3:** G-R-E-E-N
-	
-	**Number 4:** B-L-U-E
-	
-	**Number 5:** B-L-A-C-K
-	
-	**Number 6:** B-R-O-W-N
-	
-	**Number 7:** W-H-I-T-E
-	
-	**Number 8:** P-I-N-K
-	
-	**Number 9:** P-U-R-P-L-E
-	
-	**Number 10:** O-R-A-N-G-E
+Number 1: R-E-D
+
+Number 2: Y-E-L-L-O-W
+
+Number 3: G-R-E-E-N
+
+Number 4: B-L-U-E
+
+Number 5: B-L-A-C-K
+
+Number 6: B-R-O-W-N
+
+Number 7: W-H-I-T-E
+
+Number 8: P-I-N-K
+
+Number 9: P-U-R-P-L-E
+
+Number 10: O-R-A-N-G-E
 
 ### 13. Spelling names
 
@@ -496,25 +496,25 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_spelling_names.mp3]]
 
-	**A:** What’s your name?
-	
-	**B:** Anika.
-	
-	**A:** Can you spell that?
-	
-	**B:** A-N-I-K-A.
-	
-	**A:** What’s your surname?
-	
-	**B:** Reeves.
-	
-	**A:** Can you spell that?
-	
-	**B:** R-E-E-V-E-S.
-	
-	**A:** R-double E-V-E-S.
-	
-	**B:** That’s right.
+A: What’s your name?
+
+B: Anika.
+
+A: Can you spell that?
+
+B: A-N-I-K-A.
+
+A: What’s your surname?
+
+B: Reeves.
+
+A: Can you spell that?
+
+B: R-E-E-V-E-S.
+
+A: R-double E-V-E-S.
+
+B: That’s right.
 
 ### 14. Study tips
 
@@ -522,31 +522,31 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_Study_tips.mp3]]
 
-	**Ben:** You always get good marks at school. You're lucky! I study but I don't always get good marks.
-	
-	**Katy:** I'm not lucky! I know how to study. I always do three things. Do you want to know them?
-	
-	**Ben:** Yeah, please!
-	
-	**Katy:** OK, number one. Always study in a quiet place.
-	
-	**Ben:** I usually study in my bedroom. It's very quiet.
-	
-	**Katy:** Number two. Have a clear desk!
-	
-	**Ben:** Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.
-	
-	**Katy:** Well, that isn't very good!
-	
-	**Ben:** What's tip number three?
-	
-	**Katy:** Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.
-	
-	**Ben:** I never have a break. I sometimes study for two or three hours.
-	
-	**Katy:** That isn't a good idea! It's important to get up and move your body.
-	
-	**Ben:** OK. Thanks. Next time I think I can get good marks!
+Ben: You always get good marks at school. You're lucky! I study but I don't always get good marks.
+
+Katy: I'm not lucky! I know how to study. I always do three things. Do you want to know them?
+
+Ben: Yeah, please!
+
+Katy: OK, number one. Always study in a quiet place.
+
+Ben: I usually study in my bedroom. It's very quiet.
+
+Katy: Number two. Have a clear desk!
+
+Ben: Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.
+
+Katy: Well, that isn't very good!
+
+Ben: What's tip number three?
+
+Katy: Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.
+
+Ben: I never have a break. I sometimes study for two or three hours.
+
+Katy: That isn't a good idea! It's important to get up and move your body.
+
+Ben: OK. Thanks. Next time I think I can get good marks!
 
 ### 15. Understanding numbers
 
@@ -554,25 +554,25 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_understanding_numbers.mp3]]
 
-	0208 542 8976
-	
-	14
-	
-	1985
-	
-	25th June
-	
-	1 metre 27
-	
-	68
-	
-	103
-	
-	671
-	
-	5,325
-	
-	8,000,000
+0208 542 8976
+
+14
+
+1985
+
+25th June
+
+1 metre 27
+
+68
+
+103
+
+671
+
+5,325
+
+8,000,000
 
 ## Second part
 
@@ -582,31 +582,31 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[LE_listening_A1_A_request_from_your_boss.mp3]]
 
-**Susanne**: Hi, Mario. Can you help me prepare some things for the next month?
+Susanne: Hi, Mario. Can you help me prepare some things for the next month?
 
-**Mario**: OK, sure. What can I help you with?
+Mario: OK, sure. What can I help you with?
 
-**Susanne**: I `need to visit` the customer in Germany. It's important.
+Susanne: I need to visit the customer in Germany. It's important.
 
-**Mario**: What can I do to help?
+Mario: What can I do to help?
 
-**Susanne**: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.
+Susanne: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.
 
-**Mario**: Right. I'll do it today.
+Mario: Right. I'll do it today.
 
-**Susanne**: Thanks. This next task is also important. Can you invite everyone to the next team meeting?
+Susanne: Thanks. This next task is also important. Can you invite everyone to the next team meeting?
 
-**Mario**: Yes, I will.
+Mario: Yes, I will.
 
-**Susanne**: But first you need to book a meeting room. After that, please send everyone `an email` about it.
+Susanne: But first you need to book a meeting room. After that, please send everyone an email about it.
 
-**Mario**: Yes, of course.
+Mario: Yes, of course.
 
-**Susanne**: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.
+Susanne: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.
 
-**Mario**: Sure, no problem. I can do it this week.
+Mario: Sure, no problem. I can do it this week.
 
-**Susanne**: There's no hurry. Take your time.
+Susanne: There's no hurry. Take your time.
 
 ### 2. A voicemail message
 
@@ -614,13 +614,13 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[LE_listening_A1_A_voicemail_message.mp3]]
 
-**John**: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message `and I'll call` you back.
+John: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.
 
-**Marina**: Hi, John, this is Marina Silva calling from Old Time Toys. Your `colleague` Alex gave me your phone number. She said you can help me.
+Marina: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.
 
-I need some information on your new products. Could you please call me when you are `back in the` office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
+I need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
 
-Also, can you please `email me your new` brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
+Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
 
 Thanks a lot. I look forward to hearing from you.
 
@@ -630,62 +630,104 @@ Thanks a lot. I look forward to hearing from you.
 
 ![[LE_listening_A1_Booking_a_table.mp3]]
 
-**Staff**: Hello, Gino's.
+Staff: Hello, Gino's.
 
-**Jamie**: Hi. Can I book a table for tomorrow night, please?
+Jamie: Hi. Can I book a table for tomorrow night, please?
 
-**Staff**: How many people is it for?
+Staff: How many people is it for?
 
-**Jamie**: Four.
+Jamie: Four.
 
-**Staff**: And what time would you like?
+Staff: And what time would you like?
 
-**Jamie**: About eight, eight thirty maybe?
+Jamie: About eight, eight thirty maybe?
 
-**Staff**: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.
+Staff: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.
 
-**Jamie**: Oh. OK, then. Half seven, please.
+Jamie: Oh. OK, then. Half seven, please.
 
-**Staff**: What name is it?
+Staff: What name is it?
 
-**Jamie**: Jamie.
+Jamie: Jamie.
 
-**Staff**: J-A- ...?
+Staff: J-A- ...?
 
-**Jamie**: M-I-E
+Jamie: M-I-E
 
-**Staff**: OK, so that's a table for four at half past seven tomorrow evening.
+Staff: OK, so that's a table for four at half past seven tomorrow evening.
 
-**Jamie**: Great. Thanks! Bye.
+Jamie: Great. Thanks! Bye.
 
-**Staff**: Bye.
+Staff: Bye.
 
----
+Staff: Hello, Gino's.
 
-**Staff**: Hello, Gino's.
+Jamie: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?
 
-**Jamie**: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?
+Staff: Ah, what name was it?
 
-**Staff**: Ah, what name was it?
+Jamie: It's Jamie.
 
-**Jamie**: It's Jamie.
+Staff: Table for four at half past seven. So you want to change it to 6 o'clock?
 
-**Staff**: Table for four at half past seven. So you want to change it to 6 o'clock?
+Jamie: No, sorry. Can I make it for six people?
 
-**Jamie**: No, sorry. Can I make it for six people?
+Staff: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?
 
-**Staff**: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?
+Jamie: No problem. Is it possible to change the time as well? Make it a little bit later?
 
-**Jamie**: No problem. Is it possible to change the time as well? Make it a little bit later?
+Staff: Ah ... yeah, we can. Is eight OK for you?
 
-**Staff**: Ah ... yeah, we can. Is eight OK for you?
+Jamie: Perfect, thanks!
 
-**Jamie**: Perfect, thanks!
+Staff: Lovely. See you tomorrow, then.
 
-**Staff**: Lovely. See you tomorrow, then.
+Jamie: Thanks! Bye!
 
-**Jamie**: Thanks! Bye!
+Staff: Thanks. Ciao! 
 
-**Staff:** Thanks. Ciao!
+### 4. Business cards
 
-### 4. 
+[Learnenglish](https://learnenglish.britishcouncil.org/skills/listening/a1-listening/business-cards)
+
+![[LE_listening_A1_Business_cards.mp3]]
+
+A
+
+A: Hello, Doctor Miller. It's nice to meet you.  
+
+B: Please call me Peter.
+
+A: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.
+
+B: Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.
+
+B
+
+Good morning, everyone. I'm happy to be here today to tell you about our new project. My name is Alessandro Rossi. I'm the project leader on the Starlight programming project.
+
+C
+
+Pleased to meet you. Here's my card. My real name is Megumi Tanaka, but people who are not from my country think it's difficult to say my name, so I use another name, Meg, when I'm working internationally.
+
+D
+
+Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development.
+
+### 5.
+
+### 6.
+
+### 7. 
+
+### 8.
+
+### 9.
+
+### 10.
+
+### 11. 
+
+### 12.
+
+### 13.
