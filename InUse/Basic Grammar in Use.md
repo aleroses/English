@@ -2092,6 +2092,14 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 5. I had to travel for work last week.
 6. I had to walk my dog every day when I was younger.
 
+Example answers:
+
+2. I have to go to work every day.
+3. I had to go to the dentist yesterday.
+4. I have to go shopping tomorrow.
+5. I had to take the bus to work last week.
+6. I had to go to bed at 9:00 when I was younger.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -2101,7 +2109,6 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 </details>
 
 > Answer Key to Exercises 277 or 287
-
 
 ### 32. Would you like...? I'd like...
 
