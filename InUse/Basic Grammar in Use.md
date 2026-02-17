@@ -2046,7 +2046,7 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 1. We `had to walk` home last night. There were no buses.
 2. It's late. I `have to go` now. I'll see you tomorrow.
 3. I went to the store after work yesterday. I `had to buy` some food.
-4. This train doesn't go all the way downtown. You `have to wake` at First Avenue.
+4. This train doesn't go all the way downtown. You `have to change` at First Avenue.
 5. We took a test yesterday. We `had to answer` six questions out of ten.
 6. I'm going to bed. I `have to wake` up early tomorrow.
 7. Amy and her cousin can't go out with us tonight. They `have to take` care of Amy's little brother.
@@ -2056,17 +2056,17 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 1. I have to get up early tomorrow.  
 	What time `do you have to get up`?
 2. John had to wait a long time.  
-	How long `did you have to wait`?
+	How long `did he have to wait`?
 3. Liz has to go somewhere.  
 	Where `does she have to go`?
 4. We had to pay a lot of money.  
-	How much money did we have to pay?
+	How much money `did you have to pay`?
 5. I have to do some work.  
-	What exactly do you have to do?
+	What exactly `do you have to do`?
 6. They had to leave early.  
-	Why did they have to leave early?
+	Why `did they have to leave early`?
 7. Jim has to go to Moscow.  
-	When does Jim have to go?
+	When `does he have to go` (to Moscow)?
 
 #### 31.4 Write sentences with don't / doesn't / didn't have to...
 
@@ -2076,10 +2076,21 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 	She `doesn't have to` wait.
 3. Why did you get up early?  
 	You `didn't have to` get up early.
+4. Why is Alex working so hard?  
+	He `doesn't have to` work so hard.
+5. Why do you want to leave now?  
+	You `don't have to` leave now.
+6. Why did they tell me something I already know?  
+	They `didn't have to` tell me something I already know.
 
-Nada ha sido revisado
+#### 31.5 Write some things that you (or your friends or family) have to do or had to do.
 
-#### 31.5
+1. I have to drive 50 miles to work every day.
+2. I have to exercise for 30 minutes every day.
+3. I had to clean the house yesterday.
+4. I have to cook spaghetti tomorrow.
+5. I had to travel for work last week.
+6. I had to walk my dog every day when I was younger.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2089,7 +2100,7 @@ Nada ha sido revisado
 
 </details>
 
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 277 or 287
 
 
 ### 32. Would you like...? I'd like...
