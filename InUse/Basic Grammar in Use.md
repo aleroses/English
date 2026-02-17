@@ -2112,7 +2112,18 @@ Example answers:
 
 ### 32. Would you like...? I'd like...
 
-> Page: 51 or 62
+> Page: 65 or 76
+
+#### 32.1
+
+#### 32.2
+
+#### 32.3
+
+#### 32.4
+
+#### 32.5
+
 
 <details>
   <summary>More 🔥☠️</summary>

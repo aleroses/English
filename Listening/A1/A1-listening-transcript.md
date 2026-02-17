@@ -125,27 +125,27 @@ Girl: Great, great! Hmm ... thanks for coming. I'll call you next week.
 
 ![[A1_describing_people.mp3]]
 
-**Aurelia**: Who’s that boy over there, Hannah?
+Aurelia: Who’s that boy over there, Hannah?
 
-**Hannah:** That? Er, that’s my brother, Jem.
+Hannah: That? Er, that’s my brother, Jem.
 
-**Aurelia:** Your brother?
+Aurelia: Your brother?
 
-**Hannah:** Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.
+Hannah: Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.
 
-**Aurelia:** Oh right. So, you’ve got a brother?
+Aurelia: Oh right. So, you’ve got a brother?
 
-**Hannah:** No, I’ve got two brothers. Jem and Alex.
+Hannah: No, I’ve got two brothers. Jem and Alex.
 
-**Aurelia:** Really? ... and ... how old is Alex?
+Aurelia: Really? ... and ... `how old is` Alex?
 
-**Hannah:** Alex and Jem are twins, they’re both 15.
+Hannah: Alex and Jem are twins, `they’re both` 15.
 
-**Aurelia:** 15, mmm ... and does Alex look like Jem?
+Aurelia: 15, mmm ... and does Alex look like Jem?
 
-**Hannah:** They’re exactly the same! They’re both tall and thin. They’ve both got short brown hair, green eyes and big ears!
+Hannah: They’re exactly the same! `They’re both` tall and thin. `They’ve both got` short brown hair, green eyes and big ears!
 
-**Aurelia:** They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
+Aurelia: They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
 
 ### 5. First day at school
 
@@ -153,25 +153,25 @@ Girl: Great, great! Hmm ... thanks for coming. I'll call you next week.
 
 ![[A1_first_day_at_school.mp3]]
 
-**Tania:** Hi. I'm Tania. What's your name?
+Tania: Hi. I'm Tania. What's your name?
 
-**Jing:** Hello. My name's Jing.
+Jing: Hello. My name's Jing.
 
-**Tania:** Nice to meet you, Jing. What class are you in?
+Tania: `Nice to` meet you, Jing. What class are you in?
 
-**Jing:** I'm in class 1B. And you?
+Jing: I'm in class 1B. And you?
 
-**Tania:** Me too. I'm in Class 1B too.
+Tania: Me too. I'm in Class 1B too.
 
-**Jing:** Who's our teacher?
+Jing: Who's our teacher?
 
-**Tania:** Mr Smith.
+Tania: Mr Smith.
 
-**Jing:** And where's our classroom?
+Jing: And where's our classroom?
 
-**Tania:** This way. Come with me. (Por aquí. Ven conmigo.)
+Tania: This way. Come with me.
 
-**Jing:** OK. Great.
+Jing: OK. Great.
 
 ### 6. Getting an ID card
 
