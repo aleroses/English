@@ -49,37 +49,37 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 ![[A1_at_the_library.mp3]]
 
-**Lucy:** Hello.
+Lucy: Hello.
 
-**School librarian:** Hello, what's your name?
+School librarian: Hello, what's your name?
 
-**Lucy:** My name's Lucy.
+Lucy: My name's Lucy.
 
-**School librarian:** And what's your surname, Lucy?
+School librarian: And what's your surname, Lucy?
 
-**Lucy:** Moore.
+Lucy: Moore.
 
-**School librarian:** Can you spell that?
+School librarian: Can you spell that?
 
-**Lucy:** M-O-O-R-E.
+Lucy: M-O-O-R-E.
 
-**School librarian:** Thank you. What class are you in?
+School librarian: Thank you. What class are you in?
 
-**Lucy:** Class 1B.
+Lucy: Class 1B.
 
-**School librarian:** Class 1B. And how old are you, Lucy?
+School librarian: Class 1B. And how old are you, Lucy?
 
-**Lucy:** I'm 13.
+Lucy: I'm 13.
 
-**School librarian:** Have you got a photo?
+School librarian: Have you got a photo?
 
-**Lucy:** Yes, here you are.
+Lucy: Yes, here you are.
 
-**School librarian:** Thank you ... OK, thank you, Lucy. Here's your school library card.
+School librarian: Thank you ... OK, thank you, Lucy. Here's your school library card.
 
-**Lucy:** Thanks. Bye.
+Lucy: Thanks. Bye.
 
-**School librarian:** Goodbye.
+School librarian: Goodbye.
 
 ### 3. Band auditions
 
@@ -87,37 +87,37 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 ![[A1_band_audition.mp3]]
 
-**Boy:** Ah, band auditions. Great! I'd love to be in a band! ... Hi. Is this the band audition?
+Boy: Ah, band auditions. Great! I'd love to be in a band! ... Hi. `Is this` the band audition?
 
-**Girl:** Hello. Yes. So, you'd like to be in our band?
+Girl: Hello. Yes. So, you'd like to be in our band?
 
-**Boy:** Yes, I love music.
+Boy: Yes, I love music.
 
-**Girl:** Well, we need a singer, a guitarist and a drummer.
+Girl: Well, we need a singer, a guitarist and a drummer.
 
-**Boy:** Oh, I love singing!
+Boy: Oh, I love singing!
 
-**Girl:** OK, so you can sing. Let's sing the beginning of this song.
+Girl: OK, so you can sing. Let's sing the `beginning of this` song.
 
-**Boy:** (_singing_) Tonight I'm going to have myself a real good time. I feel alive ...
+Boy: (singing) Tonight I'm `going to have` `myself a real` good time. I `feel alive` ...
 
-**Girl:** Right, OK, mmm, maybe not. Can you play an instrument?
+Girl: Right, OK, mmm, `maybe not`. Can you `play an instrument`?
 
-**Boy:** Er, well, I can play the guitar a little.
+Boy: Er, well, I can play the guitar a little.
 
-**Girl:** OK, let's hear you. What can you play? ... That's it? (¿Eso es todo?)
+Girl: OK, let's hear you. What can you play? ... That's it?
 
-**Boy:** Er, yeah. I can't remember any more.
+Boy: Er, yeah. I can't remember any more.
 
-**Girl:** Erm, can you play the drums?
+Girl: Erm, can you play the drums?
 
-**Boy:** Yeah, sure.
+Boy: Yeah, sure.
 
-**Girl:** OK! OK! STOP! That's enough. Erm, what about the maracas? Can you play the maracas?
+Girl: OK! OK! STOP! `That's enough`. Erm, what about the maracas? Can you play the maracas?
 
-**Boy:** Yes, I can. (_singing_) Young and strong and ... er ...
+Boy: Yes, I can. (singing) Young and strong and ... er ...
 
-**Girl:** Great, great! Hmm ... thanks for coming. I'll call you next week.
+Girl: Great, great! Hmm ... thanks for coming. I'll call you next week.
 
 ### 4. Describing people
 
