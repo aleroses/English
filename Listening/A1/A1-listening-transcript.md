@@ -275,23 +275,23 @@ Interviewer: Thanks, Dan. `That’s a` busy day!
 
 ![[A1_introducing_a_friend.mp3]]
 
-**Sumi:** Hi, Pablo. How are you?
+Sumi: Hi, Pablo. How are you?
 
-**Pablo:** Hi, Sumi. I'm fine, thanks.
+Pablo: Hi, Sumi. I'm fine, thanks.
 
-**Sumi:** Pablo, this is Greta.
+Sumi: Pablo, this is Greta.
 
-**Pablo:** Hi, Greta, I'm Pablo.
+Pablo: Hi, Greta, I'm Pablo.
 
-**Greta:** Hi. How are you?.
+Greta: Hi. How are you?.
 
-**Pablo:** I'm fine, thanks. Where are you from, Greta?
+Pablo: I'm fine, thanks. Where are you from, Greta?
 
-**Greta:** I'm from Germany. Where are you from?
+Greta: I'm from Germany. Where are you from?
 
-**Pablo:** I'm from Argentina. Nice to meet you.
+Pablo: I'm from Argentina. Nice to meet you.
 
-**Greta:** Nice to meet you too.
+Greta: Nice to meet you too.
 
 ### 9. Inviting someone to the cinema
 
