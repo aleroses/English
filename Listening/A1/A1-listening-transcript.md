@@ -299,45 +299,45 @@ Greta: Nice to meet you too.
 
 ![[A1_inviting_someone_to_the_cinema.mp3]]
 
-**Jack:** Hi, Ismael. How are you?
+Jack: Hi, Ismael. How are you?
 
-**Ismael:** Hi, Jack. I'm OK, but I've got loads of homework. (_loads of_ → **un montón de / muchísima / demasiada** (informal).)
+Ismael: Hi, Jack. I'm OK but I've `got loads of` homework.
 
-**Jack:** Me too, but would you like to come with us to the cinema tonight?
+Jack: Me too, but would you like to come with us to the cinema tonight?
 
-**Ismael:** Who's 'us'? (_¿A quién te refieres con “nosotros”?_)
+Ismael: `Who's 'us'?`
 
-**Jack:** Me, Jamie, Nicola and Selina.
+Jack: Me, Jamie, Nicola and Selina.
 
-**Ismael:** OK, and what's the film?
+Ismael: OK, and what's the film?
 
-**Jack:** We don't know. We can't decide. There's that new horror film, 'Light and Dark'.
+Jack: We don't know. We can't decide. `There's that` new horror film, `'Light and Dark'`.
 
-**Ismael:** No, no, no! I don't like horror films.
+Ismael: No, no, no! I don't like horror films.
 
-**Jack:** OK, well, there's a comedy about a school.
+Jack: OK, well, there's a comedy `about a` school.
 
-**Ismael:** Oh, no more school, please! What about a romcom?
+Ismael: Oh, no more school, please! What `about a` romcom?
 
-**Jack:** Romcom?
+Jack: Romcom?
 
-**Ismael:** You know, romantic comedy, boy meets girl ...
+Ismael: You know, romantic comedy, boy meets girl ...
 
-**Jack:** What? Really? No, I hate romantic films. I like action.
+Jack: What? Really? No, I hate romantic films. I like action.
 
-**Ismael:** Well, there's a new science fiction film, 'Alien attacks'.
+Ismael: Well, there's a new science fiction film, 'Alien attacks'.
 
-**Jack:** OK, I like science fiction. Let's see that.
+Jack: OK, I like science fiction. Let's see that.
 
-**Ismael:** OK, I'll ask the others if they like sci-fi.
+Ismael: OK, I'll ask `the others` if they like sci-fi.
 
-**Jack:** What time is the film?
+Jack: What time is the film?
 
-**Ismael:** At 8 o'clock. Let’s meet at 7:30 outside the cinema.
+Ismael: At 8 o'clock. `Let’s meet` at 7:30 outside the cinema.
 
-**Jack:** OK. See you later.
+Jack: OK. See you later.
 
-**Ismael:** Bye.
+Ismael: Bye.
 
 ### 10. Online safety conversation
 
