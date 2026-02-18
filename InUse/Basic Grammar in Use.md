@@ -2138,10 +2138,10 @@ Example answers:
 
 1. "`Would you like` a piece of candy?"  
 	"Yes, thanks."
-2. "`Do you like` bananas?" "Yes, I love them."  
+2. "`Do you like` bananas?"  
 	"Yes, I love them."
 3. `Would you like` some ice cream?  
-	"Yes, I love them."
+	"No, thank you."
 4. "`Would you like to` drink?"
 	"A glass of water, please."
 5. "`Would you like to` go out for a walk?"  
