@@ -235,39 +235,39 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_interview_with_a_swimmer.mp3]]
 
-**Interviewer:** Hello, Dan.
+Interviewer: Hello, Dan.
 
-**Dan:** Hi.
+Dan: Hi.
 
-**Interviewer:** Can you tell me about a typical day in your life for the school magazine?
+Interviewer: Can you tell me `about a typical` day in your life for the school magazine?
 
-**Dan:** Yeah, sure.
+Dan: Yeah, sure.
 
-**Interviewer:** So, what time do you get up?
+Interviewer: So, what time do you get up?
 
-**Dan:** Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock.
+Dan: Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock.
 
-**Interviewer:** You get up at 5 o’clock? Wow, that’s early!
+Interviewer: You get up at 5 o’clock? Wow, that’s early!
 
-**Dan:** Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice.
+Dan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice.
 
-**Interviewer:** What do you do after breakfast?
+Interviewer: What do you do after breakfast?
 
-**Dan:** At 11 o’clock I go to university. I’m studying sports science and I have classes from 11 o’clock to 4 o’clock.
+Dan: At 11 o’clock I go to university. `I’m studying` sports science and I `have classes` from 11 o’clock to 4 o’clock.
 
-**Interviewer:** When do you have lunch?
+Interviewer: When do you have lunch?
 
-**Dan:** I have lunch at about 2 o’clock at the university.
+Dan: I have lunch at about 2 o’clock at the university.
 
-**Interviewer:** What do you do after classes?
+Interviewer: What do you do after classes?
 
-**Dan:** Sometimes I go to the gym and sometimes I meet my friends at a café.
+Dan: Sometimes I go to the `gym and sometimes` I meet my friends at a café.
 
-**Interviewer:** What time do you have dinner?
+Interviewer: What time do you have dinner?
 
-**Dan:** I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.
+Dan: I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.
 
-**Interviewer:** Thanks, Dan. That’s a busy day!
+Interviewer: Thanks, Dan. `That’s a` busy day!
 
 ### 8. Introducing a friend
 

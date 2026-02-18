@@ -2171,7 +2171,7 @@ Example answers:
 
 ### 33. I'd rather...
 
-> Page: 51 or 62
+> Page: 67 or 78
 
 <details>
   <summary>More 🔥☠️</summary>
