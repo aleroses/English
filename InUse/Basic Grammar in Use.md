@@ -2114,28 +2114,60 @@ Example answers:
 
 > Page: 65 or 76
 
-#### 32.1
+#### 32.1 What are the people in the pictures saying? Use Would you like...?
 
-#### 32.2
+1. `Would you like` a piece of candy?
+2. `Would you like` a bowl of fruits?
+3. `Would you like` some coffee / a cup of coffee?
+4. `Would you like` some cheese / a piece of cheese?
+5. `Would you like` a sandwich?
+6. `Would you like` some cake / a piece of cake?
 
-#### 32.3
+#### 32.2 What do you ask Sue in these situations? Use Would you like to...?
 
-#### 32.4
+1. You want to go to the movies tonight. Perhaps Sue will go with you.  
+	You ask: Would you like to go to the movies tonight?  
+2. You want to play tennis tomorrow. Perhaps Sue will play, too.  
+	You ask: `Would you like to` play tennis tomorrow?  
+3. You have an extra ticket for a concert next week. Perhaps Sue will come.  
+	You ask: `Would you like to` come to a concert next week?  
+4. It's raining and Sue is going out. She doesn't have an umbrella, but you have one.  
+	You ask: `Would you like to` borrow my umbrella?
 
-#### 32.5
+#### 32.3 Which is right?
 
+1. "`Would you like` a piece of candy?"  
+	"Yes, thanks."
+2. "`Do you like` bananas?" "Yes, I love them."  
+	"Yes, I love them."
+3. `Would you like` some ice cream?  
+	"Yes, I love them."
+4. "`Would you like to` drink?"
+	"A glass of water, please."
+5. "`Would you like to` go out for a walk?"  
+	"Not now. Maybe later."
+6. `I like` tomatoes, but I don't eat them very often.
+7. What time `would you like` to have dinner tonight?
+8. "`Would you like` something to eat?"  
+	"No, thanks. I'm not hungry."
+9. "`Do you like` your new job?"  
+	"Yes, I'm enjoying it."
+10. I'm tired. `I'd like` to go to bed now.  
+11. "`I'd like` a sandwich, please."  
+	"Sure. What kind of sandwich?"
+12. "What kind of music `do you like`?"  
+	"All kinds."
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Like to do and like -ing → Unit 50
+- I would do something if... → Unit 98
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 277 or 287
 
 ### 33. I'd rather...
 
