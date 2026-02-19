@@ -2173,6 +2173,55 @@ Example answers:
 
 > Page: 67 or 78
 
+#### 33.1 Look at the pictures and complete B's sentences. Use I'd rather...
+
+1. Would you like to sit here?  
+	No, thanks. `I'd rather sit` on the floor.
+2. Don't you want to watch TV?  
+	No, `I'd rather read` my book.
+3. Would you like some tea?  
+	Well, `I'd rather` coffee if you have some.
+4. Should we go out now?  
+	No, `I'd rather go out` until it stops raining.
+
+#### 33.2 Complete these questions. Use would you rather...
+
+1. Do you want to go out, or  `would you rather stay` home?
+2. Should we have dinner now, or `would you rather have dinner` later?
+3. Would you like a glass of juice, or `would you rather a glass of` water?
+4. Do you want to go to the movies, or `would you rather watch` TV?
+5. Should we call your brother tonight, or `would you rather call his` tomorrow morning?
+
+#### 33.3 Complete the sentences with a verb. Sometimes you need to.
+
+1. I'd rather `stay` home tonight. I'd prefer not `to go` out.
+2. Should we walk home, or would you rather `take` a taxi?
+3. Do you want me to come with you, or would you prefer ` to come` alone?
+4. Lauren doesn't want to go to college. She'd rather `find` a job.
+5. "Can I help you with your suitcase?" "No, thank you. I'd rather `take` it myself." 
+6. I'd rather not `talk` him. I'd prefer `to send` him an email.
+
+#### 33.4 Answer these questions about yourself. Use I'd rather... than...
+
+1. Which would you prefer to be - a bus driver or an airplane pilot?  
+	I'd rather be a bus driver than an airplane pilot.
+2. Which would you prefer to be - a journalist or a schoolteacher?  
+	I'd rather be a schoolteacher than a journalist.
+3. Where would you prefer to live - in a big city or a small town?  
+	I'd rather live in a small town.
+4. Which would you prefer to have - a small house or a big one?  
+	I'd rather have a big house.
+5. Which would you prefer to study - electronics or philosophy?  
+	I'd rather study electronics.
+6. Which would you prefer to watch - a soccer game or a movie?  
+	I'd rather watch a movie.
+
+
+todo sin revisar
+
+
+
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
