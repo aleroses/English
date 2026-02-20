@@ -2180,26 +2180,26 @@ Example answers:
 2. Don't you want to watch TV?  
 	No, `I'd rather read` my book.
 3. Would you like some tea?  
-	Well, `I'd rather` coffee if you have some.
+	Well, `I'd rather have` coffee if you have some.
 4. Should we go out now?  
-	No, `I'd rather go out` until it stops raining.
+	No, `I'd rather wait` until it stops raining.
 
 #### 33.2 Complete these questions. Use would you rather...
 
 1. Do you want to go out, or  `would you rather stay` home?
 2. Should we have dinner now, or `would you rather have dinner` later?
-3. Would you like a glass of juice, or `would you rather a glass of` water?
+3. Would you like a glass of juice, or `would you rather have` water?
 4. Do you want to go to the movies, or `would you rather watch` TV?
-5. Should we call your brother tonight, or `would you rather call his` tomorrow morning?
+5. Should we call your brother tonight, or `would you rather call him` tomorrow morning?
 
 #### 33.3 Complete the sentences with a verb. Sometimes you need to.
 
 1. I'd rather `stay` home tonight. I'd prefer not `to go` out.
 2. Should we walk home, or would you rather `take` a taxi?
-3. Do you want me to come with you, or would you prefer ` to come` alone?
-4. Lauren doesn't want to go to college. She'd rather `find` a job.
-5. "Can I help you with your suitcase?" "No, thank you. I'd rather `take` it myself." 
-6. I'd rather not `talk` him. I'd prefer `to send` him an email.
+3. Do you want me to come with you, or would you prefer ` to go` alone?
+4. Lauren doesn't want to go to college. She'd rather `get/have/find` a job.
+5. "Can I help you with your suitcase?" "No, thank you. I'd rather `carry/do` it myself." 
+6. I'd rather not `see/call/talk to/speak to` him. I'd prefer `to send/to write` him an email.
 
 #### 33.4 Answer these questions about yourself. Use I'd rather... than...
 
@@ -2208,47 +2208,69 @@ Example answers:
 2. Which would you prefer to be - a journalist or a schoolteacher?  
 	I'd rather be a schoolteacher than a journalist.
 3. Where would you prefer to live - in a big city or a small town?  
-	I'd rather live in a small town.
+	I'd rather live in a small town than in a big city.
 4. Which would you prefer to have - a small house or a big one?  
 	I'd rather have a big house.
 5. Which would you prefer to study - electronics or philosophy?  
-	I'd rather study electronics.
+	I'd rather study electronics than philosophy.
 6. Which would you prefer to watch - a soccer game or a movie?  
-	I'd rather watch a movie.
-
-
-todo sin revisar
-
-
-
+	I'd rather watch a movie than a soccer game.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- ...
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 277 or 287
 
 
 ### 34. Do this! Don't do that! Let's do this!
 
-> Page: 51 or 62
+> Page: 69 or 80
+
+#### 34.1 Look at the pictures. What are the people saying? Some sentences are affirmative (buy / come, etc.) and some are negative (don't buy / don't come, etc.). Use these verbs:
+
+`be` `buy` ~~`come`~~ ~~`drink`~~ `drop` `forget` `have` `sit` `sleep` `smile`
+
+1. Come in!
+2. Don't drink the water.
+3. It's too expensive. `Don't buy` it.
+4. Ok, are you ready? `Smile`!
+5. `Don't sit` on the cat!
+6. Bye! `Have` a nice time.
+7. `Don't forget` to call me. Don't worry. I won't.
+8. I'm going to bed now. OK, `sleep` well.
+9. `Be` careful with that vase. `Dont' drop` it.
+
+#### 34.2 Complete the sentences. Use let's with:
+
+~~`go for a swim`~~ `go to a restaurant` `take the bus` `wait a little` `watch TV`
+
+1. Would you like to play tennis?  
+	No, let's go for a swim.
+2. Do you want to walk home?  
+	No, `let's take the bus`.
+3. Should I put some music on?  
+	No, `let's watch TV`.
+4. Should we eat at home?  
+	No, `let's go to a restaurant`.
+5. Would you like to go now?  
+	No, `let's wait a little`.
+
+#### 34.3
+sin revisar
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Should we...? → Unit 30
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 276 or 286
 
 ## 8. There and it
