@@ -2293,24 +2293,74 @@ Example answers:
 
 ### 35. there is     there are
 
-> Page: 51 or 62
+> Page: 71 or 82
+
+#### 35.1 Springfield is a small town. Look at the information in the box and write sentences about Springfield with There is / are or There isn't / aren't.
+
+1. No, There isn't a golf course.
+2. Yes, There are a lot of restaurants.
+3. Yes, There is a hospital.
+4. No, There isn't a swimming pool.
+5. Yes, There are two movie theaters.
+6. No, There isn't a university.
+7. No, There aren't big hotels.
+
+#### 35.2 Write sentences about your town (or a town that you know). Use There is / are or There isn't / aren't.
+
+1. There are a few restaurants.
+2. There's a big park.
+3. There's a Stadium.
+4. There is an airport.
+5. There's sea.
+6. There aren't many factories.
+
+#### 35.3 Write there is / there isn't / is there or there are / there aren't / are there.
+
+1. Springfield isn't an old town. There aren't any old buildings.
+2. Look! `There is` a picture of your brother in the newspaper!
+3. "Excuse me, `Is there` a bank near here?" "Yes, at the end of the block."
+4. `There are` five people in my family: my parents, my two sisters, and me.
+5. "How many students `are there` in the class?" "Twenty."
+6. The road is usually very quiet `there isn't much traffic`.
+7. "`Is there` a bus from downtown to the airport?" "Yes, every 20 minutes."
+8. "`Are there` any problems?" "No, everything is OK."
+9. `There is` nowhere to sit down. `There aren't` any chairs.
+
+#### 35.4 Write sentences with There are... Choose from the boxes.
+
+1. There are `seven day` in a week.
+2. There are `five players` on a basketball team.
+3. There are `fifty states` in the United States.
+4. There are `twenty-six letters` in the English alphabet.
+5. There are `thirty days` in September.
+6. There are `eitht planets` in the solar system.
+
+#### 35.5 Write there's / is there or it's / is it.
+
+1. "There's a flight at 10:30." "Is it a nonstop flight?"
+2. I'm not going to buy this shirt. `It's` too expensive.
+3. "What's wrong?" "`There's` something in my eye."
+4. `There's` a red car outside your house. `Is it` yours?
+5. A: `Is there` anything good on TV tonight?  
+	B: Yes, `there's` a show I want to see at 8:00.
+6. "What's that building?" "`It's` a school."
+7. "`Is there` a restaurant in this hotel?" "No, I'm afraid not."
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- There was / were / has been, etc. → Unit 36
+- It and there → Unit 37
+- Some and any → Unit 74
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 277 or 287
-
+> Answer Key to Exercises 277 – 278 or 287 – 288
 
 ### 36. there was / were  there has / have been  there will be
 
-> Page: 51 or 62
+> Page: 71 or 32
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2327,7 +2377,7 @@ Example answers:
 
 ### 37. it
 
-> Page: 51 or 62
+> Page: 71 or 32
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2346,7 +2396,7 @@ Example answers:
 
 ### 38. I am, I don't, etc.
 
-> Page: 51 or 62
+> Page: 71 or 32
 
 <details>
   <summary>More 🔥☠️</summary>
