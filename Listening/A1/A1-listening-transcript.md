@@ -325,7 +325,7 @@ Ismael: You know, romantic comedy, boy meets girl ...
 
 Jack: What? Really? No, I hate romantic films. I like action.
 
-Ismael: Well, there's a new science fiction film, 'Alien attacks'.
+Ismael: Well, there's a new science fiction film, '`Alien` attacks'.
 
 Jack: OK, I like science fiction. Let's see that.
 

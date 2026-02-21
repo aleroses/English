@@ -2360,7 +2360,17 @@ Example answers:
 
 ### 36. there was / were  there has / have been  there will be
 
-> Page: 71 or 32
+> Page: 73 or 84
+
+#### 36.1
+
+
+
+
+
+
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
