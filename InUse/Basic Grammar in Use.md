@@ -2260,8 +2260,24 @@ Example answers:
 5. Would you like to go now?  
 	No, `let's wait a little`.
 
-#### 34.3
-sin revisar
+#### 34.3 Answer with No, don't... or No, let's not...
+
+1. Should I wait for you?  
+	No, don't wait for me.
+2. Should we go home now?  
+	No, let's not go home yet.
+3. Should we go out?  
+	No, let's not go out.
+4. Do you want me to close the window?  
+	No, don't close the window.
+5. Should I call you tonight?  
+	No, don't call me tonight.
+6. Do you think we should wait for Andy?  
+	No, let's not wait for Andy.
+7. Do you want me to turn on the light?  
+	No, don't turn on the light?
+8. Should we take a taxi?  
+	No, let's not take a taxi.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2271,7 +2287,7 @@ sin revisar
 
 </details>
 
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 277 or 287
 
 ## 8. There and it
 
@@ -2289,7 +2305,7 @@ sin revisar
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 277 or 287
 
 
 ### 36. there was / were  there has / have been  there will be
