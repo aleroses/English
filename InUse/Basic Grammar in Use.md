@@ -2376,12 +2376,15 @@ Example answers:
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Was / were → Unit 10
+- Has / have been → Unit 16 – 17
+- Will → Unit 26
+- There is / are → Unit 35
+- There and it → Unit 35 – 37
+- Some and any → Unit 74
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 276 or 286
 
 
