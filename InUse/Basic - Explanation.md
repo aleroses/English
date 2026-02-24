@@ -137,11 +137,8 @@ Resumen Final
 # 🧠 Ejemplos comparativos
 
 - There **was** a problem yesterday.
-    
 - There **has been** a problem recently.
-    
 - There **will be** a problem tomorrow.
-    
 
 ¿Ves la diferencia?
 
@@ -149,6 +146,3 @@ Resumen Final
 👉 Recientemente (conectado con ahora)  
 👉 Mañana (futuro)
 
----
-
-Si quieres, Henry, puedo prepararte ejercicios tipo examen como los de Murphy para practicar 👌
