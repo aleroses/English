@@ -86,7 +86,7 @@ Se usa para hablar de algo que **existió en el pasado**, en un tiempo terminado
 - There were many people at the party.  
     → Había muchas personas en la fiesta.
 
-### 🔥 Comparación clara
+### Comparación clara
 
 |Tiempo          |Forma               |Uso                              |Ejemplo                                |
 |----------------|--------------------|---------------------------------|---------------------------------------|
@@ -132,9 +132,7 @@ Resumen Final
 |Present Perfect |There has been |There have been |Ha habido    |
 |Futuro          |There will be  |There will be   |Habrá        |
 
----
-
-# 🧠 Ejemplos comparativos
+### Ejemplos comparativos
 
 - There **was** a problem yesterday.
 - There **has been** a problem recently.

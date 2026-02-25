@@ -442,13 +442,13 @@ Café worker: Next, please! What would you like?
 
 Andi: Can I have a burger, please?
 
-Café worker: A cheeseburger or double cheeseburger?
+Café worker: `A cheeseburger` or double cheeseburger?
 
 Andi: Double cheeseburger, please.
 
 Café worker: Anything else?
 
-Andi: Yeah, I'd like some banana cake.
+Andi: Yeah, `I'd like` some banana cake.
 
 Café worker: Would you like a drink?
 
