@@ -143,4 +143,3 @@ Resumen Final
 👉 Ayer (terminado)  
 👉 Recientemente (conectado con ahora)  
 👉 Mañana (futuro)
-

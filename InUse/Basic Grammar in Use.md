@@ -2362,7 +2362,7 @@ Example answers:
 
 > Page: 73 or 84
 
-#### 36.1
+#### 36.1 Look at the two pictures. Now the room is empty, but what was in the room last week? Choose from the box and write sentences with There was... or There were...
 
 
 
