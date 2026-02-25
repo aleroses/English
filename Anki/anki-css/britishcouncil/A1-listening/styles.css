@@ -64,6 +64,40 @@
 }
 
 /* ============================= */
+/* CARD NUMBER */
+/* ============================= */
+
+.card-header {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-number {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgb(3, 7, 18, 0.2);
+  backdrop-filter: blur(10px);
+  color: white;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.card-number:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+/* ============================= */
 /* HEADER */
 /* ============================= */
 
