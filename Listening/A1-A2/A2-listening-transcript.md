@@ -26,3 +26,61 @@ Waiter: So that’s two Thai chicken and rice. What would you like to drink?
 Jamie: I’ll have a fresh orange juice and ...
 Sally: I’d like some mineral water, please.
 Waiter: OK, thank you.
+
+### 2.
+
+[Learnenglishteens]()
+
+### 3.
+
+[Learnenglishteens]()
+
+### 4.
+
+[Learnenglishteens]()
+
+### 5.
+
+[Learnenglishteens]()
+
+### 6.
+
+[Learnenglishteens]()
+
+### 7.
+
+[Learnenglishteens]()
+
+### 8.
+
+[Learnenglishteens]()
+
+### 9.
+
+[Learnenglishteens]()
+
+### 10.
+
+[Learnenglishteens]()
+
+### 11.
+
+[Learnenglishteens]()
+
+### 12.
+
+[Learnenglishteens]()
+
+
+
+### 13.
+
+[Learnenglishteens]()
+
+### 14.
+
+[Learnenglishteens]()
+
+### 15.
+
+[Learnenglishteens]()
