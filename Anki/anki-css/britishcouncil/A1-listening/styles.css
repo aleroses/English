@@ -74,7 +74,8 @@
 
 .header-top {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .card-number {
@@ -95,6 +96,38 @@
 .card-number:hover {
   transform: scale(1.05);
   opacity: 0.9;
+}
+
+.card-level {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 8px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: 1px solid var(--border);
+  backdrop-filter: blur(6px);
+}
+
+/* Nivel A1 */
+.level-A1 {
+  background: rgba(34, 197, 94, 0.15);
+  color: #16a34a;
+  border-color: rgba(34, 197, 94, 0.3);
+}
+
+/* Nivel A2 */
+.level-A2 {
+  background: rgba(59, 130, 246, 0.15);
+  color: #2563eb;
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+/* Nivel B1 (por si luego lo agregas 😉) */
+.level-B1 {
+  background: rgba(245, 158, 11, 0.15);
+  color: #d97706;
+  border-color: rgba(245, 158, 11, 0.3);
 }
 
 /* ============================= */

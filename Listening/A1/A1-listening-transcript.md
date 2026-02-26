@@ -586,7 +586,7 @@ Susanne: Hi, Mario. Can you help me prepare some things for the next month?
 
 Mario: OK, sure. What can I help you with?
 
-Susanne: I need to visit the customer in Germany. It's important.
+Susanne: I need to visit the `customer` in Germany. It's important.
 
 Mario: What can I do to help?
 
@@ -600,13 +600,13 @@ Mario: Yes, I will.
 
 Susanne: But first you need to book a meeting room. After that, please send everyone an email about it.
 
-Mario: Yes, of course.
+Mario: Yes, `of course`.
 
 Susanne: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.
 
-Mario: Sure, no problem. I can do it this week.
+Mario: Sure, `no problem`. I can do it this week.
 
-Susanne: There's no hurry. Take your time.
+Susanne: There's `no hurry`. Take your time.
 
 ### 2. A voicemail message
 
