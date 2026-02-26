@@ -2364,13 +2364,44 @@ Example answers:
 
 #### 36.1 Look at the two pictures. Now the room is empty, but what was in the room last week? Choose from the box and write sentences with There was... or There were...
 
+`an armchair` `a carpet` `some flowers` `a sofa` `some books` ~~`a clock`~~ `three pictures` `a small table`
 
+1. There was a clock on the wall near the window.
+2. There was `a carpet` on the floor.
+3. There were `three pictures` on the wall near the door.
+4. There was `a small table` in the middle of the room.
+5. There were `some flowers` on the table.
+6. There were `some books` on the shelves.
+7. There was `an armchair` in the corner near the door.
+8. There was `a sofa` opposite the armchair.
 
+#### 36.2 Write there was / there wasn't / was there or there were / there weren't / were there.
 
+1. I was hungry, but `there wasn't` anything to eat.
+2. Was everything OK yesterday? `Were there` any problems?
+3. I opened the envelope, but it was empty. `There wasn't` nothing in it.
+4. "We stayed at a very nice hotel." "Really? `Was there` a swimming pool?"
+5. "Did you buy any cherries?" "No, `there weren't` any at the store."
+6. The wallet was empty. `There wasn't` any money in it.
+7. "`Where there` many people at the meeting?" "No, very few."
+8. We didn't visit the museum. `There wasn't` enough time.
+9. I'm sorry I'm late. `There was` a lot of traffic.
+10. Twenty years ago `there weren't` many tourists here. Now there are a lot.
 
+#### 36.3 Write there + is / are / was / were / has been / have been / will be.
 
+1. `There was` a good program on TV last night.
+2. `There is` 24 hours in a day.
+3. `There was` a party at work last Friday, but I didn't go.
+4. "Where can I get something to eat?" "`There is` a restaurant at the end of the block."
+5. "Why are the police outside the bank?" "`There has been` a robbery."
+6. When we got to the theater, `There is` a long line outside.
+7. When you arrive tomorrow, `there will be` somebody at the airport to meet you.
+8. Ten years ago `there were` 500 children in the school. Now `there has been` more than a thousand.
+9. Last week I went back to the town where I was born. It's very different now. `There have been` a lot of changes.
+10. I think everything will be OK. I don't think `there will be` any problems.
 
-
+Todo sin revisar
 
 <details>
   <summary>More 🔥☠️</summary>
