@@ -2379,7 +2379,7 @@ Example answers:
 
 1. I was hungry, but `there wasn't` anything to eat.
 2. Was everything OK yesterday? `Were there` any problems?
-3. I opened the envelope, but it was empty. `There wasn't` nothing in it.
+3. I opened the envelope, but it was empty. `There was` nothing in it.
 4. "We stayed at a very nice hotel." "Really? `Was there` a swimming pool?"
 5. "Did you buy any cherries?" "No, `there weren't` any at the store."
 6. The wallet was empty. `There wasn't` any money in it.
@@ -2391,17 +2391,15 @@ Example answers:
 #### 36.3 Write there + is / are / was / were / has been / have been / will be.
 
 1. `There was` a good program on TV last night.
-2. `There is` 24 hours in a day.
+2. `There are` 24 hours in a day.
 3. `There was` a party at work last Friday, but I didn't go.
 4. "Where can I get something to eat?" "`There is` a restaurant at the end of the block."
 5. "Why are the police outside the bank?" "`There has been` a robbery."
-6. When we got to the theater, `There is` a long line outside.
+6. When we got to the theater, `There was` a long line outside.
 7. When you arrive tomorrow, `there will be` somebody at the airport to meet you.
-8. Ten years ago `there were` 500 children in the school. Now `there has been` more than a thousand.
+8. Ten years ago `there were` 500 children in the school. Now `there are` more than a thousand.
 9. Last week I went back to the town where I was born. It's very different now. `There have been` a lot of changes.
 10. I think everything will be OK. I don't think `there will be` any problems.
-
-Todo sin revisar
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2416,8 +2414,7 @@ Todo sin revisar
 
 </details>
 
-> Answer Key to Exercises 276 or 286
-
+> Answer Key to Exercises 278 or 288
 
 ### 37. it
 
