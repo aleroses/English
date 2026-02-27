@@ -2418,19 +2418,60 @@ Example answers:
 
 ### 37. it
 
-> Page: 71 or 32
+We use **it** for time / day / distance / weather.
+
+> Page: 75 or 86
+
+#### 37.1 Write about the weather in the pictures. Use It's...
+
+1. It's raining.
+2. It's cold.
+3. It's windy.
+4. It's sunny.
+5. It's snowy.
+6. It's cloudy.
+
+#### 37.2 Write it is (it's) or is it.
+
+1. What time is it?
+2. We have to go now. `It's` very late
+3. `Is it` true that Bill can fly a helicopter?
+4. "What day `is it` today? Tuesday?" "No, `it's` Wednesday."
+5. `It's` 10 miles from downtown to the airport.
+6. `It's` OK to call you at the office?
+7. "Do you want to walk to the hotel?" "I don't know. How far `is it`?"
+8. `It's` Rachel's birthday today. She's 27.
+9. I don't believe it! `It's` impossible.
+
+#### 37.3 Write questions with How far...?
+
+1. How far is it from here to the station?
+2. How far `is it` from the hotel to the beach?
+3. How far `is it` from New York to the Washington?
+4. How far `is it` from your house to the airport?
+
+#### 37.4 Write it or there.
+
+1. The weather isn't so nice today. `It`'s cloudy.
+2. `There` was a strong wind yesterday.
+3. `It`'s hot in this room. Open a window.
+4. `There` was a nice day yesterday. `There` was warm and sunny.
+5. `There` was a storm last night. Did you hear it?
+6. I was afraid because `there` was very dark.
+7. `It`'s often cold here, but `it` isn't much rain.
+
+#### 37.5
+
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- There is → Unit 35 – 36
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 276 or 286
+> Answer Key to Exercises 278 or 288
 
 
 ## 9. Auxiliary verbs
