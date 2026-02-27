@@ -245,11 +245,11 @@ Dan: Yeah, sure.
 
 Interviewer: So, what time do you get up?
 
-Dan: Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock.
+Dan: Oh, I get up very early. I get up every `day at 5 o’clock` and go to the pool. Then I swim from 6 o’clock to 8 o’clock.
 
-Interviewer: You get up at 5 o’clock? Wow, that’s early!
+Interviewer: You get `up at 5 o’clock`? Wow, that’s early!
 
-Dan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice.
+Dan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, `toast`, bacon and eggs and orange juice.
 
 Interviewer: What do you do after breakfast?
 
@@ -261,11 +261,11 @@ Dan: I have lunch at about 2 o’clock at the university.
 
 Interviewer: What do you do after classes?
 
-Dan: Sometimes I go to the `gym and sometimes` I meet my friends at a café.
+Dan: Sometimes I go to the `gym and sometimes` I meet my friends `at a café`.
 
 Interviewer: What time do you have dinner?
 
-Dan: I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.
+Dan: I have dinner at 7 o’clock, then I watch TV or go online and `I usually` go `to bed` at 10 o’clock.
 
 Interviewer: Thanks, Dan. `That’s a` busy day!
 
@@ -616,13 +616,13 @@ Susanne: There's `no hurry`. Take your time.
 
 John: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.
 
-Marina: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.
+Marina: Hi, John, this is Marina Silva calling from Old Time Toys. Your `colleague` Alex gave me your phone number. She said you can help me.
 
-I need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
+I need some information on your new products. Could you please call me when you are `back in` the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
 
-Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.
+Also, can you please email me your new `brochure` and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E `hyphen` toys dot com.
 
-Thanks a lot. I look forward to hearing from you.
+Thanks a lot. I look forward to `hearing` from you.
 
 ### 3. Booking a table
 
