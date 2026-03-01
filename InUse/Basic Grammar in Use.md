@@ -2427,8 +2427,8 @@ We use **it** for time / day / distance / weather.
 1. It's raining.
 2. It's cold.
 3. It's windy.
-4. It's sunny.
-5. It's snowy.
+4. It's sunny / clear. or It's a nice day.
+5. It's snowing.
 6. It's cloudy.
 
 #### 37.2 Write it is (it's) or is it.
@@ -2455,13 +2455,20 @@ We use **it** for time / day / distance / weather.
 1. The weather isn't so nice today. `It`'s cloudy.
 2. `There` was a strong wind yesterday.
 3. `It`'s hot in this room. Open a window.
-4. `There` was a nice day yesterday. `There` was warm and sunny.
+4. `It` was a nice day yesterday. `It` was warm and sunny.
 5. `There` was a storm last night. Did you hear it?
-6. I was afraid because `there` was very dark.
-7. `It`'s often cold here, but `it` isn't much rain.
+6. I was afraid because `it` was very dark.
+7. `It`'s often cold here, but `there` isn't much rain.
+8. `It`'s a long way from here to the nearest gas station.
 
-#### 37.5
+#### 37.5 Complete the sentences. Choose from the boxes.
 
+1. If you go to bed late, `it's difficult to get up early` in the morning.
+2. Hello, Jane `it's nice to see you again`. How are you?
+3. `It's impossible to work here`. There is too much noise.
+4. Everybody is very nice at work. `It's easy to make friends`.
+5. I like traveling. `It's interesting to visit different places`.
+6. Some cities are not safe. `It's dangerous go out alone` at night.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2472,7 +2479,6 @@ We use **it** for time / day / distance / weather.
 </details>
 
 > Answer Key to Exercises 278 or 288
-
 
 ## 9. Auxiliary verbs
 
