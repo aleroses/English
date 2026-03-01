@@ -2416,7 +2416,7 @@ Example answers:
 
 > Answer Key to Exercises 278 or 288
 
-### 37. it
+### 🔸37. it
 
 We use **it** for time / day / distance / weather.
 
@@ -2482,21 +2482,42 @@ We use **it** for time / day / distance / weather.
 
 ## 9. Auxiliary verbs
 
-### 38. I am, I don't, etc.
+### 🔸38. I am, I don't, etc.
 
-> Page: 71 or 32
+> Page: 77 or 88
+
+#### 38.1 Complete these sentences. Use only one verb (is / have / can, etc.) each time.
+
+1. Kate wasn't hungry, but we `were`.
+2. I'm not married, but my brother `is`.
+3. Bill can't help you, but I `can`.
+4. I haven't read the book, but Tom `has`.
+5. Karen won't be here but Chris `will`.
+6. You weren't late, but I `was`.
+
+#### 38.2 Complete these sentences with a negative verb (isn't / haven't / can't, etc.).
+
+1. My sister can play the piano, but I `can't`.
+2. Sam is working today, but I `am not`.
+3. I was working, but my friends `weren't`.
+
+#### 38.3
+
+#### 38.4
+
+#### 38.5
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- You have? / Have you?, etc. → Unit 39
+- So am I / neither do I, etc. → Unit 40
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-
+> Answer Key to Exercises 278 or 288
+🔸
 ### 39. You have? Have you? You are? Are you?, etc
 
 > Page: 51 or 62
@@ -2511,7 +2532,8 @@ We use **it** for time / day / distance / weather.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-
+> Answer Key to Exercises 278 or 288
+🔸
 ### 40. too/either  so am I / neither do I, etc.
 
 > Page: 51 or 62
@@ -2526,6 +2548,7 @@ We use **it** for time / day / distance / weather.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
 
 ### 41. isn't, haven't, don't, etc. (negatives)
 
@@ -2541,7 +2564,7 @@ We use **it** for time / day / distance / weather.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-
+> Answer Key to Exercises 278 or 288
 
 
 
