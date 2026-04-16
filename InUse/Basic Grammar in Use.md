@@ -2500,12 +2500,39 @@ We use **it** for time / day / distance / weather.
 1. My sister can play the piano, but I `can't`.
 2. Sam is working today, but I `am not`.
 3. I was working, but my friends `weren't`.
+4. Alex has been to China, but I `hasn't been`.
+5. I'm ready to go, but Tom `isn't`.
+6. I've seen the movie, but Emma `hasn't seen`.
 
-#### 38.3
+#### 38.3 Complete these sentences with do / does / did or don't / doesn't / didn't.
 
-#### 38.4
+1. I don't like hot weather, but Sue `does`.
+2. Sue likes hot weather, but I `don't`.
+3. My mother wears glasses, but my father `doesn't`.
+4. You don't know Robert very well, but I `do`.
+5. I didn't enjoy the party, but my friends `did`.
+6. I don't watch TV much, but Ben `does`.
+7. Kate lives in Canada, but her parents `don't`.
+8. You had breakfast this morning, but I `don't`.
 
-#### 38.5
+#### 38.4 Complete the sentences. Write about yourself and other people.
+
+1. I didn't `go out last night, but my friends did`.
+2. I like `ice cream, but my girlfriend doesn't`.
+3. I don't `go to the beach, but my parents do`.
+4. I'm `eating a sandwich, but my brother isn't`.
+5. I haven't got `a car, but my neighbord has`.
+
+#### 38.5 Put in a verb, affirmative or negative
+
+
+
+
+
+
+#### 38.6
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
