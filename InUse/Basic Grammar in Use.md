@@ -2500,9 +2500,9 @@ We use **it** for time / day / distance / weather.
 1. My sister can play the piano, but I `can't`.
 2. Sam is working today, but I `am not`.
 3. I was working, but my friends `weren't`.
-4. Alex has been to China, but I `hasn't been`.
+4. Alex has been to China, but I `haven't`.
 5. I'm ready to go, but Tom `isn't`.
-6. I've seen the movie, but Emma `hasn't seen`.
+6. I've seen the movie, but Emma `hasn't`.
 
 #### 38.3 Complete these sentences with do / does / did or don't / doesn't / didn't.
 
@@ -2513,7 +2513,7 @@ We use **it** for time / day / distance / weather.
 5. I didn't enjoy the party, but my friends `did`.
 6. I don't watch TV much, but Ben `does`.
 7. Kate lives in Canada, but her parents `don't`.
-8. You had breakfast this morning, but I `don't`.
+8. You had breakfast this morning, but I `didn't`.
 
 #### 38.4 Complete the sentences. Write about yourself and other people.
 
@@ -2522,17 +2522,36 @@ We use **it** for time / day / distance / weather.
 3. I don't `go to the beach, but my parents do`.
 4. I'm `eating a sandwich, but my brother isn't`.
 5. I haven't got `a car, but my neighbord has`.
+	1. I haven't been to Japan, but Jenny has.
 
 #### 38.5 Put in a verb, affirmative or negative
 
+1. "Are you tired?" "I `was` earlier, but I'm not now."
+2. Nate is happy today, but he `wasn't` yesterday.
+3. The stores aren't open yet, but the post office `is`.
+4. I don't have a telescope, but I know somebody who `does`.
+5. I would like to help you, but I'm sorry I `can't`.
+6. I don't usually drive to work, but I `did` yesterday.
+7. ...
+	1. Have you ever been to Costa Rica?
+	2. No, but Grace `has`. She went there on vacation last year.
+8. "Do you and Kevin watch TV a lot?" "I `do`, but Kevin doesn't."
+9. I was invited to Sam's wedding, but Kate `wasn't`.
+10. "Do you think Sarah will pass her driving test?" "Yes, I'm sure she `will`."
+11. "Are you going out tonight?" "I `might`. I don't know for sure."
 
+#### 38.6 Answer these questions about yourself. Use Yes, I have. / No, I'm not etc.
 
-
-
-
-#### 38.6
-
-
+1. Are you Brazilian? `No, I'm not`.
+2. Do you have a car? `No, I don't`.
+3. Do you feel OK? `No, I don't`.
+4. Is it snowing? `No, It isn't`.
+5. Are you hungry? `No, I'm not`.
+6. Do you like classical music? `Yes, I do`.
+7. Will you be in Boston tomorrow? `No, I won't`.
+8. Have you ever broken your arm? `No, I haven't`.
+9. Did you buy anything yesterday? `Yes, I did`.
+10. Were you asleep at 3:00 a.m.? `Yes, I was`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2544,7 +2563,7 @@ We use **it** for time / day / distance / weather.
 </details>
 
 > Answer Key to Exercises 278 or 288
-🔸
+
 ### 39. You have? Have you? You are? Are you?, etc
 
 > Page: 51 or 62
