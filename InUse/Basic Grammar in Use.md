@@ -2564,16 +2564,23 @@ We use **it** for time / day / distance / weather.
 
 > Answer Key to Exercises 278 or 288
 
-### 39. You have? Have you? You are? Are you?, etc
+### 39. You have? Have you? You are? Are you?, etc.
 
-> Page: 51 or 62
+> Page: 79 or 90
+
+#### 39.1
+
+#### 39.2
+
+#### 39.3
+
+#### 39.4
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- I am, I don't. etc. → Unit 38
 
 </details>
 
