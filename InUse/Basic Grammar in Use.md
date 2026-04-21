@@ -2568,13 +2568,44 @@ We use **it** for time / day / distance / weather.
 
 > Page: 79 or 90
 
-#### 39.1
+#### 39.1 Answer with You do? / She doesn't? / They did?, etc.
 
-#### 39.2
+1. I speak four languages. `You do`? Which ones?
+2. I work in a bank. `You do`? I work in a bank, too.
+3. I didn't go to work yesterday. `You didn't`? Were you sick?
+4. Julia doesn't like me. `She doesn't`? Why not?
+5. You look tired. `You do`? I feel fine.
+6. Kate called me last night. `She did`? What did she say?
 
-#### 39.3
+#### 39.2 Answer with You are? / She does? / It isn't?, etc.
 
-#### 39.4
+1. I'm writing a book. `You are?` What is it about?
+2. Tom doesn't eat meat. `He doesn't?` Does he eat fish?
+3. I lost my key. `You do?` When did you have it last?
+4. Sue can't drive. `She can't?` She should learn.
+5. I was born in Italy. `You were?` I didn't know that.
+6. I didn't sleep well last night. `You didn't?` Was the bed uncomfortable?
+7. There's a football game on TV tonight. `There is?` Are you going to watch it?
+8. I'm not happy. `You are?` Why not?
+9. I saw Diana last week. `You do?` How is she?
+10. Maria works in a factory. `She does?` What kind of factory?
+11. I won't be here next week. `You won't?` Where will you be?
+12. The clock isn't working. `It isn't?` It was working yesterday.
+
+#### 39.3 Complete these sentences with a tag questions (isn't it? / haven't you?, etc.).
+
+1. It's a nice day, `isn't it?` Yes, it's beautiful.
+2. These flowers are nice, `aren't these?` Yes, what kind are they?
+3. Emily was at the party, `wasn't she?` Yes, but I didn't speak to her.
+4. You've been to Chile, `haven't you?` Yes, many times.
+5. You speak Thai, `don't you?` Yes, but not very well.
+6. Bill looks tired, `doesn't he?` Yes, he works very hard.
+7. You'll help me, `won't you?` Yes, of course I will.
+
+#### 39.4 Complete these sentences with a tag question, affirmative (is it? / do you?, etc.) or negative (isn't it? / don't you?, etc.).
+
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
