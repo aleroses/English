@@ -2618,7 +2618,7 @@ We use **it** for time / day / distance / weather.
   <summary>More 🔥☠️</summary>
   </br>
 
-- I am, I don't. etc. → Unit 38
+- I am, I don't, etc. → Unit 38
 
 </details>
 
@@ -2626,23 +2626,21 @@ We use **it** for time / day / distance / weather.
 
 ### 40. too/either  so am I / neither do I, etc.
 
-> Page: 51 or 62
+> Page: 81 or 92
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- I am, I don't, etc. → Unit 38
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 278 or 288
 🔸
 ### 41. isn't, haven't, don't, etc. (negatives)
 
-> Page: 51 or 62
+> Page: 83 or 94
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2658,7 +2656,7 @@ We use **it** for time / day / distance / weather.
 
 ### 42.
 
-> Page: 51 or 62
+> Page: 85 or 96
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2675,7 +2673,7 @@ We use **it** for time / day / distance / weather.
 
 ### 43.
 
-> Page: 51 or 62
+> Page: 87 or 98
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2692,7 +2690,7 @@ We use **it** for time / day / distance / weather.
 
 ### 44.
 
-> Page: 51 or 62
+> Page: 89 or 100
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2709,7 +2707,7 @@ We use **it** for time / day / distance / weather.
 
 ### 45.
 
-> Page: 51 or 62
+> Page: 91 or 102
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2726,7 +2724,7 @@ We use **it** for time / day / distance / weather.
 
 ### 46.
 
-> Page: 51 or 62
+> Page: 93 or 104
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2743,7 +2741,7 @@ We use **it** for time / day / distance / weather.
 
 ### 47.
 
-> Page: 51 or 62
+> Page: 95 or 106
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2760,7 +2758,7 @@ We use **it** for time / day / distance / weather.
 
 ### 48.
 
-> Page: 51 or 62
+> Page: 97 or 108
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2777,7 +2775,7 @@ We use **it** for time / day / distance / weather.
 
 ### 49.
 
-> Page: 51 or 62
+> Page: 99 or 110
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2794,7 +2792,7 @@ We use **it** for time / day / distance / weather.
 
 ### 50.
 
-> Page: 51 or 62
+> Page: 101 or 112
 
 <details>
   <summary>More 🔥☠️</summary>
