@@ -2564,7 +2564,7 @@ We use **it** for time / day / distance / weather.
 
 > Answer Key to Exercises 278 or 288
 
-### 39. You have? Have you? You are? Are you?, etc.
+### 🔸39. You have? Have you? You are? Are you?, etc.
 
 > Page: 79 or 90
 
@@ -2574,20 +2574,20 @@ We use **it** for time / day / distance / weather.
 2. I work in a bank. `You do`? I work in a bank, too.
 3. I didn't go to work yesterday. `You didn't`? Were you sick?
 4. Julia doesn't like me. `She doesn't`? Why not?
-5. You look tired. `You do`? I feel fine.
+5. You look tired. `I do`? I feel fine.
 6. Kate called me last night. `She did`? What did she say?
 
 #### 39.2 Answer with You are? / She does? / It isn't?, etc.
 
 1. I'm writing a book. `You are?` What is it about?
 2. Tom doesn't eat meat. `He doesn't?` Does he eat fish?
-3. I lost my key. `You do?` When did you have it last?
+3. I lost my key. `You did?` When did you have it last?
 4. Sue can't drive. `She can't?` She should learn.
 5. I was born in Italy. `You were?` I didn't know that.
 6. I didn't sleep well last night. `You didn't?` Was the bed uncomfortable?
 7. There's a football game on TV tonight. `There is?` Are you going to watch it?
-8. I'm not happy. `You are?` Why not?
-9. I saw Diana last week. `You do?` How is she?
+8. I'm not happy. `You aren't?` Why not?
+9. I saw Diana last week. `You did?` How is she?
 10. Maria works in a factory. `She does?` What kind of factory?
 11. I won't be here next week. `You won't?` Where will you be?
 12. The clock isn't working. `It isn't?` It was working yesterday.
@@ -2595,7 +2595,7 @@ We use **it** for time / day / distance / weather.
 #### 39.3 Complete these sentences with a tag questions (isn't it? / haven't you?, etc.).
 
 1. It's a nice day, `isn't it?` Yes, it's beautiful.
-2. These flowers are nice, `aren't these?` Yes, what kind are they?
+2. These flowers are nice, `aren't they?` Yes, what kind are they?
 3. Emily was at the party, `wasn't she?` Yes, but I didn't speak to her.
 4. You've been to Chile, `haven't you?` Yes, many times.
 5. You speak Thai, `don't you?` Yes, but not very well.
@@ -2604,8 +2604,15 @@ We use **it** for time / day / distance / weather.
 
 #### 39.4 Complete these sentences with a tag question, affirmative (is it? / do you?, etc.) or negative (isn't it? / don't you?, etc.).
 
-
-
+1. You haven't eaten yet, `have you?` No, I'm not hungry.
+2. You aren't tired, `are you?` No, I feel fine.
+3. Liz is a very nice person, `isn't she?` Yes, everybody likes her.
+4. You can play the piano, `can't you?` Yes, but I'm not very good.
+5. You don't know Mike's sister, `do you?` No, I've never met her.
+6. Sarah went to college, `didn't she?` Yes, she studied psychology.
+7. The movie wasn't very good, `was it?` No, it was terrible.
+8. Anna lives near you, `doesn't she?` Yes, just a few blocks away.
+9. You won't tell anybody what I said, `will you?` No, of course not.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2615,9 +2622,8 @@ We use **it** for time / day / distance / weather.
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
-🔸
+> Answer Key to Exercises 278–279 or 288–289
+
 ### 40. too/either  so am I / neither do I, etc.
 
 > Page: 51 or 62
@@ -2633,7 +2639,7 @@ We use **it** for time / day / distance / weather.
 
 > Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 278 or 288
-
+🔸
 ### 41. isn't, haven't, don't, etc. (negatives)
 
 > Page: 51 or 62
@@ -2650,40 +2656,163 @@ We use **it** for time / day / distance / weather.
 > Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 278 or 288
 
+### 42.
 
-
-
-
-
-238 more exercises
-280 Answer 
-
-Puedes colocar [^1] notas en el pie de página [^2] fácilmente.
-[^1]: Aquí encuentras el texto de la nota al pie de página.
-[^2]: **Las notas de pie de página** pueden *formatearse* también.
-Estas pueden ocupar varias líneas.
-
-``Todo esto es `código`.``
-
-A & B
-α
-1 < 2
-<p>
-{
-xd
-}
-
-Esto es un \*ejemplo con asteriscos\*.
+> Page: 51 or 62
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- am/is/are (questions) → Unit 2
-- there is/are → Unit 35
-- it's ... → Unit 37
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
 
 </details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 43.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 44.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 45.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 46.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 47.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 48.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 49.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+### 50.
+
+> Page: 51 or 62
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- What are you doing tomorrow? → Unit 24
+- I'm going to... → Unit 25
+
+</details>
+
+> Additional exercise 28 – 31 (page 250 or 253)  
+> Answer Key to Exercises 278 or 288
+🔸
+
+
+238 more exercises
+280 Answer 
+
 
 →
 
