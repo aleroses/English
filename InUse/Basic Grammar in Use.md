@@ -2628,10 +2628,14 @@ We use **it** for time / day / distance / weather.
 
 > Page: 81 or 92
 
-either neither pacho ochoa
-https://youtu.be/zTX22ZUZoJk?si=Om09f_NQuOA8unjp
+|Final              |Inicio                      |
+|-------------------|----------------------------|
+|+ too (también)    |+ so am I (Yo también)      |
+|- either (tampoco) |- Neither am I (Yo tampoco) |
 
-https://youtu.be/chtPQeUep9g?si=i2KHUPmHecu6TJ5s
+Ver [[Basic - Explanation#40. too/either so am I / neither do I, etc.]]
+
+#### 40.1 
 
 <details>
   <summary>More 🔥☠️</summary>
