@@ -143,3 +143,112 @@ Resumen Final
 👉 Ayer (terminado)  
 👉 Recientemente (conectado con ahora)  
 👉 Mañana (futuro)
+
+## 40. too/either  so am I / neither do I, etc.
+
+La **Unidad 40** de _Basic Grammar in Use_ explica cómo responder o coincidir con lo que otra persona dice usando:
+
+- **too / either**
+- **so am I / so do I**
+- **neither am I / neither do I**
+
+### 🔹 1. “too” y “either”
+
+#### ✅ Afirmativo → **too** (= también)
+
+Se usa al final de la oración.
+
+👉 Estructura:
+
+- **Sujeto + verbo + too**
+
+Ejemplos:
+
+- I like coffee. → I like coffee **too**.
+- She is tired. → I am tired **too**.
+- They play soccer. → We play soccer **too**.
+
+#### ❌ Negativo → **either** (= tampoco)
+
+👉 Estructura:
+
+- **Sujeto + verbo negativo + either**
+
+Ejemplos:
+
+- I don’t like coffee. → I don’t like coffee **either**.
+- She isn’t tired. → I’m not tired **either**.
+- They don’t work here. → We don’t work here **either**.
+
+### 🔹 2. “So am I / So do I”
+
+Esto es una forma más corta y natural de decir “yo también”.
+
+#### ✅ Se usa con oraciones afirmativas
+
+👉 Estructura:
+
+- **So + auxiliar + sujeto**
+
+El auxiliar depende del verbo:
+
+|Tipo            |Ejemplo       |Respuesta |
+|----------------|--------------|----------|
+|verbo “to be”   |I am tired    |So am I   |
+|presente simple |I like coffee |So do I   |
+|pasado (did)    |I went there  |So did I  |
+
+Ejemplos:
+
+- I am happy → **So am I**
+- I like pizza → **So do I**
+- She works hard → **So do I**
+- They are ready → **So are we**
+
+### 🔹 3. “Neither am I / Neither do I”
+
+Esto significa **“yo tampoco”** en negativo.
+
+#### ❌ Se usa con oraciones negativas
+
+👉 Estructura:
+
+- **Neither + auxiliar + sujeto**
+
+Ejemplos:
+
+- I’m not tired → **Neither am I**
+- I don’t like coffee → **Neither do I**
+- She isn’t ready → **Neither am I**
+- They don’t work here → **Neither do we**
+
+### 🔹 4. Comparación rápida
+
+|Persona dice        |Respuesta                     |
+|--------------------|------------------------------|
+|I like coffee       |So do I / I do too            |
+|I don’t like coffee |Neither do I / I don’t either |
+|I am tired          |So am I / I am too            |
+|I’m not tired       |Neither am I / I’m not either |
+
+#### 🔹 5. Errores comunes
+
+❌ Incorrecto:
+
+- ~So I do~
+- ~Neither I am~
+
+✅ Correcto:
+
+- So do I
+- Neither am I
+
+👉 El orden es importante:  
+**auxiliar + sujeto**, no al revés.
+
+### 🔹 6. Resumen simple
+
+- ✔ **too** → también (afirmativo)
+- ✔ **either** → tampoco (negativo)
+- ✔ **so + auxiliar + sujeto** → yo también
+- ✔ **neither + auxiliar + sujeto** → yo tampoco
