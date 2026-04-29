@@ -182,9 +182,9 @@ Ejemplos:
 
 ### 🔹 2. “So” y "Neither"
 
-Esto es una forma más corta y natural de decir “yo también”.
-
 #### ✅ Afirmativo → **So am I/ So do I** (= yo también)
+
+Esto es una forma más corta y natural de decir “yo también”.
 
 👉 Estructura:
 
