@@ -246,5 +246,5 @@ Ejemplos:
 
 - ✔ **too** → también (afirmativo)
 - ✔ **either** → tampoco (negativo)
-- ✔ **so + auxiliar + sujeto** → yo también
-- ✔ **neither + auxiliar + sujeto** → yo tampoco
+- ✔ **so + auxiliar + sujeto** → yo también  (afirmativo)
+- ✔ **neither + auxiliar + sujeto** → yo tampoco  (negativo)
