@@ -2624,7 +2624,7 @@ We use **it** for time / day / distance / weather.
 
 > Answer Key to Exercises 278–279 or 288–289
 
-### 40. too/either  so am I / neither do I, etc.
+### 🔸40. too/either  so am I / neither do I, etc.
 
 > Page: 81 or 92
 
@@ -2635,7 +2635,77 @@ We use **it** for time / day / distance / weather.
 
 Ver [[Basic - Explanation#40. too/either so am I / neither do I, etc.]]
 
-#### 40.1 
+#### 40.1 Write too or either
+
+1. I'm happy.  
+	I'm happy, `too`.
+2. I'm not hungry.  
+	I'm not hungry, `either`.
+3. I'm going out.  
+	I'm going out, `too`.
+4. It rained on Saturday.  
+	It rained on Sunday. `too`.
+5. Jenn can't drive a car.  
+	She can't ride a bike, `either`.
+6. I don't like to go shopping.  
+	I don't like to go shopping, `either`.
+7. Lauren's mother is a teacher.  
+	Her father is a teacher, `too`.
+
+#### 40.2 Answer with So ... I (So am I / So do I / So can I, etc.).
+
+1. I went to bed late last night.  
+	So did I.
+2. I'm thirsty.  
+	So am I.
+3. I've already read this book.  
+	So have I.
+4. I need a vacation.  
+	So do I.
+5. I'll be late tomorrow.  
+	So will I.
+6. I was very tired this morning.  
+	So was I.
+
+Answer with Neither... I.
+
+7. I can't go to the party.  
+	Neither can I.
+8. I didn't call Alex last night.  
+	Neither did I.
+9. I haven't eaten lunch yet.  
+	Neither have I.
+10. I'm not going out tonight.  
+	Neither am I.
+11. I don't know what to do.  
+	Neither do I.
+
+#### 40.3 You are talking to Maria. Write sentences about yourself. Where possible, use So... I or Neither... I. Look at these examples carefully:
+
+1. I'm studying English.  
+	So am I. / I'm not. `(Yo no)`
+2. I can ride a bike.  
+	So can I. / I can't.
+3. I'm not American.  
+	Neither am I. / I am.
+4. I like to cook.  
+	So do I. / I don't.
+5. I don't like cold weather.  
+	Neither do I. / I do. `(Yo sí)`
+6. I slept well last night.  
+	So did I. / I didn't.
+7. I've never run a marathon.  
+	Neither have I. / I have.
+8. I don't use my phone much.  
+	Neither do I. / I do.
+9. I'm going out tomorrow night.  
+	So am I. / I'm not.
+10. I haven't been to India.  
+	Neither have I. / I have.
+11. I didn't watch TV last night.  
+	Neither did I. / I did.
+12. I go to the movies a lot.  
+	So do I. / I don't.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2645,8 +2715,8 @@ Ver [[Basic - Explanation#40. too/either so am I / neither do I, etc.]]
 
 </details>
 
-> Answer Key to Exercises 278 or 288
-🔸
+> Answer Key to Exercises 279 or 289
+
 ### 41. isn't, haven't, don't, etc. (negatives)
 
 > Page: 83 or 94
