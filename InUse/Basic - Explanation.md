@@ -180,11 +180,11 @@ Ejemplos:
 - She isn’t tired. → I’m not tired **either**.
 - They don’t work here. → We don’t work here **either**.
 
-### 🔹 2. “So am I / So do I”
+### 🔹 2. “So” y "Neither"
 
 Esto es una forma más corta y natural de decir “yo también”.
 
-#### ✅ Se usa con oraciones afirmativas
+#### ✅ Afirmativo → **So am I/ So do I** (= yo también)
 
 👉 Estructura:
 
@@ -205,11 +205,7 @@ Ejemplos:
 - She works hard → **So do I**
 - They are ready → **So are we**
 
-### 🔹 3. “Neither am I / Neither do I”
-
-Esto significa **“yo tampoco”** en negativo.
-
-#### ❌ Se usa con oraciones negativas
+#### ❌ Negativo → **Neither am I/ Neither do I** (= yo tampoco)
 
 👉 Estructura:
 
@@ -222,7 +218,7 @@ Ejemplos:
 - She isn’t ready → **Neither am I**
 - They don’t work here → **Neither do we**
 
-### 🔹 4. Comparación rápida
+### 🔹 3. Comparación rápida
 
 |Persona dice        |Respuesta                     |
 |--------------------|------------------------------|
@@ -231,7 +227,7 @@ Ejemplos:
 |I am tired          |So am I / I am too            |
 |I’m not tired       |Neither am I / I’m not either |
 
-#### 🔹 5. Errores comunes
+#### 🔹 4. Errores comunes
 
 ❌ Incorrecto:
 
@@ -246,7 +242,7 @@ Ejemplos:
 👉 El orden es importante:  
 **auxiliar + sujeto**, no al revés.
 
-### 🔹 6. Resumen simple
+### 🔹 5. Resumen simple
 
 - ✔ **too** → también (afirmativo)
 - ✔ **either** → tampoco (negativo)
