@@ -2721,17 +2721,95 @@ Answer with Neither... I.
 
 > Page: 83 or 94
 
+#### 41.1 Make these sentences negative.
+
+1. He's gone out. `He hasn't gone out`.
+2. They're married. `There aren't married`.
+3. I had dinner. `I didn't have dinner`.
+4. It's cold today. `It isn't cold today`.
+5. We'll be late. `We won't be late`.
+6. You should go. `You shouldn't go`.
+
+#### 41.2 Make these sentences negative. Use don't / doesn't / didn't.
+
+1. She saw me. `She didn't see me`.
+2. I like cheese. `I don't like cheese`.
+3. They understood. `They didn't understand`.
+4. He lives here. `He doesn't live here`.
+5. Go away! `Don't go away!`
+6. I did the dishes. `I didn't do the dishes`.
+
+#### 41.3 Make these sentences negative.
+
+1. She can swim. `She can't swim`.
+2. They've arrived. `They haven't arrived`.
+3. I went to the bank. `I didn't go to the bank`.
+4. He speaks Japanese. `He doesn't speak Japanese`.
+5. We were angry. `We weren't angry`.
+6. He'll be happy. `He won't be happy`.
+7. Call me tonight. `Don't call me tonight`.
+8. It rained yesterday. `It didn't rain yesterday`.
+9. I could hear them. `I couldn't hear them`.
+10. I believe you. `I don't believe you`.
+
+#### 41.4 Complete these sentences with a negative verb (isn't / haven't / don't, etc.).
+
+1. They aren't rich. They `don't` have much money.
+2. "Would you like something to eat?" "No, thank you. I `am not` hungry."
+3. I `can't` find my glasses. Have you seen them?
+4. David `doesn't` go to the movie theater much. He'd rather watch movies at home.
+5. We can walk to the station from here. It `isn't` very fast.
+6. "Where's Jane?" "I `don't` know. I `haven't` seen her today."
+7. Be careful! `Dont'` fall!
+8. We went to a restaurant last night. I `didn't` like the food very much.
+9. I've been to Japan many times, but I `haven't` been to South Korea.
+10. Julia `won't` be here tomorrow. She'll be out of town.
+11. "Who broke that window?" "Not me. I `didn't` do it."
+12. We didn't see what happened. We `weren't` looking at the time.
+13. Jenn bought a new coat a few days ago, but she `hasn't` worn it yet.
+14. You `shouldn't` drive so fast. It's dangerous.
+
+#### 41.5 You ask Sam some questions. He answers "Yes" or "No." Write sentences about Sam, affirmative or negative.
+
+1. Are you married? No.  
+	He isn't married.
+2. Do you live in Los Angeles? Yes.  
+	He lives in Los Angeles.
+3. Were you born in Los Angeles?  No.  
+	He wasn't born in Los Angeles.
+4. Do you like Los Angeles? No.  
+	He doesn't like Los Angeles.
+5. Would you like to live someplace else? Yes.  
+	He would like to live someplace else.
+6. Can you drive? Yes.  
+	He can drive.
+7. Have you traveled abroad? No.  
+	He hasn't traveled abroad.
+8. Do you read the newspaper? No.  
+	He doesn't read the newspaper.
+9. Are you interested in politics? No.  
+	He isn't interested in politics.
+10. Do you usually watch TV at night? Yes.  
+	He usually watches TV at night.
+11. Did you watch TV last night? No.  
+	He didn't watch TV last night.
+12. Did you go out last night? Yes.  
+	He went out last night.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Simple present negative → Unit 6
+- Simple past negative → Unit 12
+- Don't look / don't wait, etc. → Unit 34
+- Why isn't / don't...? → Unit 42
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
+> Answer Key to Exercises 279 or 289
+
+## 10. Questions
 
 ### 42.
 
@@ -2747,7 +2825,7 @@ Answer with Neither... I.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
+> Answer Key to Exercises 279 or 289
 🔸
 
 ### 43.
@@ -2764,7 +2842,7 @@ Answer with Neither... I.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
+> Answer Key to Exercises 279 or 289
 🔸
 
 ### 44.
@@ -2781,7 +2859,7 @@ Answer with Neither... I.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
+> Answer Key to Exercises 279 or 289
 🔸
 
 ### 45.
@@ -2798,7 +2876,7 @@ Answer with Neither... I.
 </details>
 
 > Additional exercise 28 – 31 (page 250 or 253)  
-> Answer Key to Exercises 278 or 288
+> Answer Key to Exercises 279 or 289
 🔸
 
 ### 46.
@@ -2835,6 +2913,8 @@ Answer with Neither... I.
 > Answer Key to Exercises 278 or 288
 🔸
 
+## 11. Reported speech
+
 ### 48.
 
 > Page: 97 or 108
@@ -2851,6 +2931,8 @@ Answer with Neither... I.
 > Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 278 or 288
 🔸
+
+## 12. -ing and to...
 
 ### 49.
 
