@@ -2811,24 +2811,84 @@ Answer with Neither... I.
 
 ## 10. Questions
 
-### 42.
+### 42. is it...? have you...? do they...?, etc. (questions 1)
 
 > Page: 85 or 96
+
+#### 42.1 Write questions.
+
+1. I can swim. And you?  
+	Can you swim?
+2. I work hard. And Jack?  
+	Does Jack work hard?
+3. I was late this morning. And you?  
+	Were you late this morning?
+4. I've seen that movie. And Kate?  
+	Has Kate seen that movie? Did Kate see that movie?
+5. I'll be here tomorrow And you?  
+	Will you be here tomorrow?
+6. I'm going out tonight. And Sam?  
+	Is Sam going out tonight?
+7. I like my job. And you?  
+	Do you like your job?
+8. I live near here. And Nicole?  
+	Does Nicole live near here?
+9. I enjoyed the movie. And you?  
+	Did you enjoy the movie?
+10. I had a good vacation. And you?  
+	Did you have a good vacation?
+
+#### 42.2 You are talking to a friend about driving. Write complete questions.
+
+1. Do you have a car? Yes, I do.
+2. Do you use it a lot? Yes, every day.
+3. Did you use it yesterday? Yes, to go to work.
+4. Do you enjoy driving? Not very much.
+5. Are you a good driver? I think I am.
+6. Have you ever had an accident? No, never.
+
+#### 42.3 Make questions with these words. Put the words in the right order.
+
+1. Where did David go?
+2. Is Rachel working today?
+3. What are the children doing?
+4. How is cheese made?
+5. Is your sister coming to the party?
+6. Why don't you tell the truth?
+7. Have your guests arrived yet?
+8. What time does your plane leave?
+9. Why didn't Emma go to work?
+10. Was your car damaged in the accident?
+
+#### 42.4 Complete the questions.
+
+1. I want to go out. Where do you want to go?
+2. Kate and Ben aren't going to the party. Why `aren't they going?`
+3. I'm reading. What `are you reading?`
+4. Sue went to bed early. What time `did she go to bed?`
+5. My parents are going on vacations. When `are they going on vacations?`
+6. I saw Tom a few days ago. Where `did you see him?`
+7. I can't come to the party. Why `can't you come to the party?`
+8. I've been to Canada? How many times `have you been (there?)/ to Canada?`
+9. I need some money. How much `do you need?`
+10. Anna doesn't like me. Why `doesn't Anna like you?`
+11. It rains sometimes. How often `does it rain?`
+12. I did the shopping. When `did you do (it?) the shopping?`
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- What are you doing tomorrow? → Unit 24
-- I'm going to... → Unit 25
+- Simple present questions → Unit 7
+- Simple past questions → Unit 12
+- Questions 2–3 → Unit 43–44
+- What / which / how → Unit 45–46
 
 </details>
 
-> Additional exercise 28 – 31 (page 250 or 253)  
 > Answer Key to Exercises 279 or 289
-🔸
 
-### 43.
+### 43. Who saw you? Who did you see? (questions 2)
 
 > Page: 87 or 98
 
@@ -2845,7 +2905,7 @@ Answer with Neither... I.
 > Answer Key to Exercises 279 or 289
 🔸
 
-### 44.
+### 44. Who is she talking to? What is it like? (questions 3)
 
 > Page: 89 or 100
 
@@ -2862,7 +2922,7 @@ Answer with Neither... I.
 > Answer Key to Exercises 279 or 289
 🔸
 
-### 45.
+### 45. What...? Which...? How...? (questions 4)
 
 > Page: 91 or 102
 
@@ -2879,7 +2939,7 @@ Answer with Neither... I.
 > Answer Key to Exercises 279 or 289
 🔸
 
-### 46.
+### 46. How long does it take...?
 
 > Page: 93 or 104
 
@@ -2896,7 +2956,7 @@ Answer with Neither... I.
 > Answer Key to Exercises 278 or 288
 🔸
 
-### 47.
+### 47. Do you know where...? I don't know what..., etc.
 
 > Page: 95 or 106
 
@@ -2915,7 +2975,7 @@ Answer with Neither... I.
 
 ## 11. Reported speech
 
-### 48.
+### 48. She said that... He told me that...
 
 > Page: 97 or 108
 
@@ -2934,7 +2994,7 @@ Answer with Neither... I.
 
 ## 12. -ing and to...
 
-### 49.
+### 49. work/working go/going do/doing
 
 > Page: 99 or 110
 
