@@ -2892,11 +2892,71 @@ Answer with Neither... I.
 
 > Page: 87 or 98
 
-#### 43.1
+#### 43.1 Make questions with who or what. In these questions, who / what is the subject.
 
-#### 43.2
+1. Somebody broke the window.  
+	Who broke the window?
+2. Something fell off the shelf.  
+	What fell off the shelf?
+3. Somebody wants to see you.  
+	Who wants to see me?
+4. Somebody took my umbrella.  
+	Who took your umbrella? / Who took it?
+5. Something made me sick.  
+	What made you sick?
+6. Somebody is coming.  
+	Who is coming?
 
-#### 43.3
+#### 43.2 Make questions with who or what (subject or object).
+
+1. I bought something.  
+	What did you buy?
+2. Somebody lives in this house.  
+	Who lives in this house?
+3. I called somebody.  
+	Who did you call?
+4. Something happened last night.  
+	What happened last night?
+5. Somebody knows the answer.  
+	Who knows the answer?
+6. Somebody did the dishes.  
+	Who did the dishes?
+7. Emma did something.  
+	What did Emma/she do?
+8. Something woke me up.  
+	What woke you up?
+9. Somebody saw the accident.  
+	Who saw the accident?
+10. I saw somebody.  
+	Who did you see?
+11. Somebody has my pen.  
+	Who has your pen / it?
+12. This word means something.  
+	What does this word / it mean?
+
+#### 43.3 You want the missing information (xxxxx). Write questions with who or what.
+
+1. I lost `xxxxx` yesterday, but fortunately `xxxxx` found it and gave it back to me.  
+	What did you lose?  
+	Who found it?
+2. `xxxxx` called me last night. She wanted `xxxxx`.  
+	Who called you last night?  
+	What did she want?
+3. I needed some advice, so I asked `xxxxx`. He said `xxxxx`.  
+	Who did you ask?  
+	What did he say?
+4. I hear that `xxxxx` got married last week. `xxxxx` told me.  
+	Who got married last week?  
+	Who told you?
+5. I met `xxxxx` on my way home tonight. She told me `xxxxx`.  
+	Who did you meet?  
+	What did she tell you?
+6. Andy and I played tennis yesterday. `xxxxx` won. After the game, we `xxxxx`.
+	Who won?  
+	What did you do after the game?
+7. It was my birthday last week, and I got some presents. `xxxxx` gave me a book, and Catherine gave me `xxxxx`.  
+	Who gave you a book?  
+	What did Catherine give you?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2908,7 +2968,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 279 – 280 or 289 – 290
-🔸
 
 ### Unit 44. Who is she talking to? What is it like? (questions 3)
 
