@@ -2888,7 +2888,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 279 or 289
 
-### Unit 43. Who saw you? Who did you see? (questions 2)
+### 🔸Unit 43. Who saw you? Who did you see? (questions 2)
 
 > Page: 87 or 98
 
@@ -2969,20 +2969,64 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 279 – 280 or 289 – 290
 
-### Unit 44. Who is she talking to? What is it like? (questions 3)
+### 🔸Unit 44. Who is she talking to? What is it like? (questions 3)
 
 > Page: 89 or 100
 
-#### 44.1
+#### 44.1 You want the missing information (xxxxx). Write questions with who or what.
 
-#### 44.2
+1. The letter is from `xxxxx`.  
+	Who is the letter from?
+2. I'm looking for a `xxxxx`.  
+	What are you looking for?
+3. I went to the movies with `xxxxx`.  
+	Who did you go to the movies with?
+4. The movie was about `xxxxx`.  
+	What/Who was the movie about?
+5. I gave the money to `xxxxx`.  
+	Who did you give the money to?
+6. The book was written by `xxxxx`.  
+	Who was the book written by?
 
-#### 44.3
+#### 44.2 Write questions about the people in the pictures. Use these verbs + a preposition:
 
+`go` `listen` `look` ~~`talk`~~ `talk` `wait`
 
-#### 44.4
+1. Who is she talking to?
+2. What are they looking at?
+3. Which restaurant is he going to?
+4. What are they talking about?
+5. What is she listening to?
+6. Which bus are they waiting to?
 
-#### 44.5
+#### 44.3 Write questions with Which...?
+
+1. Tom's father is in the hospital.  
+	Which hospital is he in?
+2. We stayed at a hotel.  
+	Which hotel did you stay at?
+3. Jack plays for a football team.  
+	Which team does Jack play for / belong to?
+4. I went to school in this town.  
+	Which school did you go to?
+
+#### 44.4 You want some information about another country. You ask somebody who has been there. Ask questions with What is / are... like?
+
+1. (the roads) What are the roads like?
+2. (the food) What is the food like?
+3. (the people) What are the people like?
+4. (the weather) What is the weather like?
+
+#### 44.5 Ask questions with What was / were... like?
+
+1. Your friend just came back from a trip. Ask about the weather.  
+	What was the weather like?
+2. Your friend just came back from the movies. Ask about the movie.  
+	What was the movie like?
+3. Your friend just finished a computer course. Ask about the classes.  
+	What were the classes like?
+4. Your friend just came back from a business trip. Ask about the hotel.  
+	What was the hotel like?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -2995,7 +3039,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 280 or 290
-🔸
 
 ### Unit 45. What...? Which...? How...? (questions 4)
 
