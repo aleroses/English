@@ -3040,21 +3040,71 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 280 or 290
 
-### Unit 45. What...? Which...? How...? (questions 4)
+### 🔸Unit 45. What...? Which...? How...? (questions 4)
 
 > Page: 91 or 102
 
-#### 45.1
+#### 45.1 Write questions with what.
 
-#### 45.2
+1. This shirt is nice. (size?)  
+	What size is it?
+2. I want a job. (kind)  
+	What kind of job do you want?
+3. I bought a new sweater. (color?)  
+	What color is it? / What color did you buy?
+4. I got up early this morning. (time?)  
+	What time did you? / What time did you get up?
+5. I like music. (type?)  
+	What type of music do you like?
+6. I want to buy a car. (kind?)  
+	What kind of car do you want to buy?
 
-#### 45.3
+#### 45.2 Complete the questions. Use Which...?
 
-#### 45.4
+1. Which way should we go?
+2. `Which coat` is yours?
+3. `Which movie / film` do you want to see?
+4. `Which bus goes` downtown?
 
-#### 45.5
+#### 45.3 Write what / which / who.
 
+1. What is that man's name?
+2. Which way should we go? Left or right?
+3. Tea or coffee? `Which` do you prefer?
+4. "`What` day is it today?" "Friday."
+5. `What` is your favorite sport?
+6. This is a nice office. `Which` desk is yours?
+7. `Which` is more expensive, meat or fish?
+8. `Who` is older, Liz or Mike?
+9. `What` kind of camera do you have?
+10. ...
+	A: I have three cameras.  
+	B: `Which` camera do you use most?
+11. `What` nationality are you?
 
+#### 45.4 Complete the questions with How + adjective or adverb (high / long, etc.).
+
+1. How high is Mount Everest? Over 29 000 feet.
+2. `How far` is it to the station? Almost two miles.
+3. `How old` is Helen? She's 26.
+4. `How often` do the buses run? Every 10 minutes.
+5. `How deep` is the water in the pool? Seven feet.
+6. `How long` have you lived here? Almost three years.
+
+#### 45.5 Write questions with How...?
+
+1. Are you five feet nine? Five feet ten? Five feet eleven?  
+	How tall are you?
+2. Is this box one kilogram? Two? Three?  
+	`How heavy` is it?
+3. Are you 20 years old? 22? 25?  
+	`How old` are you?
+4. Did you spend $20? $30? $50?  
+	`How much` did you spend?
+5. Do you watch TV every day? Once a week? Never?  
+	`How often` do you watch TV?
+6. Is it 2 000 miles from New York to Los Angeles? 2 500? 3 000?  
+	`How far` is it from New York to Los Angeles?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -3067,7 +3117,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 280 or 290
-🔸
 
 ### Unit 46. How long does it take...?
 
