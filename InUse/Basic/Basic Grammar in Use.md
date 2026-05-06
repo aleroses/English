@@ -3122,19 +3122,45 @@ Answer with Neither... I.
 
 > Page: 93 or 104
 
-#### 46.1
+#### 46.1 Look at the pictures and write questions with How long...?
 
-#### 46.2
+1. How long does it take to get from Rio de Janeiro to Lima by plane?
+2. How long does it take to get from Houston to Mexico City by car?
+3. How long does it take to get from Tokyo to Kyoto by train?
+4. How long does it take to get from JFK Airport to Manhattan by bus?
 
-#### 46.3
+#### 46.2 How long does it take to do these things? Write complete sentences.
 
+1. It takes about 11 hours to fly from Seoul to Los Angeles.
+2. It takes about 2 days to fly from Piura to Australia.
+3. It takes about 8 years become a doctor in my country.
+4. It takes about 1 hour to walk from my home to the nearest supermarket.
+5. It takes about 3 hours to get from my house to the nearest airport.
 
-#### 46.4
+#### 46.3 Write questions with How long did it take...?
 
+1. How long did it take her to find a job?
+2. How long did it take you to walk to the station?
+3. How long did it take him to paint the bathroom?
+4. How long did it take you to learn to ski?
+5. How long did it take them to repair the car?
 
+#### 46.4 Read the situations and write sentences with It took...
+
+1. I read a book last week. I started reading it on Monday. I finished it three days later.  
+	It took me three days to read the book.
+2. We walked home last night. We left at 10:00, and we got home at 10:20.  
+	It took us 20 minutes to walk/get home.
+3. I learned to drive last year. I had my first driving lesson in January. I passed my driving test six months later.  
+	It took me six/6 months to learn to drive.
+4. Mark drove to Houston yesterday. He left home at 7:00 and got to Houston at 10:00.  
+	It took him three/3 hours to drive/get to Houston.
+5. Lisa began looking for a job a long time ago. She got a job last week.  
+	It took her a long time to find/get a job.
+6. Write a sentence about yourself.  
+	It took me a long time to learn how to program.
 
 > Answer Key to Exercises 280 or 290
-🔸
 
 ### Unit 47. Do you know where...? I don't know what..., etc.
 
