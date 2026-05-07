@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Diseño tipo periódico</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+
+      .contenedor {
+        width: 300px;
+        background-color: #1e1e1e;
+        color: white;
+        padding: 16px;
+        border: 2px solid white;
+        font-family: sans-serif;
+      }
+
+      .img {
+        float: left;
+        width: 80px;
+        height: 80px;
+        background-color: gray;
+        /* margin: 0 12px 12px 0; */
+        margin: 0 12px 0 0;
+        text-align: center;
+        line-height: 80px;
+        font-size: 14px;
+      }
+
+      .texto::after {
+        /* content: ""; */
+        /* display: block; */
+        /* clear: both; */
+      }
+
+      /* .texto {
+        margin: 0;
+        padding: 0;
+        background-color: aqua;
+      } */
+    </style>
+  </head>
+  <body>
+    <div class="contenedor">
+      <div class="img">img</div>
+      <div class="texto">
+        <p>
+          <strong>Texto:</strong> Lorem ipsum dolor sit amet,
+          consectetur adipiscing elit. Sed sit amet libero id
+          mauris. Otro párrafo para probar el desbordamiento y
+          el reflujo del diseño. A medida que aumenta el
+          contenido, este baja.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
