@@ -3166,9 +3166,35 @@ Answer with Neither... I.
 
 > Page: 95 or 106
 
-#### 47.1
+#### 47.1 Answer these questions with I don't know where / when / why..., etc.
 
-#### 47.2
+1. Did your friends go home? (where)  
+	I don't know where they went.
+2. Is Sue in her office? (Where)  
+	I don't know `where she is`.
+3. Is the building very old? (how old)  
+	I don't know `how old it is`.
+4. Will Matt be here soon? (when)  
+	I don't know `when he will be here`.
+5. Was he angry because I was late? (why)  
+	I don't know `why he was angry`.
+6. Has Emily lived here a long time? (how long)  
+	I don't know `how long she has lived here`.
+
+#### 47.2 Complete the sentences.
+
+1. (How do airplanes fly?)  
+	Do you know how airplanes fly?
+2. (Where does Susan work?)  
+	I don't know `where Susan work`.
+3. (What did Michael say?)  
+	Do you remember `what Michael said`?
+4. (Why did he go home early?)  
+	I don't know `why he went early`.
+5. (What time does the meeting begin?)  
+	Do you know `what time the meeting begin`?
+6. (How did the accident happen?)  
+	I don't remember `how the accident happen`.
 
 #### 47.3
 
