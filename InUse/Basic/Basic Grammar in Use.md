@@ -3196,7 +3196,15 @@ Answer with Neither... I.
 6. (How did the accident happen?)  
 	I don't remember `how the accident happen`.
 
-#### 47.3
+#### 47.3 Which is right?
+
+1. Do you know what time it is?
+2. Why `are you` leaving?
+3. I don't know where `they are` going.
+4. Can you tell me where `the museum is`?
+5. Where `do you want` to go for vacation?
+6. Do you know what `elephants eat`?
+7. I don't know how far `it is` from the hotel to the station.
 
 #### 47.4
 
