@@ -3175,7 +3175,7 @@ Answer with Neither... I.
 3. Is the building very old? (how old)  
 	I don't know `how old it is`.
 4. Will Matt be here soon? (when)  
-	I don't know `when he will be here`.
+	I don't know `when he'll be here`.
 5. Was he angry because I was late? (why)  
 	I don't know `why he was angry`.
 6. Has Emily lived here a long time? (how long)  
@@ -3186,15 +3186,15 @@ Answer with Neither... I.
 1. (How do airplanes fly?)  
 	Do you know how airplanes fly?
 2. (Where does Susan work?)  
-	I don't know `where Susan work`.
+	I don't know `where Susan works`.
 3. (What did Michael say?)  
 	Do you remember `what Michael said`?
 4. (Why did he go home early?)  
 	I don't know `why he went early`.
 5. (What time does the meeting begin?)  
-	Do you know `what time the meeting begin`?
+	Do you know `what time the meeting begins`?
 6. (How did the accident happen?)  
-	I don't remember `how the accident happen`.
+	I don't remember `how the accident happened`.
 
 #### 47.3 Which is right?
 
@@ -3206,18 +3206,46 @@ Answer with Neither... I.
 6. Do you know what `elephants eat`?
 7. I don't know how far `it is` from the hotel to the station.
 
-#### 47.4
+#### 47.4 Write questions with Do you know if...?
 
+1. (Do they have a car?)  
+	Do you know if they have a car?
+2. (Are they married?)  
+	Do you know `if they are married`?
+3. (Does Sue know Bill?)  
+	Do you know `if Sue knows Bill`?
+4. (Will Josh be here tomorrow?)  
+	Do you know `if Josh will be here tomorrow`?
+5. (Did he pass his exam?)  
+	Do you know `if he passed his exam`?
 
-#### 47.5
+#### 47.5 Write questions beginning Do you know...?
 
-#### 47.6
+1. (What does Laura want?)  
+	Do you know what Laura wants?
+2. (Where is Hannah?)  
+	Do you know `where Hannah is`?
+3. (Is she working today?)  
+	Do you know `she is working today`?
+4. (What time does she start work?)  
+	Do you know `what time she starts work`?
+5. (Are the banks open tomorrow?)  
+	Do you know `if the banks are open tomorrow`?
+6. (Where do Sarah and Tom live?)  
+	Do you know `where they live`?
+7. (Did they go to Megan's party?)  
+	Do you know `if/whether they went to Megan's party`?
 
+#### 47.6 Use your own ideas to complete these sentences.
 
-
+1. Do you know why the bus was late?
+2. Do you know what time `the bus leaves`?
+3. Excuse me, can you tell me where `the library is`?
+4. I don't know what `to cook today`.
+5. Do you know if `the subway station is open`?
+6. Do you know how much `these sneakers cost`?
 
 > Answer Key to Exercises 280 – 281 or 290 – 291
-🔸
 
 ## 11. Reported speech
 
