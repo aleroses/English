@@ -3253,6 +3253,63 @@ Answer with Neither... I.
 
 > Page: 97 or 108
 
+#### 48.1 Read what these people say and write sentences with He / She / They said (that)...
+
+1. I'm enjoying my new job.  
+	He said he was enjoying his new job.
+2. I'm very busy.  
+	She said (that) she was very busy.
+3. I can't go to the party.  
+	She said she couldn't go to the party.
+4. I have to go out.  
+	He said (that) he had to go out.
+5. I'm learning Russian.  
+	He said (that) he was learning Russian.
+6. I don't feel very well.  
+	She said (that) she didn't feel very well.
+7. We'll be home late.  
+	They said (that) they would be home late.
+8. I've never played soccer.  
+	She said (that) she had never played soccer.
+9. I'm going to buy a guitar.  
+	She said (that) she was going to buy a guitar.
+10. We don't have a key.  
+	They said (that) they didn't have a key.
+
+#### 48.2 Use the pictures to complete the sentences.
+
+1. I met Allison last week.  
+	She said I'm enjoying my new job.
+2. Emily didn't want anything to eat.  
+	She said (that) `she wasn't hungry`.
+3. I wanted to borrow Mike's ladder, but  
+	He said (that) `he needed it`.
+4. Hannah was invited to the party, but  
+	She said (that) `she didn't want to go`.
+5. Natalie told me she didn't want the picture.  
+	She said (that) `I could have it`.
+6. Matt just left on vacation. 
+	He said (that) `he would send me a postcard`.
+7. I was looking for Robert.  
+	Jessica said (that) `he had gone home`.
+8. "Why did David stay home?" 
+	He said (that) `he wanted to watch TV`.
+9. "Did Mary go out?"  
+	"I think so. She said (that) `she was going to the movies`."
+
+#### 48.3 Write say / said or tell / told.
+
+1. He `said` he was tired.
+2. What did she `tell` you?
+3. Anna `said` she didn't like Jake.
+4. Jack `told` me that you were sick.
+5. Please don't `tell` Dan what happened.
+6. Did Sarah `say` she would be late?
+7. The woman `said` she was a reporter.
+8. The woman `told` us she was a reporter.
+9. They asked me a lot of questions, but I didn't `tell` them anything.
+10. They asked me a lot of questions, but I didn't `say` anything.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3262,7 +3319,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 281 or 291
-🔸
 
 ## 12. -ing and to...
 
