@@ -3326,6 +3326,17 @@ Answer with Neither... I.
 
 > Page: 99 or 110
 
+#### 49.1
+
+#### 49.2
+
+#### 49.3
+
+#### 49.4
+
+#### 49.5
+
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3355,6 +3366,120 @@ Answer with Neither... I.
 
 > Additional exercise 32 (page 254 or 264)  
 > Answer Key to Exercises 281 or 291
+🔸
+
+### Unit 51. I want you to... I told you do
+
+> Page: 103 or 114
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- Let's... → Unit 34
+- He told me that... → Unit 48
+
+</details>
+
+> Answer Key to Exercises 281 – 282 or 291 – 292
+🔸
+
+### Unit 52. I went to the store to...
+
+> Page: 105 or 116
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- go to... and go for... → Unit 53
+- something to eat / nothing to do, etc → Unit 77
+- enough + to / for... → Unit 89
+- too + to / for... → Unit 90
+
+</details>
+
+> Answer Key to Exercises 282 or 292
+🔸
+
+## 13. Go, get, do, make, and have
+
+### Unit 53. go to... go on... go for... go -ing
+
+> Page: 107 or 118
+
+
+
+> Answer Key to Exercises 282 or 292
+🔸
+
+### Unit 54. get
+
+> Page: 109 or 120
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- get to → Unit 106
+- in / out / on / off → Unit 108, 112
+- get up → Unit 112
+
+</details>
+
+
+> Answer Key to Exercises 282 or 292
+🔸
+
+### Unit 55. do and make
+
+> Page: 111 or 122
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- do / does / did (negatives and questions) → Unit 43 – 44
+- make somebody do something → Unit 51
+
+</details>
+
+> Answer Key to Exercises 282 – 283 or 292 – 293
+🔸
+
+### Unit 56. have
+
+> Page: 113 or 124
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- I have / I've got → Unit 9
+- I've (done) (present perfect) → Unit 16 – 19
+- I have to... → Unit 31
+
+</details>
+
+> Answer Key to Exercises 283 or 293
+🔸
+
+## 14. Pronouns and possessives
+
+### Unit 57. I / me    he / him    they / them, etc.
+
+> Page: 115 or 126
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- My / his / their, etc. → Unit 58
+- Give me that book / Give it to me → Unit 94
+
+</details>
+
+> Answer Key to Exercises 283 or 293
 🔸
 
 
