@@ -248,3 +248,287 @@ Ejemplos:
 - ✔ **either** → tampoco (negativo)
 - ✔ **so + auxiliar + sujeto** → yo también  (afirmativo)
 - ✔ **neither + auxiliar + sujeto** → yo tampoco  (negativo)
+
+## 50. to ... (I want to do) and -ing (I enjoy doing)
+
+> Después de un verbo, el siguiente verbo puede ir:
+
+- con **to + verbo base**
+    
+- o con **verb + ing**
+    
+
+Y no se usan igual. Depende del verbo anterior.
+
+### Punto A — `to + verbo`
+
+Ejemplos:
+
+- I want **to work**
+- She decided **to leave**
+- We need **to study**
+
+Aquí la estructura es:
+
+> verbo + to + infinitivo
+
+🔥 Idea principal
+
+El primer verbo expresa:
+
+- deseo
+- intención
+- decisión
+- necesidad
+- plan
+- propósito
+
+Por eso el segundo verbo aparece como una acción “objetivo”.
+
+#### Ejemplos
+
+I want to sleep
+
+👉 Quiero dormir.
+
+- `want` = deseo
+    
+- `to sleep` = acción deseada
+    
+
+We decided to go
+
+👉 Decidimos ir.
+
+- `decided` = decisión
+    
+- `to go` = acción que se decidió hacer
+    
+
+#### Verbos comunes con `to`
+
+Algunos muy importantes:
+
+- want to
+- need to
+- decide to
+- hope to
+- plan to
+- try to
+- learn to
+
+### Punto B — `verb + ing`
+
+Ejemplos:
+
+- I enjoy **reading**
+- I don't mind **getting up early**
+- She finished **working**
+
+Aquí NO usamos `to`.
+
+La estructura es:
+
+> verbo + verbo-ing
+
+🔥 ¿Por qué aquí NO se usa `to`?
+
+Porque ciertos verbos en inglés NO aceptan infinitivo (`to do`).
+
+Ellos aceptan la acción como una actividad o experiencia, y el inglés usa el gerundio (`doing`).
+
+#### Ejemplos
+
+I enjoy reading
+
+👉 “disfruto la actividad de leer”
+
+No significa:
+
+> “disfruto PARA leer”
+
+Aquí `reading` funciona casi como un sustantivo.
+
+I don't mind getting up early
+
+👉 No me molesta levantarme temprano.
+
+`mind` funciona con actividades.
+
+- getting up early = la actividad
+    
+
+NO:
+
+- ❌ I don't mind to get up early
+    
+
+Eso suena incorrecto en inglés.
+
+#### Verbos comunes que usan `-ing`
+
+Muy importantes:
+
+- enjoy doing
+- mind doing
+- finish doing
+- stop doing
+- avoid doing
+- suggest doing
+
+### Diferencia mental importante
+
+#### `to do`
+
+👉 acción futura / intención / objetivo
+
+#### `doing`
+
+👉 actividad / experiencia / proceso
+
+### Comparación clara
+
+I want to read
+
+👉 Quiero leer.
+
+(la lectura es un objetivo)
+
+I enjoy reading
+
+👉 Disfruto leer.
+
+(la lectura es una actividad que disfruto)
+
+### Punto C — Verbos que aceptan ambos
+
+Sí, algunos verbos permiten:
+
+- `to do`
+    
+- y también `doing`
+
+#### Ejemplo del libro
+
+- Do you like getting up early?
+- Do you like to get up early?
+
+Ambas son correctas, pero NO todos los verbos permiten ambas formas
+
+Solo ciertos verbos.
+
+Los más comunes:
+
+- like
+- love
+- hate
+- prefer
+- start
+- begin
+
+Entonces, ¿Cuál es la diferencia?
+
+A veces casi no hay diferencia.
+
+#### LIKE + ing
+
+I like reading
+
+👉 Me gusta leer.
+
+Habla más de:
+
+- actividades en general
+- hobbies
+- experiencias
+
+#### LIKE + to
+
+I like to read before bed
+
+👉 Me gusta leer antes de dormir.
+
+Habla más de:
+
+- hábitos
+- elecciones
+- costumbres
+
+En muchos casos, la diferencia es muy pequeña por eso ambas opciones suelen ser correctas.
+
+I like swimming
+
+👉 Me gusta nadar.
+
+(en general, como actividad)
+
+I like to swim in the morning
+
+👉 Me gusta nadar en la mañana.
+
+(hábito o preferencia específica)
+
+Pero cuidado, no puedes elegir libremente con TODOS los verbos.
+
+Por ejemplo:
+
+- enjoy
+
+✔ enjoy reading  
+❌ enjoy to read
+
+- want
+
+✔ want to go  
+❌ want going
+
+- decide
+
+✔ decide to leave  
+❌ decide leaving
+
+### Regla práctica que te ayudará mucho
+
+#### Grupo 1 → SOLO `to`
+
+- want to
+- need to
+- decide to
+- hope to
+
+#### Grupo 2 → SOLO `ing`
+
+- enjoy doing
+- mind doing
+- finish doing
+- avoid doing
+
+#### Grupo 3 → ambos
+
+- like
+- love
+- hate
+- prefer
+- start
+- begin
+
+### Algo importante sobre `-ing`
+
+El `-ing` no siempre es “presente continuo”.
+
+Aquí NO es continuo.
+
+Por ejemplo:
+
+- I enjoy reading
+
+`reading` aquí es un gerundio.
+
+Funciona como:
+
+- “leer”
+- “la actividad de leer”
+
+No significa:
+
+- “estoy leyendo”
