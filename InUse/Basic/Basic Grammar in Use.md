@@ -3326,16 +3326,57 @@ Answer with Neither... I.
 
 > Page: 99 or 110
 
-#### 49.1
+#### 49.1 Complete the sentences. Write: ...call Dan or ... to call Dan.
 
-#### 49.2
+1. I'll `call Dan`.
+2. I'm going `to call Dan`.
+3. Can you `call` Dan?
+4. Should I `call Dan`?
+5. I'd like `to call Dan`.
+6. Do you have `to call Dan`?
+7. You should `call Dan`?
+8. I want `to call Dan`.
+9. I might `call Dan`.
+10. Could you `call Dan`?
 
-#### 49.3
+#### 49.2 Complete the sentences with a verb from the box. Sometimes you need the base form (work/go, etc.) and sometimes you need -ing (working/going, etc.).
 
-#### 49.4
+`do/doing` `get/getting` ~~`sleep/sleeping`~~ `watch/watching` `eat/eating` `go/going` `stay/staying` `wear/wearing` `fly/flying` `listen/listening` `wait/waiting` ~~`work/working`~~
 
-#### 49.5
+1. Please be quiet. I'm `working`.
+2. I feel tired today. I didn't `sleep` very well last night.
+3. What time do you usually `get` up in the morning?
+4. "Where are you `going`?" "To the office."
+5. Did you `watch` TV last night?
+6. Look at that plane! It's `flying` very low.
+7. You can turn off the music. I'm not `listening` to it.
+8. They didn't `eat` anything because they weren't hungry.
+9. My friends were `waiting` for me when I arrived.
+10. "Does Susan always `wear` glasses?" "No, only for reading."
+11. "What are you `doing`tonight?" "I'm `staying` home."
 
+#### 49.3 Put the verb in the correct form. Choose from: base form (work/go, etc.) or to + base form (to work/to go, etc.) or -ing (working/going, etc.)
+
+1. Should I `open` the window?
+2. It's late. I have `to go` now.
+3. Amanda isn't `working` this week. She's on vacation.
+4. I'm tired. I don't want `to go` out.
+5. It might `rain`, so take an umbrella with you.
+6. What time do you have `to leave` tomorrow morning?
+7. I'm sorry I can't `help` you.
+8. My brother is a student. He's `studying` physics.
+9. Would you like `to go` on a trip around the world?
+10. When you saw Maria, what was she `wearing`?
+11. When you go to London, where are you going `to stay`?
+12. "Where's Josh?" "He's `taking` a bath."
+13. I used `to have` a car, but I sold it last year.
+14. He spoke very quietly. I couldn't `hear` him.
+15. You don't look well. I don't think you should `go` to work today.
+16. I don't know what he said. I wasn't `listening` to him.
+17. I missed the bus and had `to walk` home.
+18. I want `to know` what happened. Please tell me.
+19. May I `borrow` this book?
+20. Medical students must `take` courses in biology and chemistry.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -3347,11 +3388,18 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 281 or 291
-🔸
 
 ### Unit 50. to... (I want to do) and -ing (I enjoy doing)
 
 > Page: 101 or 112
+
+#### 50.1
+
+#### 50.2
+
+#### 50.3
+
+#### 50.4
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -3372,6 +3420,12 @@ Answer with Neither... I.
 
 > Page: 103 or 114
 
+#### 51.1
+
+#### 51.2
+
+#### 51.3
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3387,6 +3441,18 @@ Answer with Neither... I.
 ### Unit 52. I went to the store to...
 
 > Page: 105 or 116
+
+#### 52.1
+
+#### 52.2
+
+#### 52.3
+
+#### 52.4
+
+#### 52.5
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
