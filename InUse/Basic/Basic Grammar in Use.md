@@ -3389,17 +3389,68 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 281 or 291
 
-### Unit 50. to... (I want to do) and -ing (I enjoy doing)
+### 🔸Unit 50. to... (I want to do) and -ing (I enjoy doing)
 
 > Page: 101 or 112
 
-#### 50.1
+#### 50.1 Put the verb in the right form, to... or -ing.
 
-#### 50.2
+1. I enjoy `dancing`.
+2. What do you want `to do` tonight?
+3. Goodbye! I hope `to see` you again soon.
+4. I learned `to swim` when I was five years old.
+5. Did you finish `cleaning` the kitchen?
+6. Where's Anna? I need `to ask` her something.
+7. Do you enjoy `visiting` other countries?
+8. The weather was nice, so I suggested `going` for a walk by the river.
+9. Where's Bill? He promised `to be` here on time.
+10. I'm not in a hurry. I don't mind `waiting`.
+11. What did you decide `to do`?
+12. Josh was very angry and refused `to speak` to me.
+13. I'm tired. I want `to go` to bed.
+14. I was very upset and started `crying/to cry`.
+15. I'm trying `to work`. Please stop `talking`.
 
-#### 50.3
+#### 50.2 Complete the sentences using to... or -ing. Use these verbs:
 
-#### 50.4
+~~`go`~~ `go` `help` `lose` `rain` `read` `see` `send` `wait` `watch`
+
+1. "Have you every been to Australia?" "No, but I'd love `to go`."
+2. Liz had a lot to do, so I offered `to help` her.
+3. I'm surprised that you're here. I didn't expect `to see` you.
+4. Nicole has a lot of books. She enjoys `reading`.
+5. This ring was my grandmother's. I'd hate `to lose` it.
+6. Don't forget `to send` us a postcard when you're on vacation.
+7. I'm not going out until it stops `raining`.
+8. What should we do this afternoon? Would you like `to go` to the beach?
+9. When I'm tired in the evening, I like `watching/to watch` TV.
+10. "Do you want to go now?" "No, I'd prefer `to wait` a few minutes."
+
+#### 50.3 Complete the answers to the questions.
+
+1. Do you usually get up early?  
+	Yes, I like `to get up early`.
+2. Do you ever go to museums?  
+	Yes, I love `going/to go to museums`.
+3. Would you like to go to a museum now?  
+	No, I'm hungry. I'd prefer `to go` to a restaurant.
+4. Do you drive a lot?  
+	No, I don't like `driving/to drive`.
+5. Have you ever been to Rome?  
+	No, but I'd love `to go` one day.
+6. Do you ever travel by train?  
+	Yes, I enjoy `traveling by train`.
+7. Do you want to walk home or take a taxi?  
+	I don't mind `walking`, but a taxi would be quicker.
+
+#### 50.4 Complete these sentences. Write about yourself. Use to... or -ing.
+
+1. I enjoy `singing`.
+2. I don't like `cooking/to cook`.
+3. If it's a nice day tomorrow, I'd like `to take a walk in the park`.
+4. When I'm on vacation, I like `/swimming/to swim`.
+5. I don't mind `walking`, but `I prefer to run`.
+6. I wouldn't like `to eat cheese`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -3414,7 +3465,6 @@ Answer with Neither... I.
 
 > Additional exercise 32 (page 254 or 264)  
 > Answer Key to Exercises 281 or 291
-🔸
 
 ### Unit 51. I want you to... I told you do
 
