@@ -472,20 +472,17 @@ Pero cuidado, no puedes elegir libremente con TODOS los verbos.
 
 Por ejemplo:
 
-- enjoy
+- enjoy  
+	✔ enjoy reading  
+	❌ enjoy to read
 
-✔ enjoy reading  
-❌ enjoy to read
+- want  
+	✔ want to go  
+	❌ want going
 
-- want
-
-✔ want to go  
-❌ want going
-
-- decide
-
-✔ decide to leave  
-❌ decide leaving
+- decide  
+	✔ decide to leave  
+	❌ decide leaving
 
 ### Regla práctica que te ayudará mucho
 
