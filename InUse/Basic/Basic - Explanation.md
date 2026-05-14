@@ -413,7 +413,7 @@ Sí, algunos verbos permiten:
 - Do you like getting up early?
 - Do you like to get up early?
 
-Ambas son correctas, pero NO todos los verbos permiten ambas formas
+Ambas son correctas, pero NO todos los verbos permiten ambas formas.
 
 Solo ciertos verbos.
 
@@ -483,31 +483,6 @@ Por ejemplo:
 - decide  
 	✔ decide to leave  
 	❌ decide leaving
-
-### Regla práctica que te ayudará mucho
-
-#### Grupo 1 → SOLO `to`
-
-- want to
-- need to
-- decide to
-- hope to
-
-#### Grupo 2 → SOLO `ing`
-
-- enjoy doing
-- mind doing
-- finish doing
-- avoid doing
-
-#### Grupo 3 → ambos
-
-- like
-- love
-- hate
-- prefer
-- start
-- begin
 
 ### Algo importante sobre `-ing`
 
