@@ -233,27 +233,27 @@ Mark: Exactly! Write notes like this, Clare. Then you won't have six pages of no
 
 ![[A2_tour_of_london.mp3]]
 
-Tour guide: Good afternoon, ladies and gentlemen and welcome to this fantastic tour of London by bus. My name’s Greg and I’m your guide this afternoon on our tour of London. As you can see, we’re on an open-top bus, so you can see all the attractions from your seat and you don’t need to walk anywhere. And please don’t worry about the rain, I’m sure it’ll stop soon. A-a-and please ask any questions at any time.
+<b>Tour guide:</b> Good afternoon, ladies and gentlemen and welcome to this fantastic tour of London by bus. My name’s Greg and I’m your guide this afternoon on our tour of London. As you can see, we’re on an open-top bus, so you can see all the attractions from your seat and you don’t need to walk anywhere. And please don’t worry about the rain, I’m sure it’ll stop soon. A-a-and please ask any questions at any time.<br><br>
 
-Tourist 1: I have a question.
+<b>Tourist 1:</b> I have a question.<br><br>
 
-Tour guide: Yes?
+<b>Tour guide:</b> Yes?<br><br>
 
-Tourist 1: Do you have extra umbrellas? I mean, if it rains a lot.
+<b>Tourist 1:</b> Do you have extra umbrellas? I mean, if it rains a lot.<br><br>
 
-Tour guide: Err, no, we don’t have any extra umbrellas, but don’t worry, I’m sure the rain will stop soon. Right, OK, so where are we going on our wonderful tour? Well, the tour takes two hours and we are going to visit all the famous sites. First we’ll see Madame Tussauds, the museum with wax models of famous people and celebrities, then we’ll drive along the most famous shopping street in the world, Oxford Street. After that we’ll see the famous clock Big Ben and The Houses of Parliament. As we drive along the river you’ll see the popular attraction, the London Eye, from which you can see the whole city on a sunny day. Then we’ll see Tower Bridge and the famous Tower of London before arriving at Buckingham Palace, just in time for a cup of tea with the Queen.
+<b>Tour guide:</b> Err, no, we don’t have any extra umbrellas, but don’t worry, I’m sure the rain will stop soon. Right, OK, so where are we going on our wonderful tour? Well, the tour takes two hours and we are going to visit all the famous sites. First we’ll see Madame Tussauds, the museum with wax models of famous people and celebrities, then we’ll drive along the most famous shopping street in the world, Oxford Street. After that we’ll see the famous clock Big Ben and The Houses of Parliament. As we drive along the river you’ll see the popular attraction, the London Eye, from which you can see the whole city on a sunny day. Then we’ll see Tower Bridge and the famous Tower of London before arriving at Buckingham Palace, just in time for a cup of tea with the Queen.<br><br>
 
-Tourist 2: Is that included in the tour? A cup of tea with the Queen?
-Tour guide: Err, well, no, not exactly, but there’s a lovely café near the palace where you can get a cup of tea. (Sound of a storm right overhead, loud thunder and very heavy downpour)
+<b>Tourist 2:</b> Is that included in the tour? A cup of tea with the Queen?<br><br>
 
-Tourist 1: I have another question.
+<b>Tour guide:</b> Err, well, no, not exactly, but there’s a lovely café near the palace where you can get a cup of tea. (Sound of a storm right overhead, loud thunder and very heavy downpour)<br><br>
 
-Tour guide: Yes?
+<b>Tourist 1:</b> I have another question.<br><br>
 
-Tourist 1: Can we have our money back? We’re getting off the bus.
+<b>Tour guide:</b> Yes?<br><br>
 
-Tour guide: Err, well, you see ... Quick! Run! Everyone off the bus! ... 
+<b>Tourist 1:</b> Can we have our money back? We’re getting off the bus.<br><br>
 
+<b>Tour guide:</b> Err, well, you see ... Quick! Run! Everyone off the bus! ...<br>
  
 
 This audio is for you to practise your listening skills. Some of the information it contains may not be up to date.
@@ -325,7 +325,6 @@ This audio is for you to practise your listening skills. Some of the information
 <b>Harry:</b> No we haven't, it's late. Look, here it is now.<br><br>
 
 <b>Angel:</b> Phew, that was lucky!<br>
-
 
 ### 10.
 
