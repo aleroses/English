@@ -8,24 +8,41 @@
 
 ![[A2_eating_out.mp3]]
 
-Waiter: Hello.
-Jamie: Hi. A table for two, please.
-Waiter: Of course. Over here, please. Here’s the menu.
-Sally: Thank you.
-(pause)
-Waiter: Are you ready to order?
-Sally: Yes, we are.
-Waiter: What would you like for your starter?
-Jamie: I’d like French onion soup, please.
-Sally: And I’ll have a tomato salad, please.
-Waiter: And for your main course?
-Jamie: Mmm, I’m not sure. I don’t know whether to have the steak or Thai chicken.
-Sally: Oh, I’d like the Thai chicken and rice please.
-Jamie: OK, me too.
-Waiter: So that’s two Thai chicken and rice. What would you like to drink?
-Jamie: I’ll have a fresh orange juice and ...
-Sally: I’d like some mineral water, please.
-Waiter: OK, thank you.
+<b>Waiter:</b> Hello.<br><br>
+
+<b>Jamie:</b> Hi. A table for two, please.<br><br>
+
+<b>Waiter:</b> Of course. Over here, please. Here’s the menu.<br><br>
+
+<b>Sally:</b> Thank you.<br><br>
+
+<b>(pause)</b><br><br>
+
+<b>Waiter:</b> Are you ready to order?<br><br>
+
+<b>Sally:</b> Yes, we are.<br><br>
+
+<b>Waiter:</b> What would you like for your starter?<br><br>
+
+<b>Jamie:</b> I’d like French onion soup, please.<br><br>
+
+<b>Sally:</b> And I’ll have a tomato salad, please.<br><br>
+
+<b>Waiter:</b> And for your main course?<br><br>
+
+<b>Jamie:</b> Mmm, I’m not sure. I don’t know whether to have the steak or Thai chicken.<br><br>
+
+<b>Sally:</b> Oh, I’d like the Thai chicken and rice please.<br><br>
+
+<b>Jamie:</b> OK, me too.<br><br>
+
+<b>Waiter:</b> So that’s two Thai chicken and rice. What would you like to drink?<br><br>
+
+<b>Jamie:</b> I’ll have a fresh orange juice and ...<br><br>
+
+<b>Sally:</b> I’d like some mineral water, please.<br><br>
+
+<b>Waiter:</b> OK, thank you.<br>
 
 ### 2. Free time
 
@@ -33,26 +50,45 @@ Waiter: OK, thank you.
 
 ![[A2_free_time.mp3]]
 
-Receptionist: Good morning, Brownton swimming pool.
-Tyrone: Hello, I’d like some information about the water polo club.
-Receptionist:  Yes, of course. We have an under 14s club, an under 16s club, an under 18s club and an adults club. How old are you?
-Tyrone: I’m 15.
-Receptionist: OK, so you want the under 16s club.
-Tyrone: Yes.
-Receptionist: Just a moment ... yes, we have two places in the under 16s club.
-Tyrone: When do they train?
-Receptionist: Let’s see, the under 16s train two evenings a week, on Mondays, no sorry, on Tuesdays and Thursdays from 6:30 – 8:00pm. And matches are on Saturday mornings.
-Tyrone: When does the training start?
-Receptionist: Training starts next week, on September 2nd.
-Tyrone: OK. And how much are the classes?
-Receptionist: Classes are free for under 18s.
-Tyrone: Great! What do I have to do to join?
-Receptionist: You have to come to the swimming pool and complete a form. You need to bring a photograph too.
-Tyrone: OK.
-Receptionist: Can I take your name?
-Tyrone: Yes, it’s Tyrone Williams. 
-Receptionist: OK, thanks. Tyrone. 
-Tyrone: Thanks. Bye.
+<b>Receptionist:</b> Good morning, Brownton swimming pool.<br><br>
+
+<b>Tyrone:</b> Hello, I’d like some information about the water polo club.<br><br>
+
+<b>Receptionist:</b> Yes, of course. We have an under 14s club, an under 16s club, an under 18s club and an adults club. How old are you?<br><br>
+
+<b>Tyrone:</b> I’m 15.<br><br>
+
+<b>Receptionist:</b> OK, so you want the under 16s club.<br><br>
+
+<b>Tyrone:</b> Yes.<br><br>
+
+<b>Receptionist:</b> Just a moment ... yes, we have two places in the under 16s club.<br><br>
+
+<b>Tyrone:</b> When do they train?<br><br>
+
+<b>Receptionist:</b> Let’s see, the under 16s train two evenings a week, on Mondays, no sorry, on Tuesdays and Thursdays from 6:30 – 8:00pm. And matches are on Saturday mornings.<br><br>
+
+<b>Tyrone:</b> When does the training start?<br><br>
+
+<b>Receptionist:</b> Training starts next week, on September 2nd.<br><br>
+
+<b>Tyrone:</b> OK. And how much are the classes?<br><br>
+
+<b>Receptionist:</b> Classes are free for under 18s.<br><br>
+
+<b>Tyrone:</b> Great! What do I have to do to join?<br><br>
+
+<b>Receptionist:</b> You have to come to the swimming pool and complete a form. You need to bring a photograph too.<br><br>
+
+<b>Tyrone:</b> OK.<br><br>
+
+<b>Receptionist:</b> Can I take your name?<br><br>
+
+<b>Tyrone:</b> Yes, it’s Tyrone Williams.<br><br>
+
+<b>Receptionist:</b> OK, thanks. Tyrone.<br><br>
+
+<b>Tyrone:</b> Thanks. Bye.<br>
 
 ### 3. Giving directions
 
@@ -60,17 +96,21 @@ Tyrone: Thanks. Bye.
 
 ![[A2_giving_directions.mp3]]
 
-A
-Go straight on. Then take the first left on to Green Street. Walk past the library and it’s the building next to the library on the left.
+<b>A</b><br>
 
-B
-Go straight on. Go past the traffic lights. You will see a shop on the right. Go past that and it’s on the right next to the shop.
+Go straight on. Then take the first left on to Green Street. Walk past the library and it’s the building next to the library on the left.<br><br>
 
-C
-Go straight on. Go past the traffic lights and go straight on until you get to the roundabout. At the roundabout turn left. Go past the theatre. It’s the building next to the theatre, opposite the hospital.
+<b>B</b><br>
 
-D
-Go straight on. Go past the traffic lights and take the second right on to King’s Road. Go past the bookshop. It’s the building next to the bookshop opposite the café.
+Go straight on. Go past the traffic lights. You will see a shop on the right. Go past that and it’s on the right next to the shop.<br><br>
+
+<b>C</b><br>
+
+Go straight on. Go past the traffic lights and go straight on until you get to the roundabout. At the roundabout turn left. Go past the theatre. It’s the building next to the theatre, opposite the hospital.<br><br>
+
+<b>D</b><br>
+
+Go straight on. Go past the traffic lights and take the second right on to King’s Road. Go past the bookshop. It’s the building next to the bookshop opposite the café.<br>
 
 ### 4. Going to the cinema
 
@@ -78,39 +118,39 @@ Go straight on. Go past the traffic lights and take the second right on to King�
 
 ![[A2_going_to-the_cinema.mp3]]
 
-Tamara: Hi, Mario. Do you want to go and watch a film?
+<b>Tamara:</b> Hi, Mario. Do you want to go and watch a film?<br><br>
 
-Mario: Hi, Tamara. Sure, what’s on?
+<b>Mario:</b> Hi, Tamara. Sure, what’s on?<br><br>
 
-Tamara: Well, there are two action films, Mr and Mrs Jones and War Games, and they’re both in 3D.
+<b>Tamara:</b> Well, there are two action films, Mr and Mrs Jones and War Games, and they’re both in 3D.<br><br>
 
-Mario: I’ve already seen Mr and Mrs Jones. I haven’t seen War Games, but I don’t really want to see an action film. What else is on?
+<b>Mario:</b> I’ve already seen Mr and Mrs Jones. I haven’t seen War Games, but I don’t really want to see an action film. What else is on?<br><br>
 
-Tamara: There’s that science fiction film, Robot 2075, but I’ve already seen it.
+<b>Tamara:</b> There’s that science fiction film, Robot 2075, but I’ve already seen it.<br><br>
 
-Mario: Is it good?
+<b>Mario:</b> Is it good?<br><br>
 
-Tamara: Yes, it is, but I don’t want to see it again. There’s a romantic comedy called Forever.
+<b>Tamara:</b> Yes, it is, but I don’t want to see it again. There’s a romantic comedy called Forever.<br><br>
 
-Mario: Mmm, I’m not sure. Are there any horror films on?
+<b>Mario:</b> Mmm, I’m not sure. Are there any horror films on?<br><br>
 
-Tamara: Yes, there’s Midnight Moon. It’s got vampires in it. 
+<b>Tamara:</b> Yes, there’s Midnight Moon. It’s got vampires in it.<br><br>
 
-Mario: OK, sounds good. Let’s go and watch Midnight Moon. What time is it on?
+<b>Mario:</b> OK, sounds good. Let’s go and watch Midnight Moon. What time is it on?<br><br>
 
-Tamara: It’s on at 12 o’clock or at half past two.
+<b>Tamara:</b> It’s on at 12 o’clock or at half past two.<br><br>
 
-Mario: Is it on this evening?
+<b>Mario:</b> Is it on this evening?<br><br>
 
-Tamara: Yes, at 7:30.
+<b>Tamara:</b> Yes, at 7:30.<br><br>
 
-Mario: Perfect. Let’s go at 7:30.
+<b>Mario:</b> Perfect. Let’s go at 7:30.<br><br>
 
-Tamara: OK, shall we meet at the cinema at 7:00?
+<b>Tamara:</b> OK, shall we meet at the cinema at 7:00?<br><br>
 
-Mario: Great! See you later.
+<b>Mario:</b> Great! See you later.<br><br>
 
-Tamara: Bye.
+<b>Tamara:</b> Bye.<br>
 
 ### 5. Shopping for clothes
 
@@ -118,22 +158,38 @@ Tamara: Bye.
 
 ![[A2_shopping_for_clothes.mp3]]
 
-Shop assistant: Can I help you?
-Customer: Yes, have you got this T-shirt in other colours?
-Shop assistant: We’ve got it in white, black, red and purple. What size do you want?
-Customer: Medium.
-Shop assistant: OK, in medium we’ve got black and red.
-Customer: And in purple?
-Shop assistant: No, just black and red.
-Customer: OK, red. Can I try it on?
-Shop assistant: Yes, of course. The changing rooms are over there.
-(pause)
-Shop assistant: Is it OK?
-Customer: Yes, I’ll take it.
-Shop assistant: That’s £10.95. Would you like to pay by credit card or with cash?
-Customer: Cash please. Here’s twenty.
-Shop assistant: OK, thanks, that’s nine pounds, 5 p change and here’s your receipt.
-Customer: Thanks. Bye.
+<b>Shop assistant:</b> Can I help you?<br><br>
+
+<b>Customer:</b> Yes, have you got this T-shirt in other colours?<br><br>
+
+<b>Shop assistant:</b> We’ve got it in white, black, red and purple. What size do you want?<br><br>
+
+<b>Customer:</b> Medium.<br><br>
+
+<b>Shop assistant:</b> OK, in medium we’ve got black and red.<br><br>
+
+<b>Customer:</b> And in purple?<br><br>
+
+<b>Shop assistant:</b> No, just black and red.<br><br>
+
+<b>Customer:</b> OK, red. Can I try it on?<br><br>
+
+<b>Shop assistant:</b> Yes, of course. The changing rooms are over there.<br><br>
+
+<b>(pause)</b><br><br>
+
+<b>Shop assistant:</b> Is it OK?<br><br>
+
+<b>Customer:</b> Yes, I’ll take it.<br><br>
+
+<b>Shop assistant:</b> That’s £10.95. Would you like to pay by credit card or with cash?<br><br>
+
+<b>Customer:</b> Cash please. Here’s twenty.<br><br>
+
+<b>Shop assistant:</b> OK, thanks, that’s nine pounds, 5 p change and here’s your receipt.<br><br>
+
+<b>Customer:</b> Thanks. Bye.<br>
+
 
 ### 6. Stop wasting time
 
