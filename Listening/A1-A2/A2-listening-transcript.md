@@ -234,24 +234,98 @@ Mark: Exactly! Write notes like this, Clare. Then you won't have six pages of no
 ![[A2_tour_of_london.mp3]]
 
 Tour guide: Good afternoon, ladies and gentlemen and welcome to this fantastic tour of London by bus. My name’s Greg and I’m your guide this afternoon on our tour of London. As you can see, we’re on an open-top bus, so you can see all the attractions from your seat and you don’t need to walk anywhere. And please don’t worry about the rain, I’m sure it’ll stop soon. A-a-and please ask any questions at any time.
+
 Tourist 1: I have a question.
+
 Tour guide: Yes?
+
 Tourist 1: Do you have extra umbrellas? I mean, if it rains a lot.
+
 Tour guide: Err, no, we don’t have any extra umbrellas, but don’t worry, I’m sure the rain will stop soon. Right, OK, so where are we going on our wonderful tour? Well, the tour takes two hours and we are going to visit all the famous sites. First we’ll see Madame Tussauds, the museum with wax models of famous people and celebrities, then we’ll drive along the most famous shopping street in the world, Oxford Street. After that we’ll see the famous clock Big Ben and The Houses of Parliament. As we drive along the river you’ll see the popular attraction, the London Eye, from which you can see the whole city on a sunny day. Then we’ll see Tower Bridge and the famous Tower of London before arriving at Buckingham Palace, just in time for a cup of tea with the Queen.
+
 Tourist 2: Is that included in the tour? A cup of tea with the Queen?
 Tour guide: Err, well, no, not exactly, but there’s a lovely café near the palace where you can get a cup of tea. (Sound of a storm right overhead, loud thunder and very heavy downpour)
+
 Tourist 1: I have another question.
+
 Tour guide: Yes?
+
 Tourist 1: Can we have our money back? We’re getting off the bus.
+
 Tour guide: Err, well, you see ... Quick! Run! Everyone off the bus! ... 
 
  
 
 This audio is for you to practise your listening skills. Some of the information it contains may not be up to date.
 
-### 9.
+### 9. Trains and travel
 
-[Learnenglishteens]()
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/trains-travel)
+
+![[A2_trains_and_travel.mp3]]
+
+<b>A</b><br><br>
+
+<b>Passenger:</b> Excuse me? Which platform does the train to Cambridge leave from?<br><br>
+
+<b>Train station attendant:</b> The 10:15 train or the 10:40?<br><br>
+
+<b>Passenger:</b> The 10:15.<br><br>
+
+<b>Train station attendant:</b> The 10:15 train leaves from platform 3.<br><br>
+
+<b>Passenger:</b> Thanks.<br><br>
+
+<b>B</b><br><br>
+
+<b>Passenger:</b> Hi. Could I have a ticket for the next train to Manchester, please?<br><br>
+
+<b>Train ticket vendor:</b> Single or return?<br><br>
+
+<b>Passenger:</b> Errr, single please.<br><br>
+
+<b>Train ticket vendor:</b> The next train is at 12:30pm, leaving from platform 2.<br><br>
+
+<b>Passenger:</b> And how much is it?<br><br>
+
+<b>Train ticket vendor:</b> £13:50<br><br>
+
+<b>C</b><br><br>
+
+<b>Ticket inspector:</b> Tickets, please. Can I see your ticket, please?<br><br>
+
+<b>Passenger:</b> Yes, here you are.<br><br>
+
+<b>Ticket inspector:</b> This ticket is for Oxford.<br><br>
+
+<b>Passenger:</b> Yes, that's right.<br><br>
+
+<b>Ticket inspector:</b> But this train doesn't go to Oxford, it goes to Liverpool.<br><br>
+
+<b>Passenger:</b> What? Liverpool? Oh no!<br><br>
+
+<b>D</b><br><br>
+
+<b>Train station announcement:</b> The next train arriving at platform 1 is the 15:45 train to Exeter, stopping at Bristol Temple Meads and arriving at Exeter St David's at 18:30.<br><br>
+
+<b>E</b><br><br>
+
+<b>Harry:</b> What time is our train back to London?<br><br>
+
+<b>Angel:</b> It leaves at 4:30. We've only got 5 minutes.<br><br>
+
+<b>Harry:</b> What platform does it leave from?<br><br>
+
+<b>Angel:</b> Platform 2. Look, over there.<br><br>
+
+<b>Harry:</b> I can't see our train anywhere. Let me see the ticket. Look, it says 4:20, not 4:30!<br><br>
+
+<b>Angel:</b> Oh no, we've missed it.<br><br>
+
+<b>Harry:</b> No we haven't, it's late. Look, here it is now.<br><br>
+
+<b>Angel:</b> Phew, that was lucky!<br>
+
 
 ### 10.
 
