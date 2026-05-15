@@ -141,52 +141,51 @@ Customer: Thanks. Bye.
 
 ![[A2_Stop_wasting_time.mp3]]
 
-Tom: I don't know what to do. I start off studying but I always end up doing something else.
+<b>Tom:</b> I don't know what to do. I start off studying but I always end up doing something else.<br><br>
 
-Mum: I'll help you but please listen to me.
+<b>Mum:</b> I'll help you but please listen to me.<br><br>
 
-Tom: Of course! Go on!
+<b>Tom:</b> Of course! Go on!<br><br>
 
-Mum: Now first, you need to take away all of the things that stop you working.
+<b>Mum:</b> Now first, you need to take away all of the things that stop you working.<br><br>
 
-Tom: What do you mean?
+<b>Tom:</b> What do you mean?<br><br>
 
-Mum: First, turn off your music. Music doesn't help you study.
+<b>Mum:</b> First, turn off your music. Music doesn't help you study.<br><br>
 
-Tom: OK. No music.
+<b>Tom:</b> OK. No music.<br><br>
 
-Mum: And put the dog outside!
+<b>Mum:</b> And put the dog outside!<br><br>
 
-Tom: What?
+<b>Tom:</b> What?<br><br>
 
-Mum: Well, every time the dog goes into your room, you stop studying to pat it. Spot stops you working!
+<b>Mum:</b> Well, every time the dog goes into your room, you stop studying to pat it. Spot stops you working!<br><br>
 
-Tom: OK. Bye, Spot!
+<b>Tom:</b> OK. Bye, Spot!<br><br>
 
-Mum: Have an apple and a glass of water on your desk before you start. Here you are.
+<b>Mum:</b> Have an apple and a glass of water on your desk before you start. Here you are.<br><br>
 
-Tom: Why?
+<b>Tom:</b> Why?<br><br>
 
-Mum: Because then you don't need to go to the kitchen for something to eat or drink.
+<b>Mum:</b> Because then you don't need to go to the kitchen for something to eat or drink.<br><br>
 
-Tom: OK.
+<b>Tom:</b> OK.<br><br>
 
-Mum: Turn off your phone.
+<b>Mum:</b> Turn off your phone.<br><br>
 
-Tom: No way!
+<b>Tom:</b> No way!<br><br>
 
-Mum: Yes. It stops you working. If you turn it off, it's easier to concentrate. You can read your messages later.
+<b>Mum:</b> Yes. It stops you working. If you turn it off, it's easier to concentrate. You can read your messages later.<br><br>
 
-Tom: OK, but I can't turn off the internet on my computer. I need it to look up information.
+<b>Tom:</b> OK, but I can't turn off the internet on my computer. I need it to look up information.<br><br>
 
-Mum: OK, but you can turn off your instant messages.
+<b>Mum:</b> OK, but you can turn off your instant messages.<br><br>
 
-Tom: I know! Mum?
+<b>Tom:</b> I know! Mum?<br><br>
 
-Mum: Yes?
+<b>Mum:</b> Yes?<br><br>
 
-Tom: Thanks.
-
+<b>Tom:</b> Thanks.<br>
  
 
 This audio is for you to practise your listening skills. Some of the information it contains may not be up to date.
@@ -197,35 +196,35 @@ This audio is for you to practise your listening skills. Some of the information
 
 ![[A2_Taking_notes.mp3]]
 
-Mark: What's the matter?
+<b>Mark:</b> What's the matter?<br><br>
 
-Clare: I've got a history exam on Friday and I'm worried I'll fail it.
+<b>Clare:</b> I've got a history exam on Friday and I'm worried I'll fail it.<br><br>
 
-Mark: Why? You're brilliant at history.
+<b>Mark:</b> Why? You're brilliant at history.<br><br>
 
-Clare: It isn't difficult but I have to remember a lot of information. These are my notes from today.
+<b>Clare:</b> It isn't difficult but I have to remember a lot of information. These are my notes from today.<br><br>
 
-Mark: Can I see?
+<b>Mark:</b> Can I see?<br><br>
 
-Clare: Yes.
+<b>Clare:</b> Yes.<br><br>
 
-Mark: These aren't notes! This is a full text!
+<b>Mark:</b> These aren't notes! This is a full text!<br><br>
 
-Clare: What do you mean?
+<b>Clare:</b> What do you mean?<br><br>
 
-Mark: You don't have to copy everything! 'Notes' are just a few words. You have to write the important words. You don't need to write the extra bits. Look. King Henry the Eighth was married six times.
+<b>Mark:</b> You don't have to copy everything! 'Notes' are just a few words. You have to write the important words. You don't need to write the extra bits. Look. King Henry the Eighth was married six times.<br><br>
 
-Clare: That's important information.
+<b>Clare:</b> That's important information.<br><br>
 
-Mark: But you don't need to write all of those words. You can draw little pictures too. Pictures can help you to remember things and then you don't need to write so many words. Look.
+<b>Mark:</b> But you don't need to write all of those words. You can draw little pictures too. Pictures can help you to remember things and then you don't need to write so many words. Look.<br><br>
 
-Clare: That's so good! The crown is for 'King' and the 'H' is for Henry. That's cool. Then the heart is 'love' and a number six … well that is ehm … six.
+<b>Clare:</b> That's so good! The crown is for 'King' and the 'H' is for Henry. That's cool. Then the heart is 'love' and a number six … well that is ehm … six.<br><br>
 
-Mark: Yes. So look at these notes. Let's test your memory.
+<b>Mark:</b> Yes. So look at these notes. Let's test your memory.<br><br>
 
-Clare: King Henry the Eighth was married six times.
+<b>Clare:</b> King Henry the Eighth was married six times.<br><br>
 
-Mark: Exactly! Write notes like this, Clare. Then you won't have six pages of notes, you'll only have two or three!
+<b>Mark:</b> Exactly! Write notes like this, Clare. Then you won't have six pages of notes, you'll only have two or three!<br>
 
 ### 8. Tour of London
 
