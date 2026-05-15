@@ -8,19 +8,19 @@
 
 ![[Listening/A1-A2/Audio-files/A1_A_good_nights_sleep.mp3]]
 
-Host: At exam time it is important to sleep well. Today we have Doctor Baker with us in the studio and he is `going to give us` five top tips for getting a good `night’s sleep`. Welcome to the show, Doctor Baker. 
+<b>Host:</b> At exam time it is important to sleep well. Today we have Doctor Baker with us in the studio and he is going to give us five top tips for getting a good night’s sleep. Welcome to the show, Doctor Baker.<br><br>
 
-Dr Baker: Thank you. It’s great to be here. Let’s start with tip one. Don’t go to bed with the television on. Some people think they can sleep well with the TV on, but the noise and lights `mean` you don’t really sleep well, so turn it off!
+<b>Dr Baker:</b> Thank you. It’s great to be here. Let’s start with tip one. Don’t go to bed with the television on. Some people think they can sleep well with the TV on, but the noise and lights mean you don’t really sleep well, so turn it off!<br><br>
 
-Tip two: Don’t think `too much` before bedtime. Do your `hardest homework earlier` in the evening. Do easier homework later. `If your brain` is too busy and full of ideas `it takes` longer to get to sleep.
+Tip two: Don’t think too much before bedtime. Do your hardest homework earlier in the evening. Do easier homework later. If your brain is too busy and full of ideas it takes longer to get to sleep.<br><br>
 
-Tip three: Don’t play video games `for an hour` before `you go to` sleep. They also make your brain too busy and active. 
+Tip three: Don’t play video games for an hour before you go to sleep. They also make your brain too busy and active.<br><br>
 
-Tip four: Turn off your cell phone when you go to bed. What is so important that it can’t wait until the morning? If possible, leave your phone in another room. 
+Tip four: Turn off your cell phone when you go to bed. What is so important that it can’t wait until the morning? If possible, leave your phone in another room.<br><br>
 
-Tip five: Play music if you like. But don’t play it too loud. Turn the sound `down low`.
+Tip five: Play music if you like. But don’t play it too loud. Turn the sound down low.<br><br>
 
-Host: Thank you, Doctor. That is very `useful advice` for our young listeners.
+<b>Host:</b> Thank you, Doctor. That is very useful advice for our young listeners.<br>
 
 <details>
   <summary>Translation 👀👇</summary>
@@ -49,37 +49,37 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 ![[A1_at_the_library.mp3]]
 
-Lucy: Hello.
+<b>Lucy:</b> Hello.<br><br>
 
-School librarian: Hello, what's your name?
+<b>School librarian:</b> Hello, what's your name?<br><br>
 
-Lucy: My name's Lucy.
+<b>Lucy:</b> My name's Lucy.<br><br>
 
-School librarian: And what's your surname, Lucy?
+<b>School librarian:</b> And what's your surname, Lucy?<br><br>
 
-Lucy: Moore.
+<b>Lucy:</b> Moore.<br><br>
 
-School librarian: Can you spell that?
+<b>School librarian:</b> Can you spell that?<br><br>
 
-Lucy: M-O-O-R-E.
+<b>Lucy:</b> M-O-O-R-E.<br><br>
 
-School librarian: Thank you. What class are you in?
+<b>School librarian:</b> Thank you. What class are you in?<br><br>
 
-Lucy: Class 1B.
+<b>Lucy:</b> Class 1B.<br><br>
 
-School librarian: Class 1B. And how old are you, Lucy?
+<b>School librarian:</b> Class 1B. And how old are you, Lucy?<br><br>
 
-Lucy: I'm 13.
+<b>Lucy:</b> I'm 13.<br><br>
 
-School librarian: Have you got a photo?
+<b>School librarian:</b> Have you got a photo?<br><br>
 
-Lucy: Yes, here you are.
+<b>Lucy:</b> Yes, here you are.<br><br>
 
-School librarian: Thank you ... OK, thank you, Lucy. Here's your school library card.
+<b>School librarian:</b> Thank you ... OK, thank you, Lucy. Here's your school library card.<br><br>
 
-Lucy: Thanks. Bye.
+<b>Lucy:</b> Thanks. Bye.<br><br>
 
-School librarian: Goodbye.
+<b>School librarian:</b> Goodbye.<br>
 
 ### 3. Band auditions
 
