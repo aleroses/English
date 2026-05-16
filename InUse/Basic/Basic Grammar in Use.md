@@ -3476,21 +3476,34 @@ Answer with Neither... I.
 2. I want you to listen carefully.
 3. I don't want you to be angry.
 4. Do you want me to wait for you?
-5. Do you want me not to call you? I don't want you to call me tonight.
-6. Do you want me to meet Sarah?
+5. I don't want you to call me tonight.
+6. I want you to meet Sarah.
 
 #### 51.2 Look at the pictures and complete the sentences.
 
 1. Dan persuaded `me to go to the movies`.
 2. I wanted to get to the station. A woman told `me to turn left after the bridge`.
-3. Kevin was sick. I advised `you to go to the doctor`.
+3. Kevin was sick. I advised `him to go to the doctor`.
 4. Lauren had a lot of luggage. She asked `me to help her`.
-5. I was too busy to talk to Tom. I told `his to come back in 10 minutes`.
-6. I wanted to make a phone call. Andy let `me to could use his phone`.
-7. Sue is going to call me later. I told `her not to call me before 8:00`.
+5. I was too busy to talk to Tom. I told `him to come back in 10 minutes`.
+6. I wanted to make a phone call. Andy let `me use his phone`.
+7. Sue is going to call me later. I told `her not to call before 8:00`.
 8. Anna's mother taught `her to play the piano`.
 
 #### 51.3 Complete these sentences with the verbs in the list. Sometimes to is necessary (to go / to wait, etc.); sometimes to is not necessary (go / wait, etc.).
+
+`arrive` `borrow` `get` `go` ~~`leave`~~ `make` `repeat` `tell` `think` `wait`
+
+1. Please stay here. I don't want you `to leave` yet.
+2. I didn't hear what she said, so I asked her `to repeat` it.
+3. "Should we begin?" "No, let's `wait` a few minutes."
+4. Are they already here? I expected them `to arrive` much later.
+5. Kevin's parents didn't want him `to get` married.
+6. I want to stay here. You can't make me `go` with you.
+7. "Is that you bike?" "No, it's John's. He let me `borrow` it."
+8. Rachel can't come to the party. She told me `to tell` you.
+9. Would you like something to drink? Would you like me `to make/get` some coffee?
+10. "Kate doesn't like me." "What makes you `think` that?"
 
 <details>
   <summary>More 🔥☠️</summary>
