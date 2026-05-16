@@ -3466,15 +3466,31 @@ Answer with Neither... I.
 > Additional exercise 32 (page 254 or 264)  
 > Answer Key to Exercises 281 or 291
 
-### Unit 51. I want you to... I told you do
+### 🔸Unit 51. I want you to... I told you do
 
 > Page: 103 or 114
 
-#### 51.1
+#### 51.1 Write sentences beginning I want you... / I don't want you... / Do you want me...?
 
-#### 51.2
+1. I want you to come with me.
+2. I want you to listen carefully.
+3. I don't want you to be angry.
+4. Do you want me to wait for you?
+5. Do you want me not to call you? I don't want you to call me tonight.
+6. Do you want me to meet Sarah?
 
-#### 51.3
+#### 51.2 Look at the pictures and complete the sentences.
+
+1. Dan persuaded `me to go to the movies`.
+2. I wanted to get to the station. A woman told `me to turn left after the bridge`.
+3. Kevin was sick. I advised `you to go to the doctor`.
+4. Lauren had a lot of luggage. She asked `me to help her`.
+5. I was too busy to talk to Tom. I told `his to come back in 10 minutes`.
+6. I wanted to make a phone call. Andy let `me to could use his phone`.
+7. Sue is going to call me later. I told `her not to call me before 8:00`.
+8. Anna's mother taught `her to play the piano`.
+
+#### 51.3 Complete these sentences with the verbs in the list. Sometimes to is necessary (to go / to wait, etc.); sometimes to is not necessary (go / wait, etc.).
 
 <details>
   <summary>More 🔥☠️</summary>
