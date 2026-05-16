@@ -87,37 +87,37 @@ No te vayas a la cama con el televisor encendido. Algunas personas creen que pue
 
 ![[A1_band_audition.mp3]]
 
-Boy: Ah, band auditions. Great! I'd love to be in a band! ... Hi. `Is this` the band audition?
+<b>Boy:</b> Ah, band auditions. Great! I'd love to be in a band! ... Hi. Is this the band audition?<br><br>
 
-Girl: Hello. Yes. So, you'd like to be in our band?
+<b>Girl:</b> Hello. Yes. So, you'd like to be in our band?<br><br>
 
-Boy: Yes, I love music.
+<b>Boy:</b> Yes, I love music.<br><br>
 
-Girl: Well, we need a singer, a guitarist and a drummer.
+<b>Girl:</b> Well, we need a singer, a guitarist and a drummer.<br><br>
 
-Boy: Oh, I love singing!
+<b>Boy:</b> Oh, I love singing!<br><br>
 
-Girl: OK, so you can sing. Let's sing the `beginning of this` song.
+<b>Girl:</b> OK, so you can sing. Let's sing the beginning of this song.<br><br>
 
-Boy: (singing) Tonight I'm `going to have` `myself a real` good time. I `feel alive` ...
+<b>Boy:</b> (singing) Tonight I'm going to have myself a real good time. I feel alive ...<br><br>
 
-Girl: Right, OK, mmm, `maybe not`. Can you `play an instrument`?
+<b>Girl:</b> Right, OK, mmm, maybe not. Can you play an instrument?<br><br>
 
-Boy: Er, well, I can play the guitar a little.
+<b>Boy:</b> Er, well, I can play the guitar a little.<br><br>
 
-Girl: OK, let's hear you. What can you play? ... That's it?
+<b>Girl:</b> OK, let's hear you. What can you play? ... That's it?<br><br>
 
-Boy: Er, yeah. I can't remember any more.
+<b>Boy:</b> Er, yeah. I can't remember any more.<br><br>
 
-Girl: Erm, can you play the drums?
+<b>Girl:</b> Erm, can you play the drums?<br><br>
 
-Boy: Yeah, sure.
+<b>Boy:</b> Yeah, sure.<br><br>
 
-Girl: OK! OK! STOP! `That's enough`. Erm, what about the maracas? Can you play the maracas?
+<b>Girl:</b> OK! OK! STOP! That's enough. Erm, what about the maracas? Can you play the maracas?<br><br>
 
-Boy: Yes, I can. (singing) Young and strong and ... er ...
+<b>Boy:</b> Yes, I can. (singing) Young and strong and ... er ...<br><br>
 
-Girl: Great, great! Hmm ... thanks for coming. I'll call you next week.
+<b>Girl:</b> Great, great! Hmm ... thanks for coming. I'll call you next week.<br>
 
 ### 4. Describing people
 
@@ -125,27 +125,28 @@ Girl: Great, great! Hmm ... thanks for coming. I'll call you next week.
 
 ![[A1_describing_people.mp3]]
 
-Aurelia: Who’s that boy over there, Hannah?
+<b>Aurelia:</b> Who’s that boy over there, Hannah?<br><br>
 
-Hannah: That? Er, that’s my brother, Jem.
+<b>Hannah:</b> That? Er, that’s my brother, Jem.<br><br>
 
-Aurelia: Your brother?
+<b>Aurelia:</b> Your brother?<br><br>
 
-Hannah: Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.
+<b>Hannah:</b> Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.<br><br>
 
-Aurelia: Oh right. So, you’ve got a brother?
+<b>Aurelia:</b> Oh right. So, you’ve got a brother?<br><br>
 
-Hannah: No, I’ve got two brothers. Jem and Alex.
+<b>Hannah:</b> No, I’ve got two brothers. Jem and Alex.<br><br>
 
-Aurelia: Really? ... and ... `how old is` Alex?
+<b>Aurelia:</b> Really? ... and ... how old is Alex?<br><br>
 
-Hannah: Alex and Jem are twins, `they’re both` 15.
+<b>Hannah:</b> Alex and Jem are twins, they’re both 15.<br><br>
 
-Aurelia: 15, mmm ... and does Alex look like Jem?
+<b>Aurelia:</b> 15, mmm ... and does Alex look like Jem?<br><br>
 
-Hannah: They’re exactly the same! `They’re both` tall and thin. `They’ve both got` short brown hair, green eyes and big ears!
+<b>Hannah:</b> They’re exactly the same! They’re both tall and thin. They’ve both got short brown hair, green eyes and big ears!<br><br>
 
-Aurelia: They’re not big, I think they’re cute. And ... has Alex got a girlfriend?
+<b>Aurelia:</b> They’re not big, I think they’re cute. And ... has Alex got a girlfriend?<br>
+
 
 ### 5. First day at school
 
@@ -153,25 +154,25 @@ Aurelia: They’re not big, I think they’re cute. And ... has Alex got a girlf
 
 ![[A1_first_day_at_school.mp3]]
 
-Tania: Hi. I'm Tania. What's your name?
+<b>Tania:</b> Hi. I'm Tania. What's your name?<br><br>
 
-Jing: Hello. My name's Jing.
+<b>Jing:</b> Hello. My name's Jing.<br><br>
 
-Tania: `Nice to` meet you, Jing. What class are you in?
+<b>Tania:</b> Nice to meet you, Jing. What class are you in?<br><br>
 
-Jing: I'm in class 1B. And you?
+<b>Jing:</b> I'm in class 1B. And you?<br><br>
 
-Tania: Me too. I'm in Class 1B too.
+<b>Tania:</b> Me too. I'm in Class 1B too.<br><br>
 
-Jing: Who's our teacher?
+<b>Jing:</b> Who's our teacher?<br><br>
 
-Tania: Mr Smith.
+<b>Tania:</b> Mr Smith.<br><br>
 
-Jing: And where's our classroom?
+<b>Jing:</b> And where's our classroom?<br><br>
 
-Tania: This way. Come with me.
+<b>Tania:</b> This way. Come with me.<br><br>
 
-Jing: OK. Great.
+<b>Jing:</b> OK. Great.<br>
 
 ### 6. Getting an ID card
 
@@ -179,53 +180,53 @@ Jing: OK. Great.
 
 ![[A1_getting_an_ID_card.mp3]]
 
-**Admin worker:** International Student ID card?
+<b>Admin worker:</b> International Student ID card?<br><br>
 
-**Student:** Yes, that’s right.
+<b>Student:</b> Yes, that’s right.<br><br>
 
-**Admin worker:** Have you `got the` form?
+<b>Admin worker:</b> Have you got the form?<br><br>
 
-**Student:** Yes, `here it is`.
+<b>Student:</b> Yes, here it is.<br><br>
 
-**Admin worker:** OK, let’s see. Name – Ahmed, surname – Saeed, age 14, address ... (pause) ... oh, what’s your address?
+<b>Admin worker:</b> OK, let’s see. Name – Ahmed, surname – Saeed, age 14, address ... (pause) ... oh, what’s your address?<br><br>
 
-**Student:** 14 Spring `Avenue` …
+<b>Student:</b> 14 Spring Avenue …<br><br>
 
-**Admin worker:** 14 Spring Avenue ...
+<b>Admin worker:</b> 14 Spring Avenue ...<br><br>
 
-**Student:** Leicester.
+<b>Student:</b> Leicester.<br><br>
 
-**Admin worker:** Can you spell that, please?
+<b>Admin worker:</b> Can you spell that, please?<br><br>
 
-**Student:** L-E-I-C-E-S-T-E-R.
+<b>Student:</b> L-E-I-C-E-S-T-E-R.<br><br>
 
-**Admin worker:** What’s your postcode?
+<b>Admin worker:</b> What’s your postcode?<br><br>
 
-**Student:** LE14 2GZ.
+<b>Student:</b> LE14 2GZ.<br><br>
 
-**Admin worker:** LE14 2GS.
+<b>Admin worker:</b> LE14 2GS.<br><br>
 
-**Student:** No, 2GZ.
+<b>Student:</b> No, 2GZ.<br><br>
 
-**Admin worker:** OK, 2GZ. And what’s your nationality?
+<b>Admin worker:</b> OK, 2GZ. And what’s your nationality?<br><br>
 
-**Student:** I’m `British`.
+<b>Student:</b> I’m British.<br><br>
 
-**Admin worker:** What’s your school?
+<b>Admin worker:</b> What’s your school?<br><br>
 
-**Student:** Newtown Secondary School. N-E-W-T-O-W-N.
+<b>Student:</b> Newtown Secondary School. N-E-W-T-O-W-N.<br><br>
 
-**Admin worker:** And what’s your date of birth?
+<b>Admin worker:</b> And what’s your date of birth?<br><br>
 
-**Student:** The `2nd` of June 1998.
+<b>Student:</b> The 2nd of June 1998.<br><br>
 
-**Admin worker:** 02/06/1998 (the second of the sixth, 1998). Have you got a photo?
+<b>Admin worker:</b> 02/06/1998 (the second of the sixth, 1998). Have you got a photo?<br><br>
 
-**Student:** Yes, here you are.
+<b>Student:</b> Yes, here you are.<br><br>
 
-**Admin worker:** Thank you. One moment, please ... (pause) ... and here’s your card.
+<b>Admin worker:</b> Thank you. One moment, please ... (pause) ... and here’s your card.<br><br>
 
-**Student:** Thanks. Bye.
+<b>Student:</b> Thanks. Bye.<br>
 
 _This audio is for you to practise your listening skills. Some of the information it contains may not be up to date._
 
@@ -235,39 +236,39 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_interview_with_a_swimmer.mp3]]
 
-Interviewer: Hello, Dan.
+<b>Interviewer:</b> Hello, Dan.<br><br>
 
-Dan: Hi.
+<b>Dan:</b> Hi.<br><br>
 
-Interviewer: Can you tell me `about a typical` day in your life for the school magazine?
+<b>Interviewer:</b> Can you tell me about a typical day in your life for the school magazine?<br><br>
 
-Dan: Yeah, sure.
+<b>Dan:</b> Yeah, sure.<br><br>
 
-Interviewer: So, what time do you get up?
+<b>Interviewer:</b> So, what time do you get up?<br><br>
 
-Dan: Oh, I get up very early. I get up every `day at 5 o’clock` and go to the pool. Then I swim from 6 o’clock to 8 o’clock.
+<b>Dan:</b> Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock.<br><br>
 
-Interviewer: You get `up at 5 o’clock`? Wow, that’s early!
+<b>Interviewer:</b> You get up at 5 o’clock? Wow, that’s early!<br><br>
 
-Dan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, `toast`, bacon and eggs and orange juice.
+<b>Dan:</b> Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice.<br><br>
 
-Interviewer: What do you do after breakfast?
+<b>Interviewer:</b> What do you do after breakfast?<br><br>
 
-Dan: At 11 o’clock I go to university. `I’m studying` sports science and I `have classes` from 11 o’clock to 4 o’clock.
+<b>Dan:</b> At 11 o’clock I go to university. I’m studying sports science and I have classes from 11 o’clock to 4 o’clock.<br><br>
 
-Interviewer: When do you have lunch?
+<b>Interviewer:</b> When do you have lunch?<br><br>
 
-Dan: I have lunch at about 2 o’clock at the university.
+<b>Dan:</b> I have lunch at about 2 o’clock at the university.<br><br>
 
-Interviewer: What do you do after classes?
+<b>Interviewer:</b> What do you do after classes?<br><br>
 
-Dan: Sometimes I go to the `gym and sometimes` I meet my friends `at a café`.
+<b>Dan:</b> Sometimes I go to the gym and sometimes I meet my friends at a café.<br><br>
 
-Interviewer: What time do you have dinner?
+<b>Interviewer:</b> What time do you have dinner?<br><br>
 
-Dan: I have dinner at 7 o’clock, then I watch TV or go online and `I usually` go `to bed` at 10 o’clock.
+<b>Dan:</b> I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.<br><br>
 
-Interviewer: Thanks, Dan. `That’s a` busy day!
+<b>Interviewer:</b> Thanks, Dan. That’s a busy day!<br>
 
 ### 8. Introducing a friend
 

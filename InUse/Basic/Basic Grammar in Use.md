@@ -3515,7 +3515,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 281 – 282 or 291 – 292
-🔸
 
 ### Unit 52. I went to the store to...
 
