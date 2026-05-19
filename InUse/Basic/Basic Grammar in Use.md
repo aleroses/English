@@ -3520,17 +3520,65 @@ Answer with Neither... I.
 
 > Page: 105 or 116
 
-#### 52.1
+#### 52.1 Write sentences beginning I went to... Choose from the boxes.
 
-#### 52.2
+`a coffee shop` ~~`the post office`~~ `the drugstore` `the supermarket`
 
-#### 52.3
++
 
-#### 52.4
+`buy some food` `get some medicine` `meet a friend` ~~`mail a package`~~
 
-#### 52.5
+1. I went to the post office to mail a package.
+2. I went `to a coffee shop` to meet a friend.
+3. I went `to the drugstore` to get some medicine.
+4. I went `to the supermarket` to buy some food.
 
+#### 52.2 Complete the sentences. Choose from the box.
 
+`to get some fresh air` `to read the newspaper` `to wake him up` `to open this door` `to see who it was` ~~`to watch the news`~~
+
+1. I turned on the TV `to watch the news`.
+2. Rachel sat down in an armchair `to read the newspaper`.
+3. Do I need a key `to open this door`?
+4. I went for a walk by the river `to get some fresh air`.
+5. I knocked on the door of David's room `to wake him up`.
+6. The doorbell rang, so I looked out the window `to see who it was`.
+
+#### 52.3 Use your own ideas to finish these sentences. Use to...
+
+1. I went to the store `to get some fruit`.
+2. I'm very busy. I don't have time `to play video games`.
+	-  I don't have time to talk to you now.
+3. I called Anna `to tell her about her boyfriend`.
+	- I called Ann to tell her about the party.
+4. I'm going out `to meet some friends`.
+	- I'm going out to do some shopping.
+5. I borrowed some money `to buy a car`.
+
+#### 52.4 Write to or for.
+
+1. I went to the store `to` get some bread.
+2. We went to a restaurant `to` have dinner.
+3. Robert wants to go to college `to` study economics.
+4. I'm going to Boston `for` an interview next week.
+5. I'm going to Toronto `to` visit some friends of mine.
+6. Do you have time `for` a cup of coffee?
+7. I got up late this morning. I didn't have time `to` comb my hair.
+8. Everybody needs money `to` live.
+9. We didn't have any money `for` a taxi, so we walked home.
+10. The office is very small. There's only enough room `for` a desk and chair.
+11. .  
+	A: Excuse me, are you waiting `to` use the photocopier?  
+	B: No, I'm finished, thanks.
+
+#### 52.5 Complete these sentences. Choose from:
+
+`it / to arrive` `you / tell me` ~~`it / to change`~~ `the movie / begin`
+
+1. We stopped at the light and waited `for it to change`.
+2. I sat down in the movie theater and waited `for the movie to begin`.
+3. We called an ambulance and waited `for it to arrive`.
+4. "Do you know what to do?" "No, I'm waiting `for you to tell me`"
 
 <details>
   <summary>More 🔥☠️</summary>
