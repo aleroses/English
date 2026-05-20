@@ -2,6 +2,8 @@
 
 ## First part
 
+[LearnEnglish Teens: A1 listening](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening)
+
 ### 1. A good night's sleep
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep)
@@ -276,23 +278,23 @@ _This audio is for you to practise your listening skills. Some of the informatio
 
 ![[A1_introducing_a_friend.mp3]]
 
-Sumi: Hi, Pablo. How are you?
+<b>Sumi:</b> Hi, Pablo. How are you?<br><br>
 
-Pablo: Hi, Sumi. I'm fine, thanks.
+<b>Pablo:</b> Hi, Sumi. I'm fine, thanks.<br><br>
 
-Sumi: Pablo, this is Greta.
+<b>Sumi:</b> Pablo, this is Greta.<br><br>
 
-Pablo: Hi, Greta, I'm Pablo.
+<b>Pablo:</b> Hi, Greta, I'm Pablo.<br><br>
 
-Greta: Hi. How are you?.
+<b>Greta:</b> Hi. How are you?.<br><br>
 
-Pablo: I'm fine, thanks. Where are you from, Greta?
+<b>Pablo:</b> I'm fine, thanks. Where are you from, Greta?<br><br>
 
-Greta: I'm from Germany. Where are you from?
+<b>Greta:</b> I'm from Germany. Where are you from?<br><br>
 
-Pablo: I'm from Argentina. Nice to meet you.
+<b>Pablo:</b> I'm from Argentina. Nice to meet you.<br><br>
 
-Greta: Nice to meet you too.
+<b>Greta:</b> Nice to meet you too.<br>
 
 ### 9. Inviting someone to the cinema
 
@@ -300,45 +302,45 @@ Greta: Nice to meet you too.
 
 ![[A1_inviting_someone_to_the_cinema.mp3]]
 
-Jack: Hi, Ismael. How are you?
+<b>Jack:</b> Hi, Ismael. How are you?<br><br>
 
-Ismael: Hi, Jack. I'm OK but I've `got loads of` homework.
+<b>Ismael:</b> Hi, Jack. I'm OK but I've got loads of homework.<br><br>
 
-Jack: Me too, but would you like to come with us to the cinema tonight?
+<b>Jack:</b> Me too, but would you like to come with us to the cinema tonight?<br><br>
 
-Ismael: `Who's 'us'?`
+<b>Ismael:</b> Who's 'us'?<br><br>
 
-Jack: Me, Jamie, Nicola and Selina.
+<b>Jack:</b> Me, Jamie, Nicola and Selina.<br><br>
 
-Ismael: OK, and what's the film?
+<b>Ismael:</b> OK, and what's the film?<br><br>
 
-Jack: We don't know. We can't decide. `There's that` new horror film, `'Light and Dark'`.
+<b>Jack:</b> We don't know. We can't decide. There's that new horror film, 'Light and Dark'.<br><br>
 
-Ismael: No, no, no! I don't like horror films.
+<b>Ismael:</b> No, no, no! I don't like horror films.<br><br>
 
-Jack: OK, well, there's a comedy `about a` school.
+<b>Jack:</b> OK, well, there's a comedy about a school.<br><br>
 
-Ismael: Oh, no more school, please! What `about a` romcom?
+<b>Ismael:</b> Oh, no more school, please! What about a romcom?<br><br>
 
-Jack: Romcom?
+<b>Jack:</b> Romcom?<br><br>
 
-Ismael: You know, romantic comedy, boy meets girl ...
+<b>Ismael:</b> You know, romantic comedy, boy meets girl ...<br><br>
 
-Jack: What? Really? No, I hate romantic films. I like action.
+<b>Jack:</b> What? Really? No, I hate romantic films. I like action.<br><br>
 
-Ismael: Well, there's a new science fiction film, '`Alien` attacks'.
+<b>Ismael:</b> Well, there's a new science fiction film, 'Alien attacks'.<br><br>
 
-Jack: OK, I like science fiction. Let's see that.
+<b>Jack:</b> OK, I like science fiction. Let's see that.<br><br>
 
-Ismael: OK, I'll ask `the others` if they like sci-fi.
+<b>Ismael:</b> OK, I'll ask the others if they like sci-fi.<br><br>
 
-Jack: What time is the film?
+<b>Jack:</b> What time is the film?<br><br>
 
-Ismael: At 8 o'clock. `Let’s meet` at 7:30 outside the cinema.
+<b>Ismael:</b> At 8 o'clock. Let’s meet at 7:30 outside the cinema.<br><br>
 
-Jack: OK. See you later.
+<b>Jack:</b> OK. See you later.<br><br>
 
-Ismael: Bye.
+<b>Ismael:</b> Bye.<br>
 
 ### 10. Online safety conversation
 
@@ -346,39 +348,39 @@ Ismael: Bye.
 
 ![[A1_Online_safety_conversation.mp3]]
 
-Charlie: Mum! That's my computer!
+<b>Charlie:</b> Mum! That's my computer!<br><br>
 
-Mum: I know, I know. Don't worry, I'm changing your privacy settings.
+<b>Mum:</b> I know, I know. Don't worry, I'm changing your privacy settings.<br><br>
 
-Charlie: Privacy settings?
+<b>Charlie:</b> Privacy settings?<br><br>
 
-Mum: Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!
+<b>Mum:</b> Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!<br><br>
 
-Charlie: Oh. What are the privacy settings for?
+<b>Charlie:</b> Oh. What are the privacy settings for?<br><br>
 
-Mum: To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.
+<b>Mum:</b> To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.<br><br>
 
-Charlie: Everyone?
+<b>Charlie:</b> Everyone?<br><br>
 
-Mum: Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?
+<b>Mum:</b> Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?<br><br>
 
-Charlie: No! But I can delete things, can't I?
+<b>Charlie:</b> No! But I can delete things, can't I?<br><br>
 
-Mum: Well, you can, but it's very difficult. Some things stay there forever.
+<b>Mum:</b> Well, you can, but it's very difficult. Some things stay there forever.<br><br>
 
-Charlie: That's really scary, Mum.
+<b>Charlie:</b> That's really scary, Mum.<br><br>
 
-Mum: Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!
+<b>Mum:</b> Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!<br><br>
 
-Charlie: I won't!
+<b>Charlie:</b> I won't!<br><br>
 
-Mum: Crazy Charlie one two one, isn't it?
+<b>Mum:</b> Crazy Charlie one two one, isn't it?<br><br>
 
-Charlie: Mum! Yes, it is. How …
+<b>Charlie:</b> Mum! Yes, it is. How …<br><br>
 
-Mum: It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?
+<b>Mum:</b> It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?<br><br>
 
-Charlie: No, it isn't.
+<b>Charlie:</b> No, it isn't.<br>
 
 <details>
   <summary>More 👀👇</summary>
@@ -439,31 +441,31 @@ Charlie: No, it isn't.
 
 ![[A1_ordering_food.mp3]]
 
-Café worker: Next, please! What would you like?
+<b>Café worker:</b> Next, please! What would you like?<br><br>
 
-Andi: Can I have a burger, please?
+<b>Andi:</b> Can I have a burger, please?<br><br>
 
-Café worker: `A cheeseburger` or double cheeseburger?
+<b>Café worker:</b> A cheeseburger or double cheeseburger?<br><br>
 
-Andi: Double cheeseburger, please.
+<b>Andi:</b> Double cheeseburger, please.<br><br>
 
-Café worker: Anything else?
+<b>Café worker:</b> Anything else?<br><br>
 
-Andi: Yeah, `I'd like` some banana cake.
+<b>Andi:</b> Yeah, I'd like some banana cake.<br><br>
 
-Café worker: Would you like a drink?
+<b>Café worker:</b> Would you like a drink?<br><br>
 
-Andi: Yes, can I have an apple juice, please?
+<b>Andi:</b> Yes, can I have an apple juice, please?<br><br>
 
-Café worker: OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?
+<b>Café worker:</b> OK, so that's one double cheeseburger, one banana cake and an apple juice. What's your table number?<br><br>
 
-Andi: Table 3. How much is that?
+<b>Andi:</b> Table 3. How much is that?<br><br>
 
-Café worker: That's £8.37, please.
+<b>Café worker:</b> That's £8.37, please.<br><br>
 
-Andi: Here you are.
+<b>Andi:</b> Here you are.<br><br>
 
-Café worker: Thank you ... that's £10.00 ... and £1.63 change. Next, please ...
+<b>Café worker:</b> Thank you ... that's £10.00 ... and £1.63 change. Next, please ...<br>
 
 ### 12. Spelling colours
 
@@ -471,25 +473,25 @@ Café worker: Thank you ... that's £10.00 ... and £1.63 change. Next, please .
 
 ![[A1_spelling_colours.mp3]]
 
-Number 1: R-E-D
+<b>Number 1:</b> R-E-D<br><br>
 
-Number 2: Y-E-L-L-O-W
+<b>Number 2:</b> Y-E-L-L-O-W<br><br>
 
-Number 3: G-R-E-E-N
+<b>Number 3:</b> G-R-E-E-N<br><br>
 
-Number 4: B-L-U-E
+<b>Number 4:</b> B-L-U-E<br><br>
 
-Number 5: B-L-A-C-K
+<b>Number 5:</b> B-L-A-C-K<br><br>
 
-Number 6: B-R-O-W-N
+<b>Number 6:</b> B-R-O-W-N<br><br>
 
-Number 7: W-H-I-T-E
+<b>Number 7:</b> W-H-I-T-E<br><br>
 
-Number 8: P-I-N-K
+<b>Number 8:</b> P-I-N-K<br><br>
 
-Number 9: P-U-R-P-L-E
+<b>Number 9:</b> P-U-R-P-L-E<br><br>
 
-Number 10: O-R-A-N-G-E
+<b>Number 10:</b> O-R-A-N-G-E<br>
 
 ### 13. Spelling names
 
@@ -497,25 +499,25 @@ Number 10: O-R-A-N-G-E
 
 ![[A1_spelling_names.mp3]]
 
-A: What’s your name?
+<b>A:</b> What’s your name?<br><br>
 
-B: Anika.
+<b>B:</b> Anika.<br><br>
 
-A: Can you spell that?
+<b>A:</b> Can you spell that?<br><br>
 
-B: A-N-I-K-A.
+<b>B:</b> A-N-I-K-A.<br><br>
 
-A: What’s your surname?
+<b>A:</b> What’s your surname?<br><br>
 
-B: Reeves.
+<b>B:</b> Reeves.<br><br>
 
-A: Can you spell that?
+<b>A:</b> Can you spell that?<br><br>
 
-B: R-E-E-V-E-S.
+<b>B:</b> R-E-E-V-E-S.<br><br>
 
-A: R-double E-V-E-S.
+<b>A:</b> R-double E-V-E-S.<br><br>
 
-B: That’s right.
+<b>B:</b> That’s right.<br>
 
 ### 14. Study tips
 
@@ -523,31 +525,31 @@ B: That’s right.
 
 ![[A1_Study_tips.mp3]]
 
-Ben: You always get good marks at school. You're lucky! I study but I don't always get good marks.
+<b>Ben:</b> You always get good marks at school. You're lucky! I study but I don't always get good marks.<br><br>
 
-Katy: I'm not lucky! I know how to study. I always do three things. Do you want to know them?
+<b>Katy:</b> I'm not lucky! I know how to study. I always do three things. Do you want to know them?<br><br>
 
-Ben: Yeah, please!
+<b>Ben:</b> Yeah, please!<br><br>
 
-Katy: OK, number one. Always study in a quiet place.
+<b>Katy:</b> OK, number one. Always study in a quiet place.<br><br>
 
-Ben: I usually study in my bedroom. It's very quiet.
+<b>Ben:</b> I usually study in my bedroom. It's very quiet.<br><br>
 
-Katy: Number two. Have a clear desk!
+<b>Katy:</b> Number two. Have a clear desk!<br><br>
 
-Ben: Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.
+<b>Ben:</b> Right. A clear desk. My desk isn't clear. There are lots of papers and books and pens on it.<br><br>
 
-Katy: Well, that isn't very good!
+<b>Katy:</b> Well, that isn't very good!<br><br>
 
-Ben: What's tip number three?
+<b>Ben:</b> What's tip number three?<br><br>
 
-Katy: Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.
+<b>Katy:</b> Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.<br><br>
 
-Ben: I never have a break. I sometimes study for two or three hours.
+<b>Ben:</b> I never have a break. I sometimes study for two or three hours.<br><br>
 
-Katy: That isn't a good idea! It's important to get up and move your body.
+<b>Katy:</b> That isn't a good idea! It's important to get up and move your body.<br><br>
 
-Ben: OK. Thanks. Next time I think I can get good marks!
+<b>Ben:</b> OK. Thanks. Next time I think I can get good marks!<br>
 
 ### 15. Understanding numbers
 
@@ -555,27 +557,29 @@ Ben: OK. Thanks. Next time I think I can get good marks!
 
 ![[A1_understanding_numbers.mp3]]
 
-0208 542 8976
+0208 542 8976<br><br>
 
-14
+14<br><br>
 
-1985
+1985<br><br>
 
-25th June
+25th June<br><br>
 
-1 metre 27
+1 metre 27<br><br>
 
-68
+68<br><br>
 
-103
+103<br><br>
 
-671
+671<br><br>
 
-5,325
+5,325<br><br>
 
-8,000,000
+8,000,000<br>
 
 ## Second part
+
+[LearnEnglish: A1 listening](https://learnenglish.britishcouncil.org/free-resources/listening/a1)
 
 ### 1. A request from your boss
 
@@ -583,31 +587,31 @@ Ben: OK. Thanks. Next time I think I can get good marks!
 
 ![[LE_listening_A1_A_request_from_your_boss.mp3]]
 
-Susanne: Hi, Mario. Can you help me prepare some things for the next month?
+<b>Susanne:</b> Hi, Mario. Can you help me prepare some things for the next month?<br><br>
 
-Mario: OK, sure. What can I help you with?
+<b>Mario:</b> OK, sure. What can I help you with?<br><br>
 
-Susanne: I need to visit the `customer` in Germany. It's important.
+<b>Susanne:</b> I need to visit the customer in Germany. It's important.<br><br>
 
-Mario: What can I do to help?
+<b>Mario:</b> What can I do to help?<br><br>
 
-Susanne: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.
+<b>Susanne:</b> Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.<br><br>
 
-Mario: Right. I'll do it today.
+<b>Mario:</b> Right. I'll do it today.<br><br>
 
-Susanne: Thanks. This next task is also important. Can you invite everyone to the next team meeting?
+<b>Susanne:</b> Thanks. This next task is also important. Can you invite everyone to the next team meeting?<br><br>
 
-Mario: Yes, I will.
+<b>Mario:</b> Yes, I will.<br><br>
 
-Susanne: But first you need to book a meeting room. After that, please send everyone an email about it.
+<b>Susanne:</b> But first you need to book a meeting room. After that, please send everyone an email about it.<br><br>
 
-Mario: Yes, `of course`.
+<b>Mario:</b> Yes, of course.<br><br>
 
-Susanne: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.
+<b>Susanne:</b> And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.<br><br>
 
-Mario: Sure, `no problem`. I can do it this week.
+<b>Mario:</b> Sure, no problem. I can do it this week.<br><br>
 
-Susanne: There's `no hurry`. Take your time.
+<b>Susanne:</b> There's no hurry. Take your time.<br>
 
 ### 2. A voicemail message
 
@@ -615,15 +619,15 @@ Susanne: There's `no hurry`. Take your time.
 
 ![[LE_listening_A1_A_voicemail_message.mp3]]
 
-John: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.
+<b>John:</b> Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.<br><br>
 
-Marina: Hi, John, this is Marina Silva calling from Old Time Toys. Your `colleague` Alex gave me your phone number. She said you can help me.
+<b>Marina:</b> Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.<br><br>
 
-I need some information on your new products. Could you please call me when you are `back in` the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.
+<b>Marina:</b> I need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.<br><br>
 
-Also, can you please email me your new `brochure` and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E `hyphen` toys dot com.
+<b>Marina:</b> Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.<br><br>
 
-Thanks a lot. I look forward to `hearing` from you.
+<b>Marina:</b> Thanks a lot. I look forward to hearing from you.<br>
 
 ### 3. Booking a table
 
@@ -631,61 +635,63 @@ Thanks a lot. I look forward to `hearing` from you.
 
 ![[LE_listening_A1_Booking_a_table.mp3]]
 
-Staff: Hello, Gino's.
+<b>Staff:</b> Hello, Gino's.<br><br>
 
-Jamie: Hi. Can I book a table for tomorrow night, please?
+<b>Jamie:</b> Hi. Can I book a table for tomorrow night, please?<br><br>
 
-Staff: How many people is it for?
+<b>Staff:</b> How many people is it for?<br><br>
 
-Jamie: Four.
+<b>Jamie:</b> Four.<br><br>
 
-Staff: And what time would you like?
+<b>Staff:</b> And what time would you like?<br><br>
 
-Jamie: About eight, eight thirty maybe?
+<b>Jamie:</b> About eight, eight thirty maybe?<br><br>
 
-Staff: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.
+<b>Staff:</b> Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.<br><br>
 
-Jamie: Oh. OK, then. Half seven, please.
+<b>Jamie:</b> Oh. OK, then. Half seven, please.<br><br>
 
-Staff: What name is it?
+<b>Staff:</b> What name is it?<br><br>
 
-Jamie: Jamie.
+<b>Jamie:</b> Jamie.<br><br>
 
-Staff: J-A- ...?
+<b>Staff:</b> J-A- ...?<br><br>
 
-Jamie: M-I-E
+<b>Jamie:</b> M-I-E<br><br>
 
-Staff: OK, so that's a table for four at half past seven tomorrow evening.
+<b>Staff:</b> OK, so that's a table for four at half past seven tomorrow evening.<br><br>
 
-Jamie: Great. Thanks! Bye.
+<b>Jamie:</b> Great. Thanks! Bye.<br><br>
 
-Staff: Bye.
+<b>Staff:</b> Bye.<br><br>
 
-Staff: Hello, Gino's.
+<hr><br><br>
 
-Jamie: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?
+<b>Staff:</b> Hello, Gino's.<br><br>
 
-Staff: Ah, what name was it?
+<b>Jamie:</b> Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?<br><br>
 
-Jamie: It's Jamie.
+<b>Staff:</b> Ah, what name was it?<br><br>
 
-Staff: Table for four at half past seven. So you want to change it to 6 o'clock?
+<b>Jamie:</b> It's Jamie.<br><br>
 
-Jamie: No, sorry. Can I make it for six people?
+<b>Staff:</b> Table for four at half past seven. So you want to change it to 6 o'clock?<br><br>
 
-Staff: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?
+<b>Jamie:</b> No, sorry. Can I make it for six people?<br><br>
 
-Jamie: No problem. Is it possible to change the time as well? Make it a little bit later?
+<b>Staff:</b> Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?<br><br>
 
-Staff: Ah ... yeah, we can. Is eight OK for you?
+<b>Jamie:</b> No problem. Is it possible to change the time as well? Make it a little bit later?<br><br>
 
-Jamie: Perfect, thanks!
+<b>Staff:</b> Ah ... yeah, we can. Is eight OK for you?<br><br>
 
-Staff: Lovely. See you tomorrow, then.
+<b>Jamie:</b> Perfect, thanks!<br><br>
 
-Jamie: Thanks! Bye!
+<b>Staff:</b> Lovely. See you tomorrow, then.<br><br>
 
-Staff: Thanks. Ciao! 
+<b>Jamie:</b> Thanks! Bye!<br><br>
+
+<b>Staff:</b> Thanks. Ciao!<br>
 
 ### 4. Business cards
 
@@ -693,27 +699,27 @@ Staff: Thanks. Ciao!
 
 ![[LE_listening_A1_Business_cards.mp3]]
 
-A
+<b>A</b><br><br>
 
-A: Hello, Doctor Miller. It's nice to meet you.  
+<b>A:</b> Hello, Doctor Miller. It's nice to meet you.<br><br>
 
-B: Please call me Peter.
+<b>B:</b> Please call me Peter.<br><br>
 
-A: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.
+<b>A:</b> OK. Are you a medical doctor? It must be helpful when you sell medical equipment.<br><br>
 
-B: Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.
+<b>B:</b> Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.<br><br>
 
-B
+<b>B</b><br><br>
 
-Good morning, everyone. I'm happy to be here today to tell you about our new project. My name is Alessandro Rossi. I'm the project leader on the Starlight programming project.
+Good morning, everyone. I'm happy to be here today to tell you about our new project. My name is Alessandro Rossi. I'm the project leader on the Starlight programming project.<br><br>
 
-C
+<b>C</b><br><br>
 
-Pleased to meet you. Here's my card. My real name is Megumi Tanaka, but people who are not from my country think it's difficult to say my name, so I use another name, Meg, when I'm working internationally.
+Pleased to meet you. Here's my card. My real name is Megumi Tanaka, but people who are not from my country think it's difficult to say my name, so I use another name, Meg, when I'm working internationally.<br><br>
 
-D
+<b>D</b><br><br>
 
-Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development.
+Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development.<br>
 
 ### 5. Finding the library
 
@@ -721,63 +727,65 @@ Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this te
 
 ![[LE_listening_A1_Finding_ the_library.mp3]]
 
-Student: Hi. Excuse me.
+<b>Student:</b> Hi. Excuse me.<br><br>
 
-Student B: Yes?
+<b>Student B:</b> Yes?<br><br>
 
-Student: Where's the library?
+<b>Student:</b> Where's the library?<br><br>
 
-Student B: The library? It's next to the registration office.
+<b>Student B:</b> The library? It's next to the registration office.<br><br>
 
-Student: Ah ... sorry, I'm new. Where's the registration office?
+<b>Student:</b> Ah ... sorry, I'm new. Where's the registration office?<br><br>
 
-Student B: No problem. See the big building over there?
+<b>Student B:</b> No problem. See the big building over there?<br><br>
 
-Student: Yes.
+<b>Student:</b> Yes.<br><br>
 
-Student B: OK, so that's the lecture theatre. Next to that, on the right, is the registration office. And next to that is the library.
+<b>Student B:</b> OK, so that's the lecture theatre. Next to that, on the right, is the registration office. And next to that is the library.<br><br>
 
-Student: I see. Thanks!
+<b>Student:</b> I see. Thanks!<br><br>
 
-Student: Hello?
+<hr><br><br>
 
-Librarian: Hello.
+<b>Student:</b> Hello?<br><br>
 
-Student: Is this the library?
+<b>Librarian:</b> Hello.<br><br>
 
-Librarian: Yes, it is. Quiet, please.
+<b>Student:</b> Is this the library?<br><br>
 
-Student: Oh, sorry. Thank you.
+<b>Librarian:</b> Yes, it is. Quiet, please.<br><br>
 
-Librarian: Can I help you?
+<b>Student:</b> Oh, sorry. Thank you.<br><br>
 
-Student: Er, yes, please. I want to borrow some books. What do I need?
+<b>Librarian:</b> Can I help you?<br><br>
 
-Librarian: You need a library card. Here's the application form. You can take up to six books maximum today.
+<b>Student:</b> Er, yes, please. I want to borrow some books. What do I need?<br><br>
 
-Student: OK. Six books.
+<b>Librarian:</b> You need a library card. Here's the application form. You can take up to six books maximum today.<br><br>
 
-Librarian: Yes. You have two weeks to read the books. Then you bring them back.
+<b>Student:</b> OK. Six books.<br><br>
 
-Student: And if I'm late?
+<b>Librarian:</b> Yes. You have two weeks to read the books. Then you bring them back.<br><br>
 
-Librarian: Every day you are late there is a fee of fifty pence.
+<b>Student:</b> And if I'm late?<br><br>
 
-Student: OK, 50p a day. Er, anything else?
+<b>Librarian:</b> Every day you are late there is a fee of fifty pence.<br><br>
 
-Librarian: Mobile phones must be switched off in the library. You can bring your laptop, but please use headphones to watch videos or listen to music.
+<b>Student:</b> OK, 50p a day. Er, anything else?<br><br>
 
-Student: OK, great.
+<b>Librarian:</b> Mobile phones must be switched off in the library. You can bring your laptop, but please use headphones to watch videos or listen to music.<br><br>
 
-Librarian: And you can't bring food or drink.
+<b>Student:</b> OK, great.<br><br>
 
-Student: No food, no drink. And ...?
+<b>Librarian:</b> And you can't bring food or drink.<br><br>
 
-Librarian: And please speak quietly! People are working here.
+<b>Student:</b> No food, no drink. And ...?<br><br>
 
-Student: Oh! Oh, OK. Thank you.
+<b>Librarian:</b> And please speak quietly! People are working here.<br><br>
 
-Librarian: You're welcome.
+<b>Student:</b> Oh! Oh, OK. Thank you.<br><br>
+
+<b>Librarian:</b> You're welcome.<br>
 
 ### 6. Meeting a new team member
 
@@ -785,43 +793,43 @@ Librarian: You're welcome.
 
 ![[LE_listening_A1_Meeting_a_new_team_member.mp3]]
 
-Peter: Hi, my name's Peter. What's your name?
+<b>Peter:</b> Hi, my name's Peter. What's your name?<br><br>
 
-Carla: Hi, Peter. I'm Carla. I'm new here.
+<b>Carla:</b> Hi, Peter. I'm Carla. I'm new here.<br><br>
 
-Peter: Welcome to the company, Carla.
+<b>Peter:</b> Welcome to the company, Carla.<br><br>
 
-Carla: Thanks, Peter. I'm happy to be here and it's nice to meet you.
+<b>Carla:</b> Thanks, Peter. I'm happy to be here and it's nice to meet you.<br><br>
 
-Peter: It's nice to meet you too.
+<b>Peter:</b> It's nice to meet you too.<br><br>
 
-Carla: Where do you work?
+<b>Carla:</b> Where do you work?<br><br>
 
-Peter: I work in the design team. We sit over there.  
+<b>Peter:</b> I work in the design team. We sit over there.<br><br>
 
-Carla: I'm in the marketing team. I started last week.
+<b>Carla:</b> I'm in the marketing team. I started last week.<br><br>
 
-Peter: You work in marketing? That's very interesting.
+<b>Peter:</b> You work in marketing? That's very interesting.<br><br>
 
-Carla: Yes, it is. I'm enjoying it. But there are a lot of new things to learn.
+<b>Carla:</b> Yes, it is. I'm enjoying it. But there are a lot of new things to learn.<br><br>
 
-Peter: I'm sure there are. I'm happy to help you if I can.
+<b>Peter:</b> I'm sure there are. I'm happy to help you if I can.<br><br>
 
-Carla: Thank you, Peter. What do you do in the design department?
+<b>Carla:</b> Thank you, Peter. What do you do in the design department?<br><br>
 
-Peter: I design new products.  
+<b>Peter:</b> I design new products.<br><br>
 
-Carla: That sounds interesting. I plan marketing events for new products. So I think we'll work together sometimes.
+<b>Carla:</b> That sounds interesting. I plan marketing events for new products. So I think we'll work together sometimes.<br><br>
 
-Peter: That would be great. So, where are you from, Carla?
+<b>Peter:</b> That would be great. So, where are you from, Carla?<br><br>
 
-Carla: Brazil. And you?
+<b>Carla:</b> Brazil. And you?<br><br>
 
-Peter: I'm from the UK.
+<b>Peter:</b> I'm from the UK.<br><br>
 
-Carla: How long have you been here?
+<b>Carla:</b> How long have you been here?<br><br>
 
-Peter: I've worked here for three years but I actually moved here from the UK five years ago, to study.
+<b>Peter:</b> I've worked here for three years but I actually moved here from the UK five years ago, to study.<br>
 
 ### 7. Meeting other students
 
@@ -829,45 +837,45 @@ Peter: I've worked here for three years but I actually moved here from the UK fi
 
 ![[LE_listening_A1_Meeting_other_students.mp3]]
 
-Teacher: So, now you've got the important information, it's time to meet each other. Everyone turn to the people next to you and introduce yourselves.
+<b>Teacher:</b> So, now you've got the important information, it's time to meet each other. Everyone turn to the people next to you and introduce yourselves.<br><br>
 
-Cara: So, hi. I'm Cara. And you are?
+<b>Cara:</b> So, hi. I'm Cara. And you are?<br><br>
 
-Robert: Robert.
+<b>Robert:</b> Robert.<br><br>
 
-Selim: Selim.
+<b>Selim:</b> Selim.<br><br>
 
-Cara: Nice to meet you!
+<b>Cara:</b> Nice to meet you!<br><br>
 
-Robert and Selim: You too.
+<b>Robert and Selim:</b> You too.<br><br>
 
-Robert: Nice accent. Where are you from?
+<b>Robert:</b> Nice accent. Where are you from?<br><br>
 
-Cara: I'm from Glasgow.
+<b>Cara:</b> I'm from Glasgow.<br><br>
 
-Robert: Oh, really? My mum's from near Glasgow, so I'm half Scottish.
+<b>Robert:</b> Oh, really? My mum's from near Glasgow, so I'm half Scottish.<br><br>
 
-Cara: Cool. Do you live in Scotland?
+<b>Cara:</b> Cool. Do you live in Scotland?<br><br>
 
-Robert: No, we live in England, near Manchester. My dad's from there. What about you, Selim?
+<b>Robert:</b> No, we live in England, near Manchester. My dad's from there. What about you, Selim?<br><br>
 
-Selim: I'm from Leeds originally but I grew up near London.
+<b>Selim:</b> I'm from Leeds originally but I grew up near London.<br><br>
 
-Cara: Are you both doing history on its own?
+<b>Cara:</b> Are you both doing history on its own?<br><br>
 
-Selim: No. I'm doing history and German.
+<b>Selim:</b> No. I'm doing history and German.<br><br>
 
-Robert: I'm doing it with maths, actually.
+<b>Robert:</b> I'm doing it with maths, actually.<br><br>
 
-Selim: History and maths. That's different!
+<b>Selim:</b> History and maths. That's different!<br><br>
 
-Robert: Yeah, I couldn't decide between arts and sciences. Maths doesn't help with remembering dates, though! And you?
+<b>Robert:</b> Yeah, I couldn't decide between arts and sciences. Maths doesn't help with remembering dates, though! And you?<br><br>
 
-Cara: I'm doing history and French.
+<b>Cara:</b> I'm doing history and French.<br><br>
 
-Selim: I wanted to do French but German was easier, so I took that.
+<b>Selim:</b> I wanted to do French but German was easier, so I took that.<br><br>
 
-Cara: German is so hard!
+<b>Cara:</b> German is so hard!<br>
 
 ### 8. Meeting people at a dinner
 
@@ -875,41 +883,41 @@ Cara: German is so hard!
 
 ![[LE_listening_A1_Meeting_people_at_a_dinner.mp3]]
 
-Charles: Hello, Julian.
+<b>Charles:</b> Hello, Julian.<br><br>
 
-Julian: Hello, Charles. How are you?
+<b>Julian:</b> Hello, Charles. How are you?<br><br>
 
-Charles: I'm fine. Fine. Julian, do you remember Alyssa?
+<b>Charles:</b> I'm fine. Fine. Julian, do you remember Alyssa?<br><br>
 
-Julian: No, I don't.
+<b>Julian:</b> No, I don't.<br><br>
 
-Charles: She's Ben's sister. Do you remember? We were all at Ben's wedding together.
+<b>Charles:</b> She's Ben's sister. Do you remember? We were all at Ben's wedding together.<br><br>
 
-Julian: Ah, yes, I do – in that old castle. Was it in January?
+<b>Julian:</b> Ah, yes, I do – in that old castle. Was it in January?<br><br>
 
-Charles: Yes, it was! Alyssa was there.
+<b>Charles:</b> Yes, it was! Alyssa was there.<br><br>
 
-Alyssa: Hello. Nice to meet you ... again.
+<b>Alyssa:</b> Hello. Nice to meet you ... again.<br><br>
 
-Julian: Hello, nice to meet you too, Alison.
+<b>Julian:</b> Hello, nice to meet you too, Alison.<br><br>
 
-Alyssa: I'm not Alison.
+<b>Alyssa:</b> I'm not Alison.<br><br>
 
-Julian: What?
+<b>Julian:</b> What?<br><br>
 
-Alyssa: My name isn't Alison. It's Alyssa.
+<b>Alyssa:</b> My name isn't Alison. It's Alyssa.<br><br>
 
-Julian: I'm sorry. Nice to meet you, Alyssa.
+<b>Julian:</b> I'm sorry. Nice to meet you, Alyssa.<br><br>
 
-Charles: Good. Would you like a drink?
+<b>Charles:</b> Good. Would you like a drink?<br><br>
 
-Julian: Good idea.
+<b>Julian:</b> Good idea.<br><br>
 
-Alyssa: Yes, please.
+<b>Alyssa:</b> Yes, please.<br><br>
 
-Charles: Here you are.
+<b>Charles:</b> Here you are.<br><br>
 
-Alyssa and Julian: Thanks!
+<b>Alyssa and Julian:</b> Thanks!<br>
 
 ### 9. Ordering in a café
 
@@ -917,71 +925,75 @@ Alyssa and Julian: Thanks!
 
 ![[LE_listening_A1_Ordering_in_a_café.mp3]]
 
-Customer 1: Can I have an orange juice, please?
+<b>Customer 1:</b> Can I have an orange juice, please?<br><br>
 
-Server: Regular or large?
+<b>Server:</b> Regular or large?<br><br>
 
-Customer 1: How big is a large?
+<b>Customer 1:</b> How big is a large?<br><br>
 
-Server: This is a large. This is a regular.
+<b>Server:</b> This is a large. This is a regular.<br><br>
 
-Customer 1: I'll have a large, then, please. Without ice.
+<b>Customer 1:</b> I'll have a large, then, please. Without ice.<br><br>
 
-Server: OK, coming up.
+<b>Server:</b> OK, coming up.<br><br>
 
-Customer 1: Sorry, I wanted freshly squeezed orange juice.
+<b>Customer 1:</b> Sorry, I wanted freshly squeezed orange juice.<br><br>
 
-Server: I'm afraid we only have bottled juices.
+<b>Server:</b> I'm afraid we only have bottled juices.<br><br>
 
-Customer 1: Oh, then I'll have an apple juice instead, please.
+<b>Customer 1:</b> Oh, then I'll have an apple juice instead, please.<br><br>
 
-Server: Here you go. That's £3.50, please.
+<b>Server:</b> Here you go. That's £3.50, please.<br><br>
 
-Customer: Thanks.
+<b>Customer:</b> Thanks.<br><br>
 
-Server: Thank you.
+<b>Server:</b> Thank you.<br><br>
 
-Server: Can I help anyone?
+<hr><br><br>
 
-Customer 2: Who's next?
+<b>Server:</b> Can I help anyone?<br><br>
 
-Customer 3: You were first, I think.
+<b>Customer 2:</b> Who's next?<br><br>
 
-Customer 2: What teas do you have?
+<b>Customer 3:</b> You were first, I think.<br><br>
 
-Server: Breakfast tea, mint and green tea.
+<b>Customer 2:</b> What teas do you have?<br><br>
 
-Customer 2: A mint tea and a slice of lemon cake, please.
+<b>Server:</b> Breakfast tea, mint and green tea.<br><br>
 
-Server: To eat in or take away?
+<b>Customer 2:</b> A mint tea and a slice of lemon cake, please.<br><br>
 
-Customer 2: Take away, please.
+<b>Server:</b> To eat in or take away?<br><br>
 
-Server: There you go. That'll be £4.20, please.
+<b>Customer 2:</b> Take away, please.<br><br>
 
-Customer 2: Sorry, I've only got a fifty.
+<b>Server:</b> There you go. That'll be £4.20, please.<br><br>
 
-Server: That's OK. Here's your change … 5, 10, 30, 50.
+<b>Customer 2:</b> Sorry, I've only got a fifty.<br><br>
 
-Server: Who's next?
+<b>Server:</b> That's OK. Here's your change … 5, 10, 30, 50.<br><br>
 
-Customer 4: Can I have a ...
+<hr><br><br>
 
-Customer 3: Sorry, I think I was in front of you. 
+<b>Server:</b> Who's next?<br><br>
 
-Customer 4: Oh, sorry! 
+<b>Customer 4:</b> Can I have a ...<br><br>
 
-Customer 3: Can I have a chocolate chip cookie, please?
+<b>Customer 3:</b> Sorry, I think I was in front of you.<br><br>
 
-Server: Would you like a drink with that?
+<b>Customer 4:</b> Oh, sorry!<br><br>
 
-Customer 3: No, thanks. Just the cookie.
+<b>Customer 3:</b> Can I have a chocolate chip cookie, please?<br><br>
 
-Server: OK, then. That's 95p, please.
+<b>Server:</b> Would you like a drink with that?<br><br>
 
-Customer 3: Thanks. I think that's right.
+<b>Customer 3:</b> No, thanks. Just the cookie.<br><br>
 
-Server: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.
+<b>Server:</b> OK, then. That's 95p, please.<br><br>
+
+<b>Customer 3:</b> Thanks. I think that's right.<br><br>
+
+<b>Server:</b> 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.<br>
 
 ### 10. Organising a group project
 
@@ -989,49 +1001,49 @@ Server: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.
 
 ![[LE_Listening_A1_Organising_a_ group_ project.mp3]]
 
-Cara: So for our group project, do you want to start this week?
+<b>Cara:</b> So for our group project, do you want to start this week?<br><br>
 
-Selim: Yeah, I want to start early so we have enough time.
+<b>Selim:</b> Yeah, I want to start early so we have enough time.<br><br>
 
-Robert: Me too, but I've got a big maths project too.
+<b>Robert:</b> Me too, but I've got a big maths project too.<br><br>
 
-Cara: How about we meet first to plan what we're going to do? Just for an hour.
+<b>Cara:</b> How about we meet first to plan what we're going to do? Just for an hour.<br><br>
 
-Robert: Good idea, Cara.
+<b>Robert:</b> Good idea, Cara.<br><br>
 
-Cara: When are you free?
+<b>Cara:</b> When are you free?<br><br>
 
-Robert: I can always do mornings before 10.
+<b>Robert:</b> I can always do mornings before 10.<br><br>
 
-Cara: Robert … Uh …
+<b>Cara:</b> Robert … Uh …<br><br>
 
-Selim: I'm sleeping before 10!
+<b>Selim:</b> I'm sleeping before 10!<br><br>
 
-Robert: OK! OK, so when are you two free?
+<b>Robert:</b> OK! OK, so when are you two free?<br><br>
 
-Cara: Wednesdays are good for me. But not very early, please!
+<b>Cara:</b> Wednesdays are good for me. But not very early, please!<br><br>
 
-Selim: I can't do the mornings on Wednesdays but I have 3 till 5 free.
+<b>Selim:</b> I can't do the mornings on Wednesdays but I have 3 till 5 free.<br><br>
 
-Robert: I can do 4 o'clock, just before my maths class.
+<b>Robert:</b> I can do 4 o'clock, just before my maths class.<br><br>
 
-Cara: Great, 4 then. Where shall we meet?
+<b>Cara:</b> Great, 4 then. Where shall we meet?<br><br>
 
-Selim: The library?
+<b>Selim:</b> The library?<br><br>
 
-Robert: I don't know. The library isn't a good place for a planning meeting as we can't talk in there.
+<b>Robert:</b> I don't know. The library isn't a good place for a planning meeting as we can't talk in there.<br><br>
 
-Cara: How about the university café? It's near the library. We can talk in there. And eat cake.
+<b>Cara:</b> How about the university café? It's near the library. We can talk in there. And eat cake.<br><br>
 
-Selim: Cake is good.
+<b>Selim:</b> Cake is good.<br><br>
 
-Robert: OK, so Wednesday at the café. I need to leave at ten to five to go to my maths class.
+<b>Robert:</b> OK, so Wednesday at the café. I need to leave at ten to five to go to my maths class.<br><br>
 
-Cara: No problem. Planning will take less than an hour.
+<b>Cara:</b> No problem. Planning will take less than an hour.<br><br>
 
-Selim: OK! See you Wednesday for cake.
+<b>Selim:</b> OK! See you Wednesday for cake.<br><br>
 
-Robert and Cara: See you, Selim!
+<b>Robert and Cara:</b> See you, Selim!<br>
 
 ### 11. Shopping for clothes
 
@@ -1039,39 +1051,47 @@ Robert and Cara: See you, Selim!
 
 ![[LE_listening_A1_Shopping_for_clothes.mp3]]
 
-Shop assistant: Hello, can I help you?
+<b>Shop assistant:</b> Hello, can I help you?<br><br>
 
-Customer: I'm just looking, thanks.
+<b>Customer:</b> I'm just looking, thanks.<br><br>
 
-Customer: Excuse me?
+<hr><br><br>
 
-Shop assistant: Yes?
+<b>Customer:</b> Excuse me?<br><br>
 
-Customer: Where are the changing rooms?
+<b>Shop assistant:</b> Yes?<br><br>
 
-Shop assistant: They're over there. Behind you.
+<b>Customer:</b> Where are the changing rooms?<br><br>
 
-Customer: Thank you.
+<b>Shop assistant:</b> They're over there. Behind you.<br><br>
 
-Customer: Hi. Excuse me again. Do you have this jumper in black?
+<b>Customer:</b> Thank you.<br><br>
 
-Shop assistant: Yes, just a moment. What size do you need?
+<hr><br><br>
 
-Customer: Extra small, please.
+<b>Customer:</b> Hi. Excuse me again. Do you have this jumper in black?<br><br>
 
-Shop assistant: Here you are.
+<b>Shop assistant:</b> Yes, just a moment. What size do you need?<br><br>
 
-Customer: How much is this?
+<b>Customer:</b> Extra small, please.<br><br>
 
-Shop assistant: It's £29.
+<b>Shop assistant:</b> Here you are.<br><br>
 
-Customer: Can I pay by credit card?
+<hr><br><br>
 
-Shop assistant: Yes, you can. Of course.
+<b>Customer:</b> How much is this?<br><br>
 
-Shop assistant: Would you like a bag for that?
+<b>Shop assistant:</b> It's £29.<br><br>
 
-Customer: Yes, please.
+<b>Customer:</b> Can I pay by credit card?<br><br>
+
+<b>Shop assistant:</b> Yes, you can. Of course.<br><br>
+
+<hr><br><br>
+
+<b>Shop assistant:</b> Would you like a bag for that?<br><br>
+
+<b>Customer:</b> Yes, please.<br>
 
 ### 12. The first English class
 
@@ -1079,20 +1099,16 @@ Customer: Yes, please.
 
 ![[LE_listening_A1_The_first_English_class.mp3]]
 
-Hello, everyone. Hello! It's nice to see you all here. Welcome to British Life and Language. I am your teacher. My name is Lindsay Black. That's L-I-N-D-S-A-Y Black. Before we begin, some information about the class.
+Hello, everyone. Hello! It's nice to see you all here. Welcome to British Life and Language. I am your teacher. My name is Lindsay Black. That's L-I-N-D-S-A-Y Black. Before we begin, some information about the class.<br><br>
 
-Our class is in room 13, on the first floor. When you go upstairs, turn left to find the room. Again, that's room 13.
+Our class is in room 13, on the first floor. When you go upstairs, turn left to find the room. Again, that's room 13.<br><br>
 
-We have class twice a week, on Monday and Wednesday. Our class begins at 4.30 p.m. and lasts 90 minutes, so we finish at 6 p.m. That's 4.30 to 6. Please arrive on time, OK?
+We have class twice a week, on Monday and Wednesday. Our class begins at 4.30 p.m. and lasts 90 minutes, so we finish at 6 p.m. That's 4.30 to 6. Please arrive on time, OK?<br><br>
 
-Also, I have an office hour if you have questions. I'm in office 7B on the second floor. My office hour is Friday at 6 p.m. So, if you have any questions or problems or want to talk to me, it's Friday at 6 p.m. in office 7B.
+Also, I have an office hour if you have questions. I'm in office 7B on the second floor. My office hour is Friday at 6 p.m. So, if you have any questions or problems or want to talk to me, it's Friday at 6 p.m. in office 7B.<br><br>
 
-We begin next week, on March the 13th. That's Monday, March the 13th. The course ends on May the 20th. May the 20th is the last day.
+We begin next week, on March the 13th. That's Monday, March the 13th. The course ends on May the 20th. May the 20th is the last day.<br><br>
 
-I think that's all ... Oh, one more thing. For this course you need the book. Here it is: British Life and Language Level 1 Student's Book. So, please get a copy of the book. I don't want to see any photocopies of the book, thank you! Remember, it's level 1 student's book. Don't buy the teacher's book.
+I think that's all ... Oh, one more thing. For this course you need the book. Here it is: British Life and Language Level 1 Student's Book. So, please get a copy of the book. I don't want to see any photocopies of the book, thank you! Remember, it's level 1 student's book. Don't buy the teacher's book.<br><br>
 
-I think that's all, everyone. I look forward to working with you. See you next Monday!
-
-##
-
-[Learnenglish]()
+I think that's all, everyone. I look forward to working with you. See you next Monday!<br>

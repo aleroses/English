@@ -2,6 +2,8 @@
 
 ## First part
 
+[LearnEnglish Teens: A2 listening](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening)
+
 ### 1. Eating out
 
 [Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/eating-out)
@@ -381,9 +383,31 @@ This audio is for you to practise your listening skills. Some of the information
 
 <b>Angel:</b> Phew, that was lucky!<br>
 
-### 10.
+### 10. Travelling abroad
 
-[Learnenglishteens]()
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/travelling-abroad)
+
+![[A2_travelling_abroad.mp3]]
+
+<b>A</b><br><br>
+
+Good morning. This is an announcement for all passengers travelling on the 9:25 flight TOM1223 to Rome. This flight is delayed by two hours because of bad weather.<br><br>
+
+<b>B</b><br><br>
+
+Would all passengers travelling to Tokyo on flight FR3421 please have your boarding passes and passports ready for boarding. Flight FR3421 now boarding at gate 21.<br><br>
+
+<b>C</b><br><br>
+
+This is the final boarding call for passengers Gemma and Ryan Grey flying to Athens on flight EZ9753. Your flight is ready to leave. Please go to gate 14 immediately. The doors of the plane will close in five minutes. Final boarding call for passengers Gemma and Ryan Grey.<br><br>
+
+<b>D</b><br><br>
+
+This is an announcement for passengers travelling to Amsterdam on flight KL1050. Will all passengers with express boarding tickets and passengers travelling with young children please go to gate 6 for boarding. That's all passengers with express boarding tickets and passengers travelling with young children go to gate 6 for boarding. Thank you.<br><br>
+
+<b>E</b><br><br>
+
+Good evening, ladies and gentlemen. We have landed at JFK airport in New York where the local time is 18:30 and the temperature is 76º. We hope you have enjoyed your flight with American Airlines this evening and wish you a very safe journey to your final destination.<br>
 
 ### 11.
 
