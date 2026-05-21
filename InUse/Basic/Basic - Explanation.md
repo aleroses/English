@@ -504,3 +504,431 @@ Funciona como:
 No significa:
 
 - “estoy leyendo”
+
+## 53. go to... go on... go for... go -ing
+
+### A. **go to ...**
+
+Se usa para indicar que alguien va a un lugar.
+
+Estructura:
+
+```text
+go to + place
+```
+
+Ejemplos:
+
+- I go to school every day.
+- She went to the hospital.
+- We’re going to the airport.
+
+#### Casos especiales SIN “to”
+
+Con algunos lugares comunes NO usamos “to”:
+
+- go home
+- go downtown
+- go abroad
+
+Ejemplos:
+
+- I’m going home.
+- They went abroad last year.
+
+### B. **go on ...**
+
+Este uso tiene varios significados, y por eso suele confundir.
+
+#### A) **go on = continue**
+
+Este es el uso más importante.
+
+Significa:
+
+- continuar
+- seguir haciendo algo
+
+Estructura:
+
+```text
+go on + verb-ing
+```
+
+Ejemplos:
+
+- Please go on talking.  
+    → Por favor, continúa hablando.
+    
+- He went on working after dinner.  
+    → Él siguió trabajando después de cenar.
+    
+- Don’t stop. Go on.  
+    → No te detengas. Continúa.
+    
+
+Diferencia importante `“continue”` y `“go on”`
+
+Muchas veces significan casi lo mismo.
+
+Ejemplo:
+
+- She continued reading.
+- She went on reading.
+
+Ambas:  
+→ Ella siguió leyendo.
+
+Pero **go on** suena más natural en conversaciones.
+
+#### B) “go on” para eventos o situaciones
+
+También puede significar:
+
+- ocurrir
+- pasar 
+
+Ejemplos:
+
+- What’s going on?  
+    → ¿Qué está pasando?
+    
+- A lot is going on downtown.  
+    → Están pasando muchas cosas en el centro.
+    
+
+Este uso es MUY común en inglés cotidiano.
+
+#### C) "go on + vacation/trip/tour/cruise/strike"
+
+Aquí cambia completamente la idea.
+
+## Idea principal
+
+Con **go on** NO estás enfatizando el lugar.  
+Estás hablando de participar en una experiencia, viaje o evento.
+
+## Estructura
+
+```
+go on + evento/actividad larga
+```
+
+Ejemplos del libro:
+
+- go on vacation
+- go on a trip
+- go on a tour
+- go on a cruise
+- go on strike
+
+---
+
+## Cómo entender “go on”
+
+Piensa en:
+
+> “embarcarse en”  
+> “participar en”  
+> “irse de”
+
+No es literalmente “ir sobre”.
+
+---
+
+## Ejemplos
+
+- We’re going on vacation next week.  
+    = Nos vamos de vacaciones.
+- They went on a tour of Europe.  
+    = Hicieron un tour por Europa.
+- The workers went on strike.  
+    = Los trabajadores entraron en huelga.
+
+---
+
+## ¿Por qué no “go for vacation”?
+
+Porque vacaciones, tours, cruceros, etc. son experiencias más grandes o prolongadas.
+
+**go on** se usa para:
+
+- viajes
+- experiencias organizadas
+- eventos largos
+
+# 3. **go for ...**
+
+Aquí está la mayor confusión.
+
+**go for** NO significa “continuar”.
+
+Tiene varios significados diferentes.
+
+---
+
+# Uso más común:
+
+# **go for + activity/walk/drink/meal**
+
+Significa:
+
+- ir a hacer algo
+    
+- salir para hacer algo
+    
+
+Ejemplos:
+
+- Let’s go for a walk.  
+    → Vamos a caminar.
+    
+- We went for a drink after work.  
+    → Fuimos a tomar algo después del trabajo.
+    
+- She goes for a run every morning.  
+    → Ella sale a correr cada mañana.
+    
+
+---
+
+# Otro uso importante:
+
+# **go for = choose**
+
+Ejemplos:
+
+- I think I’ll go for the blue shirt.  
+    → Creo que elegiré la camisa azul.
+    
+- Which option did you go for?  
+    → ¿Qué opción elegiste?
+    
+
+---
+
+# Otro uso:
+
+# **go for = try to get**
+
+Ejemplos:
+
+- He’s going for a new job.  
+    → Está intentando conseguir un nuevo trabajo.
+    
+- Our team is going for first place.  
+    → Nuestro equipo va por el primer lugar.
+    
+
+---
+
+# Diferencia CLAVE:
+
+## go on vs go for
+
+|Expresión|Significado principal|
+|---|---|
+|go on|continuar|
+|go for|ir a hacer algo / elegir / intentar conseguir|
+
+---
+
+## Comparación clara
+
+### go on
+
+- Go on reading.  
+    → Sigue leyendo.
+    
+
+Aquí la acción YA empezó y continúa.
+
+---
+
+### go for
+
+- Let’s go for a walk.  
+    → Vamos a caminar.
+    
+
+Aquí NO estás continuando algo.  
+Estás yendo a hacer una actividad.
+
+---
+
+# 4. **go + -ing**
+
+Este patrón es MUY común en inglés.
+
+Se usa para actividades recreativas o deportivas.
+
+Estructura:
+
+```text
+go + verb-ing
+```
+
+Ejemplos:
+
+- go swimming
+    
+- go shopping
+    
+- go fishing
+    
+- go running
+    
+- go skiing
+    
+- go camping
+    
+
+---
+
+## Ejemplos completos
+
+- We went shopping yesterday.  
+    → Fuimos de compras ayer.
+    
+- They go skiing every winter.  
+    → Ellos van a esquiar cada invierno.
+    
+- I want to go swimming.  
+    → Quiero ir a nadar.
+    
+
+---
+
+# Diferencia entre:
+
+# go swimming
+
+y
+
+# go for a swim
+
+MUCHAS veces significan casi lo mismo.
+
+## go swimming
+
+Enfatiza la actividad.
+
+## go for a swim
+
+Enfatiza la idea de “ir/salir para hacer eso”.
+
+Ejemplos:
+
+- We went swimming at the beach.
+    
+- We went for a swim at the beach.
+    
+
+Ambas son correctas y muy naturales.
+
+---
+
+# Resumen rápido
+
+|Expresión|Uso|
+|---|---|
+|go to school|ir a un lugar|
+|go on talking|continuar|
+|what’s going on?|qué está pasando|
+|go for a walk|salir a caminar|
+|go for the blue one|elegir|
+|go swimming|hacer una actividad recreativa|
+
+---
+
+# Truco mental útil
+
+## go on
+
+Piensa:
+
+➡️ “seguir”
+
+---
+
+## go for
+
+Piensa:
+
+➡️ “ir a hacer algo”  
+➡️ “elegir algo”
+
+---
+
+# Ejemplos para practicar
+
+## go on
+
+- She went on speaking.
+    
+- Please go on.
+    
+- What’s going on?
+    
+
+---
+
+## go for
+
+- Let’s go for coffee.
+    
+- I’ll go for the cheaper option.
+    
+- They went for a walk.
+    
+
+---
+
+## go + -ing
+
+- go shopping
+    
+- go jogging
+    
+- go dancing
+    
+
+---
+
+# Mini práctica
+
+¿Puedes identificar cuál usar?
+
+1. “Vamos a caminar.”  
+    → Let’s __________ a walk.
+    
+
+Respuesta:  
+→ go for
+
+---
+
+2. “Sigue estudiando.”  
+    → __________ studying.
+    
+
+Respuesta:  
+→ Go on
+
+---
+
+3. “Ellos fueron de compras.”  
+    → They went __________.
+    
+
+Respuesta:  
+→ shopping
+
+---
+
+4. “¿Qué está pasando?”  
+    → What’s __________?
+    
+
+Respuesta:  
+→ going on

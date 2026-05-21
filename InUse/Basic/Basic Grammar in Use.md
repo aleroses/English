@@ -3592,7 +3592,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 282 or 292
-🔸
 
 ## 13. Go, get, do, make, and have
 
