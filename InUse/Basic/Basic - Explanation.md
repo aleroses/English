@@ -766,7 +766,7 @@ Piensa:
 
 > “salir a hacer algo”
 
-# 4. **go + -ing**
+### D. **go + -ing**
 
 Se usa para actividades recreativas o deportivas.
 
@@ -797,7 +797,7 @@ Ejemplos completos
     → Quiero ir a nadar.
     
 
-### Diferencia entre “go for a swim” y “go swimming”
+#### Diferencia entre “go for a swim” y “go swimming”
 
 MUCHAS veces significan casi lo mismo.
 
@@ -814,9 +814,7 @@ Ejemplos:
 
 Ambas son correctas y muy naturales.
 
----
-
-# Resumen rápido
+### Resumen rápido
 
 |Expresión           |Uso             |
 |--------------------|----------------|

@@ -3595,18 +3595,53 @@ Answer with Neither... I.
 
 ## 13. Go, get, do, make, and have
 
-### Unit 53. go to... go on... go for... go -ing
+### 🔸Unit 53. go to... go on... go for... go -ing
 
 > Page: 107 or 118
 
-#### 53.1
+#### 53.1 Write to / on / for where necessary.
 
-#### 53.2
+1. I'm going `to` China next week.
+2. James often goes `--` sailing. (no preposition)
+3. Sue went `to` Mexico last year.
+4. Jack goes `--` running every morning. (no preposition)
+5. I'm going out `for` a walk. Do you want to come?
+6. I'm tired because I went `to` bed very late last night.
+7. Ryan is going `on` a trip `to` Turkey next week.
+8. The weather was warm, and the river was clean, so we went `for` a swim.
+9. The taxi drivers went `on`  strike when I was in New York.
+10. Let's go `to` the movies tonight.
+11. It's late. I have to go `--` home now. (no preposition)
+12. Would you like to go `on` a tour of the city?
+13. Do you want to go out `for` dinner this evening?
+14. My parents are going `on` a cruise this summer.
 
-#### 53.3
+#### 53.2 Use the pictures to complete the sentences. Use go / goes / going / went + ing.
+
+1. James has a boat. He often `goes sailing`.
+2. Last Saturday Megan `went fishing`.
+3. Josh `goes swimming` every day.
+4. Nicole is going to Colorado next winter. She is `going skiing`.
+5. John is going out later. He has to `go shopping`.
+6. Sarah `went jogging / running` after work yesterday.
+
+#### 53.3 Complete the sentences. Use the words in the box. Use to / on / for if necessary.
+
+~~`a swim`~~ `vacation` `Hawaii` `shopping` `bed` `a walk` `home` `riding` `skiing` `college`
+
+1. The water looks nice. Let's go `for a swim`.
+2. After finishing high school, Emma went `to college`, where she studied psychology.
+3. I'm going `shopping` now. I have to buy a few things.
+4. I was very tired last night. I went `to bed` early.
+5. I wasn't enjoying the party, so I went `home` early.
+6. We live near the mountains. In the winter we go `skiing` almost every weekend.
+7. Tony has a horse. He goes `riding` a lot.
+8. It's a beautiful day! Would you like to go `for a walk` in the park?
+9. ---  
+	A: Are you going `on vacation` soon?  
+	B: Yes, next month. We're going `to Hawaii`. We've never been there before.
 
 > Answer Key to Exercises 282 or 292
-🔸
 
 ### Unit 54. get
 
