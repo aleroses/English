@@ -409,19 +409,63 @@ This is an announcement for passengers travelling to Amsterdam on flight KL1050.
 
 Good evening, ladies and gentlemen. We have landed at JFK airport in New York where the local time is 18:30 and the temperature is 76º. We hope you have enjoyed your flight with American Airlines this evening and wish you a very safe journey to your final destination.<br>
 
-### 11.
+### 11. Using colours to do homework
 
-[Learnenglishteens]()
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/using-colours-do-homework)
 
-### 12.
+![[A2_Using_colours_to_do_homework.mp3]]
 
-[Learnenglishteens]()
+<b>Girl:</b> My presentation is about how you can use colour coding to organise your homework.<br><br>
 
+To start you need a few things from the stationery shop. This photo shows the things I use. They aren't expensive. They are all cheap. I've got coloured pens and pencils, sticky notes, page markers, glue and folders.<br><br>
 
+First, I choose a different colour for each school subject. The colour I choose has to be easy to remember so I make sure it means something to me. Maths is green because my ruler is green. PE is yellow because my trainers are yellow.<br><br>
 
-### 13.
+Here is a photo of my folders. I use the cheapest kind and I add a coloured sticky note to the top and to the front. I keep all my notes inside the different folders.<br><br>
 
-[Learnenglishteens]()
+This is a photo of some more sticky notes. I wrote them in the library when I was studying. The blue notes are for history. My history teacher has got a blue car! The black notes are for geography. One day I want to visit the Black Sea.<br><br>
+
+This photo shows the pages I need to read for homework. I use two coloured page markers to mark where it starts and ends. Those blue ones mark the pages I need to read for history.<br><br>
+
+Finally, this last photo shows my wall calendar. This green star shows I have a maths test on Friday. This pink circle shows I've got French homework for Monday. It's pink because 'pink' is 'rose' in French … and the rose is my favourite flower.<br><br>
+
+Has anyone got any questions?<br>
+
+### 12. Weather forecast
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/weather-forecast)
+
+![[A2_weather_forecast.mp3]]
+
+<b>News reporter:</b> Here is the weather.<br><br>
+
+<b>Weather reporter:</b> Welcome to the weather forecast. Now, let's see what the weather is like today. In the north of the country it's very windy and cold. There is a chance of some rain too, so don't leave home without your umbrella! The temperature is around 10º centigrade. In the east it's rainy all day today, I'm afraid. There may be a thunderstorm in the afternoon. The temperature is a bit higher, at around 13º. In the west and middle of the country the weather is dry, but cloudy. So no rain for you, but it is quite windy and the temperature is just 10º. The south of the country has the best weather today. It's cloudy most of the time but sunny this afternoon. The temperature is around 15º.<br>
+
+### 13. Work
+
+[Learnenglishteens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/work)
+
+![[A2_work.mp3]]
+
+<b>A</b><br><br>
+
+I work on Saturdays and in the school holidays. Saturdays are busy because that's when everyone goes shopping. Our shop sells clothes and accessories for men, women and children. I work in the children's department. It can be crazy sometimes, but it's fun.<br><br>
+
+<b>B</b><br><br>
+
+I work during my summer holidays when I'm not at university. Oxford has thousands of tourists in the summer, so it's easy to find a job as a tour guide. I take tourists to visit the university colleges and then we go down to the river. We go along the river on a boat. The tourists love the boat trip, but last summer one tourist fell in the river! I love meeting people from all over the world.<br><br>
+
+<b>C</b><br><br>
+
+I like my job, but lots of people don't like coming to see me because they hate dentists. Sometimes it's very hard work, but it's great to help people when they have a problem. It's so important to look after your teeth.<br><br>
+
+<b>D</b><br><br>
+
+My job is very difficult, but I like it because I love flying. I fly planes that take people to different places on holiday. Most of the time I fly in Europe to places like Spain, Greece and Italy. The most difficult thing about my job is when the weather is bad. Snow and thunderstorms are the worst. The best thing is visiting different places.<br><br>
+
+<b>E</b><br><br>
+
+I work in a hospital in the city centre. It's a very big hospital. I help the doctors with the patients. I give them their medicine and look after them when they feel ill. I love my job but I don't like the uniform and sometimes I have to work at night.<br>
 
 ### 14.
 
