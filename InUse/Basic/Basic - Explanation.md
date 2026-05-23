@@ -832,19 +832,15 @@ Ambas son correctas y muy naturales.
 Aquí **get** significa normalmente:
 
 - recibir
-    
 - conseguir
-    
 - comprar
-    
 - encontrar
-    
 
 La idea general es:
 
 > no tienes algo → lo consigues → ahora lo tienes
 
-#### Ejemplos del libro
+Ejemplos del libro
 
 - I got an email from Sam this morning.  
     → Recibí un correo.
@@ -866,9 +862,9 @@ Muchas veces puedes pensar:
 
 > “obtener” o “conseguir”
 
-aunque en español la traducción cambie.
+Aunque en español la traducción cambie.
 
-#### Más ejemplos
+Más ejemplos
 
 - I got a new phone.  
     → Conseguí / compré un teléfono nuevo.
@@ -892,7 +888,7 @@ La estructura es:
 get + adjective
 ```
 
-#### Ejemplos importantes
+Ejemplos importantes
 
 - get hungry  
     → tener hambre / ponerse hambriento
@@ -907,7 +903,7 @@ get + adjective
     → mojarse
     
 
-#### Ejemplos del libro
+Ejemplos del libro
 
 - If you don't eat, you get hungry.  
     → Si no comes, te da hambre.
@@ -941,7 +937,7 @@ Aquí **get** indica un cambio de estado.
     → perderse
     
 
-#### Ejemplos
+Ejemplos
 
 - They're getting married soon.  
     → Se van a casar pronto.
