@@ -3647,6 +3647,49 @@ Answer with Neither... I.
 
 > Page: 109 or 120
 
+#### 54.1 Complete these sentences. Use get / gets and choose from the box.
+
+`a doctor` `a lot of rain` `another one` ~~`my email`~~ `the job` `a good salary` `a new computer` `a ticket` `some milk` `your boots`
+
+1. Did you `get my email`? I sent it a week ago.
+2. Where did you `get your boots`? They're really nice.
+3. Quick! This man is sick. We have to `get a doctor`.
+4. I want to return this phone. It doesn't work. Can I `get another one`, please?
+5. Tom has an interview tomorrow. I hope he `gets the job`.
+6. When you go out, can you `get some milk`?
+7. "Are you going to the concert?" "Yes, if I can `get a ticket`."
+8. Hannah has a well-paid job. She `get a good salary`.
+9. The weather is horrible here in the winter. We `get a lot of rain`.
+10. I'm going to `get a new computer`. The one I have is too slow.
+
+#### 54.2 Complete these sentences. Use getting + these words:
+
+~~`cold`~~ `dark` `late` `married` `ready`
+
+1. Drink your coffee. It's `getting cold`.
+2. Turn on the light. It's `getting dark`.
+3. "I'm `getting married` next week." "Really? Congratulations!"
+4. "Where's Karen?" "She's `getting ready` to go out."
+5. It's `getting late`. It's time to go home.
+
+#### 54.3 Complete the sentences. Use get / gets / got + these words:
+
+`angry` `better` ~~`hungry`~~ `lost` `married` `old` `wet`
+
+1. If you don't eat, you `get hungry`.
+2. Don't go out in the rain. You'll `get wet`.
+3. My brother `got married` last year. His wife's name is Sarah.
+4. Dan is always very calm. He never `get angry`.
+5. We tried to find the hotel, but we `get lost`.
+6. Everybody wants to stay young, but we all `get old`.
+7. Yesterday the weather wasn't so good at first, but it `get better` during the day.
+
+
+#### 54.4
+
+#### 54.5
+
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
