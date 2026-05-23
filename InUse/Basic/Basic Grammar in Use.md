@@ -3684,11 +3684,23 @@ Answer with Neither... I.
 6. Everybody wants to stay young, but we all `get old`.
 7. Yesterday the weather wasn't so good at first, but it `get better` during the day.
 
+#### 54.4 Write sentences with I left... and got to...
 
-#### 54.4
+1. home / 7:30 → work / 8:15  
+	I left home at 7:30 and got to work at 8:15.
+2. Toronto / 10:15 → New York / 12:00  
+	I left Toronto at 10:15 and `got to New York at 12:00`.
+3. the party / 11:15 → home / midnight  
+	`I left the party` at 11:15 and `got home midnight`.
+4. Write a sentence about yourself.  
+	I left `in the mornight` at 07:00 and `got home 05:00`.
 
-#### 54.5
+#### 54.5 Write got in / got out of / got on / got off.
 
+1. Kate `got in` the car and drove away.
+2. I `got on` the bus and walked to my house from the bus stop.
+3. Olivia `got out` the car, locked the doors, and went into a store.
+4. I made a stupid mistake. I `got on` the wrong train.
 
 <details>
   <summary>More 🔥☠️</summary>
