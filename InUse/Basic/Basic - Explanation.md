@@ -825,3 +825,292 @@ Ambas son correctas y muy naturales.
 |go for the blue one |elegir          |
 |go swimming         |hacer una actividad recreativa|
 
+## 54. get
+
+### A) get + noun
+
+Aquí **get** significa normalmente:
+
+- recibir
+    
+- conseguir
+    
+- comprar
+    
+- encontrar
+    
+
+La idea general es:
+
+> no tienes algo → lo consigues → ahora lo tienes
+
+#### Ejemplos del libro
+
+- I got an email from Sam this morning.  
+    → Recibí un correo.
+    
+- Where did you get it?  
+    → ¿Dónde lo conseguiste/compraste?
+    
+- It's hard to get a job at the moment.  
+    → Es difícil conseguir trabajo ahora.
+    
+- “Is Liz here?”  
+    “Yes, I'll get her for you.”  
+    → Iré a buscarla.
+    
+
+#### Cómo entender “get”
+
+Muchas veces puedes pensar:
+
+> “obtener” o “conseguir”
+
+aunque en español la traducción cambie.
+
+#### Más ejemplos
+
+- I got a new phone.  
+    → Conseguí / compré un teléfono nuevo.
+    
+- Did you get my message?  
+    → ¿Recibiste mi mensaje?
+    
+- Can you get some milk?  
+    → ¿Puedes comprar leche?
+    
+
+### B) get + adjective
+
+Aquí **get** significa:
+
+> “convertirse en” o “ponerse”
+
+La estructura es:
+
+```text
+get + adjective
+```
+
+#### Ejemplos importantes
+
+- get hungry  
+    → tener hambre / ponerse hambriento
+    
+- get tired  
+    → cansarse
+    
+- get cold  
+    → tener frío / enfriarse
+    
+- get wet  
+    → mojarse
+    
+
+#### Ejemplos del libro
+
+- If you don't eat, you get hungry.  
+    → Si no comes, te da hambre.
+    
+- Drink your coffee. It's getting cold.  
+    → Toma tu café. Se está enfriando.
+    
+- We got very wet in the rain.  
+    → Nos mojamos mucho.
+    
+
+#### Idea clave
+
+Aquí **get** indica un cambio de estado.
+
+|Antes     |Después|
+|----------|-------|
+|no hungry |hungry |
+|no cold   |cold   |
+|dry       |wet    |
+
+#### Otras expresiones comunes
+
+- get married  
+    → casarse
+    
+- get dressed  
+    → vestirse
+    
+- get lost  
+    → perderse
+    
+
+#### Ejemplos
+
+- They're getting married soon.  
+    → Se van a casar pronto.
+    
+- I got dressed quickly.  
+    → Me vestí rápido.
+    
+- We got lost.  
+    → Nos perdimos.
+    
+
+### C) get to / get here / get home
+
+Aquí **get** significa:
+
+> llegar
+
+---
+
+#### get to + place
+
+```text
+get to + lugar
+```
+
+- I get to work at 8:30.  
+    → Llego al trabajo a las 8:30.
+    
+- We got to Ottawa at 11:45.  
+    → Llegamos a Ottawa a las 11:45.
+    
+
+#### ⚠️ Pero cuidado:
+
+Con algunos lugares NO usamos “to”.
+
+Se dice:
+
+- get home
+- get here
+- get there
+
+❌ NO:
+
+- get to home
+- get to here
+
+Ejemplos
+
+- What time did you get home?  
+    → ¿A qué hora llegaste a casa?
+    
+- How did you get here?  
+    → ¿Cómo llegaste aquí?
+    
+
+### D) get in / get out / get on / get off
+
+Esta parte trata sobre transporte.
+
+#### get in / get out
+
+Se usa normalmente para:
+
+- cars
+- taxis
+
+Ejemplos
+
+- She got in the car.  
+    → Entró al auto.
+    
+- He got out of the car.  
+    → Salió del auto.
+    
+
+#### get on / get off
+
+Se usa para transporte “grande”:
+
+- bus
+- train
+- plane
+- subway
+
+Ejemplos
+
+- We got on the bus.  
+    → Subimos al bus.
+    
+- They got off the train.  
+    → Bajaron del tren.
+    
+
+#### Regla fácil para recordar
+
+Vehículos pequeños
+
+→ get in / get out
+
+🚗 car  
+🚕 taxi
+
+Vehículos grandes
+
+→ get on / get off
+
+🚌 bus  
+✈️ plane  
+🚆 train
+
+### Resumen general de “get”
+
+|Uso                 |Significado             |Ejemplo        |
+|--------------------|------------------------|---------------|
+|get + noun          |conseguir / recibir     |I got an email |
+|get + adjective     |ponerse / volverse      |get tired      |
+|get to              |llegar                  |get to work    |
+|get home/here/there |llegar                  |get home       |
+|get in/out          |entrar/salir de auto    |get in the car |
+|get on/off          |subir/bajar de bus/tren |get on the bus |
+
+### Diferencia importante: get vs go
+
+Muchos estudiantes los confunden.
+
+|Verbo |Idea               |
+|------|-------------------|
+|go    |ir                 |
+|get   |llegar / conseguir |
+
+Ejemplos
+
+- I go to school every day.  
+    → Voy a la escuela.
+    
+- I get to school at 8:00.  
+    → Llego a la escuela a las 8:00.
+    
+
+### Algo MUY importante
+
+“Get” es extremadamente común en inglés cotidiano.
+
+Los nativos lo usan muchísimo porque reemplaza muchos verbos:
+
+|Verbo formal |Inglés cotidiano |
+|-------------|-----------------|
+|receive      |get              |
+|obtain       |get              |
+|become       |get              |
+|arrive       |get              |
+
+Por eso dominar “get” mejora mucho tu inglés natural.
+
+### Mini práctica
+
+Traduce estas:
+
+1. Me mojé.
+2. ¿A qué hora llegaste a casa?
+3. Ella se está cansando.
+4. Súbete al bus.
+5. Conseguí un trabajo.
+
+### Respuestas
+
+1. I got wet.
+2. What time did you get home?
+3. She's getting tired.
+4. Get on the bus.
+5. I got a job.
