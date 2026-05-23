@@ -955,8 +955,6 @@ Aquí **get** significa:
 
 > llegar
 
----
-
 #### get to + place
 
 ```text
@@ -970,7 +968,7 @@ get to + lugar
     → Llegamos a Ottawa a las 11:45.
     
 
-#### ⚠️ Pero cuidado:
+⚠️ Pero cuidado:
 
 Con algunos lugares NO usamos “to”.
 
