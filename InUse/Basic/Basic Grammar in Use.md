@@ -3712,9 +3712,7 @@ Answer with Neither... I.
 
 </details>
 
-
 > Answer Key to Exercises 282 or 292
-🔸
 
 ### Unit 55. do and make
 
@@ -3766,6 +3764,89 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 283 or 293
 🔸
+
+### Unit 58. my / his / their, etc.
+
+> Page: 117 or 128
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- I / me / my / mine → Unit 60
+
+</details>
+
+> Answer Key to Exercises 283 or 293
+🔸
+
+### Unit 59. Whose is this? It's mine / yours / hers, etc.
+
+> Page: 119 or 130
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- My / his / their, etc. → Unit 58
+- I / me / my / mine → Unit 60
+- Kate's camera / my brother's car → Unit 62
+
+</details>
+
+> Answer Key to Exercises 283 – 284 or 293 – 294
+🔸
+
+### Unit 60. I / me / my / mine
+
+> Page: 121 or 132
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- myself / yourself, etc → Unit 61
+- Give me that book / Give it to me → Unit 94
+
+</details>
+
+> Answer Key to Exercises 284 or 294
+🔸
+
+### Unit 61. myself / yourself / themselves, etc.
+
+> Page: 123 or 134
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- me / him / them, etc. → Unit 57
+
+</details>
+
+> Answer Key to Exercises 284 or 294
+🔸
+
+### Unit 62. -'s (Kate's camera / my brother's car, etc.)
+
+> Page: 125 or 136
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+- -'s (he's / Kate's, etc.) → Appendix 4.5
+
+</details>
+
+> Answer Key to Exercises 284 or 294
+🔸
+
+
 
 
 238 more exercises
