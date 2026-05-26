@@ -11,17 +11,33 @@
       <h3 class="ipa">{{IPA}}</h3>
     </section>
   </main>
+
   <details class="details">
     <summary>Meaning</summary>
     {{Meaning/Translation}}
   </details>
 
-  <script>
-    const unorderedList = document.querySelector("ul");
-    const items = document.querySelectorAll("li");
+  {{#SimilarWord}}
+  <details class="similar-details">
+    <summary>Similar word</summary>
 
-    if (items.length > 6 && items.length < 18 && items.length !== 12) {
-      unorderedList.style.justifyContent = "start";
+    <div class="similar-content">
+      <p class="similar-word">{{SimilarWord}}</p>
+      <p class="similar-meaning">{{SimilarMeaning}}</p>
+    </div>
+  </details>
+  {{/SimilarWord}}
+
+  <script>
+    const unorderedList = document.querySelector('ul');
+    const items = document.querySelectorAll('li');
+
+    if (
+      items.length > 6 &&
+      items.length < 18 &&
+      items.length !== 12
+    ) {
+      unorderedList.style.justifyContent = 'start';
     }
   </script>
 </div>
@@ -49,10 +65,8 @@
   </section>
 
   <script>
-    document.getElementById("rubric").innerHTML = "{{Deck}}".replace(
-      "::",
-      "::"
-    );
+    document.getElementById('rubric').innerHTML =
+      '{{Deck}}'.replace('::', '::');
   </script>
 </div>
 
