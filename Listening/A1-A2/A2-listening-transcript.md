@@ -467,10 +467,277 @@ My job is very difficult, but I like it because I love flying. I fly planes that
 
 I work in a hospital in the city centre. It's a very big hospital. I help the doctors with the patients. I give them their medicine and look after them when they feel ill. I love my job but I don't like the uniform and sometimes I have to work at night.<br>
 
-### 14.
+## Second part
 
-[Learnenglishteens]()
+[LearnEnglish: A2 listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2)
 
-### 15.
+### 1. A morning briefing
 
-[Learnenglishteens]()
+[Learnenglish](https://learnenglish.britishcouncil.org/skills/listening/a1-listening/request-your-boss)
+
+![[LE_listening_A2_Morning_briefing.mp3]]
+
+Hi, everyone. I know you're all busy so I'll keep this briefing quick. I have some important information about a change in the management team. As you already know, our head of department, James Watson, is leaving his position at the end of this week. His replacement is starting at the end of the next month. In the meantime, we'll continue with our projects as usual.<br><br>
+
+I have two more quick points. Firstly, there will be some improvements made to the staff car park next month for a few weeks. It will be closed during that time.<br><br>
+
+Don't worry, we've found a solution. We can use the local church car park until our own one is ready. If you arrive before 8.30 a.m., please use our small car park on Brown Street, and if you arrive after that, you should go directly to the church car park. It's only a five-minute walk away. But they need it in the evenings, so you have to leave before 6 p.m. Sorry about that – I know how much you all love working late!<br><br>
+
+The other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can't use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month.<br><br>
+
+OK. That's it? Are there any questions?<br>
+
+### 2. An invitation to a party
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/invitation-party)
+
+![[LE_listening_A2_An_invitation_to_a_party.mp3]]
+
+<b>Automated message:</b> You have two new messages. Message number one, received today at 3.45 p.m.<br><br>
+
+<b>Caller:</b> Hi, it's me. How's it going? I guess you're at work and you don't have your phone on, right? First of all, thank you, THANK YOU for the birthday card and message. I received it this morning. That's so nice of you. I'm organising a little party for my birthday. It's nothing very big – only a few of my best and closest friends. That means you too! We're going to have it at my cousin's house. She lives in the countryside in a nice big house with a swimming pool. I'd love to see you there. It's going to be this Friday. I'll send you the instructions on how to get there later, OK?<br><br>
+
+<b>Caller:</b> Anyway, have fun at work. Don't work too hard, OK? Talk soon.<br><br>
+
+<hr><br><br>
+
+<b>Automated message:</b> You have two new messages. Message number two, received today at 5.15 p.m.<br><br>
+
+<b>Caller:</b> Aw, you're still not answering your phone! OK, here are the instructions to get to my cousin's house for the party. Are you going to take your car? If you take the car, drive straight on Forest Road until you get to the motorway. Drive past Brownsville and take exit 13A. That's 13A. You drive down the road there and turn left. It's the first big house on the right. OK? If you're taking a bus, you can get the number 80 to Brownsville. Call me when you get there and somebody can pick you up in a car. I can't wait. This is going to be so great!<br>
+
+### 3. Changing a meeting time
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-meeting-time)
+
+![[LE_listening_A2_Changing_a_meeting_time.mp3]]
+
+<b>Lucy:</b> Hi, Anna. Do you have a minute to talk about the meeting next Tuesday?<br><br>
+
+<b>Anna:</b> Sure. We said 11, didn't we?<br><br>
+
+<b>Lucy:</b> Yeah, we did. But I have a bit of a problem with the time. Would it be possible to move it?<br><br>
+
+<b>Anna:</b> Oh, I see. We could postpone it to the afternoon, to 1 p.m., for example. Or bring it forward to earlier in the morning. What would suit you?<br><br>
+
+<b>Lucy:</b> Could we make it 9 o'clock? That would really help me. I have another important meeting in the central office at 12.<br><br>
+
+<b>Anna:</b> No problem. It's important you're there.<br><br>
+
+<b>Lucy:</b> Thanks a lot, Anna.<br><br>
+
+<b>Anna:</b> Do you need help with any preparation? Did you get the agenda I sent out?<br><br>
+
+<b>Lucy:</b> Yes, I did. And no, that's all fine, thanks. My report is ready and I'm looking forward to presenting it.<br><br>
+
+<b>Anna:</b> Great.<br><br>
+
+<b>Lucy:</b> I can tell Sven about the time change. I'll see him later.<br><br>
+
+<b>Anna:</b> Don't worry about telling Sven. I'll send an email to everyone to confirm the time has changed and with an updated meeting invite.<br><br>
+
+<b>Lucy:</b> Great. Thanks, Anna.<br><br>
+
+<b>Anna:</b> OK. I'm happy that works for you. We really need you there and it's good we don't have to cancel it.<br><br>
+
+<b>Lucy:</b> See you then. Have a good weekend in the meantime.<br><br>
+
+<b>Anna:</b> You too.<br>
+
+### 4. Changing plans
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-plans)
+
+![[LE_listening_A2_Changing_plans.mp3]]
+
+<b>Francesco:</b> Sachi? Sachi? Sachiko!<br><br>
+
+<b>Sachi:</b> Francesco! Is everything OK?<br><br>
+
+<b>Francesco:</b> Yes. Yes. Sorry, I saw you and I was across the street … I ran.<br><br>
+
+<b>Sachi:</b> I see. What's up?<br><br>
+
+<b>Francesco:</b> Do you have the tickets … for the play?<br><br>
+
+<b>Sachi:</b> No, I don't. I'm going to buy them this afternoon.<br><br>
+
+<b>Francesco:</b> Oh good, good. Listen, don't buy tickets for this Friday.<br><br>
+
+<b>Sachi:</b> Oh? Why not?<br><br>
+
+<b>Francesco:</b> I can't go to the theatre on Friday. Something's come up. I have a concert this Friday.<br><br>
+
+<b>Sachi:</b> Another concert? But you said …<br><br>
+
+<b>Francesco:</b> I know, I know. I'm sorry. I forgot.<br><br>
+
+<b>Sachi:</b> Francesco!<br><br>
+
+<b>Francesco:</b> How about next week? Are you free then? I can definitely go next Friday.<br><br>
+
+<b>Sachi:</b> Francesco. You did this two weeks ago, remember? I had cinema tickets for the new Marvel movie and you changed the plans then too. For band practice.<br><br>
+
+<b>Francesco:</b> I know, and I …<br><br>
+
+<b>Sachi:</b> We also missed my favourite dance group. Because your band was playing at some child's birthday party.<br><br>
+
+<b>Francesco:</b> It was my nephew's birthday …<br><br>
+
+<b>Sachi:</b> Ha!<br><br>
+
+<b>Francesco:</b> OK, why don't we go out for dinner before my concert? Then, next Friday we can go to the play.<br><br>
+
+<b>Sachi:</b> Oh …<br><br>
+
+<b>Francesco:</b> Come on, Sachi. Just this one more time.<br><br>
+
+<b>Sachi:</b> OK, but promise me next Friday. OK?<br><br>
+
+<b>Francesco:</b> I promise. I promise!<br>
+
+### 5. Facts and figures
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/facts-figures)
+
+![[LE_listening_A2_Facts_and_figures.mp3]]
+
+… and the next part of this talk is on the Panama Canal. It's amazing how this one small section of a small country can be so important to the world. Let's learn a little bit about the canal itself, before we look at how it connects to everything else.<br><br>
+
+The Panama Canal is an artificial waterway in the Central American country of Panama that connects the Atlantic and Pacific Ocean. It is only 82 kilometres long. If you go around South America by ship then you need to travel another 15,000 kilometres. So the canal saves a lot of travel time. It takes around 8 to 10 hours to cross the canal.<br><br>
+
+The French started building the canal in 1881, but they couldn't finish it. The project was started again in 1904 by the United States and the canal was finally finished in 1914. Many people died while they were building the canal, some say up to 25,000. For the rest of the 20th century, the United States controlled the canal, but gave control back to Panama in 2000.<br><br>
+
+Every year, around 40,000 ships come through the canal. These are mostly commercial ships. They transport goods for trade between Asia and America, or Europe. In 2016 the government of Panama made the canal bigger, so that now 99 per cent of ships can pass through it.<br><br>
+
+Let's now turn to the role of the Panama Canal in the global economy …<br>
+
+### 6. Four conversations
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/four-conversations)
+
+![[LE_listening_A2_Four_conversations.mp3]]
+
+<b>A</b><br><br>
+
+<b>Man:</b> How did it go?<br><br>
+
+<b>Woman:</b> Umm, I think it went quite well. I did a lot of research and prepared a lot. I was in there for ... I don't know ... half an hour?<br><br>
+
+<b>Man:</b> And? What did they say?<br><br>
+
+<b>Woman:</b> Nothing much. At the end I asked them, 'What happens now?', and the woman said, 'We'll call you back with news in three or four days.'<br><br>
+
+<b>Man:</b> Really?<br><br>
+
+<b>Woman:</b> Yeah, I think I've got the job. There weren't a lot of other people there. I was the only interview that day, you know?<br><br>
+
+<b>Man:</b> Well, good luck with it.<br><br>
+
+<hr><br><br>
+
+<b>B</b><br><br>
+
+<b>Man:</b> Anyway, you were saying ...<br><br>
+
+<b>Woman:</b> Oh, yeah, um ... let's see. Yes, so I was in the museum and there were, I don't know, a hundred people waiting to get into the room. Finally, I got in, and I tried to see the Mona Lisa but I couldn't look at it.<br><br>
+
+<b>Man:</b> Why not?<br><br>
+
+<b>Woman:</b> Because the room was filled with people taking photographs of it!<br><br>
+
+<b>Man:</b> Oh, right.<br><br>
+
+<b>Woman:</b> Yes! And selfies.<br><br>
+
+<b>Man:</b> Wait a minute. You can take photos while you're in there?<br><br>
+
+<b>Woman:</b> Yes, but you can't use flash. I don't know ... Why do we take photos of everything we see when we travel?<br><br>
+
+<b>Man:</b> I know. And we never look at the photos after.<br><br>
+
+<b>Woman:</b> Exactly! I'm tired of always taking photos. I don't feel I'm enjoying things.<br><br>
+
+<hr><br><br>
+
+<b>C</b><br><br>
+
+<b>Man:</b> Who took this?<br><br>
+
+<b>Woman:</b> I can't remember. Hmmm ...<br><br>
+
+<b>Man:</b> What am I doing?<br><br>
+
+<b>Woman:</b> You're sitting on the sofa, watching TV and eating chocolates. Nothing changes!<br><br>
+
+<b>Man:</b> Ha! Very funny. You look very young, though.<br><br>
+
+<b>Woman:</b> I know. Look at my hair – it was so long!<br><br>
+
+<b>Man:</b> Mine too, look at me! Hey … I think I know who took this photo.<br><br>
+
+<b>Woman:</b> Umm … who? Was it Dad?<br><br>
+
+<b>Man:</b> No, it wasn’t Dad or Mum. Do you remember Barry?<br><br>
+
+<b>Woman:</b> No.<br><br>
+
+<b>Man:</b> Yes, YES! You do remember. Barry, your boyfriend at high school. You were seventeen and he was sixteen and he was so very polite: 'Hello, I'm Barry. It's very nice to meet you ...'<br><br>
+
+<b>Woman:</b> Stop it! He was nice.<br><br>
+
+<b>Man:</b> Yeah, well, he took the photo.<br><br>
+
+<hr><br><br>
+
+<b>D</b><br><br>
+
+<b>Woman:</b> Let's see. OK. I'm glad we could talk about this. It's not easy to say.<br><br>
+
+<b>Man:</b> What?<br><br>
+
+<b>Woman:</b> Well, you're not in our group – for the class project.<br><br>
+
+<b>Man:</b> What do you mean? You know I'm always in a group with you.<br><br>
+
+<b>Woman:</b> I know. It's just that this time … this time we made the group differently and because you were late ...<br><br>
+
+<b>Man:</b> I see. You don't want me in the group?<br><br>
+
+<b>Woman:</b> No, no. It isn't that. It's that we've already made the group, see? There's four of us already.<br><br>
+
+<b>Man:</b> So? We can't be a group of five?<br><br>
+
+<b>Woman:</b> Well, the teacher said four people per group.<br><br>
+
+<b>Man:</b> Oh.<br><br>
+
+<b>Woman:</b> It's not about you or your work or anything like that. It's ... errrr ... well, we already have the group.<br><br>
+
+<b>Man:</b> So I have to find another group.<br><br>
+
+<b>Woman:</b> I'm sorry.<br>
+
+### 7.
+
+[Learnenglish]()
+
+### 8.
+
+[Learnenglish]()
+
+### 9.
+
+[Learnenglish]()
+
+### 10.
+
+[Learnenglish]()
+
+### 11.
+
+[Learnenglish]()
+
+
+### 12.
+
+[Learnenglish]()
