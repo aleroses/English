@@ -3718,6 +3718,48 @@ Answer with Neither... I.
 
 > Page: 111 or 122
 
+#### 55.1 Write make / making / made or do / doing / did / done.
+
+1. "Should I open the window?" "No, that's OK. I'll `do` it."
+2. What did you `do` last weekend? Did you leave town?
+3. Do you know how to `make` bread?
+4. Paper is `made` from wood.
+5. Kyle didn't help me. He sat in an armchair and `did` nothing.
+6. "What do you `do`?" "I'm a doctor."
+7. I asked you to clean the bathroom. Did you `do` it?
+8. "What do they `make` in that factory?" "Shoes."
+9. I'm `making` some coffee. Would you like some?
+10. Why are you angry with me? I didn't `do` anything wrong.
+11. "What are you `doing` tomorrow afternoon?" "I'm working."
+
+#### 55.2 What are these people doing?
+
+1. He's making a cake.
+2. They `are doing their homework`.
+3. He `is doing the grocery shopping`.
+4. They `are doing their laundry`.
+5. She `is making a phone call`.
+6. He `is making his bed`.
+7. She `is doing the dishes`.
+8. He `is making a shopping list`.
+9. They `are making a movie`.
+10. He `is taking a photo`.
+
+#### 55.3 Write make or do in the correct form.
+
+1. I hate `doing` housework, especially cleaning.
+2. Why do you always `make` the same mistake?
+3. "Can you `do` me a favor?" "It depends what it is."
+4. "Did you `do` your homework?" "Not yet."
+5. I need to see the dentist, but I haven't `made` an appointment.
+6. Joe `did` his best, but he didn't pass his driver's test.
+7. I painted the door, but I didn't `do` it very well.
+8. How many phone calls did you `make` yesterday?
+9. When you finish Exercise 1, you can `do` Exercise 2.
+10. There's something wrong with the car. The engine is `making` a strange noise.
+11. It was a bad mistake. It was the worst mistake I've ever `made`.
+12. Let's `make` a list of all the things we have to `do` today.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3728,7 +3770,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 282 – 283 or 292 – 293
-🔸
 
 ### Unit 56. have
 
