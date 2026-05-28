@@ -857,29 +857,29 @@ This is a London Underground service to Liverpool Street. The next station is Li
 
 ![[LE_listening_A2_Understanding_an_explanation.mp3]]
 
-<b>Professor</b>: OK, before we continue, does anybody have a question? Oh, lots of questions, I see. OK, we'll go one at a time. Yes?<br>
+<b>Professor</b>: OK, before we continue, does anybody have a question? Oh, lots of questions, I see. OK, we'll go one at a time. Yes?<br><br>
 
-<b>Student</b>: Thank you. You talked about Fibonacci numbers in the lecture. Sorry, I don't understand. Can you explain?<br>
+<b>Student</b>: Thank you. You talked about Fibonacci numbers in the lecture. Sorry, I don't understand. Can you explain?<br><br>
 
-<b>Professor</b>: Of course. What do you want to know?<br>
+<b>Professor</b>: Of course. What do you want to know?<br><br>
 
-<b>Student</b>: OK … I hope this isn't a silly question, but what does Fibonacci actually mean?<br>
+<b>Student</b>: OK … I hope this isn't a silly question, but what does Fibonacci actually mean?<br><br>
 
-<b>Professor</b>: No question is ever silly – it's always good to ask. OK, it's the name of a person. Fibonacci was a European mathematician in the Middle Ages.<br>
+<b>Professor</b>: No question is ever silly – it's always good to ask. OK, it's the name of a person. Fibonacci was a European mathematician in the Middle Ages.<br><br>
 
-<b>Student</b>: Ah, OK. Thanks. So, we know he was a person, but what are the Fibonacci numbers? I don't get it.<br>
+<b>Student</b>: Ah, OK. Thanks. So, we know he was a person, but what are the Fibonacci numbers? I don't get it.<br><br>
 
-<b>Professor</b>: The Fibonacci numbers are a sequence of numbers. They go 1, 1, 2, 3, 5, 8 and so on. Do you see the sequence? Do you see how it works?<br>
+<b>Professor</b>: The Fibonacci numbers are a sequence of numbers. They go 1, 1, 2, 3, 5, 8 and so on. Do you see the sequence? Do you see how it works?<br><br>
 
-<b>Student</b>: I'm not sure.<br>
+<b>Student</b>: I'm not sure.<br><br>
 
-<b>Professor</b>: OK. This is how it works. The first number is 1, then 1 again, then 2. The third number is the first number plus the second number. The fourth number is the second number plus the third number: 1 plus 2 is 3. The fifth number is the third number, 2, plus the fourth number, 3. So the fifth number in a Fibonacci sequence is 5.<br>
+<b>Professor</b>: OK. This is how it works. The first number is 1, then 1 again, then 2. The third number is the first number plus the second number. The fourth number is the second number plus the third number: 1 plus 2 is 3. The fifth number is the third number, 2, plus the fourth number, 3. So the fifth number in a Fibonacci sequence is 5.<br><br>
 
-<b>Student</b>: Ah! I think I understand now. But what about their importance? You said these were very important.<br>
+<b>Student</b>: Ah! I think I understand now. But what about their importance? You said these were very important.<br><br>
 
-<b>Professor</b>: Yes, let me explain. This sequence of numbers is important because we see it in many things. Fibonacci numbers are common in geometry, they are common in nature, for example in plants. We see the sequence everywhere.<br>
+<b>Professor</b>: Yes, let me explain. This sequence of numbers is important because we see it in many things. Fibonacci numbers are common in geometry, they are common in nature, for example in plants. We see the sequence everywhere.<br><br>
 
-<b>Student</b>: Could you give us some more examples?<br>
+<b>Student</b>: Could you give us some more examples?<br><br>
 
 <b>Professor</b>: OK ... well, we don't have time right now but I can bring more examples in for next class, OK?<br>
 
@@ -889,26 +889,26 @@ This is a London Underground service to Liverpool Street. The next station is Li
 
 ![[LE_listening_A2_Who's_who_in_the_office.mp3]]
 
-<b>Jani</b>: Welcome to the department, Yuki. Let me show you around and tell you about your new colleagues. I'll introduce you to them all later.<br>
+<b>Jani</b>: Welcome to the department, Yuki. Let me show you around and tell you about your new colleagues. I'll introduce you to them all later.<br><br>
 
-<b>Yuki</b>: Great. Thanks. So, who are those people over there?<br>
+<b>Yuki</b>: Great. Thanks. So, who are those people over there?<br><br>
 
-<b>Jani</b>: That's the order management team. Luciana deals with the new orders. She's the one with short, dark hair.<br>
+<b>Jani</b>: That's the order management team. Luciana deals with the new orders. She's the one with short, dark hair.<br><br>
 
-<b>Yuki</b>: In the purple dress?<br>
+<b>Yuki</b>: In the purple dress?<br><br>
 
-<b>Jani</b>: Yeah, that's right. You'll probably work closely with her while you are learning about our ordering process.<br>
+<b>Jani</b>: Yeah, that's right. You'll probably work closely with her while you are learning about our ordering process.<br><br>
 
-<b>Yuki</b>: Got it, thanks. And who's that over there? The guy who's on the phone?<br>
+<b>Yuki</b>: Got it, thanks. And who's that over there? The guy who's on the phone?<br><br>
 
-<b>Jani</b>: Oh, you mean the one by the window? In the green shirt? Ah, that's Ian. He's the marketing director. And that's Maria beside him. She's responsible for the internal IT systems.<br>
+<b>Jani</b>: Oh, you mean the one by the window? In the green shirt? Ah, that's Ian. He's the marketing director. And that's Maria beside him. She's responsible for the internal IT systems.<br><br>
 
-<b>Yuki</b>: OK, I'll try to remember all of this. I should probably be taking notes!<br>
+<b>Yuki</b>: OK, I'll try to remember all of this. I should probably be taking notes!<br><br>
 
-<b>Jani</b>: Don't worry about it. For now it's just good to put some faces to names.<br>
+<b>Jani</b>: Don't worry about it. For now it's just good to put some faces to names.<br><br>
 
-<b>Yuki</b>: OK, great – and who do I talk to about setting up my mobile phone with email access? Is that also Maria?<br>
+<b>Yuki</b>: OK, great – and who do I talk to about setting up my mobile phone with email access? Is that also Maria?<br><br>
 
-<b>Jani</b>: No, you need to talk to Sebastian who works in communications. He can help you. That's him over there, next to the printer.<br>
+<b>Jani</b>: No, you need to talk to Sebastian who works in communications. He can help you. That's him over there, next to the printer.<br><br>
 
 <b>Yuki</b>: Thanks. I'll introduce myself to him later.<br>
