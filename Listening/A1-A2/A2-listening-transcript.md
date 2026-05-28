@@ -717,27 +717,198 @@ Let's now turn to the role of the Panama Canal in the global economy …<br>
 
 <b>Woman:</b> I'm sorry.<br>
 
-### 7.
+### 7. Instructions for an assignment
 
-[Learnenglish]()
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/instructions-assignment)
 
-### 8.
+![[LE_listening_A2_Academic_Instructions_for_an_assignment.mp3]]
 
-[Learnenglish]()
+I want to explain a few things about your essay.<br><br>
 
-### 9.
+First of all, the deadline. The deadline for this essay is October the 18th. Not the 19th, not the 28th, not two days later because your dog was ill or your computer broke – the 18th. If it's late, I won't mark it. I won't even read it – you'll fail the assignment! So, please hand it in on time. You can even hand it in early, if you like!<br><br>
 
-[Learnenglish]()
+You can email me the essays at j.hartshorn@lmu.ac.uk. That's H-A-R-T-S-H-O-R-N. I'll reply to say I've got it. If I don't reply within a day, it might mean I didn't get it, so please email me again to make sure. You can also bring a paper copy of the essay to my office, but let's be kind to the trees, OK? Email is better for the trees and for me.<br><br>
 
-### 10.
+Don't forget that you must reference every idea or quote you use that isn't your own idea. And the last page of your essay should be a list of all the books you used, in alphabetical order, not in the order you used them!<br><br>
 
-[Learnenglish]()
+And lastly, make it easy for me to read! That means use a clear font. Arial is best, but Times New Roman is fine too. Not Comic Sans please! Size 12 font for the essay, and size 14 for the titles and subheadings. And use page numbers. Any questions?<br>
 
-### 11.
+### 8. Leaving a message
 
-[Learnenglish]()
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/leaving-message)
 
+![[LE_listening_A2_Leaving_a_message.mp3]]
 
-### 12.
+<b>Jane:</b> Hello, this is the sales department. Jane Solomon speaking.<br><br>
 
-[Learnenglish]()
+<b>Peter:</b> Hello, is Maria Fernandez there, please?<br><br>
+
+<b>Jane:</b> No, I'm sorry. She's not in the office at the moment. She's on her lunch break.<br><br>
+
+<b>Peter:</b> Oh. Could you take a message, please? Could you tell her that Peter Griffin called?<br><br>
+
+<b>Jane:</b> Sure. Could you give me your number?<br><br>
+
+<b>Peter:</b> It's 0-7-4-6-0 double 9-0-1 double 8.<br><br>
+
+<b>Jane:</b> Thanks. That's 0-7-4-6-0 2-9-0-1-2-8.<br><br>
+
+<b>Peter:</b> Sorry, no. It's 0-7-4-6-0 9-9-0-1-8-8.<br><br>
+
+<b>Jane:</b> 9-9-0-1-8-8.<br><br>
+
+<b>Peter:</b> Yes. Please ask her to call me back, and tell her it's about the PXO project. I need the new project figures.<br><br>
+
+<b>Jane:</b> The PXO project. Right. I'll give her your message when she comes back to the office.<br><br>
+
+<b>Peter:</b> Thank you. In case I'm in a meeting when she calls back, can I give you my email address too?<br><br>
+
+<b>Jane:</b> Of course.<br><br>
+
+<b>Peter:</b> Great. It's P-E-T-E-R dot G-R-I-F-F-I-N at F-R-E-S-H dot com.<br><br>
+
+<b>Jane:</b> Can I read that back to you?<br><br>
+
+<b>Peter:</b> Sure.<br><br>
+
+<b>Jane:</b> That's P-E-T-E-R dot G-R-I-F-F-I-N at F-R-E-S-H dot com.<br><br>
+
+<b>Peter:</b> Yes, that's it.<br><br>
+
+<b>Jane:</b> OK. I'll tell her you called.<br><br>
+
+<b>Peter:</b> Thank you. Goodbye.<br><br>
+
+<b>Jane:</b> Goodbye.<br>
+
+### 9. Missing a class
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/missing-class)
+
+![[LE_listening_A2_Missing_a_class.mp3]]
+
+<b>Student:</b> Excuse me, Ms Henderson?<br><br>
+
+<b>Teacher:</b> Yes, Diana. How can I help you?<br><br>
+
+<b>Student:</b> I'm sorry, but I can't come to class next Wednesday. I have a doctor's appointment.<br><br>
+
+<b>Teacher:</b> OK. Thanks for letting me know.<br><br>
+
+<b>Student:</b> Is there anything to do at home?<br><br>
+
+<b>Teacher:</b> Let me just check my notebook. OK, first of all … you need to read chapters 17, 19 and 20 in the book. There are also some articles and a video to watch – those are online. I'll post the links online in the usual place.<br><br>
+
+<b>Student:</b> Chapters 17 to 20.<br><br>
+
+<b>Teacher:</b> Yes, except chapter 18. Chapters 17, 19 and 20.<br><br>
+
+<b>Student:</b> Ah, OK. Um ... is there a deadline?<br><br>
+
+<b>Teacher:</b> Yes, this Friday. But there's something else. I was going to give you all a practice test.<br><br>
+
+<b>Student:</b> A practice test?<br><br>
+
+<b>Teacher:</b> Yes, to help people prepare for the mid-term exam.<br><br>
+
+<b>Student:</b> Ah. All right.<br><br>
+
+<b>Teacher:</b> Don't worry, I can send you the practice test by email on Wednesday. Can you send it to me before Friday?<br><br>
+
+<b>Student:</b> Sure, no problem.<br><br>
+
+<b>Teacher:</b> And don't forget to bring a certificate from the doctor to the office.<br><br>
+
+<b>Student:</b> Thanks, Ms Henderson! I'll do that.<br><br>
+
+<b>Teacher:</b> You're welcome, Diana. Take care.<br>
+
+### 10. Transport announcements
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/transport-announcements)
+
+![[LE_listening_A2_Transport_announcements.mp3]]
+
+<b>A</b><br><br>
+
+The next train to arrive at Platform 2 is the 12.20 to Bristol Temple Meads, calling at Reading, Oxford and Bristol Parkway. Platform 2 for the 12.20 to Bristol. First class is in the rear carriage.<br>
+
+<hr>
+
+<b>B</b><br><br>
+
+This is a platform announcement for passengers for the 12.20 service to Bristol Temple Meads. This train is delayed by approximately 8 minutes. The train will now depart from Platform 9. Passengers for the 12.20 train to Bristol, please make your way to Platform 9.<br>
+
+<hr>
+
+<b>C</b><br><br>
+
+Passengers for Flight EB380 to Paris please make your way to Gate 13 for boarding. Gate 13 for flight EB380 to Paris. Please have your passports and boarding passes ready. Your flight is ready to board.<br>
+
+<hr>
+
+<b>D</b><br><br>
+
+This is a London Underground service to Liverpool Street. The next station is Liverpool Street. Upon arrival, the first set of doors will not open. Customers in the first carriage, please move towards the rear doors to leave the train. The next station is Liverpool Street. Change here for Central Line, Circle Line, Hammersmith & City Line and Metropolitan Line and Main Line Suburban rail services. Please mind the gap between the train and the platform. This train terminates at Redbridge.<br>
+
+### 11. Understanding an explanation
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/understanding-explanation)
+
+![[LE_listening_A2_Understanding_an_explanation.mp3]]
+
+<b>Professor</b>: OK, before we continue, does anybody have a question? Oh, lots of questions, I see. OK, we'll go one at a time. Yes?<br>
+
+<b>Student</b>: Thank you. You talked about Fibonacci numbers in the lecture. Sorry, I don't understand. Can you explain?<br>
+
+<b>Professor</b>: Of course. What do you want to know?<br>
+
+<b>Student</b>: OK … I hope this isn't a silly question, but what does Fibonacci actually mean?<br>
+
+<b>Professor</b>: No question is ever silly – it's always good to ask. OK, it's the name of a person. Fibonacci was a European mathematician in the Middle Ages.<br>
+
+<b>Student</b>: Ah, OK. Thanks. So, we know he was a person, but what are the Fibonacci numbers? I don't get it.<br>
+
+<b>Professor</b>: The Fibonacci numbers are a sequence of numbers. They go 1, 1, 2, 3, 5, 8 and so on. Do you see the sequence? Do you see how it works?<br>
+
+<b>Student</b>: I'm not sure.<br>
+
+<b>Professor</b>: OK. This is how it works. The first number is 1, then 1 again, then 2. The third number is the first number plus the second number. The fourth number is the second number plus the third number: 1 plus 2 is 3. The fifth number is the third number, 2, plus the fourth number, 3. So the fifth number in a Fibonacci sequence is 5.<br>
+
+<b>Student</b>: Ah! I think I understand now. But what about their importance? You said these were very important.<br>
+
+<b>Professor</b>: Yes, let me explain. This sequence of numbers is important because we see it in many things. Fibonacci numbers are common in geometry, they are common in nature, for example in plants. We see the sequence everywhere.<br>
+
+<b>Student</b>: Could you give us some more examples?<br>
+
+<b>Professor</b>: OK ... well, we don't have time right now but I can bring more examples in for next class, OK?<br>
+
+### 12. Who's who in the office
+
+[Learnenglish](https://learnenglish.britishcouncil.org/free-resources/listening/a2/whos-who-office)
+
+![[LE_listening_A2_Who's_who_in_the_office.mp3]]
+
+<b>Jani</b>: Welcome to the department, Yuki. Let me show you around and tell you about your new colleagues. I'll introduce you to them all later.<br>
+
+<b>Yuki</b>: Great. Thanks. So, who are those people over there?<br>
+
+<b>Jani</b>: That's the order management team. Luciana deals with the new orders. She's the one with short, dark hair.<br>
+
+<b>Yuki</b>: In the purple dress?<br>
+
+<b>Jani</b>: Yeah, that's right. You'll probably work closely with her while you are learning about our ordering process.<br>
+
+<b>Yuki</b>: Got it, thanks. And who's that over there? The guy who's on the phone?<br>
+
+<b>Jani</b>: Oh, you mean the one by the window? In the green shirt? Ah, that's Ian. He's the marketing director. And that's Maria beside him. She's responsible for the internal IT systems.<br>
+
+<b>Yuki</b>: OK, I'll try to remember all of this. I should probably be taking notes!<br>
+
+<b>Jani</b>: Don't worry about it. For now it's just good to put some faces to names.<br>
+
+<b>Yuki</b>: OK, great – and who do I talk to about setting up my mobile phone with email access? Is that also Maria?<br>
+
+<b>Jani</b>: No, you need to talk to Sebastian who works in communications. He can help you. That's him over there, next to the printer.<br>
+
+<b>Yuki</b>: Thanks. I'll introduce myself to him later.<br>
