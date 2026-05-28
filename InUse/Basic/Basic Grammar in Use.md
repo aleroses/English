@@ -3775,6 +3775,56 @@ Answer with Neither... I.
 
 > Page: 113 or 124
 
+#### 56.1 Write the correct form of have or have got.
+
+1. `I didn't have` time to do the shopping yesterday.
+2. "`Does Anna have` or `Has Anna got` a car?" "No, she can't drive."
+3. He can't open the door. `He hasn't got` or `He doesn't have` a key.
+4. `Ben had` a cold last week. He's better now.
+5. What's wrong? `Do you have` or `Have you got` a headache?
+6. We wanted to go by taxi, but `We didn't have` enough money.
+7. Liz is very busy `She doesn't have` or `She hasn't got` much free time.
+8. `Did you have` any problems when you were on vacation?
+
+#### 56.2 What are these people doing? Choose from the list:
+
+`an argument` `breakfast` `a cup of tea` `dinner` `fun` ~~`a party`~~
+
+1. They're having a party.
+2. She's `having a cup of tea`.
+3. He's `having breakfast`.
+4. They're `having a dinner`.
+5. They're `having fun`.
+6. They're `having an argument`.
+
+#### 56.3 What do you say in these situations? Use have.
+
+1. Julia is going on vacation. What do you say to her before she goes?  
+	Have a nice vacation!
+2. You meet Kate at the airport. She has just gotten off her plane. Ask her about the flight.  
+	`Did you have a good flight?`
+3. Tom is going on a long trip. What do you say to him before he leaves?  
+	`Have a good/great trip!`.
+4. It's Monday morning. You are at work. Ask Mariana about her weekend.  
+	`Did you have a nice/good weekend?`
+5. Nate just came back from vacation. Ask him about his vacation.  
+	`Did you have a nice/good vacation.`
+6. Rachel is going out tonight. What do you say to her before she goes?  
+	`Have a great/good time!` or `Have fun!`
+7. It's Sue's birthday soon. You like parties. What do you ask Sue?  
+	`Are you going to have a (birthday) party?` or `Are you having a (birthday) party?`
+
+#### 56.4 Complete the sentences. Use have / had and choose from the list.
+
+`an accident` `a glass of water`  `a baby` `a bad dream` ~~`a party`~~ `something to eat`
+
+1. We `had a party` a few weeks ago. We invited 50 people.
+2. "Should we `have something to eat`?" "No, I'm not hungry."
+3. I was thirsty, so I `had a glass of water`.
+4. I `had a bad dream` last night. It woke me up.
+5. Emily is a very good driver. She has never `had an accident`.
+6. Rachel is going to `have a baby`. It will be her first child.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3786,7 +3836,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 283 or 293
-🔸
 
 ## 14. Pronouns and possessives
 
