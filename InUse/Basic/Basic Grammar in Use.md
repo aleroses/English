@@ -3843,17 +3843,72 @@ Answer with Neither... I.
 
 > Page: 115 or 126
 
+[[Lección 28 - Can y Should + Pronombres Objeto. Cuándo y cómo usarlos]]
+
+#### 57.1 Complete the sentences with him / her / them.
+
+1. I don't know those girls. Do you know `them`?
+2. I don't know that man. Do you know `him`?
+3. I don't know those people. Do you know `them`?
+4. I don't know David's wife. Do you know `her`?
+5. I don't know Mr. Stevens. Do you know `him`?
+6. I don't know Sarah's parents. Do you know `them`?
+7. I don't know the woman in the black coat. Do you know `her`?
+
+#### 57.2 Complete the sentences. Use I / me / you / she / her, etc.
+
+1. I want to see her, but she doesn't want to see `me`.
+2. They want to see me, but `I` don't want to see `them`. 
+3. She wants to see him, but `He` doesn't want to see `her`.
+4. We want to see them, but `They` don't want to see `us`.
+5. He wants to see us, but `We` don't want to see `him`.
+6. They want to see her, but `She` doesn't want to see `them`.
+7. I want to see them, but `They` don't want to see `me`.
+8. You want to see her, but `She` doesn't want to see `you`.
+
+#### 57.3 Write sentences beginning I like..., I don't like..., or Do you like...?
+
+1. I don't eat tomatoes. `I don't like them`.
+2. George is a very nice man. I like `him`.
+3. This jacket isn't very nice. I don't `like it`.
+4. This is my new car. Do `you like it`?
+5. Mrs. Clark is not very friendly. I `don't like her`.
+6. These are my new shoes. `Do you like them`?
+
+#### 57.4 Complete the sentences. Use I / me / he / him, etc.
+
+1. Who is that woman? Why are you looking at `her`?
+2. "Do you know that man?" "Yes, I work with `him`."
+3. Where are the tickets? I can't find `them`.
+4. I can't find my keys. Where are `they`?
+5. We're going out. You can come with `us`.
+6. I have a new motorcycle. Do you want to see `it`?
+7. Maria likes music. `She` plays the piano.
+8. I don't like dogs. I'm scared of `them`.
+9. I'm talking to you. Please listen to `me`.
+10. Where is Anna? I want to talk to `her`.
+11. You can have these DVDs. I don't want `them`.
+12. My brother has a new job, but `He` doesn't like `it` very much.
+
+#### 57.5 Complete the sentences.
+
+1. I need that book. Can you give it to me?
+2. He wants the key. Can you give `it to him`?
+3. She wants the keys. Can you `give them to her`?
+4. I need my bag. Can you `give it to me`?
+5. They want the money. Can you `give it to them`?
+6. We want the photos. Can you `give them to us`?
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- My / his / their, etc. → Unit 58
+- my / his / their, etc. → Unit 58
 - Give me that book / Give it to me → Unit 94
 
 </details>
 
 > Answer Key to Exercises 283 or 293
-🔸
 
 ### Unit 58. my / his / their, etc.
 
