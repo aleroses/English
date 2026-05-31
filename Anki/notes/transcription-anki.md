@@ -4,13 +4,21 @@
 
 ## Teniendo un deck existente
 
+> 🔥☠️ Advertencia ☣️☢️  
+> Para evitar conflictos, hacer esto en una cuenta diferente a la que usas a diario.
+
 Para este ejemplo tenemos un deck que se creó para estudiar vocabulario, el cual incluye audios, lo que nos servirá para crear otro deck que solo tenga audios los cuales debemos transcribir.
+
+También tenemos un deck que servirá como base de las nuevas tarjetas, este les dará el diseño, estilo y sobre todo el **tipo de tarjeta**.
+
+> 🔥☠️ Recomendación ☣️☢️  
+> Si no quieres perder el Deck original y quieres que ambos convivan en una misma cuenta debes seguir estos pasos en una **cuenta alternativa**, luego explico como importar sin riesgo de perder el original.
 
 1. Importar un mazo que tenga audios (Refold EN1K)
 2. Seleccionar el deck a modificar
 3. Browse y seleccionar todo `Ctrl + A`
 4. Clic derecho sobre lo seleccionado
-5. Notes y Change Note Type
+5. Notes y **Change Note Type**
 6. Seleccionar Transcription Cards
 7. Dejar estas opciones de la siguiente manera
 	
@@ -31,8 +39,40 @@ Para este ejemplo tenemos un deck que se creó para estudiar vocabulario, el cua
 	
 	Save
 
-8. ⚙️ Cambiar nombre: Refold EN1K Transcription
-9. ⚙️ Options: Transcription Cards (Save)
+8. ⚙️ Cambiar nombre:
+	- De: Refold EN1K Transcription
+	- A: Transcription Cards (Save)
+9. Daily Limits:
+	- Preset: 5
+10. New Cards:
+	- Learning steps: 1d 7d
+
+### Conflictos al tener decks basados en otro
+
+Al querer hacer que el deck original y el nuevo deck recién creado convivan en una misma cuenta o usuario el nuevo deck modifica el original.
+
+Si lo que quieres es estudiar el original y también estudiar el nuevo en una misma cuenta o usuario debes hacer lo siguiente:
+
+1. Crear el nuevo deck basado en uno anterior (caso ya visto)
+2. Exportar como TXT.
+	- Dirígete al engranaje ⚙️ del nuevo Deck a exportar.
+	- Exportar
+	- **Export format:** Notes in Plain Text (.txt)
+	- [ x ] Include HTML and media references
+	- [ x ] Include tags
+	- [ x ] Include deck name
+	- **Export**
+3. Dirígete a la cuenta o usuario donde quieres importar
+	- File 
+	- Import: Busca el archivo `.txt`
+4. Import options
+	- Note Type: **Transcription Cards** (Deck de ejemplo que comparte Ben)
+	- Existing notes: Preserve
+	- Match scope: Note Type (por defecto)
+
+Y listo, con esto ya no se modificará el deck original.
+
+> Ten en cuenta que debes crear el nuevo deck en una cuenta alternativa porque si o si al crear este deck vas a perder el original.
 
 ## Teniendo un video mp3
 
