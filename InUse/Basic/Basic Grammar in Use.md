@@ -3914,6 +3914,64 @@ Answer with Neither... I.
 
 > Page: 117 or 128
 
+#### 58.1 Complete the sentences in the same way.
+
+1. I'm going to wash `my hands`.
+2. She's going to wash `her` hands.
+3. We're going to wash `our hands`.
+4. He's going to wash `his hands`.
+5. They're going to wash `their` hands.
+6. Are you going to wash `your`hands?
+
+#### 58.2 Complete the sentences in the same way.
+
+1. He `lives with his parents`.
+2. They live with `their` parents.
+3. We `live with our` parents.
+4. Sarah lives `with her` parents.
+5. I `live with my` parents.
+6. John `lives with his` parents.
+7. Do you live `with your` parents?
+8. Most children `live with their` parents.
+
+#### 58.3 Look at the family tree, and complete the sentences with his / her / their.
+
+1. I saw Sarah with `her` husband, Philip.
+2. I saw Laura and Steve with `their` children.
+3. I saw Steve with `his` wife, Laura.
+4. I saw Ben with `his` brother, Will.
+5. I saw Laura with `her` brother, Will.
+6. I saw Sarah and Philip with `their` son, Will.
+7. I saw Laura with `her` parents.
+8. I saw Beth and Robert with `their` parents.
+
+#### 58.4 Write my / our / your / his / her / their / its.
+
+1. Do you like `your` job?
+2. I know Mr. Watson, but I don't know `his` wife.
+3. Alice and Tom live in San Francisco. `Their` son lives in Mexico.
+4. We're going to have a party. We're going to invite all `our` friends.
+5. Anna is going out with `her` friends tonight.
+6. I like tennis. It's `my` favorite sport.
+7. "Is that `your` car?" "No, I don't have a car."
+8. I want to call Maria. Do you know `her` number?
+9. Do you think most people are happy with `their` jobs?
+10. I'm going to wash `my` hair before I go out.
+11. This is a beautiful tree. `Its` leaves are a beautiful color.
+12. John has a brother and a sister. `His` brother is 25, and `his` sister is 21.
+
+#### 58.5 Complete the sentences. Use my / his / their, etc. with these words:
+
+`coat` `homework` `house` `husband` ~~`job`~~ `key` `name`
+
+1. Jim doesn't like `his job`. It's not very interesting.
+2. I can't get in. I don't have `my key`.
+3. Sally is married. `Her husband` works in a bank.
+4. Please take off `your coat` and sit down.
+5. "What are the children doing?" "They're doing `their homework`."
+6. "Do you know that man?" "Yes, but I don't know `his name`."
+7. We live on Main Street. `Our house` is on the corner of Main and First.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3924,7 +3982,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 283 or 293
-🔸
 
 ### Unit 59. Whose is this? It's mine / yours / hers, etc.
 
