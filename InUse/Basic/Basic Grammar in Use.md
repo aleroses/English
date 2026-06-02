@@ -3987,6 +3987,47 @@ Answer with Neither... I.
 
 > Page: 119 or 130
 
+#### 59.1 Complete the sentences with mine / yours, etc.
+
+1. It's your money. It's `yours`.
+2. It's my bag. It's `mine`.
+3. It's my bag. It's `mine`.
+4. It's our car. It's `ours`.
+5. It's their house. It's `theirs`.
+6. They're your books. They're `yours`.
+7. They're my glasses. They're `mine`.
+8. It's his coat. It's `his`.
+
+#### 59.2 Choose the right word.
+
+1. It's `their` problem, not `ours`.
+2. This is a nice camera. Is it `yours`?
+3. That's not `my` umbrella. `Mine` is black.
+4. Whose books are these? `Yours` or `mine`?
+5. Catherine is going out with `her` friends tonight.
+6. `My` room is bigger than `hers`.
+7. They have two children, but I don't know `theirs` names.
+8. Can we use your washing machine. `Ours` isn't working.
+
+#### 59.3 Complete these sentences. Use friend(s) of mine / yours, etc.
+
+1. I went to the movies with a `friend of mine`.
+2. They went on vacation with some `friends of theirs`.
+3. She's going out with a friend `of hers`.
+4. We had dinner with some `friends of ours`.
+5. I played tennis with a `friend of mine`.
+6. Tom is going to meet a `friend of his`.
+7. Do you know those people? Are they `friends of yours`?
+
+#### 59.4 Look at the pictures. What are the people saying?
+
+1. Whose car is this? It's theirs.
+2. `Whose camera` is this? It's `hers`.
+3. `Whose gloves` are these? They're `mine` 
+4. `Whose hat` is this? It's `his`.
+5. `Whose money` is this? It's `yours`.
+6. `Whose bags` are these? They're `ours`.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -3997,8 +4038,7 @@ Answer with Neither... I.
 
 </details>
 
-> Answer Key to Exercises 283 – 284 or 293 – 294
-🔸
+> Answer Key to Exercises 283 or 293
 
 ### Unit 60. I / me / my / mine
 
