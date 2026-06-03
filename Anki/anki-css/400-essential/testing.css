@@ -214,8 +214,9 @@
 
 .front-flashcard .details ul {
   width: 100%;
-  height: 178px;
-  /* height: 140px; */
+  /* height: 178px; */
+  max-height: 178px;
+  overflow-y: auto;
 
   display: flex;
   flex-wrap: wrap;
