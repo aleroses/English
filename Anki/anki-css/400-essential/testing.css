@@ -115,6 +115,9 @@
   justify-items: center;
   align-items: center;
   flex: 1;
+  /* flex: 0 0 220px; */
+  flex: 0 0 25%;
+  min-height: 220px;
 
   border-radius: 20px 20px 0 0;
   background: radial-gradient(
@@ -172,8 +175,8 @@
   /* Testing */
   overflow: hidden;
   opacity: 0.5;
-  /* transition: opacity 1s ease-in-out; */
-  transition: background-color 0.3s ease;
+  transition: opacity 1s ease-in-out;
+  /* transition: background-color 0.3s ease; */
   /* height: 40px; */
 
   background: radial-gradient(
@@ -240,11 +243,9 @@
   padding: 0 10px;
   text-align: start;
 
-  /* background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  ); */
+  opacity: 0.5;
+  transition: opacity 1s ease-in-out;
+
   background: radial-gradient(
     circle,
     var(--second-bg-color),
@@ -253,30 +254,42 @@
   border-radius: 0 0 20px 20px;
 }
 
+.front-flashcard .similar-details[open] {
+  /* min-height: 100%; */
+  opacity: 1;
+  /* background-color: #4f46e5; */
+}
+
 .similar-details summary {
   padding: 10px 0;
   cursor: pointer;
-  color: var(--first-text-color);
+  /* color: var(--first-text-color); */
   font-weight: 600;
 }
 
+.front-flashcard .similar-details[open] summary {
+  font-weight: 600;
+  color: var(--test-highlighting);
+}
+
 .similar-content {
-  height: 80px;
+  /* height: 80px; */
   /* margin-top: 10px; */
   padding: 10px;
-  border-left: 3px solid var(--first-text-color);
-  background-color: rgba(255, 255, 255, 0.05);
+  /* border-left: 3px solid var(--first-text-color); */
+  /* background-color: rgba(255, 255, 255, 0.05); */
+  background-color: var(--second-bg-color);
   border-radius: 8px;
 }
 
 .similar-word {
-  font-size: 22px;
-  color: var(--second-text-color);
+  font-size: 20px;
+  /* color: var(--second-text-color); */
   font-weight: bold;
 }
 
 .similar-meaning {
-  margin-top: 6px;
+  /* margin-top: 6px; */
   color: var(--third-text-color);
 }
 
