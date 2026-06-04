@@ -1,6 +1,6 @@
 # MPV + Anki (mpv2anki): Configuración y uso
 
-[MPV]https://mpv.io/ es un reproductor multimedia gratuito y de código abierto, basado en MPlayer y mplayer2, que funciona en varios sistemas operativos como Linux, macOS y Windows.
+[MPV](https://mpv.io/) es un reproductor multimedia gratuito y de código abierto, basado en MPlayer y mplayer2, que funciona en varios sistemas operativos como Linux, macOS y Windows.
 
 Usaremos Anki + Plugins y MPV + Plugins para crear tarjetas en Anki con audios de videos que tengas descargados.
 

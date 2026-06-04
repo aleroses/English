@@ -4044,13 +4044,47 @@ Answer with Neither... I.
 
 > Page: 121 or 132
 
-#### 60.1
+#### 60.1 Answer the questions in the same way
 
-#### 60.2
+1. Do you know that man?  
+	Yes, I know him, but I can't remember his name.
+2. Do you know that woman?  
+	Yes, I know `her`, but I can't remember `her` name.
+3. Do you know those people?  
+	Yes, I know `them`, but I can't remember `their` names.
+4. Do you know me?  
+	Yes, I know `you`, but I can't remember `your` name.
 
-#### 60.3
+#### 60.2 Complete the sentences in the same way.
 
-#### 60.4
+1. We invited her `to stay with us at our house`.
+2. He invited us to stay with `him` at his house.
+3. They invited me to stay with `them` at `their` house.
+4. I invited them to stay with `me` at `my` house.
+5. She invited us to stay with `her` at `her` house.
+6. Did you invite him to stay with `you` at `your` house?
+
+#### 60.3 Complete the sentences in the same way.
+
+1. I gave him `my` phone number, and `he gave me his`.
+2. I gave her `my` phone number, and she gave `me hers`.
+3. He gave me `his` phone number, and I gave `him mine`.
+4. We gave them `our` phone number, and they gave `us theirs`.
+5. She gave him `her` phone number, and he gave `her his`.
+6. You gave us `your` phone number, and we gave `you ours`.
+7. They gave you `their` phone number, and you gave `them yours`.
+
+#### 60.4 Write him / her / yours, etc.
+
+1. Where's Amanda? Did you see `her`?
+2. Where are my keys? Where did I put `them`?
+3. This book belongs to Ben. Can you give it to `him`?
+4. We don't see `our` neighbors much. They're not home very often.
+5. "I can't find my phone. Can I use `yours`?" "Sure."
+6. We're going to the movies. Whey don't you come with `us`?
+7. Did your sister pass `her` driver's test?
+8. Some people talk about `their` work all the time.
+9. Last night I went our for dinner with a friend of `mine`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4062,7 +4096,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 284 or 294
-🔸
 
 ### Unit 61. myself / yourself / themselves, etc.
 

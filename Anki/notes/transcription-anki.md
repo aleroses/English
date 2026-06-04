@@ -244,7 +244,7 @@ En la web del enlace haz clic sobre los archivos y luego clic derecho en  `Save 
 	- ankitutorial.mp3
 2. Clic derecho dentro de la carpeta que contiene tu mp3 y los scripts
 3. Open in terminal
-4. Escribe: python3 notranslatesentenceify.py 
+4. Escribe: `python3 notranslatesentenceify.py`
 	- Para autocompletar el nombre del archivo solo escribe las primeras letras y luego presiona tabulador.
 5. Enter
 6. Ahora te pide la ruta del .srt
