@@ -74,7 +74,9 @@ Y listo, con esto ya no se modificará el deck original.
 
 > Ten en cuenta que debes crear el nuevo deck en una cuenta alternativa porque si o si al crear este deck vas a perder el original.
 
-## Teniendo un video mp3
+## Teniendo un audio mp3
+
+> Este código no me funcionó en Linux Debian 12, así que probaré mi propio código usando Google Colab (ver mas adelante).
 
 En este ejemplo crearemos tarjetas con audios teniendo como fuente un `audio.mp3` y sus `subtitulos.srt` el cual debemos descargar de cualquier fuente.
 
@@ -311,5 +313,259 @@ Field mapping
 |Tags                 |(Nothing)     |
 
 20. Import
+
+## Usando Google Colab
+
+Ya que el código anterior no me funcionó, haré los pasos en [Google Colab](https://colab.research.google.com/) que:
+
+- Ya incluye Python moderno.
+- Puedes instalar librerías fácilmente con `pip`.
+- FFmpeg suele venir instalado o se instala en segundos.
+- Evitas los problemas de Debian 12 con `pysrt`.
+- Puedes subir directamente el `.mp3` y el `.srt`.
+
+Además, te recomiendo una mejora respecto a tu script original:
+
+### Celda 1: Instalar dependencias
+
+```python
+!pip install srt
+```
+
+### Celda 2: Subir archivos (opcional)
+
+```python
+from google.colab import files
+
+uploaded = files.upload()
+```
+
+Sube:
+
+```text
+audio.mp3
+subtitulos.srt
+```
+
+En la sección de Files puedes subir manualmente los archivos y ya no ejecutar esta parte.
+
+### Celda 3: Procesar
+
+```python
+import os
+import csv
+import re
+import subprocess
+import zipfile
+from pathlib import Path
+
+import srt
+
+# CONFIGURACIÓN: Cambiar nombres
+
+AUDIO_FILE = "A1_A_good_nights_sleep.mp3"
+SRT_FILE = "A1_A_good_nights_sleep.srt"
+
+OUTPUT_DIR = "output_files"
+
+# margen para no cortar palabras
+PRE_PADDING = 0.10
+POST_PADDING = 0.20
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Leer SRT
+
+with open(SRT_FILE, "r", encoding="utf-8-sig") as f:
+    subtitles = list(srt.parse(f.read()))
+
+def merge_subtitles(subtitles):
+
+    merged = []
+
+    current = None
+
+    for sub in subtitles:
+
+        if current is None:
+
+            current = {
+                "start": sub.start,
+                "end": sub.end,
+                "text": sub.content.strip()
+            }
+
+        else:
+
+            current["text"] += " " + sub.content.strip()
+            current["end"] = sub.end
+
+        text = current["text"].strip()
+
+        if text.endswith((".", "!", "?")):
+
+            merged.append(current)
+            current = None
+
+    if current:
+        merged.append(current)
+
+    return merged
+
+
+subtitles = merge_subtitles(subtitles)
+
+audio_base_name = Path(AUDIO_FILE).stem
+
+tsv_name = f"{audio_base_name}_anki.tsv"
+
+with open(tsv_name, "w", newline="", encoding="utf-8") as tsv:
+
+    writer = csv.writer(tsv, delimiter="\t")
+
+    writer.writerow([
+        "Filename",
+        "AudioTag",
+        "Sentence"
+    ])
+
+    total = len(subtitles)
+
+    for i, sub in enumerate(subtitles, start=1):
+  
+        start_time = max(
+            0,
+            sub["start"].total_seconds() - PRE_PADDING
+        )
+  
+        end_time = (
+            sub["end"].total_seconds()
+            + POST_PADDING
+        )
+  
+        duration = end_time - start_time
+
+        filename = (
+            f"{audio_base_name}"
+            f"_Line_{i:04d}.mp3"
+        )
+
+        output_mp3 = os.path.join(
+            OUTPUT_DIR,
+            filename
+        )
+
+        cmd = [
+            "ffmpeg",
+            "-loglevel",
+            "error",
+            "-y",
+            "-i",
+            AUDIO_FILE,
+            "-ss",
+            str(start_time),
+            "-t",
+            str(duration),
+            "-acodec",
+            "libmp3lame",
+            output_mp3
+        ]
+
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True
+        )
+
+        if result.returncode != 0:
+            print(
+                f"Error en línea {i}"
+            )
+            print(result.stderr)
+            continue
+
+        sentence = sub["text"]
+
+        # eliminar etiquetas html
+        sentence = re.sub(
+            r"<[^>]+>",
+            "",
+            sentence
+        )
+
+        sentence = (
+            sentence
+            .replace("\n", " ")
+            .strip()
+        )
+
+        writer.writerow([
+            filename,
+            f"[sound:{filename}]",
+            sentence
+        ])
+
+        if i % 25 == 0:
+            print(
+                f"{i}/{total} procesados"
+            )
+
+print("Finalizado")
+```
+
+### Celda 4: Comprobar cuántos audios se generaron
+
+Puedes ejecutar una celda adicional:
+
+```python
+import osprint(    len(os.listdir("output_files")),    "archivos creados")
+```
+
+### Celda 5: Crear ZIP
+
+```python
+zip_name = "anki_audio_package.zip"
+
+with zipfile.ZipFile(
+    zip_name,
+    "w",
+    zipfile.ZIP_DEFLATED
+) as zipf:
+
+    for root, dirs, files_ in os.walk(
+        "output_files"
+    ):
+        for file in files_:
+            path = os.path.join(
+                root,
+                file
+            )
+
+            zipf.write(
+                path,
+                os.path.relpath(
+                    path,
+                    "output_files"
+                )
+            )
+
+    zipf.write(
+        "audio_anki.tsv"
+        if os.path.exists("audio_anki.tsv")
+        else tsv_name
+    )
+
+print("ZIP creado")
+```
+
+
+### Celda 6: Descargar resultado
+
+```python
+from google.colab import files
+
+files.download("anki_audio_package.zip")
+```
+
 
 ⚙️
