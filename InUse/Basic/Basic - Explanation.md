@@ -1108,3 +1108,242 @@ Traduce estas:
 3. She's getting tired.
 4. Get on the bus.
 5. I got a job.
+
+## 61. myself / yourself / themselves, etc.
+
+Los **pronombres reflexivos** y algunas expresiones relacionadas.
+
+|Pronombre    |Reflexivo  | Español          |
+|-------------|-----------|------------------|
+|I            |myself     |a mí mismo        |
+|you          |yourself   |a ti mismo        |
+|he           |himself    |a sí mismo        |
+|she          |herself    |a sí misma        |
+|it           |itself     |                  |
+|we           |ourselves  |a nosotros mismos |
+|you (plural) |yourselves |a ustedes mismos  |
+|they         |themselves |a sí mismos       |
+
+### A. Cuando la acción vuelve a la misma persona
+
+Se usan cuando **el sujeto y el objeto son la misma persona**.
+
+Ejemplos
+
+- I looked at **myself** in the mirror.
+    
+    - Me miré a mí mismo en el espejo.
+        
+- He cut **himself**.
+    
+    - Se cortó.
+        
+- She hurt **herself**.
+    
+    - Se lastimó.
+        
+- We enjoyed **ourselves**.
+    
+    - Nos divertimos.
+        
+- They enjoyed **themselves**.
+    
+    - Se divirtieron.
+        
+
+🔥 Idea clave
+
+Si la acción regresa a quien la hace:
+
+**sujeto = objeto**
+
+➡️ se usa un reflexivo.
+
+### B.  Compara
+
+#### Personas diferentes
+
+- She is looking at **him**.
+    
+    - Ella lo está mirando a él.
+        
+
+Aquí son dos personas distintas:
+
+**she ≠ him**
+
+#### Misma persona
+
+- He is looking at **himself**.
+    
+    - Él se está mirando.
+        
+
+Aquí:
+
+**he = himself**
+
+#### Errores comunes
+
+❌ Incorrecto
+
+- I looked at me in the mirror.
+    
+
+✅ Correcto
+
+- I looked at myself in the mirror.
+    
+
+Porque la persona que mira y la persona observada son la misma.
+
+### Otro: Help yourself
+
+Hay una expresión muy común:
+
+#### Help yourself.
+
+- Sírvete.
+    
+- Toma lo que quieras.
+    
+
+Por ejemplo:
+
+- Help yourself to some coffee.
+    
+    - Sírvete café.
+        
+
+#### Varias personas
+
+- Help yourselves.
+    
+    - Sírvanse.
+        
+
+### Otro: Enjoy yourself
+
+Una expresión muy frecuente.
+
+#### Enjoy yourself!
+
+- Diviértete.
+    
+
+#### Enjoy yourselves!
+
+- Diviértanse.
+    
+
+### C. By myself / yourself / himself
+
+Aquí **no significa reflexivo**.
+
+Significa:
+
+= alone
+
+= solo(a)
+
+Ejemplos
+
+- I went on vacation by myself.
+    
+    - Fui de vacaciones solo.
+        
+- She lives by herself.
+    
+    - Vive sola.
+        
+- He ate by himself.
+    
+    - Comió solo.
+        
+
+### Compara
+
+#### Reflexivo
+
+- He hurt himself.
+    
+    - Se lastimó.
+        
+
+#### Solo
+
+- He went to the movie by himself.
+    
+    - Fue solo al cine.
+        
+
+### D. Each other
+
+Ahora viene la parte que más se confunde con **themselves**.
+
+#### Each other = mutuamente
+
+Cuando dos personas hacen algo una a la otra.
+
+Ejemplo
+
+- Kate and Nicole know each other well.
+    
+    - Kate y Nicole se conocen bien.
+        
+
+Significa:
+
+- Kate conoce a Nicole.
+    
+- Nicole conoce a Kate.
+    
+
+Acción mutua.
+
+Otro ejemplo
+
+- Paul and I live near each other.
+    
+    - Paul y yo vivimos cerca uno del otro.
+        
+
+#### Each other vs Themselves
+
+##### Each other
+
+Dos personas interactúan entre sí.
+
+👨 James ←→ Sue 👩
+
+- James and Sue looked at each other.
+    
+
+Significa:
+
+- James miró a Sue.
+    
+- Sue miró a James.
+    
+
+##### Themselves
+
+Cada uno se mira a sí mismo.
+
+🪞 James → James
+
+🪞 Sue → Sue
+
+- James and Sue looked at themselves.
+    
+
+Significa:
+
+- James se miró a sí mismo.
+    
+- Sue se miró a sí misma.
+    
+
+
+
+
