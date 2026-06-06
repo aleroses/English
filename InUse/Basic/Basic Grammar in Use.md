@@ -4101,6 +4101,48 @@ Answer with Neither... I.
 
 > Page: 123 or 134
 
+#### 61.1 Complete the sentences with myself / yourself, etc.
+
+1. He looked at `himself` in the mirror.
+2. I'm not angry at you. I'm angry at `myself`.
+3. Karen had a good time in Brazil. She enjoyed `herself`.
+4. My friends had a good time in Brazil. They enjoyed `themselves`.
+5. I picked up a very hot plate and burned `myself`.
+6. He never thinks about other people. He only thinks about `himself`.
+7. I want to know more about you. Tell me about `yourself`. (one person)
+8. Goodbye! Have a good trip and take care of `yourselves`. (two people)
+
+#### 61.2 Write sentences with by myself / by yourself, etc.
+
+1. I went on vacation alone. I went on vacation `by myself`.
+2. When I saw him, he was alone. When I saw him, he was `by himself`.
+3. Don't go out alone. Don't go out `by yourself`.
+4. I went to the movies alone. I went to the movies `by myself`.
+5. My sister lives alone. My sister lives `by herself`.
+6. Many people live alone. Many people live `by themselves`.
+
+#### 61.3 Write sentences with each other.
+
+1. I like her. I like him. They like each other.
+2. I can't see her. I can't see him. They can't see `each other`.
+3. I call her a lot. I call him a lot. They call `each other` a lot .
+4. I don't know him. I don't know him. They don't know `each other`.
+5. I'm sitting next to her. I'm sitting next to him. They are sitting next to `each other`.
+6. I gave her a present. I gave her a present. They gave `each other` a present.
+
+#### 61.4 Complete the sentences. Use: each other or ourselves / yourselves / themselves or us / you / them
+
+1. Josh and I live near `each other`.
+2. Who are those people? Do you know `them`?
+3. You can help Tom, and Tom can help you. So you and Tom can help `each other`.
+4. There's food in the kitchen. If you and Chris are hungry, you can help `yourselves`.
+5. We didn't go to Sarah's party. She didn't invite `us`.
+6. When we go on vacation, we always enjoy `ourselves`.
+7. Jessica and Megan went to school together, but they never see `each other` now.
+8. Lauren and I are very good friends. We've known `each other` for a long time.
+9. "Did you see Sam and Rachel at the party?" "Yes, but I didn't speak to `them`."
+10. Many people talk to `themselves` when they're alone.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -4110,7 +4152,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 284 or 294
-🔸
 
 ### Unit 62. -'s (Kate's camera / my brother's car, etc.)
 
