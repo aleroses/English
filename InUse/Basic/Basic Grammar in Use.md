@@ -4157,6 +4157,46 @@ Answer with Neither... I.
 
 > Page: 125 or 136
 
+#### 62.1 Look at the family tree. Complete the sentences about the people in the family.
+
+1. Pedro is `Blanca's` husband.
+2. Julia is `Daniel's` mother.
+3. Blanca is `Pedro's` wife.
+4. Alberto is `Julia's` brother.
+5. Alberto is `Daniel's` uncle.
+6. Julia is `Paul's` wife.
+7. Blanca is `Daniel's` grandmother.
+8. Julia is `Alberto's` sister.
+9. Paul is `Julia's` husband.
+10. Paul is `Daniel's` father.
+11. Daniel is `Alberto's` nephew.
+
+#### 62.2 Look at the pictures and answer the questions. Use one word only.
+
+1. Whose is this? `Alice's`.
+2. Whose is this? `Andy's`.
+3. And this? `Dave's`.
+4. And these? `Jane's`.
+5. And this? `Rachel's`.
+6. And these? `Alice's`.
+
+#### 62.3 Are these sentences OK? Change them where necessary.
+
+1. I stayed at the `my sister's house`.
+2. What is `the name of this town`.
+3. Do you like `the color of this coat`?
+4. Do you have `Simon's phone number`?
+5. `My brother's job` is very interesting.
+6. Write your name at `the top of the page`.
+7. For me, morning is `the best part of the day`.
+8. `Paula's favorite color` is blue.
+9. When is your `mother's birthday`?
+10. `My parents' house`isn't very big.
+11. `The walls of this house` are very thin.
+12. The car stopped at `the end of the street`.
+13. Are you going to `Lauren's party` next week?
+14. `The manager of the hotel` isn't here right now.
+
 <details>
   <summary>More 🔥☠️</summary>
   </br>
@@ -4168,7 +4208,171 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 284 or 294
+
+## 15. A and the
+
+### Unit 63. a / an...
+
+> Page: 127 or 138
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 284 or 294
 🔸
+
+### Unit 64. train(s)  bus(es)  (singular and plural)
+
+> Page: 129 or 140
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 284 – 285 or 294 – 295
+🔸
+
+### Unit 65. a bottle / some water (count / noncount 1)
+
+> Page: 131 or 142
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 285 or 295
+🔸
+
+### Unit 66. a cake / some cake / some cakes (count / noncount 2)
+
+> Page: 133 or 144
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 285 or 295
+🔸
+
+### Unit 67. a / an and the
+
+> Page: 135 or 146
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 285 or 295
+🔸
+
+### Unit 68. the...
+
+> Page: 137 or 148
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 285 – 286 or 295 – 296
+🔸
+
+### Unit 69. go to work  go home   go to the hospital
+
+> Page: 139 or 150
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+🔸
+
+### Unit 70. I like music  I hate exams
+
+> Page: 141 or 152
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+🔸
+
+### Unit 71. the... (names of places)
+
+> Page: 143 or 154
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- mine / yours, etc. → Unit 59
+- whose...? → Unit 59
+
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+🔸
+
+## 16. Determiners and pronouns
+
+### Unit 72. 
+
+
+
+
+
+
 
 
 
@@ -4176,7 +4380,7 @@ Answer with Neither... I.
 238 more exercises
 280 Answer 
 
-
+Indice pág. 5
 →
 
 –
