@@ -237,6 +237,7 @@
 }
 
 .similar-details {
+  width: 100%;
   /* height: 25%; */
   /* margin-top: 12px;*/
 
@@ -271,6 +272,7 @@
 .front-flashcard .similar-details[open] summary {
   font-weight: 600;
   color: var(--test-highlighting);
+  /* background-color: #f43f5e; */
 }
 
 .similar-content {
