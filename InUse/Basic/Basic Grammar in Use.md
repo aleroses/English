@@ -4219,9 +4219,8 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- a bottle / some water (count / noncount) → Unit 65 – 66
+- a / an and the → Unit 67
 
 </details>
 
@@ -4232,15 +4231,10 @@ Answer with Neither... I.
 
 > Page: 129 or 140
 
-<details>
-  <summary>More 🔥☠️</summary>
-  </br>
-
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
 
 
-</details>
+
+
 
 > Answer Key to Exercises 284 – 285 or 294 – 295
 🔸
@@ -4253,9 +4247,8 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- a / an → Unit 63
+- count / noncount 2 → Unit 66
 
 </details>
 
@@ -4270,9 +4263,8 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- count / noncount → Unit 65
+- some and any → Unit 74
 
 </details>
 
@@ -4287,9 +4279,8 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- a / an → Unit 63
+- the → Units 68 – 71
 
 </details>
 
@@ -4304,9 +4295,9 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- a / an and the → Unit 67
+- the → Units 69 – 71
+- the oldest / the most expensive, etc. → Unit 88
 
 </details>
 
@@ -4321,9 +4312,10 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- the → Units 67 – 68, 70 – 71
+- in / at → Units 104 – 105
+- to / in / at → Unit 106
+- (at) home → Unit 106
 
 </details>
 
@@ -4338,9 +4330,7 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- the → Units 67 – 69, 71
 
 </details>
 
@@ -4355,9 +4345,7 @@ Answer with Neither... I.
   <summary>More 🔥☠️</summary>
   </br>
 
-- mine / yours, etc. → Unit 59
-- whose...? → Unit 59
-
+- the → Units 67 – 70
 
 </details>
 
@@ -4366,7 +4354,7 @@ Answer with Neither... I.
 
 ## 16. Determiners and pronouns
 
-### Unit 72. 
+### Unit 72. this / that / these / those
 
 
 
