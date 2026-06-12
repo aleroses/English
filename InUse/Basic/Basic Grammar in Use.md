@@ -4215,13 +4215,62 @@ Answer with Neither... I.
 
 > Page: 127 or 138
 
-#### 63.1
+#### 63.1 Write a or an
 
-#### 63.2
+1. `an` old book.
+2. `a` window.
+3. `a` horse.
+4. `an` airport.
+5. `a` new airport.
+6. `an` organization.
+7. `a` university.
+8. `an` hour.
+9. `an` economic problem.
 
-#### 63.3
+#### 63.2 What are these things? Choose from the box.
 
-#### 63.4
+~~`bird`~~ `fruit` `mountain` `river` `musical instrument` `flower` `game` `planet` `tool` `vegetable`
+
+1. A duck is `a bird`.
+2. A carrot is `a vegetable`.
+3. Tennis is `a game`.
+4. A hammer is `a tool`.
+5. Everest is `a mountain`.
+6. Saturn is `a planet`.
+7. A banana is `a fruit`.
+8. The Amazon is `a river`.
+9. A rose is `a flower`.
+10. A trumpet is `a musical instrument`.
+
+#### 63.3 What are their jobs? Choose from the box and complete the sentences.
+
+`architect` ~~`dentist`~~ `sales clerk` `photographer` `electrician` `nurse` `taxi driver`
+
+1. She's a dentist.
+2. He's `a sales clerk`.
+3. She's `an architect`.
+4. He's `a taxi driver`.
+5. He's `an electrician`.
+6. She's `an photographer`.
+7. She's `a nurse`.
+8. And you? I'm `Software Engineer`.
+
+#### 63.4 Write sentences. Choose from the two boxes. Use a / an where necessary.
+
+~~`I want to ask you`~~ `Rebecca works in` `Tom never wears` `Jane wants to learn` `I can't ride` `Mike lives in` `My brother is` `Tonight I'm going to`
+
++
+
+`old house` `artist` `party` ~~`question`~~ `office` `foreign language` `hat` `bike`
+
+1. I want to ask you `a` question.
+2. Rebecca works in `an` office.
+3. Tom never wears `an` hat.
+4. Jane wants to learn `a` foreign language.
+5. I can't ride `a` bike.
+6. Mike lives in `an` old house.
+7. My brother is `an` artist.
+8. Tonight I'm going to `a` party.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4233,7 +4282,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 284 or 294
-🔸
 
 ### Unit 64. train(s)  bus(es)  (singular and plural)
 
