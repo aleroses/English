@@ -4347,16 +4347,59 @@ Answer with Neither... I.
 
 > Page: 131 or 142
 
-#### 65.1
+#### 65.1 What are these things? Some are count and some are noncount. Write a / an if necessary. The names of these things are:
 
-#### 65.2
+`bucket` `envelope` `money` `sand` `toothbrush` `wallet` `egg` `jug` ~~`salt`~~ ~~`spoon`~~ `toothpaste` `water`
 
-#### 65.3
+1. It's `salt`.
+2. It's `a spoon`.
+3. It's `a jug`.
+4. It's `water`.
+5. It's `toothpaste`.
+6. It's `a toothbrush`.
+7. It's `an egg`.
+8. It's `money`.
+9. It's `a wallet`.
+10. It's `sand`.
+11. It's `a bucket`.
+12. It's `an envelope`.
 
-#### 65.4
+#### 65.2 Some of these sentences are OK, but some need a / an. Write a / an where necessary.
 
-#### 65.5
+1. I don't have watch `a watch`.
+2. Do you like cheese?
+3. I never wear `a hat`.
+4. Are you looking for `a job`?
+5. Kate doesn't eat meat.
+6. Kate eats `an apple` every day.
+7. I'm going to `a party` tonight.
+8. Music is `a wonderful` thing.
+9. Jamaica is `an island`.
+10. I don't need `a key`.
+11. Everybody needs food.
+12. I've got `a good` idea.
+13. Can you driver `a car`?
+14. Do you want `a cup` of coffee?
+15. I don't like coffee without milk.
+16. Don't go out without `an umbrella`.
 
+#### 65.3 What are these things? Write a... of... for each picture. Use the words in the boxes.
+
+`bar` `cup` `loaf` `bowl` `glass` `piece` ~~`carton`~~ `jar` `piece`
+
++
+
+`bread` `paper` `tea` `honey` `soap` `water` ~~`milk`~~ `soup` `wood`
+
+1. A carton of milk.
+2. A piece of wood.
+3. A glass of water.
+4. A bar of soap.
+5. A cup of tea.
+6. A piece of paper.
+7. A bowl of soup.
+8. A loaf of bread.
+9. A jar of honey.
 
 
 <details>
@@ -4369,7 +4412,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 285 or 295
-🔸
 
 ### Unit 66. a cake / some cake / some cakes (count / noncount 2)
 
