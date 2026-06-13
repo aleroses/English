@@ -4416,15 +4416,44 @@ Answer with Neither... I.
 
 > Page: 133 or 144
 
-#### 66.1
+#### 66.1 What can you see in these pictures? Use a or some.
 
-#### 66.2
+1. Some perfume, a hat, and some shoes.
+2. Some flowers / a bunch of flowers, a pencil, and a newspaper/paper.
+3. Some bread / a loaf of bread, some bananas, and some eggs.
+4. A comb, some toothpaste / a tube of toothpaste, and some soap / a bar of soap.
 
-#### 66.3
+#### 66.2 Write sentences with Would you like a...? or Would you like some...?
 
-#### 66.4
+1. Would you like some cheese?
+2. Would you like `some coffee` / `a cup of coffee`?
+3. Would you like `some cookies` / `a cookie`?
+4. Would you like `some bread` / `a piece of bread`?
+5. Would you like `a sandwich`?
+6. Would you like `some cake` / `a piece of cake` / `slice of cake`?
 
-#### 66.5
+#### 66.3 Write a / an or some.
+
+1. I read `a` book and listened to `some` music.
+2. I need `some` money. I want to buy `some` food.
+3. We met `some` interesting people at the party.
+4. I'm going to open `a` window to get `some` fresh air.
+5. Rachel didn't eat much for lunch - only `an` apple and `some` bread.
+6. We live in `a` big house. There's `a` nice yard with `some` beautiful trees.
+7. I'm going to make a table. First I need `some` wood.
+8. Listen to me carefully. I'm going to give you `some` advice.
+9. I want to make a list of things to do. I need `some` paper and `a` pen.
+
+#### 66.4 Which is right?
+
+1. I'm going to buy some new `shoes`.
+2. Dan has brown `eyes`.
+3. Sofia has short black `hair`.
+4. The tour guide gave us some `information` about the city.
+5. We're going to buy some new `chairs`.
+6. We're going to buy some new `furniture`.
+7. It's hard to find a `job` these days.
+8. We had `wonderful weather` when we were on vacation.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4436,7 +4465,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 285 or 295
-🔸
 
 ### Unit 67. a / an and the
 
