@@ -2,6 +2,13 @@
   <!-- <header class="header">
     <h1 class="header__title">4000 Essential English Words</h1>
   </header> -->
+
+  <h1 id="rubric">
+    4000 <br />
+    Essential English <br />
+    Words
+  </h1>
+
   <main class="main glass">
     <section class="main__word">
       <h2 class="word">{{Word}}</h2>
@@ -41,50 +48,3 @@
     }
   </script>
 </div>
-
-<link rel="stylesheet" href="./testing.css" />
-
-<ul>
-  <li class="water-text">poder</li>
-  <li>fuerza</li>
-  <li>facultad</li>
-  <li>poderío</li>
-  <li>dominio</li>
-  <li>potencia</li>
-  <li>potestad</li>
-</ul>
-
-<!-- Extra -->
-<div class="flashcard">
-  <h1 id="rubric">{{Deck}}</h1>
-
-  <section class="flex">
-    {{IMG}} {{type:English}}
-
-    <div class="sound">{{Audio}}</div>
-  </section>
-
-  <script>
-    document.getElementById('rubric').innerHTML =
-      '{{Deck}}'.replace('::', '::');
-  </script>
-</div>
-
-<!-- Change 01 -->
-
-<div class="flashcard">
-  <h1 id="rubric">4000 Essential English Words</h1>
-  <section class="flex">
-    <h2 class="word">{{Word}}</h2>
-    <div class="sound">{{Sound}}</div>
-  </section>
-  <hr />
-  <h3 class="ipa">{{IPA}}</h3>
-  <hr />
-  <details class="details">
-    <summary>Meaning</summary>
-    <p>{{Meaning/Translation}}</p>
-  </details>
-</div>
-
-<!-- ----------- -->

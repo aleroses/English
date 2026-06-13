@@ -1,26 +1,19 @@
+/* ==================================================
+   1. VARIABLES AND COLOR PALETTE
+   ================================================== */
+
 :root {
+  /* Backgrounds */
   --first-bg-color: #090b10;
   --second-bg-color: #0f111a;
+
+  /* Text */
   --first-text-color: #4f46e5;
   --second-text-color: #b094ff;
   --third-text-color: #cbd5e1;
   --fourth-text-color: #fff;
 
-  /* 
-    #615EFC
-    #7E8EF1
-    #6482AD
-    #2F3645
-    #161A30
-    #ef4444
-    #10b981
-    #e11d48
-    #f43f5e
-    #fb7185
-    #eab308
-    #a1aebf
-    */
-
+  /* Supplementary colors */
   --alternative-bg-color: #000;
   --alternative-bg-two: #17153b;
   --alternative-bg-three: #1f316f;
@@ -31,6 +24,10 @@
   --test-bg: #1a202c;
   --learn-word: #fda4af;
 }
+
+/* ==================================================
+   2. RESET AND GLOBAL SETTINGS
+   ================================================== */
 
 * {
   padding: 0;
@@ -54,58 +51,130 @@
 
   margin: 0;
   color: var(--fourth-text-color);
-  /* background-color: var(--second-bg-color); */
+  background-color: var(--first-bg-color);
 
-  position: relative;
-  overflow: hidden;
-
-  background: linear-gradient(
+  /* background: linear-gradient(
     135deg,
     var(--first-bg-color),
     var(--second-bg-color)
-  );
+  ); */
 }
 
-/* .front-flashcard,
-.back-flashcard {
-  position: relative;
-  overflow: hidden;
+/* ==================================================
+   3. REUSABLE COMPONENTS
+   ================================================== */
 
-  background: linear-gradient(
-    135deg,
-    var(--first-bg-color),
-    var(--second-bg-color)
-  );
-} */
+/* Glassmorphism */
 
 .glass {
-  background: rgba(255, 255, 255, 0.06);
+  /* background: rgba(255, 255, 255, 0.06); */
+  background: rgba(0, 0, 0, 0.1);
 
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  /* border: 1px solid rgba(255, 255, 255, 0.12); */
+  /* border: 1px solid rgba(0, 0, 0, 0.1); */
 
-  box-shadow:
+  /* box-shadow:
     0 8px 32px rgba(0, 0, 0, 0.35),
-    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    inset 0 1px 0 rgba(255, 255, 255, 0.08); */
 
   border-radius: 16px;
 }
 
-/* Front card -------------------------------  */
+/* ==================================================
+   4. BACKGROUND AURORA EFFECT
+   ================================================== */
+
+.front-flashcard,
+.back-flashcard {
+  position: relative;
+  overflow: hidden;
+
+  /* background: linear-gradient(
+    135deg,
+    var(--first-bg-color),
+    var(--second-bg-color)
+  ); */
+}
+
+.front-flashcard::before,
+.back-flashcard::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+
+  /* background:
+    radial-gradient(
+      circle 280px at 15% 20%,
+      rgba(79, 70, 229, 0.12),
+      transparent 70%
+    ),
+    radial-gradient(
+      circle 220px at 85% 80%,
+      rgba(244, 63, 94, 0.08),
+      transparent 70%
+    ); */
+
+  filter: blur(90px);
+
+  pointer-events: none;
+  z-index: 0;
+}
+
+.front-flashcard > *:not(#rubric),
+.back-flashcard > *:not(#rubric) {
+  position: relative;
+  z-index: 1;
+}
+
+/* ==================================================
+   DECK BACKGROUND WATERMARK
+   ================================================== */
+
+#rubric {
+  position: absolute;
+
+  top: 45%;
+  left: 50%;
+
+  transform: translate(-50%, -50%) rotate(-20deg);
+
+  width: 100%;
+
+  font-size: clamp(3rem, 14vw, 6rem);
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+
+  text-align: center;
+  white-space: nowrap;
+
+  color: rgba(79, 70, 229, 0.08);
+
+  text-shadow:
+    0 0 25px rgba(79, 70, 229, 0.25),
+    0 0 60px rgba(79, 70, 229, 0.15);
+
+  pointer-events: none;
+  user-select: none;
+
+  z-index: 0;
+  opacity: 0.5;
+}
+
+/* ==================================================
+   5. FRONT CARD (FRONT)
+   ================================================== */
+
+/* Main container */
 
 .front-flashcard {
   width: 100%;
   max-width: 400px;
-  /* height: 96vh;
-  min-height: 500px; */
   min-height: 96vh;
 
-  /* display: grid;
-  grid-template-columns: 1fr; 
-  grid-template-rows: 0.5fr 1fr 0.5fr;
-  */
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -122,22 +191,7 @@
   /*background-color: red; */
 }
 
-/* .front-flashcard .header {
-  height: 40px;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  );
-}
-
-.front-flashcard .header .header__title {
-  font-size: 20px;
-} */
+/* Main area */
 
 .front-flashcard .main {
   display: grid;
@@ -163,12 +217,14 @@
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
 
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  /* border: 1px solid rgba(255, 255, 255, 0.08); */
 
   box-shadow:
     0 8px 20px rgba(0, 0, 0, 0.35),
     inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
+
+/* Word */
 
 .front-flashcard .main .main__word {
   width: 100%;
@@ -197,6 +253,8 @@
   /* background-color: #0f111a; */
 }
 
+/* IPA */
+
 .front-flashcard .main .main__ipa {
   width: 100%;
   height: 100%;
@@ -206,6 +264,8 @@
   justify-content: center;
   color: var(--trial-color);
 }
+
+/* Meaning */
 
 .front-flashcard .details {
   width: 100%;
@@ -218,25 +278,17 @@
   overflow: hidden;
   opacity: 0.5;
   transition: opacity 1s ease-in-out;
-  /* transition: background-color 0.3s ease; */
-  /* height: 40px; */
-
-  /* background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  ); */
 
   background: rgba(255, 255, 255, 0.04);
 
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  /* border: 1px solid rgba(255, 255, 255, 0.08); */
 
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 
-  margin: 0 6px;
+  /* margin: 0 6px; */
 }
 
 .front-flashcard:has(.similar-details) .details {
@@ -286,6 +338,8 @@
 .front-flashcard .details ul .learn {
   color: var(--learn-word);
 }
+
+/* Similar Word */
 
 .similar-details {
   width: 100%;
@@ -360,7 +414,11 @@
   border-radius: 0 0 20px 20px;
 }
 
-/* Back card ------------------------------- */
+/* ==================================================
+   6. BACK CARD
+   ================================================== */
+
+/* Container */
 
 .back-card {
   color: var(--fourth-text-color);
@@ -385,11 +443,11 @@
   margin: 0;
 
   border-radius: 20px;
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     var(--second-bg-color),
     var(--alternative-bg-color)
-  );
+  ); */
 
   margin: 0 auto;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -416,15 +474,7 @@
   color: var(--test-color);
 }
 
-/* .back-flashcard .figure {
-  aspect-ratio: 16/8;
-  display: flex;
-  align-items: center;
-  padding: 0;
-  margin: 0;
-  border-radius: 20px 20px 0 0;
-  background-color: aqua;
-} */
+/* Image */
 
 .back-flashcard img {
   aspect-ratio: 16/8;
@@ -439,6 +489,10 @@
   width: 100%;
   max-width: 400px;
 }
+
+/* ==================================================
+   7. ACCORDIONS
+   ================================================== */
 
 .accordion {
   /* background: #fff; */
@@ -495,14 +549,13 @@
   display: none;
 }
 
-i,
-b {
-  color: var(--test-highlighting);
-}
-
 /* b {
   color: var(--second-text-color);
 } */
+
+/* ==================================================
+   8. FOOTER AND AUDIO
+   ================================================== */
 
 .back-flashcard .footer {
   position: absolute;
@@ -519,7 +572,9 @@ b {
   /* background-color: aqua; */
 }
 
-/* Buttons ------------------------------- */
+/* ==================================================
+   9. AUDIO BUTTONS
+   ================================================== */
 
 .replay-button svg circle {
   fill: none;
@@ -543,157 +598,30 @@ b {
   animation: stroke-flicker 5s ease-in-out infinite;
 }
 
-/* ...... */
+/* ==================================================
+   10. TEXT FORMAT
+   ================================================== */
 
-.front-flashcard,
-.back-flashcard {
-  position: relative;
-  overflow: hidden;
-
-  background: linear-gradient(
-    135deg,
-    var(--first-bg-color),
-    var(--second-bg-color)
-  );
+i,
+b {
+  color: var(--test-highlighting);
 }
 
-/* .front-flashcard,
-.back-flashcard {
-  position: relative;
-  overflow: hidden;
+/* ==================================================
+   11. ANIMATIONS
+   ================================================== */
 
-  background:
-    radial-gradient(
-      circle at top left,
-      rgba(0, 150, 255, 0.18),
-      transparent 35%
-    ),
-    radial-gradient(
-      circle at bottom right,
-      rgba(255, 215, 0, 0.12),
-      transparent 30%
-    ),
-    radial-gradient(
-      circle at top right,
-      rgba(99, 102, 241, 0.1),
-      transparent 25%
-    ),
-    linear-gradient(
-      135deg,
-      #05070d,
-      #090b10 40%,
-      #0f111a 100%
-    );
+/* @keyframes rubric-glow {
+  0%,
+  100% {
+    opacity: 0.4;
+  }
+
+  50% {
+    opacity: 0.8;
+  }
 } */
 
-/* .front-flashcard::before,
-.back-flashcard::before {
-  content: '';
-
-  position: absolute;
-  inset: 0;
-
-  background:
-    radial-gradient(
-      circle at 20% 20%,
-      rgba(99, 102, 241, 0.25),
-      transparent 40%
-    ),
-    radial-gradient(
-      circle at 80% 70%,
-      rgba(244, 63, 94, 0.15),
-      transparent 40%
-    );
-
-  pointer-events: none;
-  z-index: 0;
-} */
-
-/* .front-flashcard::before,
-.back-flashcard::before {
-  content: '';
-
-  position: absolute;
-  inset: 0;
-
-  background:
-    radial-gradient(
-      circle at 15% 25%,
-      rgba(0, 180, 255, 0.18),
-      transparent 35%
-    ),
-    radial-gradient(
-      circle at 85% 85%,
-      rgba(255, 215, 0, 0.12),
-      transparent 30%
-    ),
-    radial-gradient(
-      circle at 70% 20%,
-      rgba(99, 102, 241, 0.1),
-      transparent 25%
-    );
-
-  filter: blur(50px);
-
-  pointer-events: none;
-  z-index: 0;
-} */
-
-/* .front-flashcard::before,
-.back-flashcard::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-
-  background:
-    radial-gradient(
-      circle 350px at 0% 25%,
-      rgba(0, 180, 255, 0.3),
-      transparent 70%
-    ),
-    radial-gradient(
-      circle 250px at 100% 100%,
-      rgba(255, 215, 0, 0.2),
-      transparent 70%
-    );
-
-  filter: blur(70px);
-
-  pointer-events: none;
-  z-index: 0;
-} */
-
-.front-flashcard::before,
-.back-flashcard::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-
-  background:
-    radial-gradient(
-      circle 280px at 15% 20%,
-      rgba(79, 70, 229, 0.12),
-      transparent 70%
-    ),
-    radial-gradient(
-      circle 220px at 85% 80%,
-      rgba(244, 63, 94, 0.08),
-      transparent 70%
-    );
-
-  filter: blur(90px);
-
-  pointer-events: none;
-  z-index: 0;
-}
-
-.front-flashcard > *,
-.back-flashcard > * {
-  position: relative;
-  z-index: 1;
-}
-
-/* Animations */
 @keyframes blink {
   0%,
   100% {
@@ -718,6 +646,10 @@ b {
     fill: var(--test-color);
   }
 }
+
+/* ==================================================
+   12. RESPONSIVE
+   ================================================== */
 
 @media (max-height: 310px) {
   .front-flashcard,

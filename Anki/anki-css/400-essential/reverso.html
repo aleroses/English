@@ -1,4 +1,9 @@
 <div class="flashcard back-flashcard">
+  <h1 id="rubric">
+    4000 <br />
+    Essential English <br />
+    Words
+  </h1>
   <!-- <figure class="figure">{{Image}}</figure> -->
   {{Image}}
   <header class="header">
@@ -13,10 +18,14 @@
         id="btn-accordion1"
         class="btn-accordion"
       />
-      <label class="meaning" for="btn-accordion1"> {{Meaning}} </label>
+      <label class="meaning" for="btn-accordion1">
+        {{Meaning}}
+      </label>
       <!-- <p class="meaning">Meaning: {{Meaning}}</p> -->
       <div class="accordion-content">
-        <p class="meaning__translation">{{Meaning_translation}}</p>
+        <p class="meaning__translation">
+          {{Meaning_translation}}
+        </p>
       </div>
     </section>
     <section class="main__example accordion glass">
@@ -31,7 +40,9 @@
       </label>
       <!-- <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p> -->
       <div class="accordion-content">
-        <p class="example__translation">{{Example_translation}}</p>
+        <p class="example__translation">
+          {{Example_translation}}
+        </p>
       </div>
     </section>
   </main>
@@ -42,8 +53,8 @@
   </footer>
 
   <script>
-    const card = document.querySelector(".card");
-    card.classList = "back-card";
+    const card = document.querySelector('.card');
+    card.classList = 'back-card';
 
     // card.style.padding = "0px 2px";
     // card.style.margin = "0";
@@ -67,41 +78,7 @@
   </section>
 
   <script>
-    document.getElementById("rubric").innerHTML = "{{Deck}}".replace(
-      "::",
-      "::"
-    );
+    document.getElementById('rubric').innerHTML =
+      '{{Deck}}'.replace('::', '::');
   </script>
-</div>
-
-<!-- Change 01 -->
-<div class="flashcard">
-  <section class="back-flex">
-    <h3 class="back-word">{{Word}}</h3>
-    <div class="back-sound">{{Sound}}</div>
-  </section>
-  <!-- <hr /> -->
-  {{Image}}
-  <hr />
-  <p class="meaning">Meaning: {{Meaning}}</p>
-  <p class="meaning">Translation: {{Meaning_translation}}</p>
-  <hr />
-  <p class="example">&nbsp;→&nbsp;Example: {{Example}}</p>
-  <p class="example">
-    &nbsp;→&nbsp;Translation: {{Example_translation}}
-  </p>
-  <!--   <hr /> -->
-  <section class="back-sounds">
-    <div>{{Sound_Meaning}}</div>
-    <div class="stop">[sound:_1sec.mp3]</div>
-    <div>{{Sound_Example}}</div>
-  </section>
-
-  <!--   <script>
-    const card = document.querySelector(".card");
-    card.classList = "back-card";
-
-    card.style.padding = "0px 2px";
-    card.style.margin = "0";
-  </script> -->
 </div>
