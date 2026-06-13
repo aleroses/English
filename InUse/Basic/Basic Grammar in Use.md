@@ -4287,19 +4287,61 @@ Answer with Neither... I.
 
 > Page: 129 or 140
 
+#### 64.1 Write the plural
 
-#### 64.1
+1. flower `flowers`
+2. boat `boats`
+3. woman `women`
+4. city `cities`
+5. umbrella `umbrellas`
+6. address `addresses`
+7. knife `knives`
+8. sandwich `sandwiches`
+9. family `families`
+10. foot `feet`
+11. holiday `holidays`
+12. potato `potatoes`
 
-#### 64.2
+#### 64.2 Look at the pictures and complete the sentences.
 
-#### 64.3
+1. There are a lot of `sheep` in the field.
+2. Gary is brushing his `teeth`.
+3. There are three `people` at the bus stop.
+4. Lucy has two `children`.
+5. There are a lot of `fish` in the river.
+6. The `leaves` are falling from the tree.
 
-#### 64.4
+#### 64.3 Are these sentences OK? Change the sentences where necessary.
 
+1. I'm going to buy some flowers.
+2. I need a new pair of jeans. Or I need some new jeans.
+3. It's a lovely park with a lot of beautiful trees.
+4. There was a woman in the car with two men.
+5. Sheep eat grass.
+6. David is married and has three children.
+7. Most of my friends are students.
+8. He put on his pajamas and went to bed.
+9. We went fishing, but we didn't catch many fish.
+10. Do you know many people in this town?
+11. I like your pants. Where did you get them?
+12. Montreal is usually full of tourists.
+13. I don't like mice. I'm scared of them.
+14. These scissors aren't very sharp.
 
+#### 64.4 Which is right? Complete the sentences.
+
+1. It's a nice place. Many people `go` there on vacation.
+2. Some people `are` always late.
+3. The new city hall is not a beautiful building. Most people `don't` like it.
+4. A lot of people `watch` TV every day.
+5. Three people `were` injured in the accident.
+6. How many people `live` in that house.
+7. `Do` the police know the cause of the explosion?
+8. The police `are` looking for the stolen car.
+9. I need my glasses, but I can't find `them`.
+10. I'm going to buy `some` new jeans today.
 
 > Answer Key to Exercises 284 – 285 or 294 – 295
-🔸
 
 ### Unit 65. a bottle / some water (count / noncount 1)
 
