@@ -25,14 +25,12 @@
   </details>
 
   {{#SimilarWord}}
-  <details class="similar-details glass">
-    <summary>Similar word</summary>
-
-    <div class="similar-content">
+  <div class="panel glass">
+    <div class="similar-reveal">
       <p class="similar-word">{{SimilarWord}}</p>
       <p class="similar-meaning">{{SimilarMeaning}}</p>
     </div>
-  </details>
+  </div>
   {{/SimilarWord}}
 
   <script>
@@ -46,5 +44,13 @@
     ) {
       unorderedList.style.justifyContent = 'start';
     }
+
+    document.addEventListener('click', ({ target }) => {
+      const reveal = target.closest('.similar-reveal');
+
+      if (!reveal) return;
+
+      reveal.classList.toggle('show');
+    });
   </script>
 </div>

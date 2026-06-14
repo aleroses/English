@@ -67,18 +67,16 @@
 /* Glassmorphism */
 
 .glass {
-  /* background: rgba(255, 255, 255, 0.06); */
   background: rgba(0, 0, 0, 0.1);
 
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 
-  /* border: 1px solid rgba(255, 255, 255, 0.12); */
   /* border: 1px solid rgba(0, 0, 0, 0.1); */
-
-  /* box-shadow:
-    0 8px 32px rgba(0, 0, 0, 0.35),
-    inset 0 1px 0 rgba(255, 255, 255, 0.08); */
+  /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35); */
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
 
   border-radius: 16px;
 }
@@ -91,12 +89,6 @@
 .back-flashcard {
   position: relative;
   overflow: hidden;
-
-  /* background: linear-gradient(
-    135deg,
-    var(--first-bg-color),
-    var(--second-bg-color)
-  ); */
 }
 
 .front-flashcard::before,
@@ -104,18 +96,6 @@
   content: '';
   position: absolute;
   inset: 0;
-
-  /* background:
-    radial-gradient(
-      circle 280px at 15% 20%,
-      rgba(79, 70, 229, 0.12),
-      transparent 70%
-    ),
-    radial-gradient(
-      circle 220px at 85% 80%,
-      rgba(244, 63, 94, 0.08),
-      transparent 70%
-    ); */
 
   filter: blur(90px);
 
@@ -127,6 +107,33 @@
 .back-flashcard > *:not(#rubric) {
   position: relative;
   z-index: 1;
+}
+
+/* ==================================================
+   5. FRONT CARD (FRONT)
+   ================================================== */
+
+/* Main container */
+
+.front-flashcard {
+  width: 100%;
+  max-width: 400px;
+  min-height: 96vh;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  padding: 0;
+  margin: 0 auto;
+  /* margin: 0; */
+
+  border-radius: 0 0 20px 20px;
+
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  /* background-color: rebeccapurple; */
+
+  /*background-color: red; */
 }
 
 /* ==================================================
@@ -164,33 +171,6 @@
   opacity: 0.5;
 }
 
-/* ==================================================
-   5. FRONT CARD (FRONT)
-   ================================================== */
-
-/* Main container */
-
-.front-flashcard {
-  width: 100%;
-  max-width: 400px;
-  min-height: 96vh;
-
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-
-  padding: 0;
-  margin: 0 auto;
-  /* margin: 0; */
-
-  border-radius: 0 0 20px 20px;
-
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
-  /* background-color: rebeccapurple; */
-
-  /*background-color: red; */
-}
-
 /* Main area */
 
 .front-flashcard .main {
@@ -206,22 +186,6 @@
   min-height: 220px;
 
   border-radius: 20px 20px 0 0;
-  /* background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  ); */
-
-  background: rgba(20, 24, 35, 0.5);
-
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-
-  /* border: 1px solid rgba(255, 255, 255, 0.08); */
-
-  box-shadow:
-    0 8px 20px rgba(0, 0, 0, 0.35),
-    inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
 /* Word */
@@ -237,7 +201,6 @@
   align-items: center;
 
   font-size: 24px;
-  /* background-color: cornflowerblue; */
 }
 
 .front-flashcard .main .main__word .word {
@@ -278,24 +241,13 @@
   overflow: hidden;
   opacity: 0.5;
   transition: opacity 1s ease-in-out;
-
-  background: rgba(255, 255, 255, 0.04);
-
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-
-  /* border: 1px solid rgba(255, 255, 255, 0.08); */
-
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-
-  /* margin: 0 6px; */
 }
 
-.front-flashcard:has(.similar-details) .details {
+.front-flashcard:has(.similar-reveal) .details {
   flex: 2;
 }
 
-.front-flashcard:not(:has(.similar-details)) .details {
+.front-flashcard:not(:has(.similar-reveal)) .details {
   border-radius: 0 0 20px 20px;
 }
 
@@ -339,74 +291,87 @@
   color: var(--learn-word);
 }
 
-/* Similar Word */
+/* ========================================
+   SIMILAR WORD
+   ======================================== */
 
-.similar-details {
+.panel {
   width: 100%;
-  /* height: 25%; */
-  /* margin-top: 12px;*/
 
   flex: 1;
-  padding: 0 10px;
-  text-align: start;
 
-  opacity: 0.5;
-  transition: opacity 1s ease-in-out;
+  overflow: hidden;
 
-  background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  );
   border-radius: 0 0 20px 20px;
+
+  padding: 4px 10px 4px;
+
+  opacity: 0.6;
+  transition: opacity 300ms ease;
 }
 
-.front-flashcard .similar-details[open] {
-  /* min-height: 100%; */
-  opacity: 1;
-  /* background-color: #4f46e5; */
+.similar-reveal {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  min-height: 80px;
+
+  /* cursor: pointer; */
 }
 
-.similar-details summary {
-  padding: 10px 0;
-  cursor: pointer;
-  /* color: var(--first-text-color); */
-  font-weight: 600;
+/* .similar-reveal:hover {
+  opacity: 0.9;
+} */
+
+.similar-reveal.show {
+  animation: reveal 300ms ease;
 }
 
-.front-flashcard .similar-details[open] summary {
-  font-weight: 600;
-  color: var(--test-highlighting);
-  /* background-color: #f43f5e; */
+/* .similar-reveal.show:hover {
+  transform: none;
+} */
+
+.similar-reveal:not(.show)::before {
+  content: 'Similar word';
+
+  position: absolute;
+  inset: 0;
+
+  padding: 6px 10px 4px 0;
+
+  color: var(--third-text-color);
+  font-weight: 400;
+  /* letter-spacing: 0.05em; */
 }
 
-.similar-content {
-  /* height: 80px; */
-  /* margin-top: 10px; */
-  padding: 10px;
+/* Oculta el contenido real */
 
-  /* background-color: var(--second-bg-color);
-  border-radius: 8px; */
-  background: rgba(255, 255, 255, 0.05);
+.similar-reveal:not(.show) .similar-word,
+.similar-reveal:not(.show) .similar-meaning {
+  visibility: hidden;
+}
 
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+/* Estado revelado */
 
-  border: 1px solid rgba(255, 255, 255, 0.08);
-
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-
-  border-radius: 12px;
+.similar-reveal.show .similar-word,
+.similar-reveal.show .similar-meaning {
+  visibility: visible;
+  /* opacity: 1; */
 }
 
 .similar-word {
-  font-size: 20px;
-  /* color: var(--second-text-color); */
+  font-size: 1.4rem;
   font-weight: bold;
+
+  color: var(--test-highlighting);
 }
 
 .similar-meaning {
-  /* margin-top: 6px; */
+  margin-top: 4px;
+
   color: var(--third-text-color);
 }
 
@@ -422,10 +387,6 @@
 
 .back-card {
   color: var(--fourth-text-color);
-  /* background: radial-gradient(
-    var(--second-bg-color),
-    var(--alternative-bg-two)
-  ); */
 
   background-color: var(--second-bg-color);
 }
@@ -443,11 +404,6 @@
   margin: 0;
 
   border-radius: 20px;
-  /* background: radial-gradient(
-    circle,
-    var(--second-bg-color),
-    var(--alternative-bg-color)
-  ); */
 
   margin: 0 auto;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -611,17 +567,6 @@ b {
    11. ANIMATIONS
    ================================================== */
 
-/* @keyframes rubric-glow {
-  0%,
-  100% {
-    opacity: 0.4;
-  }
-
-  50% {
-    opacity: 0.8;
-  }
-} */
-
 @keyframes blink {
   0%,
   100% {
@@ -644,6 +589,18 @@ b {
   50% {
     stroke: var(--trial-color);
     fill: var(--test-color);
+  }
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    filter: blur(8px);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
   }
 }
 
