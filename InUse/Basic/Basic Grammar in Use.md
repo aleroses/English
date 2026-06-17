@@ -4470,16 +4470,43 @@ Answer with Neither... I.
 
 > Page: 135 or 146
 
-#### 67.1
+#### 67.1 Write a / an or the.
 
-#### 67.2
+1. We enjoyed our trip. `The` hotel was very nice.
+2. "Can I ask `a` question?" "Sure. What do you want to know?"
+3. You look very tired. You need `a` vacation.
+4. "Where's Joe?" "He's in `the` bathroom."
+5. Jessica is `an` interesting person. You should meet her.
+6. A: Excuse me, can you tell me how to get to `the` post office?  
+	B: Yes, go straight and then take `the` next left.
+7. A: Let's go and see `a` movie tonight.  
+	B: OK, that's `a` good idea.
+8. It's `a` nice morning. Let's go for `a` walk.
+9. Amanda is `a` student. When she finishes school, she wants to be `a` journalist. She lives with two friends in `a` apartment near `the` college where she is studying. `The` apartment is small, but she likes it.
+10. Peter and Mary have two children, `a` boy and `a` girl. `The` boy is seven years old, and `the` girl is three. Peter works in `a` factory. Mary doesn't have `a` job outside the home right now.
 
-#### 67.3
+#### 67.2 Complete the sentences. Use a or the + these words:
 
-#### 67.4
+`airport` `cup` `dict onary` ~~`door`~~ `floor` `picture`
 
-#### 67.5
+1. Can you open `the door`, please?
+2. How far is it to `the airport`?
+3. Can I have `a cup` of coffee, please?
+4. That's `a` nice `picture`. I like it.
+5. Can you pass me `a dictionary`, please?
+6. Why are you sitting on `the floor`?
 
+#### 67.3 These sentences are not correct. Put in a / an or the where necessary.
+
+1. Don't forget to `turn off the light` when you go out.
+2. Enjoy your trip, and don't forget to send me `a` postcard.
+3. What is `the` name of this town?
+4. Canada is `a` very big country.
+5. What is `the` largest city in Canada?
+6. I like this room, but I don't like `the` color of `the` carpet.
+7. "Are you OK?" "No, I've got `a` headache."
+8. We live in `an` old house near `the` station.
+9. What is `the` name of `the` director of `the` movie we saw last night?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4491,7 +4518,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 285 or 295
-🔸
 
 ### Unit 68. the...
 
