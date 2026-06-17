@@ -4523,16 +4523,55 @@ Answer with Neither... I.
 
 > Page: 137 or 148
 
-#### 68.1
+#### 68.1 Put in **the** where necessary. Write OK if the sentence is already correct.
 
-#### 68.2
+1. What is `the` name of this street?
+2. What's on TV tonight?
+3. Our apartment is on `the` second floor.
+4. Would you like to go to `the` moon?
+5. What is `the` best hotel in this town?
+6. What time is `lunch`?
+7. How far is it to `the` football stadium?
+8. We're taking a trip at `the` end of May.
+9. What are you doing next weekend?
+10. I didn't like her `the` first time I met her.
+11. I'm going out after dinner.
+12. It's easy to get information from `the` Internet.
+13. My sister got married last month.
+14. My dictionary is on `the` top shelf on `the` right.
+15. We live in `the` country about 10 miles from `the` nearest town.
 
-#### 68.3
+#### 68.2 Complete the sentences. Use the same + these words:
 
-#### 68.4
+`age` `color` `problem` ~~`street`~~ `time`
 
-#### 68.5
+1. I live on North Street, and you live on North Street. We live on `the same street`.
+2. I arrived at 8:30, and you arrived at 8:30. We arrived at `the same time`.
+3. Jim is 25, and Sue is 25. Jim and Sue are `the same age`.
+4. My shirt is dark blue, and so is my jacket. My shirt and jacket are `the same color`.
+5. I have no money, and you have no money. We have `the same problem`.
 
+#### 68.3 Look at the pictures and complete the sentences. Use the if necessary.
+
+1. `The sun` is shining.
+2. She's playing `the guitar`.
+3. They're having `breakfast`.
+4. He's watching `TV`.
+5. They're swimming in `the ocean`.
+6. Tom's name is at `the end / the bottom` of the list.
+
+#### 68.4 Complete these sentences. Choose from the list. Use the if necessary.
+
+`capital` ~~`dinner`~~ `lunch` `middle` `name` `police` `sky` `TV`
+
+1. We had `dinner` at a restaurant last night.
+2. We stayed at a very nice hotel, but I don't remember `the name`.
+3. `The sky` is very clear tonight. You can see all the stars.
+4. Sometimes there are some good programs on `TV` late at night.
+5. `The police` stopped me because I was driving too fast.
+6. Tokyo is `the capital` of Japan.
+7. "What did you have for `lunch`?" "A salad."
+8. I woke up in ` the middle` of the night.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4545,13 +4584,13 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 285 – 286 or 295 – 296
-🔸
 
 ### Unit 69. go to work  go home   go to the hospital
 
 > Page: 139 or 150
 
 #### 69.1
+
 #### 69.2
 
 #### 69.3
@@ -4559,6 +4598,8 @@ Answer with Neither... I.
 #### 69.4
 
 #### 69.5
+
+
 
 <details>
   <summary>More 🔥☠️</summary>
