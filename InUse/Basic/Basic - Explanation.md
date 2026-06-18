@@ -1344,6 +1344,209 @@ Significa:
 - Sue se miró a sí misma.
     
 
+## 69. go to work  go home   go to the hospital
 
+Cuando hablamos de una institución o lugar por su **función principal**, normalmente **NO usamos "the"**.
 
+Cuando hablamos del edificio físico o de un lugar específico, **SÍ usamos "the"**.
+
+### 1. Sin "the" = función o propósito
+
+Work
+
+✅ I'm going to work.  
+(= voy a trabajar)
+
+✅ She's at work.  
+(= está trabajando)
+
+❌ I'm going to the work.
+
+---
+
+School
+
+✅ The children go to school every day.  
+(= van a estudiar)
+
+✅ What did you learn at school today?
+
+---
+
+College / University
+
+✅ She wants to go to college.
+
+✅ He's in college.
+
+---
+
+Class
+
+✅ I'm in class now.
+
+✅ We have to go to class.
+
+---
+
+Church
+
+✅ They go to church on Sundays.
+
+(la idea es asistir al servicio religioso)
+
+---
+
+Prison / Jail
+
+✅ He is in prison.
+
+(= está preso)
+
+---
+
+Bed
+
+✅ I'm tired. I'm going to bed.
+
+✅ She's in bed.
+
+(= acostada, durmiendo o descansando)
+
+---
+
+Home
+
+✅ I'm going home.
+
+✅ I'm home.
+
+❌ I'm going to the home.
+
+### 2. Con "the" = edificio o lugar físico
+
+Aquí ya no hablamos de la función principal, sino del edificio.
+
+School
+
+✅ The parents went to the school to talk to the principal.
+
+No fueron a estudiar. Fueron al edificio.
+
+---
+
+Church
+
+✅ We visited the church because it's very old.
+
+Estamos hablando del edificio.
+
+---
+
+Prison
+
+✅ The lawyer went to the prison.
+
+No es un preso. Solo visitó el edificio.
+
+---
+
+Bed
+
+✅ The cat is under the bed.
+
+Aquí "bed" es un mueble físico.
+
+### 3. ¿Por qué "hospital" aparece diferente?
+
+En inglés británico:
+
+✅ go to hospital  
+(ser paciente)
+
+✅ be in hospital
+
+Pero en inglés americano (que usa este libro):
+
+✅ go to the hospital
+
+✅ be in the hospital
+
+Por eso la unidad pone:
+
+> go to the hospital
+
+junto con:
+
+> go to the bank  
+> go to the post office  
+> go to the train station
+
+porque sigue la norma del inglés americano.
+
+### 4. Grupo especial: lugares que casi siempre llevan "the"
+
+Estos lugares normalmente necesitan artículo:
+
+✅ the bank  
+✅ the post office  
+✅ the hospital  
+✅ the train station  
+✅ the bus station  
+✅ the airport  
+✅ the theater  
+✅ the movies
+
+Ejemplos:
+
+✅ I'm going to the bank.  
+✅ She's at the airport.  
+✅ We went to the theater.
+
+### Comparación rápida
+
+|Sin "the"    |Significado                   |Con "the"         |Significado               |
+|-------------|------------------------------|------------------|--------------------------|
+|go to school |estudiar                      |go to the school  |ir al edificio            |
+|go to church |asistir al servicio religioso |go to the church  |ir al edificio            |
+|be in prison |ser prisionero                |be in the prison  |estar dentro del edificio |
+|go to bed    |acostarse                     |go to the bed     |ir hacia la cama física   |
+|go home      |ir a casa                     |❌ go to the home |normalmente incorrecto    |
+|be home      |estar en casa                 |❌ be at the home |raro en inglés común      |
+
+Truco para recordar
+
+Pregúntate:
+
+> **¿Estoy hablando de la función normal del lugar o del edificio físico?**
+
+### Función → sin "the"
+
+- go to school
+    
+- go to work
+    
+- go to church
+    
+- go to prison
+    
+- go home
+    
+- go to bed
+    
+
+### Edificio → con "the"
+
+- go to the school
+    
+- go to the church
+    
+- go to the prison
+    
+- go to the bank
+    
+- go to the hospital
+    
+- go to the airport
+    
 

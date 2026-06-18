@@ -4585,21 +4585,58 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 285 – 286 or 295 – 296
 
-### Unit 69. go to work  go home   go to the hospital
+### 🔸Unit 69. go to work  go home   go to the hospital
 
 > Page: 139 or 150
 
-#### 69.1
+#### 69.1 Where are these people? Complete the sentences. Sometimes you need the.
 
-#### 69.2
+1. He's in `bed`.
+2. They're at `the movies`.
+3. He's in `jail/prison`.
+4. She's at `the airport`.
+5. They're at `home`.
+6. She's in `the hospital`.
 
-#### 69.3
+#### 69.2 Complete the sentences. Choose from the list. Use the if necessary.
 
-#### 69.4
+~~`bank`~~ `bed` ~~`church`~~ `home` `post office` `school` `station`
 
-#### 69.5
+1. I need to get some money. I have to go to `the bank`.
+2. David usually goes to `church` on Sundays.
+3. In the United States, children start `school` at the age of five.
+4. There were a lot of people at `the station` waiting for the train.
+5. We went to their house, but they weren't `home`.
+6. I'm going to `bed` now. Good night!
+7. I'm going to `the post office` to get some stamps.
 
+#### 69.3 Complete the sentences. Sometimes you need the.
 
+1. If you want to catch a plane, you `go to the airport`.
+2. If you want to see a movie, you go to `the movies`.
+3. If you are tired and you want to sleep, you `go to bed`.
+4. If you rob a bank and the police catch you, you `go to jail/prison`.
+5. If you have a problem with your teeth, you `go to the dentist`.
+6. If you want to study after you finish high school, you `go to college`.
+7. If you are badly injured in an accident, you `go to the hospital/are taken to the hospital`.
+
+#### 69.4 Are these sentences OK? Correct the sentences where necessary.
+
+1. We went `to the movies` last night.
+2. I finish work at 5:00 every day.
+3. Megan wasn't feeling well yesterday, so she went to `the doctor`.
+4. I wasn't feeling well this morning, so I stayed in bed.
+5. Why is Lauren always late for work?
+6. "Where are your children?" "They're at school."
+7. We have no money in `the bank`.
+8. When I was younger, I went to church every Sunday.
+9. What time do you usually get home from work?
+10. Sorry I couldn't call you back earlier. I was in class.
+11. "Where should we meet?" "At `the station`."
+12. Kate takes her children to school every day.
+13. Jim is sick. He's in `the hospital`.
+14. Would you like to go to college?
+15. Would you like to go to `the theater` tonight?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4613,7 +4650,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 286 or 296
-🔸
 
 ### Unit 70. I like music  I hate exams
 
