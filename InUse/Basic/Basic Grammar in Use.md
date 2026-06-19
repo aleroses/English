@@ -4655,15 +4655,58 @@ Answer with Neither... I.
 
 > Page: 141 or 152
 
-#### 70.1
+We do not use `the` for general ideas:
 
-#### 70.2
+#### 70.1 What do you think about these things?
 
-#### 70.3
+`big cities` `computer games` ~~`exams`~~ `jazz` `parties` `chocolate` `dogs` `housework` `housework` `museums` `tennis`
 
-#### 70.4
+Choose seven of these things and write sentences with:
 
-#### 70.5
+**I like...** **I don't like...** **I love...** **I hate...**
+
+1. I hate exams or I like exams.
+2. I hate parties or I don't like parties.
+3. I love chocolate or I like chocolate.
+4. I love dogs or I like dogs.
+5. I hate tennis or I don't like tennis.
+6. I hate big cities or I don't like big cities.
+7. I love computer games or I like computer games.
+8. I love housework or I like housework.
+
+#### 70.2 Are you interested in these things? Write sentences with:
+
+`I'm (very) interested in...` `I know a lot about...` `I don't know much about...` `I'm not interested in...` `I know a little about...` `I don't know anything about...`
+
+1. I'm very interested in history.
+2. I'm not interested in politics.
+3. I know a lot about sports.
+4. I know a little about art.
+5. I don't know much about astronomy.
+6. I don't know anything about economics.
+
+#### 70.3 Which is right?
+
+1. My favorite sport is `football`.
+2. I like this hotel. `The rooms` are very nice.
+3. Everybody needs `friends`.
+4. Rachel doesn't go to `parties` very often.
+5. I went shopping at the mall this morning. `The stores` were very crowded.
+6. "Where's `the milk`" "It's in the fridge."
+7. I don't like `milk`. I never drink it.
+8. "Do you play any sports?" "Yes, I play `basketball`"
+9. An architect is a person who designs `buildings`.
+10. We went for a swim in the river. `The water` was very cold.
+11. I don't like swimming in `cold water`.
+12. Excuse me, can you pass `the salt`, please?
+13. I like this town. I like `the people` here.
+14. `Vegetables` are good for you.
+15. `The houses` on this street are all the same.
+16. I can't sing this song. I don't know `the words`.
+17. I enjoy taking `pictures` It's my hobby.
+18. Do you want to see `the pictures` that I took when I was on vacation?
+19. `English` is used a lot in `international business`.
+20. `Money` doesn't always bring `happiness`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4674,7 +4717,6 @@ Answer with Neither... I.
 </details>
 
 > Answer Key to Exercises 286 or 296
-🔸
 
 ### Unit 71. the... (names of places)
 
