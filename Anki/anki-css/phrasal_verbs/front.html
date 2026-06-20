@@ -1,0 +1,35 @@
+<div class="customCard cardFront">
+  <span class="instructionText hint"
+    >Identifica el phrasal verb. Intenta entender qué
+    significa la oración.</span
+  >
+  <div class="targetWordFront">
+    {{#es_preparación}}
+    <span>{{Verbo}}</span>
+    <span id="textAudio" class="wordAudioButtonFront"
+      >{{verbo_audio}}
+    </span>
+    {{/es_preparación}}
+  </div>
+  <div class="targetSentence boxed highlight">
+    {{#es_preparación}}
+    <span>{{Frase resaltada}}</span>
+    {{/es_preparación}} {{^es_preparación}}
+    <span>{{Frase de ejemplo}}</span>
+    <span id="textAudio" class="wordAudioButtonFront"
+      >{{frase_audio}}
+    </span>
+    {{/es_preparación}}
+  </div>
+</div>
+<script>
+  function playAudio() {
+    var audio = document.querySelector(
+      '#textAudio .soundLink, #textAudio .replaybutton'
+    );
+    if (audio) {
+      audio.click();
+    }
+  }
+  playAudio();
+</script>

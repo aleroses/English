@@ -1,26 +1,37 @@
-/* 
-Card Variables 
-	You can change the values of these color and font-size variables to customize your experience.
+/*
+Variables del diseño del mazo
+Puedes cambiar los valores de estas variables para modificar el color y tamaño de letra, y así personalizar tu
+experiencia.
 */
 
 :root {
-  /* Increase this max-width-card value to increase the maximum width of your card! */
+  /* Incrementa el valor de “max-width-card” para ampliar el ancho máximo de tu tarjeta.
+
+*/
   --max-width-card: 400px;
 
-  /* Increase the font-size to make the card easier to read! If you want to make the text bigger and easier to see, we suggest that you also increase the max-width of the card so you have more space. The card's max-width variable is the first variable, above this comment. */
+  /* Incrementa el valor de font-size para aumentar el tamaño de la letra y así facilitar la lectura de la tarjeta. Si
+deseas que el texto sea más grande y fácil de ver, te sugerimos que también aumentes el valor de max-width (ancho
+máximo) de la tarjeta para tener más espacio para el texto. La variable max-width de la tarjeta es la primera variable,
+arriba de este comentario. */
   --font-size-card: 18px;
-  --font-size-targetWord: 26px;
+  --font-size-targetWord: 25px;
+  --font-size-targetWordFront: 20px;
+  --font-size-targetSentence: 22px;
   --font-size-header: 16px;
   --font-size-irregular-form: 16px;
+  --font-size-instructionText: 15px;
 
-  /* Change the color values of these variables to change the colors in your cards! NightMode colors are only active when you are running anki in Night Mode (dark mode). */
+  /* Puedes cambiar el código de color de estas variables para modificar los colores mostrados en tus tarjetas. Los
+colores que dicen “NightMode” solo estarán activos cuando estés usando Anki en el modo nocturno o modo oscuro.
+
+*/
   --color-text-primary: #18191f;
   --color-nightMode-text-primary: #fbfafe;
   --color-card-background: #ffffff;
   --color-nightMode-card-background: #0b0716;
   --color-box-shadow: rgba(18, 62, 119, 0.1);
-  /* --color-audio-button: #8369ed; */
-  --color-audio-button: #818cf8;
+  --color-audio-button: #8369ed;
   --color-list-bullets: #8369ed;
   --color-irregular-form-background: #f3f4f6;
   --color-nightMode-irregular-form-background: #1f2937;
@@ -41,30 +52,28 @@ Card Variables
   --color-divider: #e5e7eb;
   --color-nightMode-divider: #1f2937;
 
-  /* ==================================================
-   GLASSMORPHISM
-   ================================================== */
+  --color-boxed-border: #e5e7eb;
+  --color-boxed-background: #f9fafb;
+  --color-nightMode-boxed-border: #18191f;
+  --color-nightMode-boxed-background: #111827;
 
-  --glass-bg: rgba(0, 0, 0, 0.65);
-  --glass-border: rgba(255, 255, 255, 0.35);
-  --glass-shadow: rgba(0, 0, 0, 0.15);
-
-  --glass-blur: 14px;
-  --glass-saturate: 180%;
-
-  --glass-highlight: rgba(255, 255, 255, 0.15);
-
-  /* ==================================================
-   GLASSMORPHISM Night Mode
-   ================================================== */
-
-  --glass-night-bg: rgba(9, 11, 16, 0.72);
-  --glass-night-border: rgba(79, 70, 229, 0.15);
-  --glass-night-shadow: rgba(0, 0, 0, 0.45);
-  --glass-night-highlight: rgba(99, 102, 241, 0.08);
+  --color-highlight-border: rgba(101, 68, 233, 0.5);
+  --color-highlight-background: rgba(101, 68, 233, 0.15);
+  --color-nightMode-highlight-border: rgba(
+    101,
+    68,
+    233,
+    0.5
+  );
+  --color-nightMode-highlight-background: rgba(
+    101,
+    68,
+    233,
+    0.15
+  );
 }
 
-/* Chrome Base Styles */
+/* Estilos base de Chrome */
 p {
   display: block;
   margin-block-start: 1em;
@@ -73,7 +82,7 @@ p {
   margin-inline-end: 0px;
 }
 
-/* Anki Browser Styles */
+/* Estilos del navegador de Anki */
 div {
   display: block;
 }
@@ -88,9 +97,9 @@ html {
   color: -internal-root-color;
 }
 
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
+/*http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+Licencia: ninguna (dominio público)
 */
 
 span,
@@ -177,7 +186,7 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+/* Reinicio del rol de visualización HTML5 para navegadores antiguos*/
 article,
 aside,
 details,
@@ -212,15 +221,17 @@ table {
   border-spacing: 0;
 }
 
-/* Refold Specific Styles */
+/* Estilos específicos de Refold
+*/
 
-/* Anki 2.1.49 sets box-sizing to content-box  */
+/*Anki 2.1.49 establece box-sizing en content-box*/
 * {
   box-sizing: border-box;
 }
 
-/* Copyright: Ankitects Pty Ltd and contributors
- * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
+/* Derechos de autor: Ankitects Pty Ltd y colaboradores
+* Licencia: GNU AGPL, versión 3 o posterior; http://www.gnu.org/licenses/agpl.html
+*/
 
 body.nightMode::-webkit-scrollbar {
   background: #2f2f31;
@@ -251,9 +262,10 @@ body {
   overscroll-behavior: none;
 }
 
-/* night-mode-specific colours */
-/* Copyright: Ankitects Pty Ltd and contributors
- * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
+/* Colores específicos del modo nocturno */
+/* Derechos de autor: Ankitects Pty Ltd y colaboradores
+
+* Licencia: GNU AGPL, versión 3 o posterior; http://www.gnu.org/licenses/agpl.html */
 
 body {
   margin: 0 !important;
@@ -310,55 +322,23 @@ body {
   filter: invert(1) hue-rotate(180deg);
 }
 
-/* CZ1K STYLES */
+/* ESTILOS DEL MAZO---------------------------------------------------------*/
 
 .card {
-  /* rebecca_afterlife.jpeg */
   padding: 16px;
-
-  background-image:
-    linear-gradient(
-      rgba(9, 11, 16, 0.75),
-      rgba(9, 11, 16, 0.75)
-    ),
-    url('rebecca_afterlife.jpeg');
-
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-
-  min-height: 100vh;
 }
 
 .customCard {
   margin: 0 auto;
-
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
 
-  /* background-color: var(--color-card-background);
+  background-color: var(--color-card-background);
   box-shadow: 1px 3px 10px var(--color-box-shadow);
-  border-radius: 8px; */
-
-  /* Glass */
-  background: var(--glass-bg);
-  border: 1px solid var(--glass-border);
-
-  backdrop-filter: blur(var(--glass-blur))
-    saturate(var(--glass-saturate));
-
-  -webkit-backdrop-filter: blur(var(--glass-blur))
-    saturate(var(--glass-saturate));
-
-  box-shadow: 0 8px 32px var(--glass-shadow);
-
-  border-radius: 16px;
-  /* Glass */
-
-  min-height: 200px;
+  border-radius: 8px;
+  min-height: 20px;
   max-width: var(--max-width-card);
 
   font-weight: 500;
@@ -367,34 +347,37 @@ body {
   color: var(--color-text-primary);
 }
 
-.customCard::before {
-  content: '';
-
-  position: absolute;
-  inset: 0;
-
-  border-radius: inherit;
-
-  background: linear-gradient(
-    135deg,
-    var(--glass-highlight) 0%,
-    transparent 40%
-  );
-
-  pointer-events: none;
-}
-
 .nightMode .customCard {
   color: var(--color-nightMode-text-primary);
-  /* background-color: var(--color-nightMode-card-background); */
+  background-color: var(--color-nightMode-card-background);
+}
 
-  /* Glass */
-  color: var(--color-nightMode-text-primary);
+.cardFront {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+}
 
-  background: var(--glass-night-bg);
-  border-color: var(--glass-night-border);
+.highlight .LMNOP {
+  background-color: var(--color-highlight-background);
+  border-color: var(--color-highlight-border);
+  border-style: solid;
+  border-width: 1px;
+  padding: 0px 2px 2px 2px;
+  border-radius: 5px;
+}
 
-  box-shadow: 0 8px 32px var(--glass-night-shadow);
+.nighMode .highlight .LMNOP {
+  background-color: var(
+    --color-nightMode-highlight-background
+  );
+  border-color: var(--color-nightMode-highlight-border);
+}
+
+.instructionText {
+  font-size: var(--font-size-instructionText);
+  font-weight: 400;
+  margin: 8px 0px 6px 0px;
 }
 
 .cardBack {
@@ -416,6 +399,35 @@ body {
   font-weight: 600;
 }
 
+.targetWordFront {
+  font-size: var(--font-size-targetWordFront);
+  font-weight: 600;
+}
+
+.targetSentence {
+  font-size: var(--font-size-targetSentence);
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.boxed {
+  padding: 16px;
+  background-color: var(--color-boxed-background);
+  border-color: var(--color-boxed-border);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  margin-top: 8px;
+}
+.nightMode .boxed {
+  background-color: var(--color-nightMode-boxed-background);
+  border-color: var(--color-nightMode-boxed-border);
+}
+
+.centerText {
+  text-align: center;
+}
+
 .definitionsList {
   list-style: none;
   margin: 0;
@@ -433,27 +445,19 @@ body {
 }
 
 .wordAudioButtonFront {
-  position: absolute;
-  top: 12px;
-  right: 18px;
+  margin-left: -4px;
 }
+
 .wordAudioButtonBack {
-  margin-left: 8px;
+  margin-left: 4px;
+}
+.replay-button svg {
+  width: 26px;
+  height: 26px;
 }
 .replay-button {
   padding: 8px;
-  /* border-radius: 50%;
-
-  background: rgba(99, 102, 241, 0.12);
-  border: 1px solid rgba(99, 102, 241, 0.2);
-
-  backdrop-filter: blur(8px); */
 }
-.replay-button svg {
-  width: 28px;
-  height: 28px;
-}
-
 .replay-button svg path {
   fill: var(--color-audio-button);
 }
@@ -465,20 +469,17 @@ body {
 .irregularFormsContainer {
   display: flex;
   flex-wrap: wrap;
-
   margin-top: 12px;
+  margin-bottom: 16px;
 }
 
 .irregularForm {
   background-color: var(--color-irregular-form-background);
   border: 0.5px solid var(--color-irregular-form-border);
   border-radius: 40px;
-
   font-size: var(--font-size-irregular-form);
-
-  padding: 3px 12px 5px;
+  padding: 3px 12px 5px 12px;
   margin-right: 10px;
-  margin-bottom: 8px;
 }
 
 .nightMode .irregularForm {
@@ -494,11 +495,8 @@ body {
 .image {
   border-top: 1px solid var(--color-divider);
   border-bottom: 1px solid var(--color-divider);
-  margin-top: 16px;
-
   width: 100%;
   height: 210px;
-  margin-top: 16px;
 }
 
 .image img {
@@ -521,8 +519,7 @@ body {
   color: var(--color-sentence-translation);
   font-weight: 400;
   font-style: italic;
-  padding-right: 15px;
-  padding-top: 6px;
+  padding: 8px 16px 16px 0px;
 }
 
 .nightMode .sentenceTranslation {
@@ -534,6 +531,7 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  padding-top: 8px;
 }
 
 .header {
@@ -563,6 +561,11 @@ body {
   width: 100%;
   padding-left: 16px;
   padding-right: 16px;
+}
+
+.verticalPadding {
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .indent {
