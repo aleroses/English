@@ -4722,15 +4722,46 @@ Choose seven of these things and write sentences with:
 
 > Page: 143 or 154
 
-#### 71.1
+#### 71.1 Answer these geography questions. Choose from the box. Use **The** if necessary.
 
-#### 71.2
+1. `Cairo` is the Capital of Egypt.
+2. `The Atlantic` is between Africa and America.
+3. `Sweden` is a country in northern Europe.
+4. `The Amazon` is a river in South America.
+5. `Asia` is the largest continent in the world.
+6. `The Pacific` is the largest ocean.
+7. `The Rhine` is a river in Europe.
+8. `Kenya` is a country in East Africa.
+9. `The United States` is between Canada and Mexico.
+10. `The Andes` are mountains in South America.
+11. `Bangkok` is the capital of Thailand.
+12. `The Alps` are mountains in central Europe.
+13. `The Red Sea` is between Saudi Arabia and Africa.
+14. `Jamaica` is an island in the Caribbean.
+15. `The Bahamas` are a group of islands near Florida.
 
-#### 71.3
+#### 71.2 Write **the** where necessary. If the sentences is already correct, write OK.
 
-#### 71.4
-
-#### 71.5
+1. Kevin lives on Central Avenue.
+2. We went to see a play at `the` National Theater.
+3. Have you ever been to China?
+4. Have you ever been to `the` Philippines?
+5. Have you ever been to `the` south of France?
+6. Can you tell me where `the` Washington Monument is?
+7. Can you tell me where Hollywood Boulevard is?
+8. Can you tell me where `the` Museum of Art is?
+9. Europe is bigger than Australia.
+10. Belgium is smaller than `the` Netherlands.
+11. Which river is longer - `the` Mississippi or `the` Nile?
+12. Did you go to `the` National Gallery when you were in Washington?
+13. We stayed at `the` Park Hotel near Central Park.
+14. How far is it from Times Square to JFK Airport?
+15. `The` Rocky Mountains are in North America.
+16. Texas is famous for oil and cowboys.
+17. I hope to go to `the` United Kingdom next year.
+18. Mary comes from `the` west of Ireland.
+19. John is a student at `the` University of Michigan.
+20. `The` Panama Canal joins `the` Atlantic Ocean and `the` Pacific Ocean.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4740,8 +4771,10 @@ Choose seven of these things and write sentences with:
 
 </details>
 
+> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 286 or 296
-🔸
+
+---
 
 ## 16. Determiners and pronouns
 
