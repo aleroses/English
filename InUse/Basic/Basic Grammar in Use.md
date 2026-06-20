@@ -4780,11 +4780,417 @@ Choose seven of these things and write sentences with:
 
 ### Unit 72. this / that / these / those
 
+> Page: 145 or 156
 
 
 
 
 
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- this one / that one → Unit 73
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+### Unit 73
+
+> Page: 147 or 158
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- which... ? → Unit 45
+- another... ? → Unit 63
+- this / that, etc. → Unit 72
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 74
+
+> Page: 149 or 160
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- a and some → Unit 66
+- somebody / anything, etc. → Units 77
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+
+### Unit 75
+
+> Page: 151 or 162
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- negatives → Unit 41
+- some and any → Units 74
+- anybody / nobody / nothing, etc. → Units 76 – 77
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 76
+
+> Page: 153 or 164
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- some and any → Unit 74
+- any and no → Unit 75
+- somebody / anything / nowhere, etc → Unit 77
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 77
+
+> Page: 155 or 166
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- some and any → Unit 74
+- any and no → Unit 75
+- anybody / nothing, etc. → Unit 76
+- everything / -body / -where → Unit 78
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 78
+
+> Page: 157 or 168
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- all → Unit 79
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 79
+
+> Page: 159 or 170
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the... (children / the children, etc.) → Unit 70
+- some and any → Unit 74
+- no / none / any → Unit 75
+- all and every → Unit 78
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 80.
+
+> Page: 161 or 172
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- I can't either / neither can I → Unit 40
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 81
+
+> Page: 163 or 174
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- count / noncount → Units 65 – 66
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+### Unit 82
+
+> Page: 165 or 176
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- count / noncount → Units 65 – 66
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 83
+
+> Page: 167 or 178
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- get + adjective (get hungry / tired, etc.) → Unit 54
+- something / anybody + adjective → Unit 77
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+
+
+### Unit 84
+
+> Page: 169 or 180
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- adjectives → Unit 83
+
+</details>
+
+> Answer Key to Exercises 286 or 296
+
+### Unit 85
+
+> Page: 171 or 182
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 86
+
+> Page: 173 or 184
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 87
+
+> Page: 175 or 186
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 88
+
+> Page: 177 or 188
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 89
+
+> Page: 179 or 190
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 90
+
+> Page: 181 or 192
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+
+### Unit 91
+
+> Page: 183 or 194
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
+
+### Unit 92
+
+> Page: 185 or 196
+
+
+
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 286 or 296
 
 
 
