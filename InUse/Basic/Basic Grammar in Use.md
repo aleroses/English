@@ -4782,9 +4782,50 @@ Choose seven of these things and write sentences with:
 
 > Page: 145 or 156
 
+#### 72.1 Complete the sentences. Use this / that / these / those + these words:
 
+`birds` `dishes` `house` `postcards` `seat` ~~`shoes`~~
 
+1. Do you like `these shoes`?
+2. Who lives in `that house`?
+3. How much are `these postcards`?
+4. Look at `those birds`.
+5. Excuse me, is `this seat` free?
+6. `These dishes` are dirty.
 
+#### 72.2 Write questions: I this / that your...? or Are / these / those your...?
+
+1. Is this your bag?
+2. Is that your umbrella?
+3. Is this your book?
+4. Are those your books?
+5. Is that your bike?
+6. Are these your keys?
+7. Are those your keys?
+8. Is this your watch?
+9. Are those your glasses?
+10. Are these your gloves?
+
+#### 72.3 Complete the sentences with this is or that's or that.
+
+1. A: I'm sorry I'm late.  
+	B: `That's` all right.
+2. A: I can't come to the party tomorrow.  
+	B: Oh, `that's` too bad. Why not?
+3. (on the phone)  
+	SUE: Hello, Jane. `This is` Sue.  
+	JANE: Oh, hi Sue. How are you?
+4. A: You're lazy.  
+	B: `That's` not true!
+5. A: Beth plays the piano very well.  
+	B: Does she? I didn't know `that`.
+6. Mark meets Paul's sister, Helen.  
+	PAUL: Mark, `this is` my sister, Helen.  
+	MARK: Hi, Helen.
+7. A: I'm sorry I was angry yesterday.  
+	B: `That's` OK. Forget it!
+8. A: You're a friend of Tom's, aren't you?  
+	B: Yes, `that's` right.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4794,7 +4835,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 286 – 287 or 296 – 297
 
 ### Unit 73
 
@@ -4814,7 +4855,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 287 or 297
 
 
 ### Unit 74

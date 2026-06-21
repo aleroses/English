@@ -17,10 +17,10 @@ Card Variables
   --color-text-primary: #18191f;
   --color-nightMode-text-primary: #fbfafe;
   --color-card-background: #ffffff;
-  --color-nightMode-card-background: #0b0716;
+  --color-nightMode-card-background: #313647;
   --color-box-shadow: rgba(18, 62, 119, 0.1);
   /* --color-audio-button: #8369ed; */
-  --color-audio-button: #818cf8;
+  --color-audio-button: #3a3e62;
   --color-list-bullets: #8369ed;
   --color-irregular-form-background: #f3f4f6;
   --color-nightMode-irregular-form-background: #1f2937;
@@ -58,7 +58,7 @@ Card Variables
    GLASSMORPHISM Night Mode
    ================================================== */
 
-  --glass-night-bg: rgba(9, 11, 16, 0.72);
+  --glass-night-bg: rgba(0, 0, 0, 0.5);
   --glass-night-border: rgba(79, 70, 229, 0.15);
   --glass-night-shadow: rgba(0, 0, 0, 0.45);
   --glass-night-highlight: rgba(99, 102, 241, 0.08);
@@ -367,7 +367,7 @@ body {
   color: var(--color-text-primary);
 }
 
-.customCard::before {
+/* .customCard::before {
   content: '';
 
   position: absolute;
@@ -382,7 +382,7 @@ body {
   );
 
   pointer-events: none;
-}
+} */
 
 .nightMode .customCard {
   color: var(--color-nightMode-text-primary);
