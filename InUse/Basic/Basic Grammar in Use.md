@@ -4837,13 +4837,15 @@ Choose seven of these things and write sentences with:
 
 > Answer Key to Exercises 286 – 287 or 296 – 297
 
-### Unit 73
+### Unit 73. one / ones
 
 > Page: 147 or 158
 
+#### 73.1 
 
+#### 73.2
 
-
+#### 73.3
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4875,7 +4877,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 287 or 297
 
 
 
@@ -4897,7 +4899,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 287 or 297
 
 
 ### Unit 76
@@ -4918,7 +4920,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 287 – 288 or 297 – 298
 
 
 ### Unit 77
@@ -4940,7 +4942,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 288 or 298
 
 
 ### Unit 78
@@ -4959,7 +4961,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 288 or 298
 
 
 ### Unit 79
@@ -4982,7 +4984,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 288 or 298
 
 ### Unit 80.
 
@@ -5000,7 +5002,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 288 or 298
 
 
 ### Unit 81
@@ -5019,7 +5021,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 289 or 299
 
 ### Unit 82
 
@@ -5037,7 +5039,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 289 or 299
 
 
 ### Unit 83
@@ -5057,7 +5059,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 289 or 299
 
 
 
@@ -5077,7 +5079,7 @@ Choose seven of these things and write sentences with:
 
 </details>
 
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 289 or 299
 
 ### Unit 85
 
@@ -5096,7 +5098,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 289 – 290 or 299 – 300
 
 
 ### Unit 86
@@ -5116,7 +5118,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 290 or 300
 
 ### Unit 87
 
@@ -5135,7 +5137,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 290 or 300
 
 ### Unit 88
 
@@ -5154,7 +5156,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 290 or 300
 
 ### Unit 89
 
@@ -5173,7 +5175,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 290 – 291 or 300 – 301
 
 ### Unit 90
 
@@ -5192,7 +5194,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 291 or 301
 
 
 ### Unit 91
@@ -5212,7 +5214,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 291 or 301
 
 ### Unit 92
 
@@ -5231,7 +5233,7 @@ Choose seven of these things and write sentences with:
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
-> Answer Key to Exercises 286 or 296
+> Answer Key to Exercises 291 or 301
 
 
 
