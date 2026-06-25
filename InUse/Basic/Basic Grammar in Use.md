@@ -4935,8 +4935,13 @@ Choose seven of these things and write sentences with:
 
 Suelen traducirse como **"algo de", "algunos/as", "ningún"**, dependiendo del contexto.
 
-- **some = sí hay algo**
-- **any = no hay o estamos preguntando si hay**
+- some = sí hay algo
+- any = no hay o estamos preguntando si hay
+
+Más preciso:
+
+- **some = normalmente en afirmaciones**
+- **any = normalmente en negativas y preguntas**
 
 #### 74.1 Write some or any.
 
@@ -4947,7 +4952,7 @@ Suelen traducirse como **"algo de", "algunos/as", "ningún"**, dependiendo del c
 5. Do you have `any` brothers or sisters?
 6. There are `some` beautiful flowers in the garden.
 7. Do you know `any` good hotels in Miami?
-8. "Would you like `any` tea?" "Yes, please."
+8. "Would you like `some` tea?" "Yes, please."
 9. When we were on vacation, we visited `some` interesting places.
 10. Don't buy `any` rice. We don't need `any`.
 11. I went out to buy `some` bananas, but they didn't have `any` at the store.
@@ -4969,9 +4974,28 @@ Suelen traducirse como **"algo de", "algunos/as", "ningún"**, dependiendo del c
 	B: No, thank you. I've had enough to eat.
 10. I can do this job alone. I don't need `any help`.
 
-#### 74.3
+#### 74.3 Complete the sentences. Use some or any.
 
-#### 74.4
+1. Samantha didn't take any pictures, but `I took some`.
+2. "Where's your luggage?" "I don't have any."
+3. "Do you need any money?" "No, thank you. `I have some.`"
+4. "Can you lend me some money?" "I'm sorry, but `I don't have any.`"
+5. The tomatoes at the store didn't look very good, so `I didn't buy any`.
+6. There were some nice oranges at the store, so `I bought some`.
+7. "How much coffee did you drink yesterday?" `"I didn't drink any."`
+
+#### 74.4 Write something / somebody or anything / anybody.
+
+1. A woman stopped me and said `something`, but I didn't understand.
+2. "What's wrong?" "There's `something` in my eye."
+3. Do you know `anything` about politics?
+4. I went to the store, but I didn't buy `anything`.
+5. `Somebody` broke the window. I don't know who.
+6. There isn't `anything` in the bag. It's empty.
+7. I'm looking for my keys. Did `anybody` see them?
+8. Would you like `something` to drink?
+9. I didn't eat `anything` because I wasn't hungry.
+10. This is a secret. Please don't tell `anybody`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4984,9 +5008,7 @@ Suelen traducirse como **"algo de", "algunos/as", "ningún"**, dependiendo del c
 
 > Answer Key to Exercises 287 or 297
 
-
-
-### Unit 75 –
+### Unit 75 – not + any  no  none
 
 > Page: 151 or 162
 
