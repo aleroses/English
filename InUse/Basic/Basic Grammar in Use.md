@@ -1269,7 +1269,7 @@ Now write about yourself. How often have you done these things?
 
 ## 4. Passive
 
-### 🔸Unit 20. is done was done (passive 1)
+### 🔸Unit 20 – is done was done (passive 1)
 
 > Page: 41 or 52
 
@@ -1342,7 +1342,7 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 274 or 284
 
-### 🔸Unit 21. is being done has been done (passive 2)
+### 🔸Unit 21 – is being done has been done (passive 2)
 
 > Page: 43 or 54
 
@@ -1393,7 +1393,7 @@ Sentences 8 – 15 are past.
 
 ## 5. Verb forms
 
-### 🔸Unit 22. be/have/do in present and past tenses
+### 🔸Unit 22 – be/have/do in present and past tenses
 
 > Page: 45 or 56
 
@@ -1472,7 +1472,7 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 275 or 285
 
-### Unit 23. Regular and irregular verbs
+### Unit 23 – Regular and irregular verbs
 
 > Page: 47 or 58
 
@@ -1561,7 +1561,7 @@ Sentences 8 – 15 are past.
 
 ## 6. Future
 
-### Unit 24. What are you doing tomorrow?
+### Unit 24 – What are you doing tomorrow?
 
 > Page: 49 or 60
 
@@ -1623,7 +1623,7 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 275 or 285
 
-### Unit 25. I'm going to...
+### Unit 25 – I'm going to...
 
 > Page: 51 or 62
 
@@ -1672,7 +1672,7 @@ Sentences 8 – 15 are past.
 
 > Answer Key to Exercises 275 or 285
 
-### Unit 26. will
+### Unit 26 – will
 
 > Page: 53 or 64
 
@@ -1749,7 +1749,7 @@ Sentences 8 – 15 are past.
 
 ## 7. Modals, imperative, etc.
 
-### Unit 27. might
+### Unit 27 – might
 
 > Page: 55 or 66
 
@@ -1830,7 +1830,7 @@ Now write about Ben. Use might where necessary.
 
 > Answer Key to Exercises 275 – 276 or 285 – 286
 
-### Unit 28. can and could
+### Unit 28 – can and could
 
 > Page: 57 or 68
 
@@ -1892,7 +1892,7 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 > Answer Key to Exercises 276 or 286
 
-### Unit 29. must
+### Unit 29 – must
 
 > Page: 69 or 70
 
@@ -1960,7 +1960,7 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 > Answer Key to Exercises 276 or 286
 
-### Unit 30. should
+### Unit 30 – should
 
 > Page: 61 or 72
 
@@ -2024,7 +2024,7 @@ Can you do these things? Write sentences about yourself. Use I can or I can't.
 
 > Answer Key to Exercises 276 or 286
 
-### Unit 31. I have to...
+### Unit 31 – I have to...
 
 > Page: 63 or 74
 
@@ -2110,7 +2110,7 @@ Example answers:
 
 > Answer Key to Exercises 277 or 287
 
-### Unit 32. Would you like...? I'd like...
+### Unit 32 – Would you like...? I'd like...
 
 > Page: 65 or 76
 
@@ -2169,7 +2169,7 @@ Example answers:
 
 > Answer Key to Exercises 277 or 287
 
-### Unit 33. I'd rather...
+### Unit 33 – I'd rather...
 
 > Page: 67 or 78
 
@@ -2227,7 +2227,7 @@ Example answers:
 > Answer Key to Exercises 277 or 287
 
 
-### Unit 34. Do this! Don't do that! Let's do this!
+### Unit 34 – Do this! Don't do that! Let's do this!
 
 > Page: 69 or 80
 
@@ -2291,7 +2291,7 @@ Example answers:
 
 ## 8. There and it
 
-### Unit 35. there is     there are
+### Unit 35 – there is     there are
 
 > Page: 71 or 82
 
@@ -2358,7 +2358,7 @@ Example answers:
 
 > Answer Key to Exercises 277 – 278 or 287 – 288
 
-### 🔸Unit 36. There was / were  there has / have been  there will be
+### 🔸Unit 36 – There was / were  there has / have been  there will be
 
 > Page: 73 or 84
 
@@ -2416,7 +2416,7 @@ Example answers:
 
 > Answer Key to Exercises 278 or 288
 
-### 🔸Unit 37. it
+### 🔸Unit 37 – it
 
 We use **it** for time / day / distance / weather.
 
@@ -2482,7 +2482,7 @@ We use **it** for time / day / distance / weather.
 
 ## 9. Auxiliary verbs
 
-### 🔸Unit 38. I am, I don't, etc.
+### 🔸Unit 38 – I am, I don't, etc.
 
 > Page: 77 or 88
 
@@ -2564,7 +2564,7 @@ We use **it** for time / day / distance / weather.
 
 > Answer Key to Exercises 278 or 288
 
-### 🔸Unit 39. You have? Have you? You are? Are you?, etc.
+### 🔸Unit 39 – You have? Have you? You are? Are you?, etc.
 
 > Page: 79 or 90
 
@@ -2624,7 +2624,7 @@ We use **it** for time / day / distance / weather.
 
 > Answer Key to Exercises 278–279 or 288–289
 
-### 🔸Unit 40. too/either  so am I / neither do I, etc.
+### 🔸Unit 40 – too/either  so am I / neither do I, etc.
 
 > Page: 81 or 92
 
@@ -2717,7 +2717,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 279 or 289
 
-### Unit 41. isn't, haven't, don't, etc. (negatives)
+### Unit 41 – isn't, haven't, don't, etc. (negatives)
 
 > Page: 83 or 94
 
@@ -2811,7 +2811,7 @@ Answer with Neither... I.
 
 ## 10. Questions
 
-### Unit 42. is it...? have you...? do they...?, etc. (questions 1)
+### Unit 42 – is it...? have you...? do they...?, etc. (questions 1)
 
 > Page: 85 or 96
 
@@ -2888,7 +2888,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 279 or 289
 
-### 🔸Unit 43. Who saw you? Who did you see? (questions 2)
+### 🔸Unit 43 – Who saw you? Who did you see? (questions 2)
 
 > Page: 87 or 98
 
@@ -2969,7 +2969,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 279 – 280 or 289 – 290
 
-### 🔸Unit 44. Who is she talking to? What is it like? (questions 3)
+### 🔸Unit 44 – Who is she talking to? What is it like? (questions 3)
 
 > Page: 89 or 100
 
@@ -3040,7 +3040,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 280 or 290
 
-### 🔸Unit 45. What...? Which...? How...? (questions 4)
+### 🔸Unit 45 – What...? Which...? How...? (questions 4)
 
 > Page: 91 or 102
 
@@ -3118,7 +3118,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 280 or 290
 
-### Unit 46. How long does it take...?
+### Unit 46 – How long does it take...?
 
 > Page: 93 or 104
 
@@ -3162,7 +3162,7 @@ Answer with Neither... I.
 
 > Answer Key to Exercises 280 or 290
 
-### Unit 47. Do you know where...? I don't know what..., etc.
+### Unit 47 – Do you know where...? I don't know what..., etc.
 
 > Page: 95 or 106
 
@@ -3249,7 +3249,7 @@ Answer with Neither... I.
 
 ## 11. Reported speech
 
-### Unit 48. She said that... He told me that...
+### Unit 48 – She said that... He told me that...
 
 > Page: 97 or 108
 
@@ -4778,7 +4778,7 @@ Choose seven of these things and write sentences with:
 
 ## 16. Determiners and pronouns
 
-### Unit 72. this / that / these / those
+### Unit 72 – this / that / these / those
 
 > Page: 145 or 156
 
@@ -4837,15 +4837,85 @@ Choose seven of these things and write sentences with:
 
 > Answer Key to Exercises 286 – 287 or 296 – 297
 
-### Unit 73. one / ones
+### Unit 73 – one / ones
 
 > Page: 147 or 158
 
-#### 73.1 
+#### 73.1 A asks B some questions. Use the information in the box to write B's answers. Use one (not a / an...) in the answers.
 
-#### 73.2
+`B doesn't need a car`  
+`B there's a drugstore on First Avenue`  
+~~`B doesn't have a pen`~~  
+`B just had a cup of coffee`  
+`B is going to get a bike`  
+`B doesn't have an umbrella`
 
-#### 73.3
+1. A: Can you lend me a pen?  
+	B: I'm sorry, `I don't have one`.
+2. A: Would you like to have a car?  
+	B: No, `I don't need one`.
+3. A: Do you have a bike?  
+	B: No, but `I am going to get one`.
+4. A: Can you lend me an umbrella?  
+	B: I'm sorry, but `I don't have one`.
+5. A: Would you like a cup of coffee?  
+	B: No, thank you. `I just had one`.
+6. A: Is there a drugstore near here?  
+	B: Yes, `There's one on First Avenue`.
+
+#### 73.2 Complete the sentences. Use a / an... one. Use the words in the list.
+
+`better` `big` ~~`clean`~~ `different` `new` `old`
+
+1. This cup is dirty. Can I have `a clean one`.
+2. I'm going to sell my car and buy `a new one`.
+3. That's not a very good picture. This is `a better one`.
+4. I want today's newspaper. This is `an old one`.
+5. This box is too small. I need `a big one`.
+6. Why do we always go to the same restaurant? Let's go to `a different one`.
+
+#### 73.3 A is talking to B. Use the information to complete the conversations. Use one / ones.
+
+1. A stayed at a hotel. It was near the airport.  
+	A: We stayed at a hotel.  
+	B: `Which one`?  
+	A: `The one near the airport`.  
+2. A sees some shoes in a store window. They're green.  
+	A: I like those shoes.  
+	B: Which `ones`?  
+	A: The `green ones`.
+3. A is looking at a house. It has a red door.  
+	A: That's a nice house.  
+	B: `Which one`?  
+	A: `The one with a red door`.
+4. A is looking at some CDs. They're on the top shelf.  
+	A: Are those your CDs?  
+	B: `Which ones`?  
+	A: `The ones on the top shelf`.
+5. A is looking at a jacket in a store. It's black.  
+	A: Do you like that jacket?  
+	B: `Which one?`  
+	A: `The black one`.
+6. A is looking at a picture. It's on the wall.  
+	A: That's an interesting picture.  
+	B: `Which one?`
+	A: `The one on the wall`.
+7. A sees a girl in a group of people. She's tall with long hair.  
+	A: Do you know that girl?  
+	B: `Which one?`  
+	A: `The tall one with long hair`.
+8. A is looking at some flowers in the garden. They're yellow.  
+	A: Those flowers are beautiful.  
+	B: `Which ones`?  
+	A: `Those yellow ones`.
+9. A is looking at a man in a restaurant. He has a mustache and glasses.  
+	A: Who's that man?  
+	B: `Which one?`  
+	A: `The one with a mustache and glasses`.
+10. A took some pictures at the party last week.  
+	A: Did I show you my pictures?  
+	B: `Which ones?`  
+	A: `These ones I took at the party last week`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4859,14 +4929,49 @@ Choose seven of these things and write sentences with:
 
 > Answer Key to Exercises 287 or 297
 
-
-### Unit 74
+### Unit 74 – some and any
 
 > Page: 149 or 160
 
+Suelen traducirse como **"algo de", "algunos/as", "ningún"**, dependiendo del contexto.
 
+- **some = sí hay algo**
+- **any = no hay o estamos preguntando si hay**
 
+#### 74.1 Write some or any.
 
+1. I bought `some` cheese, but I didn't buy `any` bread.
+2. In the middle of the room, there was a table and `some` chairs.
+3. There aren't `any` gas stations in this part of town.
+4. Michael and Emily don't have `any` children.
+5. Do you have `any` brothers or sisters?
+6. There are `some` beautiful flowers in the garden.
+7. Do you know `any` good hotels in Miami?
+8. "Would you like `any` tea?" "Yes, please."
+9. When we were on vacation, we visited `some` interesting places.
+10. Don't buy `any` rice. We don't need `any`.
+11. I went out to buy `some` bananas, but they didn't have `any` at the store.
+12. I'm thirsty. Can I have `some` water, please?
+
+#### 74.2 Complete the sentences. Use some or any + the words in the box.
+
+`air` `friends` `help` `milk` `questions` `batteries` `fruit` `languages` `pictures` ~~`shampoo`~~
+
+1. I want to wash my hair. Is there `any shampoo`?
+2. The police want to talk to you. They want to ask you `some questions`.
+3. I had my camera, but I didn't take `any pictures`.
+4. Do you speak `any` foreign `languages`?
+5. Last night I went to a restaurant with `some friends` of mine.
+6. Can I have `some milk` in my coffee, please?
+7. This camera isn't working. There aren't `any batteries` in it.
+8. It's hot in this office. I'm going out for `some` fresh `air`.
+9. A: Would you like `some fruit`?  
+	B: No, thank you. I've had enough to eat.
+10. I can do this job alone. I don't need `any help`.
+
+#### 74.3
+
+#### 74.4
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -4881,7 +4986,7 @@ Choose seven of these things and write sentences with:
 
 
 
-### Unit 75
+### Unit 75 –
 
 > Page: 151 or 162
 
@@ -4902,7 +5007,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 287 or 297
 
 
-### Unit 76
+### Unit 76 –
 
 > Page: 153 or 164
 
@@ -4923,7 +5028,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 287 – 288 or 297 – 298
 
 
-### Unit 77
+### Unit 77 –
 
 > Page: 155 or 166
 
@@ -4945,7 +5050,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 288 or 298
 
 
-### Unit 78
+### Unit 78 –
 
 > Page: 157 or 168
 
@@ -4964,7 +5069,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 288 or 298
 
 
-### Unit 79
+### Unit 79 –
 
 > Page: 159 or 170
 
@@ -4986,7 +5091,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 288 or 298
 
-### Unit 80.
+### Unit 80 –
 
 > Page: 161 or 172
 
@@ -5005,7 +5110,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 288 or 298
 
 
-### Unit 81
+### Unit 81 –
 
 > Page: 163 or 174
 
@@ -5023,7 +5128,7 @@ Choose seven of these things and write sentences with:
 
 > Answer Key to Exercises 289 or 299
 
-### Unit 82
+### Unit 82 –
 
 > Page: 165 or 176
 
@@ -5042,7 +5147,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 289 or 299
 
 
-### Unit 83
+### Unit 83 –
 
 > Page: 167 or 178
 
@@ -5063,7 +5168,7 @@ Choose seven of these things and write sentences with:
 
 
 
-### Unit 84
+### Unit 84 –
 
 > Page: 169 or 180
 
@@ -5081,7 +5186,7 @@ Choose seven of these things and write sentences with:
 
 > Answer Key to Exercises 289 or 299
 
-### Unit 85
+### Unit 85 –
 
 > Page: 171 or 182
 
@@ -5101,7 +5206,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 289 – 290 or 299 – 300
 
 
-### Unit 86
+### Unit 86 –
 
 > Page: 173 or 184
 
@@ -5120,7 +5225,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
-### Unit 87
+### Unit 87 –
 
 > Page: 175 or 186
 
@@ -5139,7 +5244,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
-### Unit 88
+### Unit 88 –
 
 > Page: 177 or 188
 
@@ -5158,7 +5263,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
-### Unit 89
+### Unit 89 –
 
 > Page: 179 or 190
 
@@ -5177,7 +5282,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 – 291 or 300 – 301
 
-### Unit 90
+### Unit 90 –
 
 > Page: 181 or 192
 
@@ -5197,7 +5302,7 @@ Choose seven of these things and write sentences with:
 > Answer Key to Exercises 291 or 301
 
 
-### Unit 91
+### Unit 91 –
 
 > Page: 183 or 194
 
@@ -5216,7 +5321,7 @@ Choose seven of these things and write sentences with:
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 291 or 301
 
-### Unit 92
+### Unit 92 –
 
 > Page: 185 or 196
 
@@ -5246,3 +5351,4 @@ Indice pág. 5
 
 –
 →
+–
