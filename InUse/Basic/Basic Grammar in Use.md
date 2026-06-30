@@ -5012,6 +5012,29 @@ Más preciso:
 
 > Page: 151 or 162
 
+#### 75.1 Write these sentences again with no.
+
+1. We don't have any money.  
+	We have no money.
+2. There aren't any stores near here.  
+	There are `no stores`.
+3. Sofia doesn't have any free time.  
+	Sofia have no free time.
+4. There isn't a light in this room.  
+	There is no light.
+
+Write these sentences again with any.
+
+5. We have no money.  
+	We don't have any money.
+6. There's no milk in the fridge.  
+	There isn't any milk.
+7. There are no buses today.  
+	There aren't any buses.
+8. Tom has no brothers or sisters.  
+	Tom doesn't have any brothers or sisters.
+
+#### 75.2 Write no or any
 
 
 
