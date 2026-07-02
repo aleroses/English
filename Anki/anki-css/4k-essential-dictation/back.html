@@ -1,28 +1,35 @@
 <div class="customCard cardBack">
-  <div class="horizontalPadding">
-    <div class="header centerVertically">Sentence:</div>
-    <div class="indent">
-      <div class="centerVertically">
-        <span>{{type:Example Sentence}}</span>
-        <span class="sentenceAudioButton"
+  <main class="sentenceContainer">
+    <span class="header centerVertically">Sentence:</span>
+
+    <div class="sentenceSection">
+      <!-- <div class="sentenceContent"> -->
+      <p>{{type:Example Sentence}}</p>
+      <!-- <span class="sentenceAudioButton"
           >{{sentence_audio}}</span
-        >
-      </div>
+        > -->
+      <!-- </div> -->
       {{#Sentence Translation}}
-      <div class="sentenceTranslation">
+      <p class="sentenceTranslation">
         {{hint:Sentence Translation}}
-      </div>
+      </p>
       {{/Sentence Translation}}
     </div>
-  </div>
+  </main>
 
   {{#Image}}
-  <div class="image">{{Image}}</div>
+  <section class="sentenceImage">{{Image}}</section>
   {{/Image}} {{^Image}}
   <div class="dividerLine"></div>
   {{/Image}}
 
-  <div class="horizontalPadding">
+  <div class="audioControls">
+    <span class="sentenceAudioButton">
+      {{sentence_audio}}
+    </span>
+  </div>
+
+  <footer class="horizontalPadding">
     <div class="reportIconContainer">
       <a href="https://refold.link/transcriptioncardhelp">
         <svg
@@ -39,5 +46,5 @@
         </svg>
       </a>
     </div>
-  </div>
+  </footer>
 </div>

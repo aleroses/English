@@ -5017,27 +5017,68 @@ Más preciso:
 1. We don't have any money.  
 	We have no money.
 2. There aren't any stores near here.  
-	There are `no stores`.
+	There are `no stores` near here.
 3. Sofia doesn't have any free time.  
-	Sofia have no free time.
+	Sofia has no free time.
 4. There isn't a light in this room.  
-	There is no light.
+	There is no light in this room.
 
 Write these sentences again with any.
 
 5. We have no money.  
 	We don't have any money.
 6. There's no milk in the fridge.  
-	There isn't any milk.
+	There isn't any milk in the fridge.
 7. There are no buses today.  
-	There aren't any buses.
+	There aren't any buses today.
 8. Tom has no brothers or sisters.  
-	Tom doesn't have any brothers or sisters.
+	Tom doesn't have any brothers or sisters.  
+	Tom hasn't got any brothers or sisters.
 
 #### 75.2 Write no or any
 
+1. There's `no` sugar in your coffee.
+2. My brother is married, but he doesn't have `any` children.
+3. Sue doesn't speak `any` foreign languages.
+4. I'm afraid there's `no` coffee. Would you like some tea?
+5. "Look at those birds!" "Birds? Where? I can't see `any` birds."
+6. "Do you know where Jessica is?" "No, I have `no` idea."
 
+Write no, any, or none.
 
+7. There aren't `any` pictures on the wall.
+8. The weather was cold, but there was `no` wind.
+9. I wanted to buy some oranges, but they didn't have `any` at the store.
+10. Everything was correct. There were `no` mistakes.
+11. "How much luggage do you have?" "`None`."
+12. "How much luggage do you have?" "I don't have `any`."
+
+#### 75.3 Complete the sentences. Use any or no + the words in the box.
+
+`difference` `furniture` `idea` `money` `questions` `friends` `heating` `line` ~~`problems`~~
+
+1. Everything was OK. There were `no problems`.
+2. Jack and Emily would like to take a vacation, but they have `no money`.
+3. I'm not going to answer `any questions`.
+4. He's always alone. He has `no friends`.
+5. There is `no difference` between these two machines. They're exactly the same.
+6. There wasn't `any furniture` in the room. It was completely empty.
+7. "Do you know how the accident happened?" "No. I have `no idea`."
+8. The house is cold because there isn't `any heating`.
+9. We didn't have to wait to get our train tickets. There was `no line`.
+
+#### 75.4 Write short answers (one or two words) do these questions. Use none where necessary.
+
+1. How many letters did you write yesterday?  
+	Two. or A lot. or None.
+2. How many sisters do you have?  
+	Two.
+3. How much coffee did you drink yesterday?  
+	None.
+4. How many pictures have you taken today?  
+	One.
+5. How many legs does a snake have?  
+	None.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5045,14 +5086,13 @@ Write these sentences again with any.
 
 - negatives → Unit 41
 - some and any → Units 74
-- anybody / nobody / nothing, etc. → Units 76 – 77
+- anybody / nobody / nothing, etc. → Units 76–77
 
 </details>
 
 > Answer Key to Exercises 287 or 297
 
-
-### Unit 76 –
+### Unit 76 – 
 
 > Page: 153 or 164
 
@@ -5392,6 +5432,11 @@ Write these sentences again with any.
 280 Answer 
 
 Indice pág. 5
+
+
+Unit 75 – not + any · no · none
+Unit 75 – not + any / no / none
+
 →
 
 –

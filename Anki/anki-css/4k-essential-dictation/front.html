@@ -1,13 +1,10 @@
-<div class="customCard horizontalPadding">
-  <div class="container">
-    <div class="hint">Write what you hear!</div>
+<!-- The .card class is the parent class. -->
+<main class="customCard cardFront">
+  <div class="title">Write what you hear!</div>
 
-    {{#sentence_audio}}
-    <div class="wordAudioButtonFront">
-      {{sentence_audio}}
-    </div>
-    {{/sentence_audio}}
+  {{#sentence_audio}}
+  <div class="wordAudioButtonFront">{{sentence_audio}}</div>
+  {{/sentence_audio}}
 
-    <div class="targetWord">{{type:Example Sentence}}</div>
-  </div>
-</div>
+  <div class="targetWord">{{type:Example Sentence}}</div>
+</main>

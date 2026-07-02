@@ -11,27 +11,12 @@ Card Variables
   --font-size-card: 18px;
   --font-size-targetWord: 26px;
   --font-size-header: 16px;
-  /* --font-size-irregular-form: 16px; */
 
   /* Change the color values of these variables to change the colors in your cards! NightMode colors are only active when you are running anki in Night Mode (dark mode). */
   --color-text-primary: #18191f;
   --color-nightMode-text-primary: #fbfafe;
-  /* --color-card-background: #ffffff; */
-  /* --color-nightMode-card-background: #313647; */
-  /* --color-box-shadow: rgba(18, 62, 119, 0.1); */
-  /* --color-audio-button: #8369ed; */
   --color-audio-button: #3a3e62;
-  /* --color-list-bullets: #8369ed; */
-  /* --color-irregular-form-background: #f3f4f6; */
-  /* --color-nightMode-irregular-form-background: #1f2937; */
-  /* --color-irregular-form-border: #d1d5db; */
-  /* --color-nightMode-irregular-form-border: #4b5563; */
-  /* --color-nightMode-irregular-form-text: rgba(
-    255,
-    255,
-    255,
-    0.7
-  ); */
+
   --color-hint: #6b7280;
   --color-nightMode-hint: #9ca3af;
   --color-sentence-translation: #6b7280;
@@ -69,135 +54,6 @@ Card Variables
   margin: 0;
   box-sizing: border-box;
 }
-
-/* Chrome Base Styles */
-/* p {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-} */
-
-/* Anki Browser Styles */
-/* div {
-  display: block;
-}
-
-body {
-  display: block;
-  line-height: 1.187;
-}
-
-html {
-  display: block;
-  color: -internal-root-color;
-} */
-
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-/* span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-} */
-
-/* HTML5 display-role reset for older browsers */
-/* article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-} */
 
 ol,
 ul {
@@ -268,6 +124,10 @@ body {
   margin: 0 !important;
   overflow-wrap: break-word;
 }
+
+/* =====================================================
+   ANKI DEFAULT STYLES
+===================================================== */
 
 #_flag {
   position: fixed;
@@ -341,16 +201,19 @@ body {
 }
 
 .customCard {
-  margin: 0 auto;
-
   /* position: relative; */
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
 
-  /* background-color: var(--color-card-background);
-  box-shadow: 1px 3px 10px var(--color-box-shadow);
-  border-radius: 8px; */
+  margin: 0 auto;
+  /* padding-top: 24px;
+  padding-bottom: 8px; */
+  padding: 24px 16px 8px 16px;
+  /* padding-top: 24px;
+  padding-bottom: 8px; */
+  /* padding: 0 16px 0 16px; */
 
   /* Glass */
   background: var(--glass-bg);
@@ -389,7 +252,7 @@ body {
   box-shadow: 0 8px 32px var(--glass-night-shadow);
 }
 
-.container {
+.cardFront {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -397,25 +260,19 @@ body {
   gap: 1rem;
 }
 
-/* .customCard::before {
-  content: '';
-
-  position: absolute;
-  inset: 0;
-
-  border-radius: inherit;
-
-  background: linear-gradient(
-    135deg,
-    var(--glass-highlight) 0%,
-    transparent 40%
-  );
-
-  pointer-events: none;
-} */
+.title {
+  /* font-style: italic; */
+}
 
 .hint {
   color: var(--color-hint);
+  /* color: var(--color-sentence-translation); */
+  font-weight: 400;
+  font-style: italic;
+  padding-right: 15px;
+  padding-top: 6px;
+
+  /* background-color: #0f0; */
 }
 
 .nightMode .hint {
@@ -430,44 +287,77 @@ body {
 /* Back */
 
 .cardBack {
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
+  /* flex-direction: column; */
+  /* justify-content: flex-start;
+  align-items: flex-start; */
 
-  padding-top: 24px;
-  padding-bottom: 8px;
+  /* padding-top: 24px;
+  padding-bottom: 8px; */
 }
 
-/* .targetWordContainer {
-  margin-top: 4px;
-  margin-bottom: 16px;
+.sentenceContainer {
+  /* width: 100%; */
+  /* padding-left: 16px;
+  padding-right: 16px; */
+  /* padding: 0 16px 0 16px; */
 }
 
-.definitionsList {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  padding-left: 16px;
+.header {
+  color: var(--color-header);
+  font-size: var(--font-size-header);
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
-.definitionsList li::before {
-  content: '\2022';
-  color: var(--color-list-bullets);
-  display: inline-block;
-  width: 8px;
-  margin-left: -16px;
-  font-size: 22px;
+.nightMode .header {
+  color: var(--color-nightMode-header);
 }
 
-.wordAudioButtonFront {
-  position: absolute;
-  top: 12px;
-  right: 18px;
-} 
+.sentenceSection {
+  padding-left: 12px;
+}
 
-.wordAudioButtonBack {
-  margin-left: 8px;
-} */
+.sentenceTranslation {
+  color: var(--color-sentence-translation);
+  font-weight: 400;
+  font-style: italic;
+  padding-right: 15px;
+  padding-top: 6px;
+
+  /* background-color: #0f0; */
+}
+
+.nightMode .sentenceTranslation {
+  color: var(--color-nightMode-sentence-translation);
+}
+
+/* Image */
+
+.sentenceImage {
+  width: 100%;
+  height: 210px;
+  margin-top: 16px;
+
+  border-top: 1px solid var(--color-divider);
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.sentenceImage img {
+  object-fit: contain;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+
+/* Anki Classes */
+
+.audioControls {
+  display: flex;
+  justify-content: center;
+  /* background-color: #0f0; */
+}
 
 .replay-button {
   padding: 8px;
@@ -485,82 +375,11 @@ body {
   stroke: none;
 }
 
-/* .irregularFormsContainer {
-  display: flex;
-  flex-wrap: wrap;
-
-  margin-top: 12px;
-} */
-
-/* .irregularForm {
-  background-color: var(--color-irregular-form-background);
-  border: 0.5px solid var(--color-irregular-form-border);
-  border-radius: 40px;
-
-  font-size: var(--font-size-irregular-form);
-
-  padding: 3px 12px 5px;
-  margin-right: 10px;
-  margin-bottom: 8px;
-}
-
-.nightMode .irregularForm {
-  color: var(--color-nightMode-irregular-form-text);
-  background-color: var(
-    --color-nightMode-irregular-form-background
-  );
-  border-color: var(
-    --color-nightMode-irregular-form-border
-  );
-} */
-
-.image {
-  border-top: 1px solid var(--color-divider);
-  border-bottom: 1px solid var(--color-divider);
-  margin-top: 16px;
-
-  width: 100%;
-  height: 210px;
-  margin-top: 16px;
-}
-
-.image img {
-  object-fit: contain;
-  width: 100% !important;
-  height: 100% !important;
-  max-width: 100% !important;
-  max-height: 100% !important;
-}
-
-.sentenceTranslation {
-  color: var(--color-sentence-translation);
-  font-weight: 400;
-  font-style: italic;
-  padding-right: 15px;
-  padding-top: 6px;
-}
-
-.nightMode .sentenceTranslation {
-  color: var(--color-nightMode-sentence-translation);
-}
-
 .reportIconContainer {
   width: 100%;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
-
-.header {
-  color: var(--color-header);
-  font-size: var(--font-size-header);
-  font-weight: 400;
-  margin-top: 8px;
-  margin-bottom: 8px;
-}
-
-.nightMode .header {
-  color: var(--color-nightMode-header);
 }
 
 .dividerLine {
@@ -574,20 +393,10 @@ body {
   border-color: var(--color-nightMode-divider);
 }
 
-.horizontalPadding {
-  width: 100%;
-  padding-left: 16px;
-  padding-right: 16px;
-}
-
-.indent {
-  padding-left: 12px;
-}
-
-.centerVertically {
+/* .sentenceContent {
   display: flex;
   align-items: center;
-}
+} */
 
 @font-face {
   font-family: Inter;
@@ -603,4 +412,11 @@ body {
   font-family: Inter;
   src: url('_Inter-SemiBold.ttf');
   font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('_Inter-Italic.ttf');
+  font-style: italic;
+  font-weight: 400;
 }
