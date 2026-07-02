@@ -60,6 +60,44 @@
   ); */
 }
 
+/* .card {
+  position: relative;
+  overflow: hidden;
+
+  background-image: url('moon_night.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+} */
+
+.card {
+  padding: 16px;
+
+  background-image:
+    linear-gradient(
+      rgba(9, 11, 16, 0.75),
+      rgba(9, 11, 16, 0.75)
+    ),
+    url('moon_night.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  min-height: 100vh;
+}
+
+/* .card::after {
+  content: '';
+
+  position: absolute;
+  inset: 0;
+
+  background: rgba(15, 17, 26, 0.9);
+
+  z-index: 0;
+} */
+
 /* ==================================================
    3. REUSABLE COMPONENTS
    ================================================== */
