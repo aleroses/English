@@ -5092,13 +5092,64 @@ Write no, any, or none.
 
 > Answer Key to Exercises 287 or 297
 
-### Unit 76 – 
+### Unit 76 – not + anybody / anyone / anything · nobody / one / nothing
 
 > Page: 153 or 164
 
+#### 76.1 Write these sentences again with nobody / no one or nothing.
 
+1. There isn't anything in the bag.  
+	There's nothing in the bag.
+2. There isn't anybody in the office.  
+	There's `nobody` in the office.
+3. I don't have anything to do.  
+	I have `nothing` to do.
+4. There isn't anything on TV.  
+	There is `nothing` on TV.
+5. There wasn't anyone at home.  
+	There was `nobody` at home.
+6. We didn't find anything.  
+	We found `nothing`.
 
+#### 76.2 Write these sentences again with anybody / anyone or anything.
 
+1. There's nothing in the bag.  
+	There isn't anything in the bag.
+2. There was nobody on the bus.  
+	There wasn't `anybody` on the bus.
+3. I have nothing to read.  
+	I don't have `anything` to read.
+4. I have no one to help me.  
+	I don't have `anybody` to help me.
+5. She heard nothing.  
+	She didn't hear `anything`.
+6. We have nothing for dinner.  
+	We don't have `anything` for dinner.
+
+#### 76.3 Answer these questions with nobody / no one or nothing.
+
+1. What did you say?  
+	Nothing.
+2. Who saw you?  
+	Nobody.
+3. What do you want?  
+	Nothing.
+4. Who did you meet?  
+	Nobody.
+5. Who knows the answer?  
+	Nobody.
+6. What did you buy?  
+	Nothing.
+7. What happened?  
+	Nothing.
+8. Who was late?  
+	Nobody.
+
+Now answer the same questions with complete sentences. Use nobody / no one / nothing or anybody / anyone / anything:
+
+1. 
+
+#### 76.4
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5113,7 +5164,7 @@ Write no, any, or none.
 > Answer Key to Exercises 287 – 288 or 297 – 298
 
 
-### Unit 77 –
+### Unit 77 – ·   · 
 
 > Page: 155 or 166
 
@@ -5135,7 +5186,7 @@ Write no, any, or none.
 > Answer Key to Exercises 288 or 298
 
 
-### Unit 78 –
+### Unit 78 –  ·  · 
 
 > Page: 157 or 168
 
