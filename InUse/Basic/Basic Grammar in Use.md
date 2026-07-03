@@ -5260,22 +5260,66 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 > Answer Key to Exercises 288 or 298
 
-
 ### Unit 78 – every and all
 
 > Page: 157 or 168
 
+#### 78.1 Complete the sentences. Use every + these words:
 
-#### 78.1
+`day` `room` ~~`student`~~ `time` `word`
 
-#### 78.2
+1. `Every student` in the class passed the exam.
+2. My job is very boring `every day` is the same.
+3. Kate is a very good chess player. When we play, she wins `every time`.
+4. `Every room` in the hotel has free Wi-Fi.
+5. "Did you understand what she said?" "Most of it, but not `every word`."
 
-#### 78.3
+#### 78.2 Complete the sentences with every day or all day.
 
-#### 78.4
+1. Yesterday it rained `all day`.
+2. I buy a newspaper `every day`, but sometimes I don't read it.
+3. I'm not going out tomorrow. I'll be home `all day`.
+4. I usually drink about four cups of coffee `every day`.
+5. Paula was sick yesterday, so she stayed in bed `all day`.
+6. I'm tired now because I've been working hard `all day`.
+7. Last year we went to the beach for a week, and it rained `every day`.
 
-#### 78.5
+#### 78.3 Write every or all.
 
+1. Bill watches TV for about two hours `every` night.
+2. Julia gets up at 6:30 `every` morning.
+3. The weather was nice yesterday, so we sat outside `all` afternoon.
+4. I'm leaving town on Monday. I'll be away `all` week.
+5. A: How often do you go skiing?  
+	B: `Every` year. Usually in March.
+6. A: Were you home at 10:00 yesterday?  
+	B: Yes, I was home `all` morning. I went out after lunch.
+7. My sister loves new cars. She buys one `every` year.
+8. I saw Sam at the party, but he didn't speak to me `all` night.
+9. We take a vacation for two or three weeks `every` summer.
+
+#### 78.4 Write everybody / everything / everywhere.
+
+1. `Everybody` needs friends.
+2. Chris knows `everything` about computers.
+3. I like the people here. `Everybody` is very friendly.
+4. This is a nice hotel. It's comfortable, and `everything` is very clean.
+5. Kevin never uses his car. He goes `everywhere` on his motorcycle.
+6. Let's have dinner. `Everybody` is hungry.
+7. Sue's house is full of books. There are books `everywhere`.
+8. You are right. `Everything` you say is true.
+
+#### 78.5 Complete the sentences. Use only one word each time.
+
+1. Everybody `has` problems.
+2. Are you ready yet? Everybody `is` waiting for you.
+3. The house is empty. Everyone `has` moved out.
+4. Josh is very popular. Everybody `likes` him.
+5. This town is completely different now. Everything `has` changed.
+6. I got home very late last night. I came in quietly because everyone `was` asleep.
+7. Everybody `makes` mistakes!
+8. A: `Is` everything clear? `Does` everybody know what to do?  
+	B: Yes, we all understand.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5287,13 +5331,12 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 > Answer Key to Exercises 288 or 298
 
-
 ### Unit 79 –
 
 > Page: 159 or 170
 
 
-
+ ·
 
 
 <details>
@@ -5315,7 +5358,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 161 or 172
 
 
-
+ ·
 
 
 <details>
@@ -5334,7 +5377,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 163 or 174
 
 
-
+ ·
 
 
 <details>
@@ -5352,7 +5395,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 165 or 176
 
 
-
+ ·
 
 
 <details>
@@ -5371,7 +5414,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 167 or 178
 
 
-
+ ·
 
 
 <details>
@@ -5392,7 +5435,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 169 or 180
 
 
-
+ ·
 
 
 <details>
