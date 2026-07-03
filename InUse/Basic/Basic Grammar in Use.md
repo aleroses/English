@@ -5107,7 +5107,7 @@ Write no, any, or none.
 4. There isn't anything on TV.  
 	There is `nothing` on TV.
 5. There wasn't anyone at home.  
-	There was `nobody` at home.
+	There was `nobody/no one` at home.
 6. We didn't find anything.  
 	We found `nothing`.
 
@@ -5120,7 +5120,7 @@ Write no, any, or none.
 3. I have nothing to read.  
 	I don't have `anything` to read.
 4. I have no one to help me.  
-	I don't have `anybody` to help me.
+	I don't have `anybody/anyone` to help me.
 5. She heard nothing.  
 	She didn't hear `anything`.
 6. We have nothing for dinner.  
@@ -5147,9 +5147,31 @@ Write no, any, or none.
 
 Now answer the same questions with complete sentences. Use nobody / no one / nothing or anybody / anyone / anything:
 
-1. 
+1. I didn't say anything.
+2. Nobody saw me.
+3. I don't want anything.
+4. Nobody met me. I didn't meet anybody.
+5. No one knows the answer.
+6. I bought nothing. I didn't buy anything.
+7. Nothing happened.
+8. Nobody was late.
 
-#### 76.4
+#### 76.4 Complete the sentences. Use: Nobody / no one / nothing or anybody / anyone / anything.
+
+1. That house is empty. `Nobody` lives there.
+2. Jack has a bad memory. He can't remember `anything`.
+3. Be quiet! Don't say `anything`.
+4. I didn't know about the meeting. `No one` told me.
+5. "What did you have to eat?" "`Nothing`. I wasn't hungry."
+6. I didn't eat `anything`. I wasn't hungry.
+7. Emily was sitting alone. She wasn't with `anyone`.
+8. I'm sorry, I can't help you. There's `nothing` I can do.
+9. I don't know `anything` about car engines.
+10. The museum is free. It doesn't cost `anything` to go in.
+11. I heard a knock at the door, but when I opened it, there was `nobody` there.
+12. Antonio spoke very fast. I didn't understand `anything`.
+13. "What are you doing tonight?" "`Nothing`. Why?"
+14. Olivia is out of town. `Nobody` knows where she is. She didn't tell `anybody` where she was going.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5163,14 +5185,67 @@ Now answer the same questions with complete sentences. Use nobody / no one / not
 
 > Answer Key to Exercises 287 – 288 or 297 – 298
 
-
-### Unit 77 – ·   · 
+### Unit 77 – somebody / anything / nowhere, etc.
 
 > Page: 155 or 166
 
+#### 77.1 Write somebody (or someone) / something / somewhere.
 
+1. Michelle said `something`.  
+	What did she say?
+2. I lost `something`.  
+	What did you lose?
+3. Sue and Tom went `somewhere`.  
+	Where did they go?
+4. I'm going to call `someone / somebody`.  
+	Who are you going to call?
 
+#### 77.2 Write nobody (or no one) / nothing / nowhere.
 
+1. What did you say? `Nothing`.
+2. Where are you going? `Nowhere`.
+3. What do you want? `Nothing`.
+4. Who are you looking for? `Nobody`.
+
+Now answer the same questions with complete sentences. Use not + anybody / anything / anywhere.
+
+1. I `didn't say anything`.
+2. I'm `not going anywhere`.
+3. I `don't want anything`.
+4. I'm `not looking for anybody / anyone`.
+
+#### 77.3 Write somebody / anything / nowhere, etc.
+
+1. It's dark. I can't see `anything`.
+2. Tom lives `somewhere` near Chicago.
+3. Do you know `anything` about computers?
+4. "Listen!" "What? I can't hear `anything`."
+5. "What are you doing here?" "I'm waiting for `someone`."
+6. We need to talk. There's `something` I want to tell you.
+7. "Did `anybody / anyone` see the accident?" "No, `I didn't see anything`."
+8. We weren't hungry, so we didn't eat `anything`.
+9. "What's going to happen?" "I don't know. `Nobody` knows."
+10. "Do you know `anybody / anyone` in Tokyo?" "Yes, a few people."
+11. "What's in that suitcase?" "`Nothing` It's empty."
+12. I'm looking for my glasses. I can't find them `anywhere`.
+13. I don't like cold weather. I want to live `somewhere` warm.
+14. Is there `anything` interesting on TV tonight?
+15. Have you ever met `anybody / anyone` famous?
+
+#### 77.4 Complete the sentences. Choose from the boxes.
+
+`something` `anything` `nothing` `something` `anywhere` ~~`nowhere`~~ `somewhere` `nowhere`
+
+`do` `eat` `park` `sit` `drink` ~~`go`~~ `read` `stay`
+
+1. We don't go out very much because there's `nowhere to go`.
+2. There isn't any food in the house. We don't have `anything to eat`.
+3. I'm bored. I have `nothing to do`.
+4. "Whey are you standing?" "Because there isn't `anywhere to sit`."
+5. "Would you like `something / anything to drink`?" "Yes, please - a glass of water."
+6. If you're going downtown, take the bus. Don't drive because there's `nowhere to park`.
+7. I want `something to read`. I'm going to buy a magazine.
+8. I need `somewhere to stay` in Seoul. Can you recommend a hotel?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5186,12 +5261,20 @@ Now answer the same questions with complete sentences. Use nobody / no one / not
 > Answer Key to Exercises 288 or 298
 
 
-### Unit 78 –  ·  · 
+### Unit 78 – every and all
 
 > Page: 157 or 168
 
 
+#### 78.1
 
+#### 78.2
+
+#### 78.3
+
+#### 78.4
+
+#### 78.5
 
 
 <details>
