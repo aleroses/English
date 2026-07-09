@@ -5331,13 +5331,55 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 > Answer Key to Exercises 288 or 298
 
-### Unit 79 –
+### Unit 79 – all · most · some · any · no / none
 
 > Page: 159 or 170
 
+#### 79.1 Complete the sentences. Use the word in parentheses (some / most, etc.). Sometimes you need of (some of / most of, etc.).
 
- ·
+1. `Most` children like to play.
+2. `Some of` this money is yours.
+3. `Some` people never stop talking.
+4. `Most of` the stores downtown close at 6:00.
+5. `Most` people have cell phones these days.
+6. I don't like `any of` the pictures in the living room.
+7. He lost `all` his money.
+8. `None of` my friends are married.
+9. Do you know `any of` the people in this picture?
+10. `Most` birds can fly.
+11. I enjoyed `most of` the movie, but I didn't like the ending.
+12. `Some` sports are very dangerous.
+13. We can't find anywhere to stay. `All of` the hotels are full.
+14. Try `some of` this cheese. It's delicious.
+15. The weather was bad when we were on vacation. It rained `most of` the time.
 
+#### 79.2 Look at the pictures and answer the questions. Use: all / most / some / none + of them / of it
+
+1. How many of the people are women?  
+	Most of them.
+2. How many of the boxes are on the table?  
+	All of them.
+3. How many of the men are wearing hats?  
+	Some of them.
+4. How many of the windows are open?  
+	None of them.
+5. How many of the people are standing?  
+	Most of them.
+6. How much of the money is Ben's?  
+	None of it.
+
+#### 79.3 Are these sentences OK? Correct the sentences that are wrong.
+
+1. Most children like to play.
+2. All the students failed the test.
+3. Some people work too hard.
+4. Some of the questions on the exam were very easy.
+5. I haven't seen any of those people before.
+6. All insects have six legs.
+7. Have you read all these books?
+8. Most of the students in our class are very nice.
+9. Most of my friends are going to the party.
+10. I'm very tired this morning - I was awake most of the night.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5353,12 +5395,12 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 288 or 298
 
-### Unit 80 –
+### Unit 80 – both · either · neither
 
 > Page: 161 or 172
 
 
- ·
+·
 
 
 <details>
@@ -5377,7 +5419,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 163 or 174
 
 
- ·
+·
 
 
 <details>
@@ -5395,7 +5437,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 165 or 176
 
 
- ·
+·
 
 
 <details>
@@ -5414,7 +5456,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 167 or 178
 
 
- ·
+·
 
 
 <details>
@@ -5435,7 +5477,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 169 or 180
 
 
- ·
+·
 
 
 <details>
@@ -5453,7 +5495,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 171 or 182
 
 
-
+·
 
 
 <details>
@@ -5473,7 +5515,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 173 or 184
 
 
-
+·
 
 
 <details>
@@ -5492,7 +5534,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 175 or 186
 
 
-
+·
 
 
 <details>
@@ -5512,7 +5554,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 
 
-
+·
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5530,8 +5572,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 179 or 190
 
 
-
-
+·
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5550,7 +5591,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 
 
-
+·
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5570,7 +5611,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 
 
-
+·
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5588,7 +5629,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Page: 185 or 196
 
 
-
+·
 
 
 <details>
@@ -5602,7 +5643,7 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 291 or 301
 
-
+·
 
 
 238 more exercises
@@ -5619,3 +5660,4 @@ Unit 75 – not + any / no / none
 –
 →
 –
+·
