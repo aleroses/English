@@ -5399,6 +5399,14 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 > Page: 161 or 172
 
+|Palabra     |Significado                 |Español               |
+|------------|----------------------------|----------------------|
+|**both**    |los dos                     |ambos / los dos       |
+|**either**  |uno de los dos (cualquiera) |cualquiera de los dos |
+|**neither** |ninguno de los dos          |ninguno de los dos    |
+
+Ver [[Basic - Explanation#80. both · either · neither]]
+
 
 ·
 

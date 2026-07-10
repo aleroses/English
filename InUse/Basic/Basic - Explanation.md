@@ -1550,3 +1550,305 @@ Pregúntate:
 - go to the airport
     
 
+## 80. both · either · neither
+
+Estas tres palabras se usan **solamente cuando hablamos de dos personas o dos cosas**.
+
+|Palabra     |Significado                 |Español               |
+|------------|----------------------------|----------------------|
+|**both**    |los dos                     |ambos / los dos       |
+|**either**  |uno de los dos (cualquiera) |cualquiera de los dos |
+|**neither** |ninguno de los dos          |ninguno de los dos    |
+
+Piensa en dos opciones:
+
+🍎 Apple & 🍊 Orange
+
+- **both** → 🍎🍊
+    
+- **either** → 🍎 **o** 🍊
+    
+- **neither** → ❌🍎 ❌🍊
+    
+
+### A. Both / Either / Neither
+
+#### 1. Both = los dos
+
+Se refiere a las dos personas o cosas.
+
+- Rebecca has two children.  
+	**Both are married.**  
+	Los dos están casados.
+
+- Both cars are expensive.  
+	- Los dos autos son caros.
+
+- Both doors are open.  
+	Las dos puertas están abiertas.
+
+- Both students passed the exam.  
+	Los dos estudiantes aprobaron.
+
+#### 2. Either = cualquiera de los dos
+
+Se usa cuando cualquiera de las dos opciones sirve.
+
+Ejemplo del libro:
+
+- Would you like tea or coffee?  
+	You can have either.  
+	Puedes tomar cualquiera de los dos.
+
+No significa "los dos".
+
+Significa:
+
+- té ✔
+- café ✔
+
+Cualquiera sirve.
+
+- You can sit on either chair.  
+	Puedes sentarte en cualquiera de las dos sillas.
+
+- Either answer is correct.  
+	Cualquiera de las dos respuestas es correcta.
+
+#### 3. Neither = ninguno de los dos
+
+Significa que las dos opciones son negativas.
+
+Ejemplo:
+
+- Do you want tea or coffee?  
+	Neither.  
+	Ninguno de los dos.
+
+- Neither student passed the exam.  
+	Ninguno de los dos estudiantes aprobó.
+
+#### Either vs Neither
+
+Pregunta:
+
+> Would you like pizza or hamburgers?
+
+Respuesta:
+
+**Either.**
+
+Cualquiera de las dos.
+
+Respuesta:
+
+**Neither.**
+
+Ninguna.
+
+### B. both/either/neither + sustantivo
+
+La estructura cambia dependiendo de la palabra.
+
+#### Both + plural
+
+Siempre usamos plural.
+
+- both `books`
+- both `windows`
+- both `children`
+
+No:
+
+- both book ❌
+
+Ejemplos:
+
+- Both cars are new.  
+	Los dos autos son nuevos.
+
+#### Either + singular
+
+Porque hablamos de una opción.
+
+- either book
+- either child
+- either answer
+
+Ejemplo:
+
+- You can read either book.  
+	Puedes leer cualquiera de los dos libros.
+
+#### Neither + singular
+
+También usa singular.
+
+- neither book
+- neither answer
+
+Ejemplo:
+
+- Neither answer is correct.  
+	Ninguna de las dos respuestas es correcta.
+
+#### Observa la diferencia:
+
+✅ Both books
+
+pero
+
+✅ Either book
+
+✅ Neither book
+
+### C. both of / either of / neither of
+
+Cuando aparece un determinante (**the, these, those, my, your, his, our**, etc.) usamos **of**.
+
+La estructura es:
+
+```
+both of + the/these/those/my/your...
+either of + the/these/those/my/your...
+neither of + the/these/those/my/your...
+```
+
+Ejemplos del libro:
+
+- Both of the pictures  
+	Las dos fotografías.
+
+- Either of these books  
+	Cualquiera de estos dos libros.
+
+- Neither of my parents is Canadian.  
+	Ninguno de mis padres es canadiense.
+
+- Both of my brothers live in Miami.  
+	Mis dos hermanos viven en Miami.
+
+#### ¿Siempre necesito "of"?
+
+No.
+
+El libro explica que con **both** muchas veces puedes quitarlo.
+
+Estas dos oraciones significan lo mismo:
+
+- I like both of those pictures.
+
+=
+
+- I like both those pictures.
+
+También:
+
+- Both of Paul's sisters
+
+=
+
+- Both Paul's sisters
+
+Pero con **either** y **neither**, normalmente sí se usa **of** delante de pronombres o determinantes.
+
+### D. both of them / neither of us / either of you
+
+Cuando el complemento es un pronombre (**them, us, you, me, him, her**) **siempre usamos "of"**.
+
+La estructura es:
+
+```
+both of them
+
+either of us
+
+neither of you
+```
+
+Nunca:
+
+- both them ❌
+
+Ejemplos:
+
+- Paul has two sisters.  
+	Both of them are married.  
+	Las dos están casadas.
+
+- Sue and I didn't eat anything.  
+	Neither of us was hungry.  
+	Ninguno de nosotros tenía hambre.
+
+- I don't know either of them.  
+	No conozco a ninguno de los dos.
+
+### Resumen visual
+
+Supongamos dos libros.
+
+📕 📘
+
+- Both 📕✔ 📘✔  
+	Los dos.
+
+- Either 📕✔ o 📘✔  
+	Uno cualquiera.
+
+- Neither 📕❌ 📘❌  
+	Ninguno.
+
+### Errores comunes
+
+- ❌ Both book  
+	✅ Both books
+
+- ❌ Either books  
+	✅ Either book
+
+- ❌ Neither books  
+	✅ Neither book
+
+- ❌ both them  
+	✅ both of them
+
+- ❌ either us  
+	✅ either of us
+
+- ❌ neither you  
+	✅ neither of you
+
+### Un truco para recordarlo
+
+Piensa en el número de opciones:
+
+```
+2 personas
+
+👩 👨
+```
+
+- **Both** → **2** (los dos)
+    
+- **Either** → **1 de 2** (cualquiera)
+    
+- **Neither** → **0 de 2** (ninguno)
+    
+
+Una forma fácil de memorizar **either** y **neither** es recordar que ambos se usan con **dos opciones**, pero:
+
+- **either** = una de las dos opciones es posible.
+    
+- **neither** = ninguna de las dos opciones es posible.
+    
+
+---
+
+Esta unidad también está relacionada con la **Unidad 40**, donde aparecen expresiones como:
+
+- **I can either.** (Yo también puedo, en ciertos contextos informales no es el mismo "either")
+    
+- **Neither do I.** (Yo tampoco.)
+    
+
+Aunque usan la palabra **either/neither**, allí tienen una función diferente: sirven para expresar acuerdo en respuestas, no para elegir entre dos opciones. Es normal que al principio se confundan; con la práctica verás que el contexto deja clara la diferencia.
