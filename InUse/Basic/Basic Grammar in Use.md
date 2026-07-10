@@ -5407,8 +5407,29 @@ Now answer the same questions with complete sentences. Use not + anybody / anyth
 
 Ver [[Basic - Explanation#80. both · either · neither]]
 
+#### 80.1 Write both / either / neither. Use of where necessary.
 
-·
+1. Last year I went to Miami and Seattle. I liked `both` cities very much.
+2. There were two pictures on the wall. I didn't like `either of` them.
+3. It was a good football game. `Both` teams played well.
+4. It wasn't a good football game. `Neither` team played well.
+5. "Is your friend Canadian or American?" "`Neither`. She's Australian."
+6. We went away for two days, but the weather was bad. It rained `both` days.
+7. A: I bought two newspapers. Which one do you want?  
+	B: `Either`. It doesn't matter which one.
+8. I invited Jessica and Mike to the party, but `neither` them came.
+9. "Do you go to work by car or by bus?" "`Neither`. I always walk."
+10. "Which jacket do you prefer, this one or that one?" "I don't like `neither` them."
+11. "Do you work, or are you a student?" "`Both`. I work, and I'm a student, too."
+12. My friend and I went to see a movie, but `Neither of` us liked it. It was really bad.
+13. Emily has two sisters and a brother. `Both` sisters are married.
+14. Emily has two sisters and a brother. I know her brother, but I haven't met `neither of` her sisters.
+
+#### 80.2
+
+#### 80.3
+
+
 
 
 <details>
