@@ -5417,20 +5417,44 @@ Ver [[Basic - Explanation#80. both · either · neither]]
 6. We went away for two days, but the weather was bad. It rained `both` days.
 7. A: I bought two newspapers. Which one do you want?  
 	B: `Either`. It doesn't matter which one.
-8. I invited Jessica and Mike to the party, but `neither` them came.
+8. I invited Jessica and Mike to the party, but `neither of` them came.
 9. "Do you go to work by car or by bus?" "`Neither`. I always walk."
-10. "Which jacket do you prefer, this one or that one?" "I don't like `neither` them."
+10. "Which jacket do you prefer, this one or that one?" "I don't like `either of` them."
 11. "Do you work, or are you a student?" "`Both`. I work, and I'm a student, too."
-12. My friend and I went to see a movie, but `Neither of` us liked it. It was really bad.
+12. My friend and I went to see a movie, but `neither of` us liked it. It was really bad.
 13. Emily has two sisters and a brother. `Both` sisters are married.
-14. Emily has two sisters and a brother. I know her brother, but I haven't met `neither of` her sisters.
+14. Emily has two sisters and a brother. I know her brother, but I haven't met `either of` her sisters.
 
-#### 80.2
+#### 80.2 Complete the sentences for the pictures. Use Both... and Neither...
 
-#### 80.3
+1. `Both cups are` empty.
+2. Both windows are open.
+3. `Niether man is` wearing a hat.  
+	Neither of them is wearing a hat.
+4. `Both men have` beards.
+5. `Both buses go` to the airport.
+6. `Neither answer is` right. 
 
+#### 80.3 A man and a woman answered some questions. Their answers were the same. Write sentences with Both / Neither of them...
 
-
+1. Are you married? No, No  
+	Neither of them is married.
+2. How old are you? 21, 21  
+	Both of them are 21.
+3. Are you a student? Yes, Yes  
+	Both of them are students.
+4. Do you have a car? No, No  
+	Neither of them has a car.
+5. Where do you live? Boston, Boston  
+	Both of them live in Boston.
+6. Do you like to cook? Yes, Yes  
+	Both of them like to cook.
+7. Can you play the piano? No, No  
+	Neither of them can play the piano.
+8. Do you eat seafood? Yes, Yes  
+	Both of them eat seafood.
+9. Are you interested in sports? No, No  
+	Neither of them is interested in sports.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5441,7 +5465,6 @@ Ver [[Basic - Explanation#80. both · either · neither]]
 </details>
 
 > Answer Key to Exercises 288 or 298
-
 
 ### Unit 81 –
 
