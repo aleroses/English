@@ -5545,12 +5545,39 @@ Write How much or How many.
 
 > Answer Key to Exercises 289 or 299
 
-### Unit 82 –
+### Unit 82 – (a) little · (a) few
 
 > Page: 165 or 176
 
+#### 82.1 Answer the questions with a little or a few.
 
-·
+1. "Do you have any money?" "Yes, `a little`."
+2. "Do you have any envelopes?" "Yes, `a few`."
+3. "Do you want sugar in your coffee?" "Yes, `a little`, please."
+4. "Did you take any pictures when you were on vacation?" "Yes, `a few`."
+5. "Does your friend speak English?" "Yes, `a little`."
+6. "Are there any good restaurants in this town?" "Yes, `a few`."
+
+#### 82.2 Write a little or a few + these words:
+
+`chairs` `days` `fresh air` `friends` `milk` `Russian` `times` ~~`years`~~
+
+1. Mike speaks Italian well. He lived in Italy for `a few years`.
+2. Can I have `a little of milk` in my coffee, please?
+3. "When did Julia leave?" "`A few days` ago."
+4. "Do you speak any foreign languages?" "I can speak `a little of Russian`."
+5. "Are you going out alone?" "No, I'm going with `a few friends`."
+6. "Have you ever been to Mexico?" "Yes, `a few times`."
+7. There wasn't much furniture in the room - just a table and `a few chairs`.
+8. I'm going out for a walk. I need `a little of fresh air`.
+
+#### 82.3
+
+#### 82.4
+
+
+#### 82.5
+
 
 
 <details>
