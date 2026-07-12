@@ -5466,13 +5466,74 @@ Ver [[Basic - Explanation#80. both · either · neither]]
 
 > Answer Key to Exercises 288 or 298
 
-### Unit 81 –
+### Unit 81 – a lot · much · many
 
 > Page: 163 or 174
 
+#### 81.1 Write much or many.
 
-·
+1. Did you buy `much` food?
+2. There aren't `many` hotels in this town.
+3. We don't have `much` gas. We need to stop and get some.
+4. Were there `many` people on the train?
+5. Did `many` students fail the exam?
+6. Samantha doesn't have `much` money.
+7. I wasn't hungry, so I didn't eat `much`.
+8. I don't know where Eric lives these days. I haven't seen him for `many` years.
 
+Write How much or How many.
+
+9. `How many` people are coming to the party?
+10. `How much` milk should I get at the store?
+11. `How much` bread did you buy?
+12. `How many` players are there on a football team?
+
+#### 81.2 Complete the sentences. Use much or many with these words:
+
+~~`books`~~ `countries` `luggage` `people` `time` `times`
+
+1. I don't read very much. I don't have `many books`.
+2. Hurry up! We don't have `much time`.
+3. Do you travel a lot? Have you been to `many countries`?
+4. Hannah hasn't lived here very long, so she doesn't know `many people`.
+5. "Do you have `much luggage`?" "No, only this bag."
+6. I don't know New York very well. I haven't been there `many times`.
+
+#### 81.3 Complete the sentences. Use a lot of + these words:
+
+`accidents` ~~`books`~~ `fun` `interesting things` `traffic`
+
+1. I like reading. I have `a lot of books`.
+2. We enjoyed our visit to the museum. We saw `a lot of interesting things`.
+3. This road is very dangerous. There are `a lot of accidents`.
+4. We enjoyed our vacation. We had `a lot of fun`.
+5. I took me a long time to drive here. There was `a lot of traffic`.
+
+#### 81.4 In some of these sentences much is not natural. Change the sentences or write OK.
+
+1. Do you drink `much coffee`? OK
+2. I drink `a lot of tea`.
+3. It was a cold winter. We had `a lot of snow`.
+4. There wasn't `much snow` last winter. OK
+5. It costs `a lot of money` to travel around the world.
+6. This pen was cheap. It didn't cost `much`.
+7. Do you know `much` about computers?
+8. "Do you have any luggage?" "Yes, `a lot of luggage`."
+
+#### 81.5 Write sentences about these people. Use much and a lot.
+
+1. Jake loves movies. (go to the movies)  
+	He goes to the movies a lot.
+2. Nicole thinks TV is boring. (watch TV)  
+	She doesn't watch TV much.
+3. Lauren is a good tennis player. (play tennis)  
+	She plays tennis a lot.
+4. Nick doesn't like to drive. (use his car)  
+	He doesn't use his car much.
+5. Matt spends most of the time at home. (go out)  
+	He doesn't go out much.
+6. Sue has been all over the world. (travel)  
+	She travels a lot.
 
 <details>
   <summary>More 🔥☠️</summary>
