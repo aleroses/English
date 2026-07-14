@@ -5571,9 +5571,20 @@ Write How much or How many.
 7. There wasn't much furniture in the room - just a table and `a few chairs`.
 8. I'm going out for a walk. I need `a little of fresh air`.
 
-#### 82.3
+#### 82.3 Complete the sentences. Use very little or very few + these words:
 
-#### 82.4
+`coffee` `hotels` ~~`mistakes`~~ `people` `rain` `time` `work`
+
+1. Your English is very good. You make `very few mistakes`.
+2. I drink `very little coffee`. I prefer tea.
+3. The weather here is very dry in the summer. There is `very little rain`.
+4. It's difficult to find a place to stay in this town. There are `very few hotels`.
+5. Hurry up! We've got `very little time`.
+6. The town is very quiet at night. `Very few people` go out.
+7. Some people in the office are very lazy. They do `very little work`.
+
+#### 82.4 Write little / a little or few / a few
+
 
 
 #### 82.5
