@@ -15,7 +15,7 @@ Card Variables
   /* Change the color values of these variables to change the colors in your cards! NightMode colors are only active when you are running anki in Night Mode (dark mode). */
   --color-text-primary: #18191f;
   --color-nightMode-text-primary: #fbfafe;
-  --color-audio-button: #3a3e62;
+  --color-audio-button: #d92243;
 
   --color-hint: #6b7280;
   --color-nightMode-hint: #9ca3af;
@@ -30,11 +30,11 @@ Card Variables
    GLASSMORPHISM
    ================================================== */
 
-  --glass-bg: rgba(0, 0, 0, 0.65);
+  --glass-bg: rgba(0, 0, 0, 0.1);
   --glass-border: rgba(255, 255, 255, 0.35);
   --glass-shadow: rgba(0, 0, 0, 0.15);
 
-  --glass-blur: 14px;
+  --glass-blur: 12px;
   --glass-saturate: 180%;
 
   --glass-highlight: rgba(255, 255, 255, 0.15);
@@ -43,8 +43,8 @@ Card Variables
    GLASSMORPHISM Night Mode
    ================================================== */
 
-  --glass-night-bg: rgba(0, 0, 0, 0.5);
-  --glass-night-border: rgba(79, 70, 229, 0.15);
+  --glass-night-bg: rgba(0, 0, 0, 0.1);
+  --glass-night-border: rgba(246, 157, 57, 0.25);
   --glass-night-shadow: rgba(0, 0, 0, 0.45);
   --glass-night-highlight: rgba(99, 102, 241, 0.08);
 }
@@ -190,7 +190,7 @@ body {
       rgba(9, 11, 16, 0.75),
       rgba(9, 11, 16, 0.75)
     ),
-    url('rebecca_afterlife.jpeg');
+    url('amo_gachiakuta.jpeg');
 
   background-size: cover;
   background-position: center;
@@ -198,16 +198,31 @@ body {
   background-attachment: fixed;
 
   min-height: 100vh;
+
+  /* New */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* outline: 2px solid red; */
 }
 
 .customCard {
+  width: 86vw;
+
+  max-width: var(--max-width-card);
+  min-height: 200px;
+
   /* position: relative; */
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  /* flex-shrink: 0; */
+  flex: 0 0 var(--max-width-card);
   /* align-items: center; */
 
-  margin: 0 auto;
+  /* margin: 0 auto; */
   /* padding-top: 24px;
   padding-bottom: 8px; */
   padding: 24px 16px 8px 16px;
@@ -230,13 +245,15 @@ body {
   border-radius: 16px;
   /* Glass */
 
-  min-height: 200px;
-  max-width: var(--max-width-card);
-
   font-weight: 500;
   font-size: var(--font-size-card);
   font-family: 'Inter', sans-serif;
   color: var(--color-text-primary);
+
+  /* New */
+  transform: translateY(-6vh);
+
+  /* outline: 2px solid lime; */
 }
 
 .nightMode .customCard {
@@ -253,9 +270,10 @@ body {
 }
 
 .cardFront {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: center; */
+
   align-items: center;
   gap: 1rem;
 }
