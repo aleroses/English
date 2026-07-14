@@ -360,7 +360,7 @@ body {
   border-top: 1px solid var(--color-divider);
   border-bottom: 1px solid var(--color-divider);
 
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .sentenceImage img {
