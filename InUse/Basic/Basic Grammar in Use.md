@@ -5563,13 +5563,13 @@ Write How much or How many.
 `chairs` `days` `fresh air` `friends` `milk` `Russian` `times` ~~`years`~~
 
 1. Mike speaks Italian well. He lived in Italy for `a few years`.
-2. Can I have `a little of milk` in my coffee, please?
+2. Can I have `a little milk` in my coffee, please?
 3. "When did Julia leave?" "`A few days` ago."
-4. "Do you speak any foreign languages?" "I can speak `a little of Russian`."
+4. "Do you speak any foreign languages?" "I can speak `a little Russian`."
 5. "Are you going out alone?" "No, I'm going with `a few friends`."
 6. "Have you ever been to Mexico?" "Yes, `a few times`."
 7. There wasn't much furniture in the room - just a table and `a few chairs`.
-8. I'm going out for a walk. I need `a little of fresh air`.
+8. I'm going out for a walk. I need `a little fresh air`.
 
 #### 82.3 Complete the sentences. Use very little or very few + these words:
 
@@ -5585,11 +5585,23 @@ Write How much or How many.
 
 #### 82.4 Write little / a little or few / a few
 
+1. There was `little` food in the fridge. It was almost empty.
+2. "When did Sarah go out?" "`A few` minutes ago."
+3. I can't decide now. I need `a little` time to think about it.
+4. There was `little` traffic, so we arrived earlier than we expected.
+5. The bus service isn't very good at night - there are `few` buses after 9:00.
+6. "Would you like some soup?" "Yes, `a little`, please."
+7. I'd like to practice my English more, but I have `few` opportunities.
 
+#### 82.5 Right or wrong? Change the sentences where necessary. Write OK if the sentence is correct.
 
-#### 82.5
-
-
+1. We're going away `for a few days` next week.
+2. Everybody needs `a little luck.`
+3. I can't talk to you now - I have `a few things` to do.
+4. I eat very little meat - I don't like it very much.
+5. Excuse me, can I ask you `a few questions`?
+6. There were `few people` on the bus - it was almost empty.
+7. Daniel is a very private person. Few people know him well.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5601,14 +5613,59 @@ Write How much or How many.
 
 > Answer Key to Exercises 289 or 299
 
-
-### Unit 83 –
+### Unit 83 – old / nice / interesting, etc. (adjectives)
 
 > Page: 167 or 178
 
+#### 83.1 Put the words in the right order.
 
-·
+1. They live in a new house.
+2. I like that green jacket.
+3. Do you like classical music?
+4. I had a wonderful trip.
+5. We went to a Japanese restaurant.
 
+#### 83.2 The words below are adjectives (dark / foreign, etc.) or nouns (air / job, etc.). Use an adjective and a noun to complete each sentence.
+
+`air` `dangerous` ~~`foreign`~~ `hot` `knife` `long` `vacation` `clouds` `dark` `fresh` `job` ~~`languages`~~ `sharp` `water`
+
+1. Do you speak any `foreign languages`?
+2. Look at those `dark clouds`. It's going to rain.
+3. Sue works very hard, and she's very tired. She needs a `long vacation`.
+4. You need `hot water` to make tea.
+5. Can you open the window? We need some `fresh air`.
+6. I need a `sharp knife` to cut these onions.
+7. Firefighting is a `dangerous job`.
+
+#### 83.3 Write sentences for the pictures. Choose from the boxes.
+
+`feel(s)` `look(s)` ~~`sound(s)`~~ `look(s)` `smell(s)` `taste(s)`
+
++
+
+~~`happy`~~ `nice` `surprised` `new` `sick` `terrible`
+
+1. You `sound happy`.
+2. It `looks new`.
+3. I `feel sick`.
+4. You `look surprised`.
+5. They `smell nice`.
+6. It `tastes terrible`.
+
+#### 83.4 A and B don't agree. Complete B's sentences. Use feel / look, etc.
+
+1. A: You look tired.  
+	B: I do? I `don't feel tired`.
+2. A: This is a new coat.  
+	B: It is? It doesn't `look new`.
+3. A: I'm American.  
+	B: You are? You don't `sound American`.
+4. You look cold.  
+	Really? I don't `feel cold`.
+5. These bags are heavy.  
+	They are? They don't `look heavy`.
+6. That soup looks good.  
+	Maybe, but it doesn't `taste good`.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -5620,8 +5677,6 @@ Write How much or How many.
 </details>
 
 > Answer Key to Exercises 289 or 299
-
-
 
 ### Unit 84 –
 
