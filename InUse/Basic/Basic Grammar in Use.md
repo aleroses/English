@@ -5686,15 +5686,52 @@ Write How much or How many.
 
 `angrily` `badly` `dangerously` `fast` ~~`heavily`~~ `quietly`
 
+1. It's raining `heavily`.
+2. He sings very `badly`.
+3. They came in `quietly`.
+4. She shouted at me `angrily`.
+5. She can run very `fast`.
+6. He was driving `dangerously`.
 
-#### 84.2
+#### 84.2 Complete the sentences. Choose from the boxes.
 
-#### 84.3
+`come` `know` `sleep` `win` `explain` ~~`listen`~~ `think` `work`
 
-#### 84.4
++
 
+~~`carefully`~~ `clearly` `hard` `well` `carefully` `easily` `quickly` `well`
 
+1. I'm going to tell you something very important, so please `listen carefully`.
+2. They `work hard`. At the end of the day they're always tired.
+3. I'm tired this morning. I didn't `sleep well` last night.
+4. You play chess much better than me. When we play, you always `win easily`.
+5. `Think carefully` before you answer the question.
+6. I've met Nicole a few times, but I don't `know` her very `well`.
+7. Our teacher doesn't `explain` things very `clearly`. We never understand him.
+8. Anna! I need you help. `Come quickly`!
 
+#### 84.3 Which is right?
+
+1. Don't eat so `quickly`. It's not good for you.
+2. Why are you `angry` I didn't do anything.
+3. Can you speak `slowly`, please?
+4. Come on, Dave! Why are you always so `slow`?
+5. Bill is a very `careful` driver.
+6. Jennifer is studying `hard` for her exams.
+7. "Where's Emma?" "She was here, but she left `suddenly`."
+8. Please be `quiet`. I'm studying.
+9. Some companies pay their workers very `badly`.
+10. Those oranges look `nice`. Can I have one?
+11. I don't remember much about the accident. Everything happened `quickly`.
+
+#### 84.4 Write good or well.
+
+1. Your English is very `good`. You speak it very `well`.
+2. Olivia did very `well` on the quiz today.
+3. The party was very `good`. I enjoyed it a lot.
+4. James has a difficult job, but he does it `well`.
+5. How are you parents? Are they `well`?
+6. Did you have a `good` vacation? Was the weather `good`?
 
 <details>
   <summary>More 🔥☠️</summary>
