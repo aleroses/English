@@ -5743,25 +5743,71 @@ Write How much or How many.
 
 > Answer Key to Exercises 289 or 299
 
-### Unit 85 –
+### Unit 85 – old / older · expensive / more expensive
 
 > Page: 171 or 182
 
+#### 85.1 Look at the pictures and write the comparative (older / more interesting, etc.).
 
-·
+1. heavy / heavier
+2. big / bigger
+3. slow turtle / slower snail
+4. expensive / more expensive
+5. high / higher
+6. dangerous / more dangerous
 
+#### 85.2 Write the comparative.
+
+1. old / older
+2. strong / stronger
+3. happy / happier
+4. modern / more modern
+5. important / more important
+6. good / better
+7. large / larger
+8. serious / more serious
+9. pretty / prettier
+10. crowded / more crowded
+
+#### 85.3 Write the opposite
+
+1. younger / older
+2. colder / warmer or hotter
+3. cheaper / more expensive
+4. better / worse
+5. nearer / farther
+6. easier / harder or more difficult
+
+#### 85.4 Complete the sentences. Use a comparative.
+
+1. Allison's car isn't very big. She wants a `bigger` one.
+2. My job isn't very interesting. I want to do something `more interesting`.
+3. You're not very tall. Your brother is `taller`.
+4. David doesn't work very hard. I work `harder`.
+5. My chair isn't very comfortable. Yours is `more comfortable`.
+6. Your idea isn't very good. My idea is `better`.
+7. These flowers aren't very nice. The blue ones are `nicer`.
+8. My suitcase isn't very heavy. Your suitcase is `heavier`.
+9. I'm not very interested in art. I'm `more interested` in history.
+10. It isn't very warm today. It was `warmer` yesterday.
+11. These tomatoes don't taste very good. The other ones tasted `better`.
+12. Peru isn't very big. Brazil is `bigger`.
+13. Los Angeles isn't very beautiful. San Francisco is `more beautiful`.
+14. This knife isn't very sharp. Do you have a `sharper` one?
+15. People today aren't very polite. In the past they were `more polite`.
+16. The weather isn't too bad today. Often it is much `worse`.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- older than... / more expensive than → Unit 86
+- the oldest / the most expensive → 88
 
 </details>
 
 > Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 289 – 290 or 299 – 300
-
 
 ### Unit 86 –
 
