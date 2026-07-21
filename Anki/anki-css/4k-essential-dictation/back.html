@@ -47,4 +47,41 @@
       </a>
     </div>
   </footer>
+
+  <!-- <script>
+    (() => {
+      const root = document.querySelector(
+        '.sentenceSection'
+      );
+      if (!root) return;
+
+      const replacements = new Map([
+        ['‘', "''"],
+        ['’', "'"],
+        ['‛', "'"],
+        ['′', "'"],
+        ['“', '"'],
+        ['”', '"'],
+      ]);
+
+      const pattern = /[‘’‛′“”]/;
+      const replacePattern = /[‘’‛′“”]/g;
+
+      const walker = document.createTreeWalker(
+        root,
+        NodeFilter.SHOW_TEXT
+      );
+
+      let node;
+
+      while ((node = walker.nextNode())) {
+        if (!pattern.test(node.textContent)) continue;
+
+        node.textContent = node.textContent.replace(
+          replacePattern,
+          (char) => replacements.get(char)
+        );
+      }
+    })();
+  </script> -->
 </div>
