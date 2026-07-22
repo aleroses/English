@@ -5806,26 +5806,76 @@ Write How much or How many.
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 289 – 290 or 299 – 300
 
 ### Unit 86 – older than... more expensive than
 
 > Page: 173 or 184
 
+#### 86.1 Write sentences about Liz and Ben. Use than.
 
-·
+1. Liz `is older than Ben`.
+2. Ben  `is a better swimmer than Liz`.
+3. Liz is  `taller than Ben`.
+4. Liz starts  `work earlier than` Ben.
+5. Ben  `works harder than` Liz.
+6. Ben has  `more money than Liz`.
+7. Liz is a  `better driver than Ben`.
+8. Ben  `is more patient than Liz`.
+9. Ben  `is a better dancer than Liz`.
+10. Liz  `is more intelligent than Ben`.
+11. Liz  `speaks Spanish better than Ben`.
+12. Ben  `goes to the movies more than Liz`.
 
+#### 86.2 Complete the sentences. Use than.
+
+1. He isn't very tall.  
+	You're  `taller than him` or  `taller than he is`.
+2. She isn't very old.  
+	You're  `older than her`.
+3. I don't work very hard.  
+	You work  `harder than me` or `harder than I do`.
+4. He doesn't watch TV very much.  
+	You  `watch TV more than him` or `than he does`.
+5. I'm not a very good cook.  
+	You  `are a better cook than me` or `than I am`.
+6. We don't know many people.  
+	You  `know more people than us` or `than we do`.
+7. They don't have much money.  
+	You  `have more money than them`.
+8. I can't run very fast.  
+	You can  `run faster than me` or `than I can`.
+9. She hasn't been here very long.  
+	You `have been here longer than she has`.
+10. They didn't get up very early.  
+	You  `got up earlier than them` or `earlier than they did`.
+11. He wasn't very surprised.  
+	You  `were more surprised than him` or `than he was`.
+
+#### 86.3 Complete the sentences with a little or much + comparative (older / better, etc.).
+
+1. Emma is 25. Joe is 24 1/2.  
+	Emma  `is a little older than Joe`.
+2. Jack's mother is 52. His father is 69.  
+	Jack's mother  `is much younger than his father`.
+3. My camera cost $150. Yours cost $145.  
+	My camera  `cost a little more than yours`.
+4. Yesterday I felt terrible. Today I feel OK.  
+	I feel  `much better today than yesterday`.
+5. Today the temperature is 12 degrees Celsius. Yesterday it was 10 degrees Celsius.  
+	It's  `a little warmer today than yesterday`.
+6. Sarah is an excellent volleyball player. I'm not very good.  
+	Sarah  `is a much better volleyball player than me`.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- old → older, expensive → more expensive → Units 85
+- not as... as → 87
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
 ### Unit 87 –
