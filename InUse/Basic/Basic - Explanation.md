@@ -1852,3 +1852,307 @@ Esta unidad también está relacionada con la **Unidad 40**, donde aparecen expr
     
 
 Aunque usan la palabra **either/neither**, allí tienen una función diferente: sirven para expresar acuerdo en respuestas, no para elegir entre dos opciones. Es normal que al principio se confundan; con la práctica verás que el contexto deja clara la diferencia.
+
+## 87. not as... as
+
+Esta unidad (**Unit 87 – _not as ... as_**) introduce una forma diferente de comparar cosas. Hasta ahora aprendiste comparativos como **older than**, **more expensive than**, etc. En esta unidad aprenderás a decir que una cosa **no llega al mismo nivel que otra**.
+
+La idea principal es muy sencilla:
+
+> **not as + adjetivo/adverbio + as**
+
+Se traduce como:
+
+- **no tan... como**
+    
+- **no tanto... como**
+    
+
+### A. not as ... as
+
+Observa el ejemplo del libro:
+
+- **She's old, but she's not as old as he is.**
+    
+
+👉 Ella es mayor, pero **no es tan mayor como él**.
+
+No significa que ella sea joven; simplemente significa que **él tiene más edad**.
+
+Otro ejemplo:
+
+- **Box A isn't as big as Box B.**
+    
+
+👉 La caja A **no es tan grande como** la caja B.
+
+Es exactamente la misma idea que:
+
+> **Box B is bigger than Box A.**
+
+Las dos oraciones significan prácticamente lo mismo, pero vistas desde perspectivas distintas.
+
+|Comparativo             |not as...as               |
+|------------------------|--------------------------|
+|Ben is taller than Tom. |Tom isn't as tall as Ben. |
+
+#### Más ejemplos
+
+**Rome is not as old as Athens.**
+
+↓
+
+Atenas es más antigua.
+
+**The Grand Hotel isn't as expensive as the Western.**
+
+↓
+
+El Western cuesta más.
+
+**I don't play soccer as often as you.**
+
+↓
+
+Tú juegas con más frecuencia.
+
+**The weather isn't as cold as yesterday.**
+
+↓
+
+Ayer hacía más frío.
+
+#### Regla
+
+> **not as + adjective + as**
+
+Con adjetivos.
+
+- not as big as
+- not as old as
+- not as heavy as
+- not as beautiful as
+
+También funciona con adverbios.
+
+> **not as + adverb + as**
+
+- not as fast as
+- not as carefully as
+- not as often as
+
+Ejemplos:
+
+- She doesn't drive **as carefully as** her father.
+- I can't run **as fast as** you.
+
+### B. not as much as / not as many as
+
+Aquí ya no hablamos de cualidades, sino de **cantidad**.
+
+La diferencia es la misma que ya viste en la Unit 81:
+
+#### much
+
+Para cosas incontables.
+
+- money
+- water
+- coffee
+- time
+
+Ejemplo:
+
+> I don't have as much money as you.
+
+👉 No tengo tanto dinero como tú.
+
+Otro ejemplo:
+
+- She doesn't drink as much coffee as I do.
+
+Ella no toma tanto café como yo.
+
+#### many
+
+Para cosas contables.
+
+- books
+    
+- friends
+    
+- cars
+    
+- students
+    
+
+Ejemplo:
+
+> I don't know as many people as you.
+
+👉 No conozco a tanta gente como tú.
+
+Otro:
+
+- We don't have as many books as the library.
+    
+
+No tenemos tantos libros como la biblioteca.
+
+### C. Compara **than** con **not as...as**
+
+Esta parte es importante porque ambas estructuras expresan una comparación, pero desde enfoques distintos.
+
+El libro muestra:
+
+> Rome is not as old as Athens.
+
+y debajo:
+
+> Athens is older than Rome.
+
+Dicen exactamente lo mismo.
+
+Otro ejemplo:
+
+#### Comparativo
+
+> Soccer is more popular than tennis.
+
+Ahora cambiando el punto de vista:
+
+> Tennis isn't as popular as soccer.
+
+Mismo significado.
+
+Otro ejemplo:
+
+**Comparativo**
+
+- My brother is taller than me.
+    
+
+Con **not as...as**
+
+- I'm not as tall as my brother.
+    
+
+Otro:
+
+Comparativo
+
+- This exam is easier than the last one.
+    
+
+Con **not as...as**
+
+- The last exam wasn't as easy as this one.
+    
+
+#### Un pequeño truco
+
+Pregúntate:
+
+**¿Quién gana la comparación?**
+
+Si alguien "gana", puedes usar **than**.
+
+Si hablas del que "pierde", normalmente usarás **not as...as**.
+
+Por ejemplo:
+
+Ana mide 1.80 m y Luis 1.70 m.
+
+Puedes decir:
+
+- Ana is taller than Luis.
+
+o
+
+- Luis isn't as tall as Ana.
+
+### D. as me / as him / as her
+
+En inglés informal es muy común decir:
+
+- She's as old as **him**.
+- I'm as tall as **her**.
+
+También es correcto decir:
+
+- She's as old as **he is**.
+- I'm as tall as **she is**.
+
+Por eso el libro indica que ambas formas son posibles.
+
+Ejemplos:
+
+- You don't work as hard as **me**.
+    
+- You don't work as hard as **I do**.
+    
+
+Las dos son naturales. La segunda es un poco más completa.
+
+### E. the same as
+
+Esta expresión no compara diferencias, sino **igualdad**.
+
+Su estructura es:
+
+> **the same + noun + as**
+
+Ejemplos del libro:
+
+- The weather today is the same as yesterday.
+    
+
+El tiempo de hoy es igual al de ayer.
+
+- My hair is the same color as yours.
+    
+
+Mi cabello es del mismo color que el tuyo.
+
+- I arrived at the same time as Tim.
+    
+
+Llegué al mismo tiempo que Tim.
+
+Otros ejemplos:
+
+- We have the same teacher.
+    
+- They bought the same car.
+    
+- Our house is the same size as yours.
+    
+
+### Resumen
+
+|Estructura               |Uso                                 |Ejemplo|
+|-------------------------|------------------------------------|----------------------------------|
+|**A is taller than B**   |A tiene más de una característica   |Sarah is taller than Tom.         |
+|**B isn't as tall as A** |B tiene menos de esa característica |Tom isn't as tall as Sarah.       |
+|**not as much as**       |Menor cantidad de incontables       |I don't have as much money as you.|
+|**not as many as**       |Menor cantidad de contables         |I don't have as many books as you.|
+|**the same as**          |Igualdad                            |My bag is the same color as yours.|
+
+### Un consejo para memorizar
+
+Piensa en estas tres estructuras como una familia:
+
+- **than** → compara diciendo quién tiene **más**.
+    
+    - _John is taller than Mike._
+        
+- **not as...as** → compara diciendo quién tiene **menos**.
+    
+    - _Mike isn't as tall as John._
+        
+- **the same as** → dice que ambos tienen **el mismo nivel**.
+    
+    - _Mike is the same age as John._
+        
+
+Con estas tres expresiones puedes hacer prácticamente cualquier comparación básica en inglés.

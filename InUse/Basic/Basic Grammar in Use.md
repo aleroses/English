@@ -5878,23 +5878,62 @@ Write How much or How many.
 
 > Answer Key to Exercises 290 or 300
 
-### Unit 87 –
+### Unit 87 – not as... as
 
 > Page: 175 or 186
 
+#### 87.1 Look at the pictures and write sentences about A, B, and C
 
-·
+1. A is `bigger than` C, `but not as big as` B.
+2. A is `longer than` B, but not `as long as` C.
+3. C is `heavier than` A, but not `as heavy as` B.
+4. A is `older than` C, but not `as old as` B.
+5. B has `more money than` C, but not `as much money as` A.
+6. C works `harder than` A, but not `as hard as` B.
 
+#### 87.2 Write sentences with as... as...
+
+1. Athens is older than Rome.  
+	Rome `isn't as old as Athens`.
+2. My room is bigger than yours.  
+	Your room `isn't as big as mine`.
+3. You got up earlier than me.  
+	I didn't `get up as early as you`.
+4. We played better than them.  
+	They `didn't play as well as us`.
+5. I've been here longer than you.  
+	You `haven't been here as long as me`.
+6. She's more nervous than him.  
+	He `isn't as nervous as her`.  
+	He isn't as nervous as she is.
+
+#### 87.3 Write as or than.
+
+1. Athens is older `than` Rome.
+2. I don't watch TV as much `as` you.
+3. You eat more `than` me.
+4. I'm more tired today `than` I was yesterday.
+5. Joe isn't as intelligent `as` he thinks.
+6. Belgium is smaller `than` Switzerland.
+7. Brazil isn't as big `as` Canada.
+8. I can't wait more `than` an hour.
+
+#### 87.4 Complete the sentences about Julia, Andy, and Laura. Use the same age / the same street, etc.
+
+1. Andy is the same age as Laura.
+2. Julia lives on the same street as Laura.
+3. Julia got up at the same time as Andy.
+4. Andy's car is the same color as Laura's.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- much / many → Unit 81
+- older than... / more expensive than... → Unit 86
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
 ### Unit 88 –
