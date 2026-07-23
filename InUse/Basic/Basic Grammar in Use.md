@@ -5936,23 +5936,83 @@ Write How much or How many.
 
 > Answer Key to Exercises 290 or 300
 
-### Unit 88 –
+### Unit 88 – the oldest · the most expensive
 
 > Page: 177 or 188
 
+#### 88.1 Write sentences with comparatives (older, etc.) and superlatives (the oldest, etc.).
 
+big / small
 
-·
+- (A / D) A is bigger than D.
+- (A) A is the biggest
+- (B) B is the smallest
+
+long / short
+
+- (C / A) C is longer than A.
+- (D) D is the longest.
+- (B) B is the shortest.
+
+young / old
+
+- (D / C) D is younger than C
+- (C) C is the oldest.
+- (B) B is the youngest.
+
+expensive / cheap
+
+- (D / A) D is more expensive than A.
+- (C) C is the most expensive.
+- (A) A is the cheapest.
+
+good / bad
+
+- (A / C) A is better than C.
+- (A) A is the best.
+- (D) D is the worst.
+
+#### 88.2 complete the sentences. Use a superlative (the oldest, etc.).
+
+1. This building is very old. It's `the oldest building` in town.
+2. It was a very happy day. It was `the happiest day` of my life.
+3. It's a very good movie. It's `the best movie` I've ever seen.
+4. She's a very popular singer. She's `the most popular singer` in the country.
+5. It was a very bad mistake. It was `the worst mistake` I've ever made.
+6. It's a very pretty city. It's `the prettiest city` I've ever seen.
+7. It was a very cold day. It was `the coldest day` of the year.
+8. He's a very boring person. He's `the most boring person` I've ever met.
+
+#### 88.3 Write sentences with a superlative (the longest, etc.). Choose from the boxes.
+
+~~`Sydney`~~ `Alaska` `Everest` `the Nile` `Brazil` `Jupiter`
+
++
+
+`high` `large` `long`
+
+~~`city`~~ `river` `country` `state` `mountain` `planet`
+
++
+
+`Africa` `the USA` ~~`Australia`~~ `the world` `South America` `the solar system`
+
+1. `Sydney` is the largest `city` in Australia.
+2. `Everest` is the highest `mountain` in the world.
+3. `Brazil` is the largest `country` in South America.
+4. `Alaska` is the largest `state` in the USA.
+5. `The Nile` is the longest `river` in Africa.
+6. `Jupiter` is the largest `planet` in the solar system.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- present perfect + ever → Unit 16
+- older / more expensive → Units 85 – 86
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 or 300
 
 ### Unit 89 –
