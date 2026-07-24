@@ -1,0 +1,67 @@
+<div class="custom-card card_back">
+  <main
+    class="horizontalPadding centerVertically targetWordContainer"
+  >
+      <span class="target_word">{{word}}</span>
+    
+  </main>
+
+  <div class="dividerLine"></div>
+
+  <div class="horizontalPadding">
+    <div class="header">definiciones:</div>
+    <div class="indent">
+      <ul class="definitionsList">
+        <li>{{definition_01}}</li>
+
+        {{#definition_02}}
+        <li>{{definition_02}}</li>
+        {{/definition_02}}
+      </ul>
+    </div>
+  </div>
+
+  {{#sentence_audio}}
+  <div class="image">{{sentence_audio}}</div>
+  {{/sentence_audio}} {{^sentence_audio}}
+  <div class="dividerLine"></div>
+  {{/sentence_audio}} {{#irregular_verb_01}}
+  <div class="horizontalPadding">
+    <div class="header">formas irregularles:</div>
+    <div class="indent irregularFormsContainer">
+      <div class="irregularForm">{{irregular_verb_01}}</div>
+      {{#irregular_verb_02}}
+      <div class="irregularForm">{{irregular_verb_02}}</div>
+      {{/irregular_verb_02}} {{#irregular_verb_03}}
+      <div class="irregularForm">{{irregular_verb_03}}</div>
+      {{/irregular_verb_03}}
+    </div>
+  </div>
+
+  <div class="dividerLine"></div>
+  {{/irregular_verb_01}}
+
+  <div class="horizontalPadding">
+    <div class="header centerVertically">ejemplo:</div>
+    <div class="indent">
+      <div
+        class="centerVertically"
+        style="position: relative; gap: 5px"
+      >
+        <span>"{{sentence}}"</span>
+        <span class="sentenceAudioButton"></span>
+      </div>
+      <div class="sentenceTranslation">
+        {{hint:translation}}
+      </div>
+    </div>
+  </div>
+
+  <section class="audio">
+    <div class="audio_word">{{word_audio}}</div>
+    <div class="audio_pause">{{pause}}</div>
+    <div class="audio_sentence">{{sentence_audio}}</div>
+  </section>
+
+  <span>{{type:sentence}}</span>
+</div>
