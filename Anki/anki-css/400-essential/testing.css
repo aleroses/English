@@ -1,6 +1,6 @@
 /* ==================================================
-   1. VARIABLES AND COLOR PALETTE
-   ================================================== */
+    1. VARIABLES AND COLOR PALETTE
+    ================================================== */
 
 :root {
   /* Backgrounds */
@@ -9,7 +9,7 @@
 
   /* Text */
   /* --first-text-color: #4f46e5;
-  --second-text-color: #b094ff; */
+    --second-text-color: #b094ff; */
   --third-text-color: #cbd5e1;
   --fourth-text-color: #fff;
 
@@ -26,8 +26,8 @@
 }
 
 /* ==================================================
-   2. RESET AND GLOBAL SETTINGS
-   ================================================== */
+    2. RESET AND GLOBAL SETTINGS
+    ================================================== */
 
 * {
   padding: 0;
@@ -54,20 +54,20 @@
   background-color: var(--first-bg-color);
 
   /* background: linear-gradient(
-    135deg,
-    var(--first-bg-color),
-    var(--second-bg-color)
-  ); */
+      135deg,
+      var(--first-bg-color),
+      var(--second-bg-color)
+    ); */
 }
 
 /* .card {
-  position: relative;
-  overflow: hidden;
+    position: relative;
+    overflow: hidden;
 
-  background-image: url('moon_night.jpeg');
-  background-repeat: no-repeat;
-  background-position: center;
-} */
+    background-image: url('moon_night.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+  } */
 
 .card {
   /* padding: 16px; */
@@ -88,19 +88,19 @@
 }
 
 /* .card::after {
-  content: '';
+    content: '';
 
-  position: absolute;
-  inset: 0;
+    position: absolute;
+    inset: 0;
 
-  background: rgba(15, 17, 26, 0.9);
+    background: rgba(15, 17, 26, 0.9);
 
-  z-index: 0;
-} */
+    z-index: 0;
+  } */
 
 /* ==================================================
-   3. REUSABLE COMPONENTS
-   ================================================== */
+    3. REUSABLE COMPONENTS
+    ================================================== */
 
 /* Glassmorphism */
 
@@ -120,8 +120,8 @@
 }
 
 /* ==================================================
-   4. BACKGROUND AURORA EFFECT
-   ================================================== */
+    4. BACKGROUND AURORA EFFECT
+    ================================================== */
 
 .front-flashcard,
 .back-flashcard {
@@ -148,8 +148,8 @@
 }
 
 /* ==================================================
-   5. FRONT CARD (FRONT)
-   ================================================== */
+    5. FRONT CARD (FRONT)
+    ================================================== */
 
 /* Main container */
 
@@ -175,8 +175,8 @@
 }
 
 /* ==================================================
-   DECK BACKGROUND WATERMARK
-   ================================================== */
+    DECK BACKGROUND WATERMARK
+    ================================================== */
 
 #rubric {
   position: absolute;
@@ -224,6 +224,8 @@
   min-height: 220px;
 
   border-radius: 20px 20px 0 0;
+
+  /* background-color: red; */
 }
 
 /* Word */
@@ -235,10 +237,14 @@
   grid-row: 1/2;
 
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  gap: 1.5rem;
 
   font-size: 24px;
+
+  /* background-color: #17153b; */
 }
 
 .front-flashcard .main .main__word .word {
@@ -246,8 +252,21 @@
   animation: blink 5s ease-in-out infinite;
 }
 
-.front-flashcard .main .main__word .word-sound {
-  height: 40px;
+.front-flashcard .main .main__word .ipa {
+  /* width: 100%;
+  height: 100%; */
+  font-size: 20px;
+
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--trial-color); */
+
+  /* background-color: #2f3645; */
+}
+
+.front-flashcard .main .word-sound {
+  height: 100%;
 
   display: flex;
   align-items: center;
@@ -256,15 +275,18 @@
 
 /* IPA */
 
-.front-flashcard .main .main__ipa {
+/* .front-flashcard .main .main__ipa {
   width: 100%;
   height: 100%;
   font-size: 20px;
 
   display: flex;
   justify-content: center;
+  align-items: center;
   color: var(--trial-color);
-}
+
+  background-color: #2f3645;
+} */
 
 /* Meaning */
 
@@ -330,8 +352,8 @@
 }
 
 /* ========================================
-   SIMILAR WORD
-   ======================================== */
+    SIMILAR WORD
+    ======================================== */
 
 .panel {
   width: 100%;
@@ -343,7 +365,7 @@
   border-radius: 0 0 20px 20px;
 
   /* padding: 4px 10px 4px;
-  opacity: 0.6; */
+    opacity: 0.6; */
   padding: 12px 16px;
 
   transition: opacity 300ms ease;
@@ -363,16 +385,16 @@
 }
 
 /* .similar-reveal:hover {
-  opacity: 0.9;
-} */
+    opacity: 0.9;
+  } */
 
 .similar-reveal.show {
   animation: reveal 300ms ease;
 }
 
 /* .similar-reveal.show:hover {
-  transform: none;
-} */
+    transform: none;
+  } */
 
 .similar-reveal:not(.show)::before {
   content: 'Similar word';
@@ -422,8 +444,8 @@
 }
 
 /* ==================================================
-   6. BACK CARD
-   ================================================== */
+    6. BACK CARD
+    ================================================== */
 
 /* Container */
 
@@ -487,17 +509,17 @@
   /* Testing */
   /* flex: 1;
 
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 
-  padding-bottom: 70px; */
+    padding-bottom: 70px; */
 
   font-size: 18px;
 }
 
 /* ==================================================
-   7. ACCORDIONS
-   ================================================== */
+    7. ACCORDIONS
+    ================================================== */
 
 .accordion {
   /* background: #fff; */
@@ -550,7 +572,7 @@
   color: var(--trial-color);
 
   /* border-bottom-left-radius: 14px;
-  border-bottom-right-radius: 14px; */
+    border-bottom-right-radius: 14px; */
   border-radius: 0 0 14px 14px;
 
   /* background: #000; */
@@ -567,12 +589,12 @@
 }
 
 /* b {
-  color: var(--second-text-color);
-} */
+    color: var(--second-text-color);
+  } */
 
 /* ==================================================
-   8. FOOTER AND AUDIO
-   ================================================== */
+    8. FOOTER AND AUDIO
+    ================================================== */
 
 .back-flashcard .footer {
   position: absolute;
@@ -593,8 +615,8 @@
 }
 
 /* ==================================================
-   9. AUDIO BUTTONS
-   ================================================== */
+    9. AUDIO BUTTONS
+    ================================================== */
 
 .replay-button svg circle {
   fill: none;
@@ -619,8 +641,8 @@
 }
 
 /* ==================================================
-   10. TEXT FORMAT
-   ================================================== */
+    10. TEXT FORMAT
+    ================================================== */
 
 i,
 b {
@@ -628,8 +650,8 @@ b {
 }
 
 /* ==================================================
-   11. ANIMATIONS
-   ================================================== */
+    11. ANIMATIONS
+    ================================================== */
 
 @keyframes blink {
   0%,
@@ -669,8 +691,8 @@ b {
 }
 
 /* ==================================================
-   12. RESPONSIVE
-   ================================================== */
+    12. RESPONSIVE
+    ================================================== */
 
 @media (max-height: 310px) {
   .front-flashcard,
