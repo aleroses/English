@@ -6019,21 +6019,73 @@ good / bad
 
 > Page: 179 or 190
 
+En **adjective + enough** y en **verb + enough** se usa la misma regla.
 
-·
+Adjectives:
+
+- tall enough
+- strong enough
+- warm enough
+
+Verbs:
+
+- eat enough
+- sleep enough
+- practice enough
+
+#### 89.1 Look at the pictures and complete the sentences. Use enough + these words:
+
+`chairs` ~~`money`~~ `paint` `wind`
+
+1. She doesn't have `enough money`.
+2. There aren't `enough chairs`.
+3. She doesn't have `enough paint`.
+4. There isn't `enough wind`.
+
+#### 89.2 Look at the pictures and complete the sentences. Use these adjectives + enough:
+
+`big` `long` `strong` ~~`tall`~~
+
+1. He `isn't tall enough`.
+2. The car `isn't big enough`.
+3. His legs aren't `long enough`.
+4. He `isn't strong enough`.
+
+#### 89.3 Complete the sentences. Use enough with these words:
+
+`big` `eat` ~~`loud`~~ `old` `practice` ~~`salt`~~ `space` `time` `tired`
+
+1. "Is there `enough salt` in the soup?" "Yes, it's fine."
+2. Can you hear the radio? Is it `loud enough` for you?
+3. He can quit school if he wants - he's `old enough`.
+4. When I visited New York last year, I didn't have `enough time` to see all the things I wanted to see.
+5. This house isn't `big enough` for a large family.
+6. Kate is very thin. She doesn't `eat enough`.
+7. My office is very small. There isn't `enough space`.
+8. It's late, but I don't want to go to bed now. I'm not `tired enough`.
+9. Lisa isn't a very good tennis player because she doesn't `practice enough`.
+
+#### 89.4 Complete the sentences. Use enough with these words:
+
+1. We don't have `enough money to buy` a new car.
+2. This knife isn't `sharp enough to cut` tomatoes.
+3. The water wasn't `warm enough to go` swimming.
+4. Do we have `enough bread to make` sandwiches?
+5. We played well, but not `well enough to win` the game.
+6. I don't have `enough time to read` the newspaper.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- to... and for... → Unit 52
+- too → Unit 90
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 290 – 291 or 300 – 301
 
-### Unit 90 –
+### Unit 90 – too
 
 > Page: 181 or 192
 
