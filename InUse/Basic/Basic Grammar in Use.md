@@ -6089,19 +6089,68 @@ Verbs:
 
 > Page: 181 or 192
 
+#### 90.1 Look at the pictures and complete the sentences. Use too + these words:
 
+`big` `crowded` `fast` `heavy` ~~`loud`~~ `low`
 
-·
+1. The music is `too loud`.
+2. The box is `too heavy`.
+3. The net is `too low`.
+4. She's driving `too fast`.
+5. His jacket `is too big`.
+6. The museum is `too crowded`.
+
+#### 90.2 Write too / too much / too many or enough.
+
+1. You're always at home. You don't go out `enough`.
+2. I don't like the weather here. There's `too much` rain.
+3. I can't wait for them. I don't have `enough` time.
+4. There was nowhere to sit on the beach. There were `too many` people.
+5. You're always tired. I think you work `too` hard.
+6. "Did you have `enough` to eat?" "Yes, thank you."
+7. You drink `too much` coffee. It's not good for you.
+8. You don't eat `enough` vegetables. You should eat more of them.
+9. I don't like the weather here. It's `too` cold.
+10. Our team didn't play well. We made `too many` mistakes.
+11. "Would you like some ice in your tea?" "Yes, but not `too much`."
+
+#### 90.3 Complete the sentences. Use too or enough with these words:
+
+1. I couldn't work. I `was too tired`.
+2. Can you turn the radio up, please? It `isn't loud enough`.
+3. I don't want to walk home. It's `too far`.
+4. Don't buy anything in that store. It `is too expensive`.
+5. You can't put all your things in this bag. It `isn't big enough`.
+6. I couldn't do the exercise. It `was too difficult`.
+7. Your work needs to be better. It `isn't good enough`.
+8. I can't talk to you now. I `am too busy`.
+9. I thought the movie was boring. It `is too long`.
+
+#### 90.4 Complete the sentences. Use too (+ adjective) + to...
+
+1. (I'm not going out / cold)  
+	It's `too cold to go out`.
+2. (I'm not going to bed / early)  
+	It's `too early to go to bed`.
+3. (They're not getting married / young)  
+	They're `too young to get married`.
+4. (Nobody goes out at night / dangerous)  
+	It's `too dangerous to go out at night`.
+5. (Don't call Sue now / late)  
+	It's `too late to call Sue`.
+6. (I didn't say anything / surprised)  
+	I was `too surprised to say anything`.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- to... and for... → Unit 52
+- much/many → Unit 81
+- enough → Unit 89
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 291 or 301
 
 
