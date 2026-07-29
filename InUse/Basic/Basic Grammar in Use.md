@@ -6212,7 +6212,486 @@ Verbs:
 
 > Answer Key to Exercises 291 or 301
 
-### Unit 92 –
+### Unit 92 – always / usually / often, etc. (word order 2)
+
+> Page: 185 or 196
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- always / never + simple present → Unit 5
+- just + simple past → Unit 11
+- all → Units 78 – 79
+- both → Unit 80
+- still → Unit 93
+- already → Unit 93
+
+</details>
+
+> Answer Key to Exercises 291 or 301
+
+·
+### Unit 93 – still · yet · already
+
+> Page: 187 or 198
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- yet + present perfect or past → Unit 19
+- word order (still / already) → Unit 92
+
+</details>
+
+> Answer Key to Exercises 291 – 292 or 301 – 302
+
+·
+
+### Unit 94 – Give me that book! · Give it to me!
+
+> Page: 189 or 200
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- it / him / them, etc → Unit 57
+
+</details>
+
+> Answer Key to Exercises 292 or 302
+
+·
+
+### Unit 95 – and · but · or · so · because
+
+> Page: 191 or 202
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- when / while / before, etc. → Unit 96
+
+</details>
+
+> Answer Key to Exercises 292 or 302
+
+·
+
+### Unit 96 – When...
+
+> Page: 193 or 204
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- if and when → Unit 97
+- until → Unit 102
+- before / while / after → Unit 103
+
+</details>
+
+> Answer Key to Exercises 292 or 302
+
+·
+
+
+### Unit 97 – If we go... · If you see..., etc.
+
+> Page: 195 or 206
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- when → Unit 96
+- if I had / if we went..., etc. → Unit 98
+
+</details>
+
+> Answer Key to Exercises 293 or 303
+
+·
+
+
+### Unit 98 – If I had... · If we went..., etc.
+
+> Page: 197 or 208
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- if we go / if I have / if I can, etc. → Unit 97
+
+</details>
+
+> Answer Key to Exercises 293 or 303
+
+·
+
+
+### Unit 99 – a person who... · a thing that / which... (relative clauses 1)
+
+> Page: 199 or 210
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- who and which in questions → Units 43 – 45
+- the people we met (relative clauses 2) → Unit 100
+
+</details>
+
+> Answer Key to Exercises 293 or 303
+
+·
+
+### Unit 100 – the people we met · the hotel you stayed at (relative clauses 2)
+
+> Page: 201 or 212
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- a person who... a thing that / which... (relative clauses 1) → Unit 99
+
+</details>
+
+> Answer Key to Exercises 293 – 294 or 303 – 304
+
+·
+
+
+### Unit 101 – at 8:00 · on Monday · in April
+
+> Page: 203 or 214
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- in / at / on (places) → Units 104 – 105
+
+</details>
+
+> Answer Key to Exercises 294 or 304
+
+·
+
+### Unit 102 – from... to · until · since · for
+
+> Page: 205 or 216
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- present perfect + for / since → Units 17 – 18
+- present perfect (I have lived) and simple past (I lived) → Unit 19
+
+</details>
+
+> Answer Key to Exercises 294 or 304
+
+·
+
+
+### Unit 103 – before · after · during · while
+
+> Page: 207 or 218
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- past continuous (I was -ing) → Units 13 – 14
+- before / after / while / when → Unit 96
+- for → Unit 102
+- prepositions + -ing → Unit 110
+
+</details>
+
+> Answer Key to Exercises 294 or 304
+
+·
+
+
+### Unit 104 –
+
+> Page: 209 or 220
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 294 – 295 or 304 – 305
+
+·
+
+
+### Unit 105 –
+
+> Page: 211 or 222
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 295 or 305
+
+·
+
+
+### Unit 106 –
+
+> Page: 213 or 224
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 295 or 305
+
+·
+
+
+### Unit 107 –
+
+> Page: 215 or 226
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 295 or 305
+
+·
+
+
+### Unit 108 –
+
+> Page: 217 or 228
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 295 or 305
+
+·
+
+
+### Unit 109 –
+
+> Page: 219 or 230
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 295 – 296 or 305 – 306
+
+·
+
+
+### Unit 110 –
+
+> Page: 221 or 232
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 296 or 306
+
+·
+
+
+### Unit 111 –
+
+> Page: 223 or 234
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 296 or 306
+
+·
+
+
+### Unit 112 –
+
+> Page: 225 or 236
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 296 or 306
+
+·
+
+
+### Unit 113 –
+
+> Page: 227 or 238
+
+
+·
+
+
+<details>
+  <summary>More 🔥☠️</summary>
+  </br>
+
+- the → Units 67 – 70
+
+</details>
+
+> Additional exercise 33 – 34 (pages 253 or 254)  
+> Answer Key to Exercises 296 or 306
+
+·
+
+
+### Unit 114x –
 
 > Page: 185 or 196
 
@@ -6232,6 +6711,7 @@ Verbs:
 > Answer Key to Exercises 291 or 301
 
 ·
+
 
 
 238 more exercises
