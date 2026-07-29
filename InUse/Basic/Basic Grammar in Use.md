@@ -6153,24 +6153,63 @@ Verbs:
 
 > Answer Key to Exercises 291 or 301
 
-
-### Unit 91 –
+### Unit 91 – He speaks English very well. (word order 1)
 
 > Page: 183 or 194
 
+#### 91.1 Right or wrong? Correct the sentences that are wrong.
 
+1. Did you watch TV all night?
+2. Sue bought some new shoes yesterday.
+3. I like this picture very much.
+4. Tom started his new job last week.
+5. I want to speak English fluently.
+6. Jenn bought a present for her friend.
+7. I drink three cups of coffee every day.
+8. Don't eat your dinner too quickly!
+9. I borrowed 50 dollars from my brother.
 
-·
+#### 91.2 Put the words in order.
+
+1. I opened the door slowly.
+2. I bought a new computer last week.
+3. Matt finished his work quickly.
+4. Emily doesn't speak French very well.
+5. I did a lot of shopping yesterday.
+6. Do you know New York well?
+7. We enjoyed the party very much.
+8. I explained the problem carefully.
+9. We met some friends at the airport.
+10. Did you buy that jacket in Canada?
+11. We do the same thing every day.
+12. I don't like football very much.
+
+#### 91.3 Put the words in order.
+
+1. Megan walks to work every day.
+2. I arrived at the hotel early.
+3. Julia goes to Puerto Rico every year.
+4. We have lived here since 2012.
+5. Sue was born in Florida in 1990.
+6. Mike didn't go to work yesterday.
+7. Samantha went to a wedding last weekend.
+8. I had my breakfast in bed this morning.
+9. Jessica is going to college in September.
+10. I saw a beautiful bird in the yard this morning.
+11. My parents have been to Tokyo many times.
+12. I left my umbrella in the restaurant last night.
+13. Are you going to the movies tomorrow night?
+14. I took the children to school this morning.
 
 <details>
   <summary>More 🔥☠️</summary>
   </br>
 
-- the → Units 67 – 70
+- word order in questions → Units 42 – 44
+- always / usually / often, etc. → Unit 92
 
 </details>
 
-> Additional exercise 33 – 34 (pages 253 or 254)  
 > Answer Key to Exercises 291 or 301
 
 ### Unit 92 –
