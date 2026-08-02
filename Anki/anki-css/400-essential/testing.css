@@ -37,21 +37,39 @@
 }
 
 .card {
-  width: 100vw;
-  height: 100%;
+  /* width: 100vw; */
+  /* height: auto; */
+  /* height: 100vh; */
+  height: 100vh;
 
-  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* margin: 0; */
   color: var(--fourth-text-color);
-  background-color: var(--second-bg-color);
+  /* background-color: var(--second-bg-color); */
+
+  background-image:
+    linear-gradient(
+      rgba(9, 11, 16, 0.75),
+      rgba(9, 11, 16, 0.75)
+    ),
+    url('rebecca.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .card.nightMode {
-  width: 100vw;
-  height: 100%;
+  /* width: 100vw; */
+  height: 100vh;
 
-  margin: 0;
+  /* margin: 0; */
   color: var(--fourth-text-color);
-  background-color: var(--first-bg-color);
+  /* background-color: var(--first-bg-color); */
 
   /* background: linear-gradient(
       135deg,
@@ -59,44 +77,6 @@
       var(--second-bg-color)
     ); */
 }
-
-/* .card {
-    position: relative;
-    overflow: hidden;
-
-    background-image: url('moon_night.jpeg');
-    background-repeat: no-repeat;
-    background-position: center;
-  } */
-
-.card {
-  /* padding: 16px; */
-
-  background-image:
-    linear-gradient(
-      rgba(9, 11, 16, 0.75),
-      rgba(9, 11, 16, 0.75)
-    ),
-    url('gotta_be_fast.jpeg');
-
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-
-  /* min-height: 100vh; */
-}
-
-/* .card::after {
-    content: '';
-
-    position: absolute;
-    inset: 0;
-
-    background: rgba(15, 17, 26, 0.9);
-
-    z-index: 0;
-  } */
 
 /* ==================================================
     3. REUSABLE COMPONENTS
@@ -154,31 +134,35 @@
 /* Main container */
 
 .front-flashcard {
-  width: 100%;
+  /* width: 100vw; */
+  width: min(380px, 98vw);
   max-width: 400px;
-  min-height: 96vh;
+  /* height: 88vh; */
+  /* min-height: 520px; */
 
   display: flex;
   flex-direction: column;
+  /* justify-self: center; */
+  /* align-items: center; */
   gap: 10px;
 
-  padding: 0;
-  margin: 0 auto;
+  /* padding: 0.5rem; */
+  /* margin: 0 auto; */
   /* margin: 0; */
 
   border-radius: 0 0 20px 20px;
 
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); */
   /* background-color: rebeccapurple; */
 
-  /*background-color: red; */
+  /* background-color: red; */
 }
 
 /* ==================================================
     DECK BACKGROUND WATERMARK
     ================================================== */
 
-#rubric {
+/* #rubric {
   position: absolute;
 
   top: 45%;
@@ -207,7 +191,7 @@
 
   z-index: 0;
   opacity: 0.5;
-}
+} */
 
 /* Main area */
 
@@ -290,65 +274,171 @@
 
 /* Meaning */
 
-.front-flashcard .details {
-  width: 100%;
-  /* min-height: 80%; */
-  /* height: 50%; */
-  min-height: 0;
+.carousel {
+  /* position: relative; */
 
-  flex: 3;
-  /* Testing */
+  /* display: flex;
+  align-items: center; */
+  /* flex-direction: column; */
+
+  padding: 16px;
+
   overflow: hidden;
-  opacity: 0.5;
-  transition: opacity 1s ease-in-out;
 }
 
-.front-flashcard:has(.similar-reveal) .details {
-  flex: 2;
-}
-
-.front-flashcard:not(:has(.similar-reveal)) .details {
-  border-radius: 0 0 20px 20px;
-}
-
-.front-flashcard .details[open] {
-  /* min-height: 100%; */
-  opacity: 1;
-  /* background-color: #4f46e5; */
-}
-
-.front-flashcard .details summary {
-  padding: 10px;
-  /* background-color: hotpink; */
-}
-
-.front-flashcard .details[open] summary {
-  font-weight: 600;
-  color: var(--test-highlighting);
-}
-
-.front-flashcard .details ul {
+.carousel-window {
+  overflow: hidden;
   width: 100%;
-  /* height: 178px; */
-  max-height: 178px;
-  overflow-y: auto;
+}
+
+.carousel-track {
+  display: flex;
+  width: 100%;
+  transition: transform 0.35s ease;
+
+  /* background-color: green; */
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 10px;
+
+  margin: 12px 0 12px 0;
+}
+
+.carousel-dot {
+  position: relative;
+
+  width: 12px;
+  height: 12px;
+
+  border-radius: 50%;
+
+  background: rgba(255, 255, 255, 0.25);
+
+  transition: 0.25s;
+  transition: all 0.25s ease;
+}
+
+.carousel-dot::before {
+  content: '';
+
+  position: absolute;
+  inset: -10px;
+}
+
+.carousel-dot.active {
+  background: white;
+  transform: scale(1.4);
+
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
+}
+
+.slide {
+  width: 100%;
+  min-height: 190px;
+  flex: 0 0 100%;
 
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
-  align-content: center;
-  gap: 10px;
+  align-items: center;
+
+  gap: 18px;
+
+  /* background-color: #fff; */
 }
 
-.front-flashcard .details ul li {
+/* .slide > * {
+  width: 100%;
+} */
+
+/* .carousel-btn {
+  width: 36px;
+  height: 36px;
+
+  border-radius: 50%;
+
+  background: rgba(255, 255, 255, 0.08);
+
+  color: white;
+
+  cursor: pointer;
+} */
+
+/* .carousel-btn:disabled {
+  opacity: 0.25;
+} */
+
+.reveal {
+  width: 100%;
+  /* height: 12rem;
+  padding: 1rem; */
+
+  transition:
+    filter 0.35s,
+    opacity 0.35s;
+
+  /* cursor: pointer; */
+}
+
+.reveal,
+.similar-content {
+  width: 100%;
+}
+
+.blurred {
+  /* height: 12rem; */
+  /* padding: 1rem; */
+
+  filter: blur(10px);
+
+  opacity: 0.6;
+}
+
+.reveal:not(.blurred) {
+  filter: none;
+
+  opacity: 1;
+}
+
+ul {
+  width: 100%;
+  height: 10rem;
+  /* padding: 1rem; */
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+
+  gap: 0.4rem;
+
+  /* background-color: red; */
+}
+
+ul li {
   width: fit-content;
   list-style: none;
   color: var(--third-text-color);
+
+  /* background-color: #f43f5e; */
 }
 
-.front-flashcard .details ul .learn {
+ul .learn {
   color: var(--learn-word);
+}
+
+.similar-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  /* background-color: #17153b; */
 }
 
 /* ========================================
@@ -434,7 +524,7 @@
 }
 
 .similar-meaning {
-  margin-top: 4px;
+  margin-top: 8px;
 
   color: var(--third-text-color);
 }
@@ -447,34 +537,30 @@
     6. BACK CARD
     ================================================== */
 
-/* Container */
-
-.back-card {
-  color: var(--fourth-text-color);
-
-  background-color: var(--second-bg-color);
-}
-
 .back-flashcard {
   width: 100%;
   max-width: 400px;
-  height: 96vh;
-  min-height: 500px;
+  /* height: 96vh;
+  min-height: 500px; */
 
-  display: flex;
+  /* display: flex;
   flex-direction: column;
+  justify-content: center; */
+  /* align-items: center; */
 
-  padding: 0;
-  margin: 0;
+  /* padding: 0; */
+  /* margin: 0; */
 
   border-radius: 20px;
 
-  margin: 0 auto;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  /* margin: 0 auto; */
+  /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); */
 
   /* Testing */
-  position: relative;
-  padding-bottom: 50px;
+  /* position: relative;
+  padding-bottom: 50px; */
+
+  /* background-color: #f43f5e; */
 }
 
 .back-flashcard .header {
@@ -524,7 +610,7 @@
 .accordion {
   /* background: #fff; */
   /* background: var(--alternative-bg-four); */
-  background-color: var(--test-bg);
+  /* background-color: var(--test-bg); */
 }
 
 .accordion .meaning,
@@ -532,7 +618,6 @@
   display: block;
   /* padding: 6px; */
   padding: 12px 14px;
-  background: var(--second-bg-color);
 
   /* color: #fff; */
   color: var(--third-text-color);
@@ -541,6 +626,8 @@
   cursor: pointer;
   margin-bottom: 2px;
   transition: all 300ms ease;
+
+  /* background: var(--second-bg-color); */
 }
 
 .accordion .meaning,
@@ -550,7 +637,7 @@
 
 .accordion label:hover {
   /* background: #2e2e2e; */
-  background: var(--alternative-bg-color);
+  /* background: var(--alternative-bg-color); */
 }
 
 .accordion .accordion-content {
@@ -576,7 +663,7 @@
   border-radius: 0 0 14px 14px;
 
   /* background: #000; */
-  background: rgba(0, 0, 0, 0.3);
+  /* background: rgba(0, 0, 0, 0.3); */
 }
 
 .btn-accordion:checked ~ .accordion-content {
@@ -678,7 +765,7 @@ b {
   }
 }
 
-@keyframes reveal {
+/* @keyframes reveal {
   from {
     opacity: 0;
     filter: blur(8px);
@@ -688,7 +775,7 @@ b {
     opacity: 1;
     filter: blur(0);
   }
-}
+} */
 
 /* ==================================================
     12. RESPONSIVE

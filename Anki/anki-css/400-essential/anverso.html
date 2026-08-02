@@ -1,56 +1,123 @@
 <div class="flashcard front-flashcard">
-  <!-- <header class="header">
-    <h1 class="header__title">4000 Essential English Words</h1>
-  </header> -->
-
-  <!-- <h1 id="rubric">
-    4000 <br />
-    Essential English <br />
-    Words
-  </h1> -->
-
   <main class="main glass">
     <section class="main__word">
       <h2 class="word">{{Word}}</h2>
       <h3 class="ipa">{{IPA}}</h3>
     </section>
-    <!-- <section class="main__ipa">
-    </section> -->
+
     <div class="word-sound">{{Sound}}</div>
   </main>
 
-  <details class="details glass">
-    <summary>Meaning</summary>
-    {{Meaning/Translation}}
-  </details>
+  <section class="carousel glass">
+    <!-- <button class="carousel-btn prev">&#10094;</button> -->
 
-  {{#SimilarWord}}
-  <div class="panel glass">
-    <div class="similar-reveal">
-      <p class="similar-word">{{SimilarWord}}</p>
-      <p class="similar-meaning">{{SimilarMeaning}}</p>
+    <div class="carousel-window">
+      <div class="carousel-track">
+        <!-- Slide 1 -->
+        <article class="slide">
+          <h4>Meaning</h4>
+
+          <div class="reveal blurred">
+            {{Meaning/Translation}}
+          </div>
+        </article>
+
+        {{#SimilarWord}}
+
+        <!-- Slide 2 -->
+        <article class="slide">
+          <h4>Similar Word</h4>
+
+          <div class="similar-content">
+            <p class="similar-word">{{SimilarWord}}</p>
+
+            <p class="similar-meaning">
+              {{SimilarMeaning}}
+            </p>
+          </div>
+        </article>
+
+        {{/SimilarWord}}
+      </div>
     </div>
-  </div>
-  {{/SimilarWord}}
+
+    <!-- <button class="carousel-btn next">&#10095;</button> -->
+  </section>
+
+  <div class="carousel-dots"></div>
 
   <script>
     const unorderedList = document.querySelector('ul');
     const items = document.querySelectorAll('li');
 
-    if (
-      items.length > 6 &&
-      items.length < 18 &&
-      items.length !== 12
-    ) {
-      unorderedList.style.justifyContent = 'start';
+    // if (
+    //   items.length > 6 &&
+    //   items.length < 18 &&
+    //   items.length !== 12
+    // ) {
+    //   unorderedList.style.justifyContent = 'start';
+    // }
+
+    if (items.length < 6) {
+      unorderedList.style.justifyContent = 'center';
     }
 
-    document.addEventListener('click', ({ target }) => {
-      const reveal = target.closest('.similar-reveal');
+    // Testing
+    const track = document.querySelector('.carousel-track');
+    const slides = document.querySelectorAll('.slide');
+
+    // const prev = document.querySelector('.prev');
+    // const next = document.querySelector('.next');
+
+    let index = 0;
+
+    // prev.onclick = () => {
+    //   index = (index - 1 + slides.length) % slides.length;
+    //   update();
+    // };
+
+    // next.onclick = () => {
+    //   index = (index + 1) % slides.length;
+    //   update();
+    // };
+
+    function update() {
+      track.style.transform = `translateX(-${index * 100}%)`;
+
+      document
+        .querySelectorAll('.carousel-dot')
+        .forEach((dot, i) => {
+          dot.classList.toggle('active', i === index);
+        });
+    }
+
+    update();
+
+    document.addEventListener('click', (e) => {
+      const reveal = e.target.closest('.reveal');
 
       if (!reveal) return;
 
-      reveal.classList.toggle('show');
+      // reveal.classList.remove('blurred');
+      reveal.classList.toggle('blurred');
+    });
+
+    const dotsContainer = document.querySelector(
+      '.carousel-dots'
+    );
+
+    slides.forEach((_, i) => {
+      const dot = document.createElement('span');
+
+      dot.className = 'carousel-dot';
+
+      dot.onclick = () => {
+        index = i;
+
+        update();
+      };
+
+      dotsContainer.appendChild(dot);
     });
   </script>
 </div>
