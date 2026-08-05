@@ -6216,9 +6216,85 @@ Verbs:
 
 > Page: 185 or 196
 
+#### 92.1 Read Eric's answers to the questions. Write sentences about Eric with often / never, etc.
 
-·
+1. Do you ever play tennis?  
+	Yes, often.  
+	Eric often plays tennis.
+2. Do you get up early?  
+	Yes, always.  
+	He always gets up early.
+3. Are you ever late for work?  
+	No, never.  
+	He is never late for work.
+4. Do you ever get angry?  
+	Sometimes.  
+	He sometimes gets angry.
+5. Do you ever go swimming?  
+	Rarely.  
+	He rarely goes swimming.
+6. Are you at home in the evenings?  
+	Yes, usually.  
+	He is usually at home in the evenings.
 
+#### 92.2 Write these sentences with never / always / usually, etc.
+
+1. My brother speaks to me.  
+	My brother `never` speaks to me.
+2. Jessica is polite.  
+	Jessica is `always` polite.
+3. I finish work at 5:00.  
+	I `usually` finish work at 5:00.
+4. Sarah started a new job.  
+	Sarah `just` started a new job.
+5. I go to bed before midnight.  
+	I `rarely` go to bed before midnight.
+6. The bus isn't late.  
+	The bus isn't `usually` late.
+7. I don't eat fish.  
+	I don't `often` eat fish.
+8. I will forget what you said.  
+	I will `never` forget what you said.
+9. Have you lost your passport?  
+	Have you `ever` lost your passport?
+10. Do you work in the same place?  
+	Do you `still` work in the same place?
+11. They stay at the same hotel.  
+	They `always` stay at the same hotel.
+12. Liz doesn't work on Saturdays.  
+	Liz doesn't `usually` work on Saturdays.
+13. Is Megan here?  
+	Is Megan `already` here?
+14. What do you have for breakfast?  
+	What do you `usually` have for breakfast?
+15. I can remember his name.  
+	I can `never` remember his name.
+
+#### 92.3 Write sentences with also.
+
+1. Do you play football?  
+	Yes, and I `also` play basketball.
+2. Do you speak Italian?  
+	Yes, and I `also` speak French.
+3. Are you tired?  
+	Yes, and I am `also` hungry.
+4. Have you been to Mexico?  
+	Yes, and I've `also` been to Guatemala.
+5. Did you buy any clothes?  
+	Yes, and I `also` bought some books.
+
+#### 92.4 Write sentences with both and all.
+
+1. They `both` live in Lima.
+2. They `both` play soccer.
+3. They are `both` students.
+4. They `both` have cars.
+
+---
+
+1. They are `all` married.
+2. They were `all` born in Colombia.
+3. They `all` live in Miami.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6235,7 +6311,6 @@ Verbs:
 
 > Answer Key to Exercises 291 or 301
 
-·
 ### Unit 93 – still · yet · already
 
 > Page: 187 or 198
