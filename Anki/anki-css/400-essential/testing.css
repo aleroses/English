@@ -76,6 +76,18 @@
       var(--first-bg-color),
       var(--second-bg-color)
     ); */
+
+  background-image:
+    linear-gradient(
+      rgba(9, 11, 16, 0.75),
+      rgba(9, 11, 16, 0.75)
+    ),
+    url('rebecca.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 /* ==================================================
@@ -134,7 +146,6 @@
 /* Main container */
 
 .front-flashcard {
-  /* width: 100vw; */
   width: min(380px, 98vw);
   max-width: 400px;
   /* height: 88vh; */
@@ -142,19 +153,11 @@
 
   display: flex;
   flex-direction: column;
-  /* justify-self: center; */
-  /* align-items: center; */
   gap: 10px;
-
-  /* padding: 0.5rem; */
-  /* margin: 0 auto; */
-  /* margin: 0; */
 
   border-radius: 0 0 20px 20px;
 
   /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); */
-  /* background-color: rebeccapurple; */
-
   /* background-color: red; */
 }
 
@@ -538,14 +541,15 @@ ul .learn {
     ================================================== */
 
 .back-flashcard {
-  width: 100%;
+  width: min(380px, 98vw);
   max-width: 400px;
   /* height: 96vh;
   min-height: 500px; */
 
-  /* display: flex;
+  display: flex;
   flex-direction: column;
-  justify-content: center; */
+
+  /* justify-content: center; */
   /* align-items: center; */
 
   /* padding: 0; */
@@ -564,20 +568,26 @@ ul .learn {
 }
 
 .back-flashcard .header {
-  height: 50px;
+  /* height: 4rem; */
 
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
   align-items: center;
   /* gap: 40px; */
 
-  /* background-color: aqua; */
-  border-bottom: 4px solid var(--second-bg-color);
-  font-size: 24px;
-}
+  border-radius: 0 0 1rem 1rem;
 
-.back-flashcard .header .word {
-  color: var(--test-color);
+  /* border-bottom: 4px solid var(--second-bg-color); */
+  font-size: 24px;
+  /* padding: 1rem 0 1rem 0; */
+  margin-bottom: 1rem;
+
+  box-shadow:
+    0 12px 20px -5px rgba(0, 0, 0, 0.35),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+
+  /* background-color: aqua; */
 }
 
 /* Image */
@@ -586,6 +596,21 @@ ul .learn {
   aspect-ratio: 16/8;
   border-radius: 20px 20px 0 0;
   object-fit: cover;
+}
+
+.back-flashcard .header .header_word {
+  width: 100%;
+  height: 4rem;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  /* background-color: red; */
+}
+
+.back-flashcard .header .header_word .word {
+  color: var(--test-color);
 }
 
 .back-flashcard .main {
@@ -611,6 +636,10 @@ ul .learn {
   /* background: #fff; */
   /* background: var(--alternative-bg-four); */
   /* background-color: var(--test-bg); */
+  /* border-radius: 1rem 1rem 0 0; */
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
 .accordion .meaning,
@@ -623,7 +652,7 @@ ul .learn {
   color: var(--third-text-color);
   line-height: 1.5;
 
-  cursor: pointer;
+  /* cursor: pointer; */
   margin-bottom: 2px;
   transition: all 300ms ease;
 
@@ -684,21 +713,22 @@ ul .learn {
     ================================================== */
 
 .back-flashcard .footer {
-  position: absolute;
+  /* position: absolute;
   bottom: 0;
-  left: 50%;
+  left: 50%; */
 
-  width: 160px;
+  width: 100%;
   height: 60px;
 
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+  gap: 1rem;
 
-  transform: translateX(-50%);
+  /* transform: translateX(-50%); */
   /* background-color: aqua; */
 
-  z-index: 10;
+  /* z-index: 10; */
 }
 
 /* ==================================================
@@ -716,8 +746,13 @@ ul .learn {
 }
 
 .stop svg path {
-  fill: var(--second-bg-color);
+  fill: rgba(0, 0, 0, 0.1);
   stroke: var(--learn-word);
+
+  /* background: rgba(0, 0, 0, 0.1); */
+
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
 .word-sound svg path {
