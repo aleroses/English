@@ -66,20 +66,7 @@
     const track = document.querySelector('.carousel-track');
     const slides = document.querySelectorAll('.slide');
 
-    // const prev = document.querySelector('.prev');
-    // const next = document.querySelector('.next');
-
     let index = 0;
-
-    // prev.onclick = () => {
-    //   index = (index - 1 + slides.length) % slides.length;
-    //   update();
-    // };
-
-    // next.onclick = () => {
-    //   index = (index + 1) % slides.length;
-    //   update();
-    // };
 
     function update() {
       track.style.transform = `translateX(-${index * 100}%)`;
