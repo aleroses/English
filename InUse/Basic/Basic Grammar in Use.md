@@ -6290,7 +6290,7 @@ Verbs:
 3. They are `both` students.
 4. They `both` have cars.
 
----
+·
 
 1. They are `all` married.
 2. They were `all` born in Colombia.
@@ -6315,12 +6315,64 @@ Verbs:
 
 > Page: 187 or 198
 
+#### 93.1 You see Tina. The last time you saw her was two years ago. You ask her some questions with still.
 
+1. Do you `still` play the piano?
+2. Do you `still` have an old car?
+3. Are you `still` a student?
+4. Are you `still` studying Japanese?
+5. Do you `still` go to the movies a lot?
+6. Do you `still` want to be a teacher?
 
+#### 93.2 Write three sentences for each situation. Look at the example carefully.
 
+1. They were waiting for the bus. (before)
+2. They are `still` waiting.
+3. The bus hasn't come `yet`.
 
 ·
 
+1. He was looking for a job. (before)
+2. He is `still` looking for a job.
+3. He hasn't found a job `yet`.
+
+·
+
+1. She was asleep. (before)
+2. She is `still` asleep.
+3. She hasn't woken up `yet`.
+
+·
+
+1. They were having dinner. (before)
+2. They are `still` having dinner.
+3. They haven't finished their dinner `yet`.
+
+#### 93.3 Write questions with yet.
+
+1. You and Sue are going out together. You are waiting for her to get ready. Maybe she is ready now.  
+	You ask her: `Are you ready yet?`
+2. You are waiting for Jessica to arrive. She wasn't here 10 minutes ago. Maybe she is here now.  
+	You ask somebody: `Is she here yet?`
+3. Anna had a blood test and is waiting for the results. Maybe she has gotten her results.  
+	You ask her: `Have you gotten the results of your blood test yet?`
+4. A few days ago you spoke to Tom. He wasn't sure where to go for his vacation. Maybe he has decided.  
+	You ask him: `Have you decided where to go yet?`
+
+#### 93.4 Complete the sentences. Use already.
+
+1. What time is Joe coming?  
+	He's `already` here.
+2. Do they want to see the movie?  
+	No, they `already` saw it.
+3. I have to see Julia before she leaves.  
+	It's too late. She has `already` left.
+4. Do you need a pen?  
+	No, thanks. I `already` have one.
+5. Should I pay the bill?  
+	No, that's OK. I have `already` paid it.
+6. Should I tell Paul about the meeting?  
+	No, he `already` knows. I told him.
 
 <details>
   <summary>More 🔥☠️</summary>
