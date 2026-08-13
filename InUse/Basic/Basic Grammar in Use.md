@@ -6385,15 +6385,54 @@ Verbs:
 
 > Answer Key to Exercises 291 – 292 or 301 – 302
 
-·
-
 ### Unit 94 – Give me that book! · Give it to me!
 
 > Page: 189 or 200
 
+#### 94.1 Mark had some things that he didn't want. He gave them to different people.
 
-·
+Write sentences beginning He gave...
 
+1. What did Mark do with the armchair?  
+	He gave it to his brother.
+2. What did he do with the tennis racket?  
+	He gave it to Gary.
+3. What happened to the books?  
+	He gave them to Sarah.
+4. What about the lamp?  
+	He gave it to his sister.
+5. What did he do with the pictures?  
+	He gave them to Robert.
+6. And the ladder?  
+	He gave it to a neighbor.
+
+#### 94.2 You gave presents to your friends. You decided to give them the things in the pictures. Write a sentence for each person.
+
+1. I gave Paul a book.
+2. I gave Joanna a plant.
+3. I gave Richard a tie.
+4. I gave Emma a box of chocolates.
+5. I gave Rachel a bouquet of flowers.
+6. I gave Kevin a wallet.
+
+#### 94.3 Write questions beginning Can you give me...? / Can you pass me...?, etc.
+
+1. Can you pass me the salt?
+2. Can you lend me an umbrella?
+3. Can you give me your address?
+4. Can you lend me 20 dollars?
+5. Can you send me some more information?
+6. Can you show me the letter?
+
+#### 94.4 Which is correct?
+
+1. I gave Sarah the keys.
+2. I'll lend you some money if you want.
+3. Did you send the bill to me?
+4. I want to buy you a present.
+5. Can you pass me the sugar, please?
+6. This is Julia's bag. Can you give it to her?
+7. I showed the police officer my driver's license.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6405,15 +6444,41 @@ Verbs:
 
 > Answer Key to Exercises 292 or 302
 
-·
-
 ### Unit 95 – and · but · or · so · because
 
 > Page: 191 or 202
 
+#### 95.1 Write sentences. Choose from the boxes and use and / but / or.
 
-·
+1. I stayed home and watched TV.
+2. I bought a sandwich, but I didn't eat it.
+3. I went to the window and looked out. 
+4. I wanted to call you, but I didn't have your number.
+5. I jumped into the river and swam to the other side.
+6. I usually drive to work, but I took the bus this morning.
+7. Do you want me to come with you, or should I wait here?
 
+#### 95.2 Look at the pictures and complete the sentences. Use and / but / so / because.
+
+1. It was very hot, `so he opened the window`.
+2. They couldn't play tennis `because the weather was bad`
+3. They went to the museum, `but it was closed`.
+4. Ben wasn't hungry, `so he didn't eat anything`.
+5. Emily was late `because there was a lot of traffic`.
+6. Sue said `goodbye, got into her car, and drove off`.
+
+#### 95.3 Write sentences about what you did yesterday. Use and / but, etc.
+
+1. Last night I stayed home `and` studied.
+2. I went to bed very early `because` I was tired.
+3. I was hungry `but` I didn't eat anything.  
+	I went to the movies, `but` the movie wasn't very good.
+4. I studied English `and` watched TV.  
+	I went to a coffee shop `and` met some friends of mine.
+5. I had a test `so` I had to study.  
+	There was a movie on television, `so` I watched it.
+6. I had the noise `because` I had headache.  
+	I got up in the middle of the night `because` I couldn't sleep.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6424,8 +6489,6 @@ Verbs:
 </details>
 
 > Answer Key to Exercises 292 or 302
-
-·
 
 ### Unit 96 – When...
 
