@@ -1,506 +1,589 @@
-/* 
-  Variables Inglés-mil
-  Puedes cambiar los valores de estas variables de color y tamaño de fuente de letra para personalizar tu experiencia.
-*/
+/*==================================================
+= Variables
+==================================================*/
 
 :root {
-  /* ¡Aumenta el valor de max-width-card para aumentar el ancho máximo de tus tarjetas! */
-  --max-width-card: 400px;
+  /* Colors */
+  --bg-color: #0f1117;
+  --text-color: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.75);
 
-  /* ¡Aumenta el tamaño de fuente de letra para que las tarjetas sean más fácil de leer! Si quieres que el texto sea más grande y fácil de visualizar, te sugerimos que también aumentes el ancho máximo de la tarjeta para que tengas más espacio. La variable max-width de la tarjeta es la primera variable, encima de este comentario.
- */
-  --font-size-card: 18px;
-  --font-size-targetWord: 26px;
-  --font-size-header: 16px;
-  --font-size-irregular-form: 16px;
+  --glass-bg: rgba(255, 255, 255, 0.08);
+  --glass-border: rgba(255, 255, 255, 0.16);
 
-  /* ¡Cambia los valores de color de estas variables para cambiar los colores de tus tarjetas! Los colores del modo nocturno solo están activos cuando estás ejecutando Anki en modo nocturno (modo oscuro). */
-  --color-text-primary: #18191f;
-  --color-nightMode-text-primary: #fbfafe;
-  --color-card-background: #ffffff;
-  --color-nightMode-card-background: #0b0716;
-  --color-box-shadow: rgba(18, 62, 119, 0.1);
-  --color-audio-button: #8369ed;
-  --color-list-bullets: #8369ed;
-  --color-irregular-form-background: #f3f4f6;
-  --color-nightMode-irregular-form-background: #1f2937;
-  --color-irregular-form-border: #d1d5db;
-  --color-nightMode-irregular-form-border: #4b5563;
-  --color-nightMode-irregular-form-text: rgba(
-    255,
-    255,
-    255,
-    0.7
-  );
-  --color-hint: #6b7280;
-  --color-nightMode-hint: #9ca3af;
-  --color-sentence-translation: #6b7280;
-  --color-nightMode-sentence-translation: #9ca3af;
-  --color-header: #9ca3af;
-  --color-nightMode-header: rgba(255, 255, 255, 0.5);
-  --color-divider: #e5e7eb;
-  --color-nightMode-divider: #1f2937;
+  --input-bg: rgba(255, 255, 255, 0.05);
+
+  /* Effects */
+  --blur: 18px;
+
+  --shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+
+  /* Radius */
+
+  --radius-card: 28px;
+  --radius-panel: 18px;
+  --radius-circle: 50%;
+
+  /* Spacing */
+
+  --space-xs: 0.4rem;
+  --space-sm: 0.8rem;
+  --space-md: 1.2rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+
+  /* Typography */
+
+  --font-family: 'Roboto', 'Helvetica', sans-serif;
+
+  --font-title: 0.95rem;
+  --font-word: 2.3rem;
+  --font-input: 1.1rem;
+
+  /* Motion */
+
+  --transition: 0.25s ease;
 }
 
-/* Chrome Base Styles */
-p {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+/*==================================================
+= Reset
+==================================================*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-/* Anki Browser Styles */
-div {
-  display: block;
-}
-
+html,
 body {
-  display: block;
-  line-height: 1.187;
-}
-
-html {
-  display: block;
-  color: -internal-root-color;
-}
-
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
   margin: 0;
   padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
+
+img {
   display: block;
+  max-width: 100%;
 }
 
-ol,
-ul {
-  list-style: none;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
+button,
+input {
+  font: inherit;
 }
 
-/* Refold Specific Styles */
-
-/* Anki 2.1.49 sets box-sizing to content-box  */
-* {
-  box-sizing: border-box;
-}
-
-/* Copyright: Ankitects Pty Ltd and contributors
- * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
-
-body.nightMode::-webkit-scrollbar {
-  background: #2f2f31;
-}
-
-body.nightMode::-webkit-scrollbar:horizontal {
-  height: 12px;
-}
-
-body.nightMode::-webkit-scrollbar:vertical {
-  width: 12px;
-}
-
-body.nightMode::-webkit-scrollbar-thumb {
-  background: #656565;
-  border-radius: 8px;
-}
-
-body.nightMode::-webkit-scrollbar-thumb:horizontal {
-  min-width: 50px;
-}
-
-body.nightMode::-webkit-scrollbar-thumb:vertical {
-  min-height: 50px;
-}
+/*==================================================
+= Base
+==================================================*/
 
 body {
-  overscroll-behavior: none;
+  background: var(--bg-color);
+
+  color: var(--text-color);
+
+  font-family: var(--font-family);
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  min-height: 100vh;
+
+  padding: 24px;
 }
 
-/* night-mode-specific colours */
-/* Copyright: Ankitects Pty Ltd and contributors
- * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
-
-body {
-  margin: 0 !important;
-  overflow-wrap: break-word;
-}
-
-#_flag {
-  position: fixed;
-  right: 10px;
-  top: 0;
-  font-size: 30px;
-  display: none;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-}
-
-#_mark {
-  position: fixed;
-  left: 10px;
-  top: 0;
-  font-size: 30px;
-  color: yellow;
-  display: none;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-}
-
-#typeans {
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.typeGood {
-  background: #0f0;
-}
-
-.typeBad {
-  background: #f00;
-}
-
-.typeMissed {
-  background: #ccc;
-}
-
-.nightMode .latex {
-  filter: invert(100%);
-}
-
-.drawing {
-  zoom: 50%;
-}
-
-.nightMode img.drawing {
-  filter: invert(1) hue-rotate(180deg);
-}
-
-/* Inglés-mil STYLES */
+/*==================================================
+= Card
+==================================================*/
 
 .card {
-  padding: 16px;
-}
+  /* width: 100vw; */
+  /* height: auto; */
+  /* height: 100vh; */
+  height: 100vh;
 
-.customCard {
-  margin: 0 auto;
-
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
 
-  background-color: var(--color-card-background);
-  box-shadow: 1px 3px 10px var(--color-box-shadow);
-  border-radius: 8px;
-  min-height: 200px;
-  max-width: var(--max-width-card);
+  /* margin: 0; */
+  color: var(--fourth-text-color);
+  /* background-color: var(--second-bg-color); */
 
-  font-weight: 500;
-  font-size: var(--font-size-card);
-  font-family: 'Inter', sans-serif;
-  color: var(--color-text-primary);
+  background-image:
+    linear-gradient(
+      rgba(9, 11, 16, 0.75),
+      rgba(9, 11, 16, 0.75)
+    ),
+    url('pika.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-.nightMode .customCard {
-  color: var(--color-nightMode-text-primary);
-  background-color: var(--color-nightMode-card-background);
+.card.nightMode {
+  /* width: 100vw; */
+  height: 100vh;
+
+  /* margin: 0; */
+  color: var(--fourth-text-color);
+  /* background-color: var(--first-bg-color); */
+
+  /* background: linear-gradient(
+      135deg,
+      var(--first-bg-color),
+      var(--second-bg-color)
+    ); */
+
+  background-image:
+    linear-gradient(
+      rgba(9, 11, 16, 0.75),
+      rgba(9, 11, 16, 0.75)
+    ),
+    url('pika.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-.cardBack {
+.flashcard {
+  /* width: 100%;
+
+  max-width: 420px;
+
+  display: flex;
+
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
 
-  padding-top: 24px;
-  padding-bottom: 8px;
-}
+  gap: 28px;
 
-.targetWordContainer {
-  margin-top: 8px;
-  margin-bottom: 24px;
-}
+  padding: 36px 28px;
 
-.targetWord {
-  font-size: var(--font-size-targetWord);
-  font-weight: 600;
-}
+  border-radius: var(--radius-card);
 
-.definitionsList {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  padding-left: 16px;
-}
+  background: var(--glass-bg);
 
-.definitionsList li::before {
-  content: '\2022';
-  color: var(--color-list-bullets);
-  display: inline-block;
-  width: 8px;
-  margin-left: -16px;
-  margin-right: 8px;
-  font-size: 22px;
-}
+  backdrop-filter: blur(var(--blur));
 
-.wordAudioButtonFront {
-  position: absolute;
-  top: 12px;
-  right: 18px;
-}
-.wordAudioButtonBack {
-  margin-left: 8px;
-}
-.replay-button {
-  padding: 8px;
-}
-.replay-button svg {
-  width: 28px;
-  height: 28px;
-}
-.replay-button svg path {
-  fill: var(--color-audio-button);
-}
-.replay-button svg circle {
-  fill: none;
-  stroke: none;
-}
+  -webkit-backdrop-filter: blur(var(--blur));
 
-.irregularFormsContainer {
+  border: 1px solid var(--glass-border);
+
+  box-shadow: var(--shadow); */
+  width: min(380px, 98vw);
+  max-width: 400px;
+  /* height: 88vh; */
+  /* min-height: 520px; */
+
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 1rem;
 
-  margin-top: 12px;
+  border-radius: 0 0 20px 20px;
+
+  /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); */
+  /* background-color: red; */
 }
 
-.irregularForm {
-  background-color: var(--color-irregular-form-background);
-  border: 0.5px solid var(--color-irregular-form-border);
-  border-radius: 40px;
+/* ==================================================
+    REUSABLE COMPONENTS
+    ================================================== */
 
-  font-size: var(--font-size-irregular-form);
+/* Glassmorphism */
 
-  padding: 3px 12px 5px;
-  margin-right: 10px;
-  margin-bottom: 8px;
+.glass {
+  background: rgba(0, 0, 0, 0.1);
+
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  /* border: 1px solid rgba(0, 0, 0, 0.1); */
+  /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35); */
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+
+  border-radius: 16px;
 }
 
-.nightMode .irregularForm {
-  color: var(--color-nightMode-irregular-form-text);
-  background-color: var(
-    --color-nightMode-irregular-form-background
-  );
-  border-color: var(
-    --color-nightMode-irregular-form-border
-  );
-}
-
-.image {
-  border-top: 1px solid var(--color-divider);
-  border-bottom: 1px solid var(--color-divider);
-  margin-top: 16px;
-
-  width: 100%;
-  height: 210px;
-  margin-top: 16px;
-}
-
-.image img {
-  object-fit: contain;
-  width: 100% !important;
-  height: 100% !important;
-  max-width: 100% !important;
-  max-height: 100% !important;
-}
-
-.hint {
-  color: var(--color-hint);
-}
-
-.nightMode .hint {
-  color: var(--color-nightMode-hint);
-}
-
-.sentenceTranslation {
-  color: var(--color-sentence-translation);
-  font-weight: 400;
-  font-style: italic;
-  padding-right: 15px;
-}
-
-.nightMode .sentenceTranslation {
-  color: var(--color-nightMode-sentence-translation);
-}
-
-.reportIconContainer {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
+/*==================================================
+= Header
+==================================================*/
 
 .header {
-  color: var(--color-header);
-  font-size: var(--font-size-header);
-  font-weight: 400;
-  margin-top: 8px;
-  margin-bottom: 8px;
-}
+  text-align: center;
 
-.nightMode .header {
-  color: var(--color-nightMode-header);
-}
-
-.dividerLine {
-  width: 100%;
-  border-bottom: 1px solid var(--color-divider);
-  margin-top: 8px;
-  margin-bottom: 8px;
-}
-
-.nightMode .dividerLine {
-  border-color: var(--color-nightMode-divider);
-}
-
-.horizontalPadding {
-  width: 100%;
-  padding-left: 16px;
-  padding-right: 16px;
-}
-
-.indent {
-  padding-left: 12px;
-}
-
-.centerVertically {
   display: flex;
-  align-items: center;
+
+  flex-direction: column;
+
+  gap: 10px;
 }
 
-@font-face {
-  font-family: Inter;
-  src: url('_Inter-Regular.ttf');
-  font-weight: 400;
-}
-@font-face {
-  font-family: Inter;
-  src: url('_Inter-Medium.ttf');
+.header__title {
+  margin: 0;
+
+  color: var(--text-secondary);
+
+  font-size: var(--font-title);
+
   font-weight: 500;
+
+  letter-spacing: 0.04em;
 }
-@font-face {
-  font-family: Inter;
-  src: url('_Inter-SemiBold.ttf');
-  font-weight: 600;
+
+.header__word {
+  margin: 0;
+
+  font-size: var(--font-word);
+
+  font-weight: 700;
+
+  letter-spacing: 0.02em;
+}
+
+/*==================================================
+= Audio
+==================================================*/
+
+.audio {
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  gap: 18px;
+}
+
+.audio__button {
+  width: 48px;
+
+  height: 48px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  border-radius: var(--radius-circle);
+
+  background: rgba(255, 255, 255, 0.08);
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  cursor: pointer;
+
+  transition: var(--transition);
+}
+
+.audio__button:hover {
+  transform: translateY(-2px);
+
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.audio__button:active {
+  transform: scale(0.95);
+}
+
+/*==================================================
+= Answer
+==================================================*/
+
+.answer {
+  display: flex;
+
+  justify-content: center;
+}
+
+.answer input {
+  width: 100%;
+
+  padding: 14px 18px;
+
+  border: none;
+
+  outline: none;
+
+  border-radius: 14px;
+
+  background: var(--input-bg);
+
+  border: 1px solid rgba(255, 255, 255, 0.12);
+
+  color: white;
+
+  font-size: var(--font-input);
+
+  transition: var(--transition);
+}
+
+.answer input:focus {
+  border-color: rgba(255, 255, 255, 0.35);
+
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/*==================================================
+= Animations
+==================================================*/
+
+.flashcard {
+  animation: fadeUp 0.45s ease;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+
+    transform: none;
+  }
+}
+
+/*==================================================
+= Responsive
+==================================================*/
+
+@media (max-width: 480px) {
+  .flashcard {
+    padding: 28px 20px;
+
+    gap: 22px;
+  }
+
+  .header__word {
+    font-size: 2rem;
+  }
+
+  .audio__button {
+    width: 44px;
+
+    height: 44px;
+  }
+}
+
+/*==================================================
+= Panel
+==================================================*/
+
+.panel {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 22px;
+
+  padding: 22px;
+
+  border-radius: var(--radius-panel);
+
+  background: rgba(255, 255, 255, 0.05);
+
+  border: 1px solid rgba(255, 255, 255, 0.1);
+
+  backdrop-filter: blur(12px);
+
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/*==================================================
+= Definition
+==================================================*/
+
+.definition {
+  perspective: 1200px;
+
+  width: 100%;
+}
+
+.definition__card {
+  position: relative;
+
+  width: 100%;
+
+  min-height: 120px;
+
+  transform-style: preserve-3d;
+
+  transition: transform 0.45s ease-in-out;
+}
+
+.definition__card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.definition__face {
+  position: absolute;
+
+  inset: 0;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  padding: 18px;
+
+  border-radius: 16px;
+
+  background: rgba(255, 255, 255, 0.08);
+
+  border: 1px solid rgba(255, 255, 255, 0.12);
+
+  backface-visibility: hidden;
+
+  -webkit-backface-visibility: hidden;
+}
+
+.definition__face--back {
+  transform: rotateY(180deg);
+}
+
+.definition__list {
+  list-style: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  width: 100%;
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 10px;
+
+  text-align: center;
+}
+
+.definition__list li {
+  font-size: 1.05rem;
+
+  line-height: 1.5;
+}
+
+.definition__verbs {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: center;
+
+  gap: 10px;
+}
+
+.definition__verb {
+  padding: 0.45rem 0.9rem;
+
+  border-radius: 999px;
+
+  background: rgba(255, 255, 255, 0.1);
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  font-family: 'Roboto Mono', monospace;
+
+  font-size: 0.95rem;
+
+  letter-spacing: 0.04em;
+}
+
+/*==================================================
+= Sentence
+==================================================*/
+
+.sentence {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 12px;
+
+  text-align: center;
+}
+
+.sentence__original {
+  font-size: 1rem;
+
+  line-height: 1.6;
+}
+
+.sentence__arrow {
+  color: rgba(255, 255, 255, 0.45);
+
+  font-size: 1.3rem;
+}
+
+.sentence__translation {
+  color: rgba(255, 255, 255, 0.75);
+
+  font-size: 0.95rem;
+
+  line-height: 1.6;
+}
+
+/*==================================================
+= Flip
+==================================================*/
+
+.definition__card {
+  cursor: pointer;
+}
+
+.definition__card:hover {
+  transform: translateY(-2px);
+}
+
+.definition__card.is-flipped:hover {
+  transform: rotateY(180deg) translateY(-2px);
+}
+
+@media (max-width: 480px) {
+  .panel {
+    padding: 18px;
+
+    gap: 18px;
+  }
+
+  .definition__card {
+    min-height: 110px;
+  }
+
+  .definition__verb {
+    font-size: 0.9rem;
+  }
+}
+
+.definition__card {
+  perspective: 1200px;
+}
+
+.definition__inner {
+  position: relative;
+  min-height: 120px;
+  transform-style: preserve-3d;
+  transition: transform 0.45s ease-in-out;
+
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.definition__inner.is-flipped {
+  transform: rotateY(180deg);
 }

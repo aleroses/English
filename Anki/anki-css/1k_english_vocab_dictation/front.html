@@ -1,16 +1,19 @@
-<div class="custom-card front">
-  <header class="header">
-    <h1 class="header__title">
+<div class="flashcard card--front">
+  <header class="header glass">
+    <p class="header__title">
       Write the sentence you hear.
-    </h1>
-    <h2 class="header__word">{{word}}</h2>
+    </p>
+
+    <h1 class="header__word">{{word}}</h1>
   </header>
 
-  <section class="audio">
-    <div class="audio__word">{{word_audio}}</div>
-    <div class="audio__pause">{{pause}}</div>
-    <div class="audio__sentence">{{sentence_audio}}</div>
+  <section class="audio" aria-label="Word audio controls">
+    <div class="audio__button">{{word_audio}}</div>
+
+    <div class="audio__button">{{pause}}</div>
+
+    <div class="audio__button">{{sentence_audio}}</div>
   </section>
 
-  <div class="sentence">{{type:sentence}}</div>
+  <section class="answer">{{type:sentence}}</section>
 </div>

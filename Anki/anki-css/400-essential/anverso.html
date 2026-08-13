@@ -22,14 +22,14 @@
           </div>
         </article>
 
-        {{#SimilarWord}}
+        {{#SimilarWords}}
 
         <!-- Slide 2 -->
         <article class="slide">
           <h4>Similar Word</h4>
 
           <div class="similar-content">
-            <p class="similar-word">{{SimilarWord}}</p>
+            <p class="similar-word">{{SimilarWords}}</p>
 
             <p class="similar-meaning">
               {{SimilarMeaning}}
@@ -37,7 +37,7 @@
           </div>
         </article>
 
-        {{/SimilarWord}}
+        {{/SimilarWords}}
       </div>
     </div>
 
@@ -65,46 +65,62 @@
     // Testing
     const track = document.querySelector('.carousel-track');
     const slides = document.querySelectorAll('.slide');
+    const dotsContainer = document.querySelector(
+      '.carousel-dots'
+    );
 
+    const slideCount = slides.length;
     let index = 0;
 
     function update() {
       track.style.transform = `translateX(-${index * 100}%)`;
-
-      document
+      dotsContainer
         .querySelectorAll('.carousel-dot')
         .forEach((dot, i) => {
           dot.classList.toggle('active', i === index);
         });
     }
 
+    if (slideCount > 1) {
+      slides.forEach((slide, i) => {
+        const dot = document.createElement('div');
+        dot.className = 'carousel-dot';
+
+        if (i === 0) dot.classList.add('active');
+
+        dot.addEventListener('click', () => {
+          index = i;
+          update();
+        });
+
+        dotsContainer.appendChild(dot);
+      });
+    } else {
+      dotsContainer.style.display = 'none';
+    }
+
     update();
 
     document.addEventListener('click', (e) => {
       const reveal = e.target.closest('.reveal');
-
       if (!reveal) return;
-
-      // reveal.classList.remove('blurred');
       reveal.classList.toggle('blurred');
     });
 
-    const dotsContainer = document.querySelector(
-      '.carousel-dots'
-    );
+    // no va?
 
-    slides.forEach((_, i) => {
-      const dot = document.createElement('span');
+    // slides.forEach((_, i) => {
+    //   const dot = document.createElement('span');
 
-      dot.className = 'carousel-dot';
+    //   dot.className = 'carousel-dot';
 
-      dot.onclick = () => {
-        index = i;
+    //   dot.onclick = () => {
+    //     index = i;
 
-        update();
-      };
+    //     update();
+    //   };
 
-      dotsContainer.appendChild(dot);
-    });
+    //   dotsContainer.appendChild(dot);
+    // });
   </script>
 </div>

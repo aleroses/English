@@ -1,35 +1,78 @@
-<div class="custom-card back">
+<div class="flashcard card--back">
   <header class="header">
     <h1 class="header__word">{{word}}</h1>
   </header>
 
-  <main class="main">
-    <section class="main__definition">
-      <ul class="main__definition--list">
-        <li>{{definition_01}}</li>
+  <section class="panel">
+    <!-- Definition -->
 
-        {{#definition_02}}
-        <li>{{definition_02}}</li>
-        {{/definition_02}}
-      </ul>
-    </section>
-    <section class="main__verbs">
-      <ul class="main__verbs--list">
-        <li>{{irregular_verb_01}}</li>
-        <li>{{irregular_verb_02}}</li>
-        <li>{{irregular_verb_03}}</li>
-      </ul>
-    </section>
-  </main>
+    <section class="definition">
+      <div class="definition__card">
+        <div class="definition__inner">
+          <!-- FRONT -->
 
-  <section class="sentence">
-    <p>{{type:sentence}}</p>
-    <div class="">{{hint:translation}}</div>
+          <div
+            class="definition__face definition__face--front"
+          >
+            <ul class="definition__list">
+              <li>{{definition_01}}</li>
+
+              {{#definition_02}}
+              <li>{{definition_02}}</li>
+              {{/definition_02}}
+            </ul>
+          </div>
+
+          <!-- BACK -->
+
+          {{#irregular_verb_01}}
+
+          <div
+            class="definition__face definition__face--back"
+          >
+            <div class="definition__verbs">
+              <span class="definition__verb">
+                {{irregular_verb_01}}
+              </span>
+
+              {{#irregular_verb_02}}
+              <span class="definition__verb">
+                {{irregular_verb_02}}
+              </span>
+              {{/irregular_verb_02}} {{#irregular_verb_03}}
+              <span class="definition__verb">
+                {{irregular_verb_03}}
+              </span>
+              {{/irregular_verb_03}}
+            </div>
+          </div>
+
+          {{/irregular_verb_01}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Sentence -->
+
+    <section class="sentence">
+      <div class="sentence__original">
+        {{type:sentence}}
+      </div>
+
+      <div class="sentence__arrow">↓</div>
+
+      <div class="sentence__translation">
+        {{hint:translation}}
+      </div>
+    </section>
   </section>
 
   <footer class="audio">
-    <div class="audio_word">{{word_audio}}</div>
-    <div class="audio_pause">{{pause}}</div>
-    <div class="audio_sentence">{{sentence_audio}}</div>
+    <div class="audio__button">{{word_audio}}</div>
+
+    <div class="audio__button">{{pause}}</div>
+    <!-- <div class="audio__button">[sound:_1sec.mp3]</div> -->
+
+    <div class="audio__button">{{sentence_audio}}</div>
   </footer>
 </div>
