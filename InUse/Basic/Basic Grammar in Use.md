@@ -6494,9 +6494,51 @@ Write sentences beginning He gave...
 
 > Page: 193 or 204
 
+#### 96.1 Write sentences beginning with When. Choose from the boxes.
 
-·
+1. When I went out, it was raining.
+2. When I'm tired, I like to watch TV.
+3. When I knocked on the door, there was no answer.
+4. When I go on vacation, I always go to the same place.
+5. When the program ended, I turned off the TV.
+6. When I got to the hotel, there were no rooms.
 
+#### 96.2 Complete the sentences using the following:
+
+1. They looked both ways `before they crossed the street`.
+2. They were very surprised `when they heard the news`.
+3. After they got married, `they went to live in France`.
+4. Their house was damaged in a storm `while they were away`.
+5. Where did they live `before they came here`.
+6. While we were asleep, `somebody broke into the house`.
+7. When I told them what happened, `they didn't believe me`.
+
+#### 96.3 Which is right?
+
+1. I'll stay here until you come back.
+2. I'm going to bed when I finish my work.
+3. We must do something before it is too late.
+4. Lauren is moving away soon. I'll be very sad when she leaves.
+5. Don't go out yet. Wait until the rain stops.
+6. We'll come and visit you when we're in Toronto again.
+7. When I come to see you tomorrow, I'll bring our vacation photos.
+8. I'm going to Quebec next week. I hope to see some friends of mine while I'm there.
+9. Let's go for a walk before it gets too dark.
+10. I'm not ready yet. I'll tell you when I'm ready.
+
+#### 96.4 Use your own ideas to complete these sentences.
+
+1. Can you close the window before `you go out`?
+2. What are you going to do when `you are older`?  
+	When `you finish your work`?
+3. When I have enough money, `I want to travel`.  
+	`I'm going to buy a motorcycle`.
+4. I'll wait for you while `you're getting ready`.  
+	`you get ready`.
+5. When I start my new job, `I was happy`.  
+	`I won't have much free time`.
+6. Will you be here when `I am at work`?  
+	`I come back`?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6509,9 +6551,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 292 or 302
-
-·
-
 
 ### Unit 97 – If we go... · If you see..., etc.
 
