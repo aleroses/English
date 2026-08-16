@@ -6556,9 +6556,53 @@ Write sentences beginning He gave...
 
 > Page: 195 or 206
 
+#### 97.1 Write sentences beginning with if. Choose from the boxes.
 
-·
+1. If you don't hurry, you'll be late.
+2. If you pass the driving test, you'll get your license.
+3. If you fail the driving test, you can take it again.
+4. If you don't want this magazine, I'll throw it away.
+5. If you want those pictures, you can have them.
+6. If you're busy now, we can talk later.
+7. If you're hungry, we can have lunch now.
+8. If you need money, I can lend you some.
 
+#### 97.2 Which is right?
+
+1. If `I'm` late tonight, don't wait for me.
+2. Will you call me if `I give` you my phone number?
+3. If there `is` a fire, the alarm will ring.
+4. If I don't see you tomorrow morning, `I'll call` you in the afternoon.
+5. `I'll be` surprised if John and Rachel `get` married.
+6. `Will you go` to the party if `they invite` you?
+
+#### 97.3 Use your own ideas to complete these sentences.
+
+1. I'm going to the concert if `I can get a ticket`.
+2. If you don't hurry, `you'll miss the train`.
+3. I don't want to disturb you if `you are busy`.
+4. If you go to bed early tonight, `I won't call you`.  
+	You'll feel better in the morning.
+5. Turn the TV off if `you aren't watching it`.
+6. Rachel won't pass her driving test if `she doesnt study`.  
+	She doesn't practice.
+7. If I have time tomorrow, `I'm going to the cinema`.  
+	I'll go and see Chris.
+8. We can go to the beach tomorrow if `you want`.  
+	The weather is good.
+9. I'll be surprised if `she enter the university`.  
+	It rains today.
+
+#### 97.4 Write if or when.
+
+1. `If` I'm late tonight, don't wait for me.
+2. I'm going shopping now. `When` I come back, we can have lunch.
+3. I'm thinking of going to see Tom. `If` I go, will you come with me?
+4. `If` you don't want to go out tonight, we can stay at home.
+5. Is it OK `if` I close the window?
+6. John is still in high school. `When` he finishes, he wants to go to college.
+7. Do you want to go on a picnic tomorrow `if` the weather is good?
+8. We're going to Mexico City next week. We're going to look for a hotel `when` we get there. I don't know what we'll do `if` we don't find a room.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6570,9 +6614,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 293 or 303
-
-·
-
 
 ### Unit 98 – If I had... · If we went..., etc.
 
