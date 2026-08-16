@@ -31,7 +31,9 @@ Card Variables
    ================================================== */
 
   --glass-bg: rgba(0, 0, 0, 0.1);
-  --glass-border: rgba(255, 255, 255, 0.35);
+  /* --glass-border: rgba(255, 255, 255, 0.35); */
+  /* --glass-border: rgba(255, 255, 255, 0.35); */
+  --glass-border: rgba(34, 34, 217, 0.35);
   --glass-shadow: rgba(0, 0, 0, 0.15);
 
   --glass-blur: 12px;
@@ -55,12 +57,12 @@ Card Variables
   box-sizing: border-box;
 }
 
-ol,
+/* ol,
 ul {
   list-style: none;
-}
+} */
 
-blockquote,
+/* blockquote,
 q {
   quotes: none;
 }
@@ -75,19 +77,16 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-}
+} */
 
 /* Refold Specific Styles */
 
 /* Anki 2.1.49 sets box-sizing to content-box  */
-* {
-  box-sizing: border-box;
-}
 
 /* Copyright: Ankitects Pty Ltd and contributors
  * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
 
-body.nightMode::-webkit-scrollbar {
+/* body.nightMode::-webkit-scrollbar {
   background: #2f2f31;
 }
 
@@ -114,22 +113,43 @@ body.nightMode::-webkit-scrollbar-thumb:vertical {
 
 body {
   overscroll-behavior: none;
-}
+} */
 
 /* night-mode-specific colours */
 /* Copyright: Ankitects Pty Ltd and contributors
  * License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html */
 
-body {
+/* body {
   margin: 0 !important;
   overflow-wrap: break-word;
+} */
+
+/* ==================================================
+    3. REUSABLE COMPONENTS
+    ================================================== */
+
+/* Glassmorphism */
+
+.glass {
+  background: rgba(0, 0, 0, 0.1);
+
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  /* border: 1px solid rgba(0, 0, 0, 0.1); */
+  /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35); */
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+
+  border-radius: 16px;
 }
 
 /* =====================================================
    ANKI DEFAULT STYLES
 ===================================================== */
 
-#_flag {
+/* #_flag {
   position: fixed;
   right: 10px;
   top: 0;
@@ -153,7 +173,7 @@ body {
 #typeans {
   width: 100%;
   box-sizing: border-box;
-}
+} */
 
 .typeGood {
   background: #0f0;
@@ -167,7 +187,7 @@ body {
   background: #ccc;
 }
 
-.nightMode .latex {
+/* .nightMode .latex {
   filter: invert(100%);
 }
 
@@ -177,7 +197,7 @@ body {
 
 .nightMode img.drawing {
   filter: invert(1) hue-rotate(180deg);
-}
+} */
 
 /* CZ1K STYLES */
 
@@ -190,7 +210,7 @@ body {
       rgba(9, 11, 16, 0.75),
       rgba(9, 11, 16, 0.75)
     ),
-    url('amo_gachiakuta.jpeg');
+    url('n_18.jpeg');
 
   background-size: cover;
   background-position: center;
@@ -231,18 +251,18 @@ body {
   /* padding: 0 16px 0 16px; */
 
   /* Glass */
-  background: var(--glass-bg);
+  /* background: var(--glass-bg); */
   border: 1px solid var(--glass-border);
 
-  backdrop-filter: blur(var(--glass-blur))
+  /* backdrop-filter: blur(var(--glass-blur))
     saturate(var(--glass-saturate));
 
   -webkit-backdrop-filter: blur(var(--glass-blur))
     saturate(var(--glass-saturate));
 
-  box-shadow: 0 8px 32px var(--glass-shadow);
+  box-shadow: 0 8px 32px var(--glass-shadow); */
 
-  border-radius: 16px;
+  /* border-radius: 16px; */
   /* Glass */
 
   font-weight: 500;
@@ -257,16 +277,16 @@ body {
 }
 
 .nightMode .customCard {
-  color: var(--color-nightMode-text-primary);
   /* background-color: var(--color-nightMode-card-background); */
+  color: var(--color-nightMode-text-primary);
 
   /* Glass */
-  color: var(--color-nightMode-text-primary);
+  /* color: var(--color-nightMode-text-primary); */
 
-  background: var(--glass-night-bg);
-  border-color: var(--glass-night-border);
+  /* background: var(--glass-night-bg);
+  border-color: var(--glass-night-border); */
 
-  box-shadow: 0 8px 32px var(--glass-night-shadow);
+  /* box-shadow: 0 8px 32px var(--glass-night-shadow); */
 }
 
 .cardFront {
