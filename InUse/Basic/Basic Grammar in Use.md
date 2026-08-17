@@ -6619,9 +6619,56 @@ Write sentences beginning He gave...
 
 > Page: 197 or 208
 
+#### 98.1 Complete the sentences.
 
-·
+1. I don't know the answer. If I `knew` the answer, I'd tell you.
+2. I have a car. I couldn't travel very much if I `didn't have` a car.
+3. I don't want to go out. If I `wanted` to go out, I'd go.
+4. We don't have a key. If we `had` a key, we could get into the house.
+5. I'm not hungry. I would have something to eat if I `were` hungry.
+6. Sue enjoys her work. She wouldn't do it if she `didn't enjoy` it.
+7. He can't speak any foreign languages. If he `could` speak a foreign language, maybe he would get a better job.
+8. You don't try hard enough. If you `tried` harder, you would have more success.
+9. I have a lot to do today. If I `didn't have` so much to do, we could go out.
 
+#### 98.2 Put the verb in the correct form.
+
+1. If `he had` the money, he would buy a fast car.
+2. Hannah likes living in a city. `She wouldn't be` happy if she lived in the country.
+3. If I wanted to learn Italian, `I'd go` to Italy.
+4. I didn't tell Helen what happened. She'd be angry if `she knew`.
+5. If `we had` a map, I could show you where I live.
+6. What would you do if `won` a lot of money?
+7. It's not a very good hotel. `I wouldn't stay` there if I were you.
+8. If `we lived` closer to Miami, we would go there more often.
+9. I'm sorry you have to go now. `It'd be` nice if you had more time.
+10. I'm not going to take the job. I'd take it if `the salary was` better.
+11. I don't know anything about cars. If my car broken down, `I wouldn't know` what to do.
+12. If you could change one thing in the world, what `would you change`?
+
+#### 98.3 Complete the sentences. Choose from the box and put the verb in the correct form:
+
+1. I'd buy that jacket if `It was a little cheaper`.
+2. If there was a good movie on TV tonight, `I'd watch it`.
+3. This room would be nicer if `we had some pictures on the wall`.
+4. If there wasn't so much traffic, `the air would be cleaner`.
+5. Life would be boring if `every day was the same`.
+6. If I had nothing to do, `I'd be bored`.
+7. We could invite all our friends to stay if `we had a bigger house`.
+8. If we had more money, `we'd buy a bigger house`.
+
+#### 98.4 Complete the sentences. Use your own ideas.
+
+1. I'd be happier if `I had less work`.
+2. If I could go anywhere in the world, `I'd go to Japan`.  
+	I'd go to Antarctica.
+3. I wouldn't be very happy if `the weather were very cold`.  
+	Didn't have any friends.
+4. I'd buy `a house` if `I had enough money`.  
+5. If I saw an accident in the street, `I'd call 911`.  
+	I'd try and help.
+6. The world would be a better place if `everyone lived in peace`.  
+	There were no guns.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6632,9 +6679,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 293 or 303
-
-·
-
 
 ### Unit 99 – a person who... · a thing that / which... (relative clauses 1)
 
