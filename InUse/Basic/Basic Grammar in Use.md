@@ -6684,9 +6684,47 @@ Write sentences beginning He gave...
 
 > Page: 199 or 210
 
+#### 99.1 Choose from the boxes and write sentences: A... is a person who... Use a dictionary if necessary.
 
-·
+1. A thief is a person who steals things.
+2. A butcher is a person `who` sells meat.
+3. A musician is a person `who` plays a musical instrument.
+4. A patient is a person `who` is sick in the hospital.
+5. A dentist is a person `who` takes care of your teeth.
+6. A fool is a person `who` does stupid things.
+7. A genius is a person `who` is very intelligent.
+8. A liar is a person `who` doesn't tell the truth.
 
+#### 99.2 Make one sentences from two.
+
+1. The man who called didn't give his name.
+2. The woman who opened the door was wearing a yellow dress.
+3. Most of the students who took the test passed it.
+4. The police officer who stopped our car wasn't very friendly.
+
+#### 99.3 Write who or which.
+
+1. I met a woman `who` can speak six languages.
+2. What's the name of the man `who` just started working in your office?
+3. What's the name of the river `which/that` flows through the town?
+4. Where is the picture `which/that` was hanging on the wall?
+5. Do you know anybody `who` wants to buy a car?
+6. You always ask questions `which/that` are difficult to answer.
+7. I have a friend `who` is very good at fixing cars.
+8. I think everybody `who` went to the party really enjoyed it.
+9. Why does he always wear clothes `which/that` are too small for him?
+
+#### 99.4 Right or wrong? Correct the mistakes.
+
+1. A thief is a person `who` steals things.
+2. An airplane is a machine `which / that` flies.
+3. A coffeemaker is a machine `which / that` makes coffee.
+4. What happened to the money `which / that` was on the table?
+5. I don't like people `who / that` never stop talking.
+6. I know somebody `who / that` can help you.
+7. I know somebody `who / that` works in that store.
+8. Correct the sentences `which / that` are wrong.
+9. My neighbor bought a car `which / that` cost $60 000.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6698,8 +6736,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 293 or 303
-
-·
 
 ### Unit 100 – the people we met · the hotel you stayed at (relative clauses 2)
 
