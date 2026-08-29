@@ -6741,9 +6741,59 @@ Write sentences beginning He gave...
 
 > Page: 201 or 212
 
+#### 100.1 Make one sentence from two.
 
-·
+1. (Helen took some pictures. Have you seen them?)  
+	Have you seen the pictures Helen took?
+2. (You gave me a pen. I lost it.)  
+	I lost the pen you gave me.
+3. (Sue is wearing a jacket. I like it.)  
+	I like the jacket Sue is wearing.
+4. (I gave you some flowers. Where are they?)  
+	Where are the flowers I gave you?
+5. (He told us a story. I didn't believe it.)  
+	I didn't believe the story he told us.
+6. (You bought some oranges. How much were they?)  
+	How much were the oranges you bought?
 
+#### 100.2 Make one sentence from two.
+
+1. (I was carrying a bag. It was very heavy.)  
+	The bag I was carrying was very heavy.
+2. (You cooked a meal. It was excellent.)  
+	The meal you cooked was excellent.
+3. (I'm wearing shoes. They aren't very comfortable.)  
+	The shoes I'm wearing aren't very comfortable.
+4. (We invited some people to dinner. They didn't come.)  
+	The people we invited to dinner didn't come.
+
+#### 100.3 You ask your friend some questions. Complete the sentences.
+
+1. Your friend stayed at a hotel. You ask:  
+	What's the name of `the hotel you stayed at`.
+2. Your friend was talking to some people. You ask:  
+	Who are the people `you were talking to`?
+3. Your friend was looking for some keys. You ask:  
+	Did you find the `keys you were looking for`?
+4. Your friend is going to a party. You ask:  
+	Where is the `party you're going to`.
+5. Your friend was talking about a movie. You ask:  
+	What's the name of `the movie you were talking about`.
+6. Your friend is listening to some music. You ask:  
+	What's that `music you're listening to`.
+7. Your friend applied for a job. You ask:  
+	Did you get `the job you applied for`.
+
+#### 100.4 Complete the questions. Use where.
+
+1. John stayed at a hotel. You ask him:  
+	Did you like `the hotel where you stayed`?
+2. Sue had dinner in a restaurant. You ask her:  
+	What's the name of the restaurant `where you had dinner`?
+3. Sarah lives in a town. You ask her:  
+	How big is the `town where you live`?
+4. Mike works in a hospital. You ask him:  
+	Where exactly is `the hospital where you work`?
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6754,9 +6804,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 293 – 294 or 303 – 304
-
-·
-
 
 ### Unit 101 – at 8:00 · on Monday · in April
 
