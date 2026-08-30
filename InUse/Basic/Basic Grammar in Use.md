@@ -6809,9 +6809,87 @@ Write sentences beginning He gave...
 
 > Page: 203 or 214
 
+_on_ se usa con días/fechas, _in_ con meses/años/partes del día y _at_ con horas, _night_ y _the end of..._.
 
-·
+#### 101.1 Write at or in.
 
+1. Samantha was born `in` 1998.
+2. I got up `at` 8:00 this morning.
+3. I like to get up early `in` the morning.
+4. I like to look at the stars `at` night.
+5. My brother got married `in` May.
+6. We often go to the beach `in` the summer.
+7. Let's meet `at` 7:30 tomorrow night.
+8. The company started `in` 2000.
+9. I'll send you the money `at` the end of the month.
+10. The café is open `in` the evening. It closes `at` midnight.
+
+#### 101.2 Write at / on / in.
+
+1. `on` June 6.
+2. `in` the evening.
+3. `at` half past two.
+4. `on` Wednesday.
+5. `in` 2007.
+6. `in` September.
+7. `on` September 24.
+8. `on` Thursday.
+9. `at` 11:45.
+10. `on` New Year's Eve.
+11. `at` noon.
+12. `in` the morning.
+13. `on` Friday morning.
+14. `on` Saturday night.
+15. `at` night.
+16. `at` the end of the day.
+17. `on` the weekend.
+18. `in` the winter.
+
+#### 101.3 Which sentence is correct - A, B, or both of them?
+
+1. I'm taking a trip in October.
+2. Do you work Sundays?  
+	Do you work on Sundays?
+3. I always feel tired in the evening.
+4. I'm leaving next Saturday.
+5. Tom started his new job on May 18.  
+	Tom started his new job May 18.
+6. Sarah finished high school in 2012.
+7. We meet every Tuesday.
+8. We don't often go out at night.
+9. I can't meet you Thursday.  
+	I can't meet you on Thursday
+10. Jessica saw Sam Monday night.  
+	Jessica saw Sam on Monday night.  
+11. I'm leaving at the end of this month.
+12. Tom goes to the gym on Fridays.  
+	Tom goes to the gym Fridays.
+
+#### 101.4 Write sentences with in...
+
+1. It's 8:25 now. The train leaves at 8:30.  
+	The train leaves in five minutes.
+2. It's Monday today. I'll call you on Thursday.  
+	I'll call you in three days.
+3. Today is June 14. My exam is on June 28.  
+	My exam is in fourteen days.
+4. It's 3:00 now. Tom will be here at 3:30.  
+	Tom will be here in thirty minutes.
+
+#### 101.5 Write at / on / in if necessary. Sometimes the sentence is already complete, and no word is necessary.
+
+1. They like to eat out `on` weekends.
+2. I'm going next Friday.
+3. I always feel tired `in` the evening.
+4. Will you be at home this evening?
+5. We went to France last summer.
+6. Liz was born `in` 2001.
+7. What are you doing `on` the weekend.
+8. I call Matt every Sunday.
+9. Should we play tennis next Sunday?
+10. I couldn't go to the party last winter.
+11. I'm going out. I'll be back `in` an hour.
+12. I don't often go out `at` night.
 
 <details>
   <summary>More 🔥☠️</summary>
@@ -6822,8 +6900,6 @@ Write sentences beginning He gave...
 </details>
 
 > Answer Key to Exercises 294 or 304
-
-·
 
 ### Unit 102 – from... to · until · since · for
 
