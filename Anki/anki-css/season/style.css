@@ -1,0 +1,489 @@
+/* ======================================================== */
+/* === IMPORTACIONES DE FUENTES (DEBEN IR PRIMERO) === */
+/* ======================================================== */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55'); */
+
+/* ======= Reset & Globals ======= */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* === Estilos base (Modo Claro) === */
+body {
+  /* margin: 0 !important;
+  padding: 0 !important; */
+  min-height: 100%;
+  height: auto;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+
+  background-color: #fcfcfc;
+  color: #1f1f1f;
+
+  font-family:
+    'Roboto', 'Helvetica Neue', 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.card {
+  /* text-align: left; */
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #fcfcfc;
+}
+
+/* === Estilos Modo Oscuro === */
+body.nightMode {
+  background-color: #131313;
+  color: #ddd;
+}
+body.nightMode .card {
+  background-color: #131415 !important;
+}
+
+/* ======================================================== */
+/* === BLOQUE: media-card === */
+/* ======================================================== */
+.media-card {
+  width: 100%;
+  max-width: 900px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  margin: 0 auto;
+  /* padding: 0 1em 1em 1em; */
+  position: relative;
+  text-align: center;
+}
+.media-card b,
+.media-card strong {
+  color: #ffa313;
+}
+
+/* --- Elemento: figure/video --- */
+.media-card__figure {
+  /* margin: 0 0 0 0; */
+  width: 100%;
+  max-width: 900px;
+  max-height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  text-align: center;
+  line-height: 1;
+
+  font-size: initial;
+  flex: initial;
+  overflow: visible;
+
+  background-color: rgb(63, 63, 160);
+}
+
+.media-card__video-container {
+  max-width: 560px;
+  width: 90%;
+  aspect-ratio: 16 / 9;
+  margin: 15px auto;
+  position: relative;
+  overflow: visible;
+}
+
+.media-card__video,
+.media-card__canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.media-card__video {
+  z-index: 2;
+  object-fit: cover;
+  background-color: #000;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.1s ease-in-out;
+}
+.media-card__video--ready {
+  opacity: 1;
+}
+
+/* xdxd */
+
+/* #myCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 1em 1em 1em;
+  width: 100%;
+  max-width: 900px;
+  position: relative;
+  text-align: center;
+} */
+
+b,
+strong {
+  color: #ffa313;
+}
+#myCard > div:first-child {
+  flex: initial;
+  max-height: 100%;
+  overflow: visible;
+}
+
+/* === ESTILOS DE VIDEO Y AMBIENT MODE (Sin cambios) === */
+.video-wrapper {
+  max-width: 560px;
+  width: 90%;
+  aspect-ratio: 16 / 9;
+  margin: 15px auto;
+  position: relative;
+
+  /* background-color: yellowgreen; */
+}
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.video-container video,
+#ambient-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video-container video {
+  z-index: 2;
+  object-fit: cover;
+  background-color: #000;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.1s ease-in-out;
+}
+.video-container video.video-ready {
+  opacity: 1;
+}
+@keyframes ambient-breathing {
+  0% {
+    transform: scale(1.15, 0.9) translateY(8%);
+    filter: blur(50px);
+  }
+  50% {
+    transform: scale(1.2, 0.95) translateY(9%);
+    filter: blur(60px);
+  }
+  100% {
+    transform: scale(1.15, 0.9) translateY(8%);
+    filter: blur(50px);
+  }
+}
+#ambient-canvas {
+  z-index: 1;
+  transform: scale(1.15, 0.9) translateY(8%);
+  filter: blur(50px);
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+  animation: none;
+}
+#ambient-canvas.glow-active {
+  opacity: 0.25;
+  animation: ambient-breathing 12s ease-in-out infinite;
+}
+.nightMode #ambient-canvas.glow-active {
+  opacity: 0.2;
+}
+#playPauseBottomBtn {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  transition:
+    background 0.2s ease,
+    transform 0.15s ease-out;
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.video-container #playPauseBottomBtn:hover {
+  background: rgba(0, 0, 0, 0.75) !important;
+  transform: scale(1.1);
+}
+#playPauseBottomBtn:active {
+  transform: scale(0.95);
+  transition:
+    transform 0.05s ease-in,
+    background 0.05s ease-in;
+  background: rgba(0, 0, 0, 0.75) !important;
+}
+#playPauseBottomBtn svg.icon {
+  display: none;
+  width: 70%;
+  height: 70%;
+  fill: currentColor;
+  stroke: currentColor;
+}
+#playPauseBottomBtn svg.icon-play {
+  display: block;
+}
+#playPauseBottomBtn.is-playing svg.icon-pause {
+  display: block;
+}
+#playPauseBottomBtn.is-playing svg.icon-play {
+  display: none;
+}
+
+/* === ESTILOS Expression, Meaning, etc. (Sin cambios) === */
+.media-card__expression {
+  text-align: center;
+  width: 100%;
+  /* margin-bottom: 0; */
+
+  margin-top: 5px;
+  /* width: 100%; */
+  max-width: 700px;
+}
+.media-card__meaning {
+  text-align: center;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.media-card__expression,
+.meaning {
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  padding: 10px 15px;
+  border-radius: 10px;
+  display: inline-block;
+  word-wrap: break-word;
+  word-break: break-word;
+  text-align: center;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.media-card__expression {
+  font-weight: 700;
+  font-size: 26px;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+.media-card__meaning-text {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.nightMode .media-card__expression {
+  color: #f3f3f3;
+  background-color: transparent;
+}
+.nightMode .media-card__meaning-text {
+  color: #999999;
+  background-color: transparent;
+}
+hr.media-card__divider {
+  border: none;
+  height: 2px;
+  background-color: #303030;
+  margin: 0 auto;
+  width: 50%;
+}
+.nightMode hr.media-card__divider {
+  background-color: #444;
+}
+
+/* ================================================================ */
+/* === Estilos para la Imagen y Notas (Responsive) === */
+/* ================================================================ */
+
+/* --- Estilos para PC / Escritorio (pantallas > 768px) --- */
+.media-card__extra {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 700px;
+  margin: 15px auto;
+  box-sizing: border-box;
+}
+
+.media-card__notes-figure {
+  flex: 0 0 160px; /* Esta línea se mantiene igual */
+}
+
+/* --- ESTILO DE IMAGEN (MODO CLARO) --- */
+.media-card__notes-figure img {
+  width: 160px;
+  height: 160px;
+  border-radius: 0;
+  cursor: pointer;
+  object-fit: cover;
+  background-color: #333;
+  /* La nueva sombra que querías */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+/* --- ESTILO DE IMAGEN (MODO OSCURO) --- */
+/* Esta regla es nueva y muy importante para el modo oscuro */
+.nightMode .media-card__notes-figure img {
+  /* La sombra adaptada para que se vea bien en fondos oscuros */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
+}
+
+.media-card__extra .Notas {
+  flex: 1;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- Estilos para Móvil (pantallas <= 768px) --- */
+@media (max-width: 768px) {
+  .media-card__extra {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .media-card__notes-figure {
+    flex-basis: auto;
+    width: 60%;
+    max-width: 240px;
+    order: 2;
+  }
+
+  .media-card__notes-figure img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+
+  .media-card__extra .Notas {
+    width: 100%;
+    text-align: center;
+    order: 1;
+  }
+}
+
+/* ======================================================== */
+/* === FUENTES (Sin cambios) === */
+/* ======================================================== */
+.media-card__notes {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #4b4e4f;
+  white-space: pre-wrap;
+}
+.nightMode .media-card__notes {
+  color: #777878;
+}
+.media-card__notes ul,
+.media-card__notes ol {
+  padding-left: 0;
+  list-style-position: inside;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+.media-card__notes p {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+@font-face {
+  font-family: 'Notas Font';
+  font-style: normal;
+  font-weight: 500;
+  src: url('_hvn_medium.otf');
+}
+@font-face {
+  font-family: 'Notas Font';
+  font-style: italic;
+  font-weight: 500;
+  src: url('_hvn_medium_italic.otf');
+}
+@font-face {
+  font-family: 'Notas Font';
+  font-style: normal;
+  font-weight: 700;
+  src: url('_hvn_bold.otf');
+}
+@font-face {
+  font-family: 'Notas Font';
+  font-style: italic;
+  font-weight: 700;
+  src: url('_hvn_bold_italic.otf');
+}
+.media-card__notes {
+  font-family: 'Notas Font', sans-serif;
+}
+.media-card__notes b,
+.media-card__notes strong {
+  color: inherit;
+  font-weight: 700;
+  font-style: normal;
+}
+.media-card__notes i,
+.media-card__notes em {
+  color: inherit;
+  font-weight: 500;
+  font-style: italic;
+}
+.media-card__notes b i,
+.media-card__notes i b,
+.media-card__notes strong em,
+.media-card__notes em strong {
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Roboto-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Roboto-Bold.ttf') format('truetype');
+}

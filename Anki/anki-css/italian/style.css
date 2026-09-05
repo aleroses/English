@@ -1,0 +1,119 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  background: radial-gradient(
+    circle at 30% 20%,
+    #1e2a3a 0%,
+    #0d1117 55%,
+    #06080c 100%
+  );
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #f0f2f5;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Bloque: card-front */
+.card-front {
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 18px;
+  padding: 22px 30px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  width: 100%;
+  max-width: 500px;
+}
+
+.card-front__word {
+  margin: 0;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  overflow-wrap: break-word;
+}
+
+/* Separador entre front y back */
+.card__answer-divider {
+  border: none;
+  height: 1px;
+  width: 60%;
+  max-width: 300px;
+  margin: 18px auto;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Bloque: card-back */
+.card-back {
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(16px) saturate(140%);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 18px;
+  padding: 24px 28px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  width: 100%;
+  max-width: 500px;
+}
+
+.card-back__translation {
+  margin: 0 0 12px;
+  font-weight: 700;
+  font-size: 1em;
+  color: #ffffff;
+  overflow-wrap: break-word;
+}
+
+.card-back__example {
+  margin: 0;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.65em;
+  color: #c7ccd4;
+  overflow-wrap: break-word;
+}
+
+.card-back__divider {
+  border: none;
+  height: 1px;
+  width: 60%;
+  margin: 16px auto;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.card-back__note {
+  margin: 0;
+  font-weight: 400;
+  font-size: 0.55em;
+  color: #a8adb5;
+  overflow-wrap: break-word;
+}
+
+/* Ajustes para pantallas pequeñas (mobile) */
+@media (max-width: 480px) {
+  .card {
+    font-size: 22px;
+    padding: 14px 10px;
+  }
+
+  .card-front,
+  .card-back {
+    padding: 18px 18px;
+    border-radius: 14px;
+  }
+}

@@ -1,0 +1,282 @@
+<section id="myCard" class="media-card">
+  <figure class="media-card__figure">
+    <!-- <div style="width: 100%">
+      <div
+        style="
+          text-align: center;
+          line-height: 1;
+          font-size: initial;
+        "
+      > -->
+    {{#Imagen}}
+    <div class="video-wrapper">
+      <div class="video-container">
+        <canvas id="ambient-canvas"></canvas>
+        <video
+          id="videoAnki"
+          src="{{Imagen}}"
+          width="100%"
+          preload="none"
+          playsinline
+        ></video>
+        <button
+          id="playPauseBottomBtn"
+          class="video-control-button-bottom"
+          aria-label="Reproducir/Pausar"
+        >
+          <svg
+            class="icon icon-play"
+            viewBox="0 0 24 24"
+            width="70%"
+            height="70%"
+            fill="currentColor"
+            stroke="currentColor"
+            stroke-width="3"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M8 6 L19 12 L8 18 Z" />
+          </svg>
+          <svg
+            class="icon icon-pause"
+            viewBox="0 0 24 24"
+            width="70%"
+            height="70%"
+            fill="currentColor"
+            aria-hidden="true"
+          >
+            <rect
+              x="6"
+              y="5"
+              width="4"
+              height="14"
+              rx="2"
+              ry="2"
+            ></rect>
+            <rect
+              x="14"
+              y="5"
+              width="4"
+              height="14"
+              rx="2"
+              ry="2"
+            ></rect>
+          </svg>
+        </button>
+      </div>
+    </div>
+    {{/Imagen}}
+    <!-- </div>
+    </div> -->
+  </figure>
+  <!-- FIN Contenedor Media -->
+
+  <!-- Campo Ingles (con la reducción anterior) -->
+  {{#Ingles}}
+  <p class="media-card__expression">
+    <span class="media-card__expression-text"
+      >{{Ingles}}</span
+    >
+  </p>
+  {{/Ingles}} {{#Español}}
+  <!-- <hr id="answer" />
+  <div
+    class="meaning-container"
+    style="
+      margin-top: 10px;
+      margin-bottom: 0px;
+      width: 100%;
+      max-width: 700px;
+    "
+  >
+    <div class="meaning">{{Español}}</div>
+  </div> -->
+
+  <hr class="media-card__divider" />
+  <p class="media-card__meaning">
+    <span class="media-card__meaning-text"
+      >{{Español}}</span
+    >
+  </p>
+  {{/Español}}
+
+  <!-- <div class="notas-audio-container">
+    {{#Notas}}
+    <div class="Notas">{{Notas}}</div>
+    {{/Notas}}
+
+    <div class="image-wrapper">{{NotaImagen}}</div>
+  </div> -->
+
+  <!-- <div id="anki-audio-container" style="display: none">
+    {{AudioPalabra}}
+  </div> -->
+
+  <aside class="media-card__extra">
+    {{#Notas}}
+    <div class="media-card__notes">{{Notas}}</div>
+    {{/Notas}}
+    <figure class="media-card__notes-figure">
+      {{NotaImagen}}
+    </figure>
+  </aside>
+
+  <div class="media-card__audio" hidden>
+    {{AudioPalabra}}
+  </div>
+
+  <script>
+    // --- Funciones del Video (sin cambios) ---
+    function initializeAmbientMode(videoElement) {
+      const canvas = document.getElementById(
+        'ambient-canvas'
+      );
+      if (!videoElement || !canvas) return;
+      const ctx = canvas.getContext('2d');
+      canvas.width = 16;
+      canvas.height = 9;
+      let animationFrameId;
+      function drawGlow() {
+        if (videoElement.paused || videoElement.ended) {
+          ctx.drawImage(
+            videoElement,
+            0,
+            0,
+            canvas.width,
+            canvas.height
+          );
+          cancelAnimationFrame(animationFrameId);
+          return;
+        }
+        ctx.drawImage(
+          videoElement,
+          0,
+          0,
+          canvas.width,
+          canvas.height
+        );
+        animationFrameId = requestAnimationFrame(drawGlow);
+      }
+      videoElement.addEventListener('play', () => {
+        canvas.classList.add('glow-active');
+        cancelAnimationFrame(animationFrameId);
+        drawGlow();
+      });
+    }
+    function togglePlayPauseVideo(event) {
+      var v = document.getElementById('videoAnki');
+      if (!v) return;
+      if (event) {
+        event.stopPropagation();
+      }
+      if (v.paused || v.ended) {
+        v.muted = false;
+        if (v.readyState === 0) {
+          v.load();
+        }
+        v.play().catch((e) => {});
+      } else {
+        v.pause();
+      }
+    }
+    function updateVideoUI() {
+      var v = document.getElementById('videoAnki');
+      var b = document.getElementById('playPauseBottomBtn');
+      if (!v || !b) return;
+      const p = v.paused || v.ended;
+      b.classList.toggle('is-playing', !p);
+      b.setAttribute(
+        'aria-label',
+        p ? 'Reproducir' : 'Pausar'
+      );
+    }
+
+    // --- FUNCIÓN DE AUDIO CORREGIDA ---
+    function setupAudioPlayback() {
+      const expressionDiv =
+        document.querySelector('.expression');
+      const ankiPlayButton = document.querySelector(
+        '#anki-audio-container .replay-button'
+      );
+      if (!expressionDiv || !ankiPlayButton) {
+        return;
+      }
+      function triggerAnkiAudio(event) {
+        if (event) event.stopPropagation();
+        ankiPlayButton.click();
+      }
+      const boldWords =
+        expressionDiv.querySelectorAll('b, strong');
+      boldWords.forEach((word) => {
+        word.style.cursor = 'pointer';
+        word.addEventListener('click', triggerAnkiAudio);
+      });
+      const imageTrigger = document.querySelector(
+        '.image-wrapper img'
+      );
+      if (imageTrigger) {
+        imageTrigger.addEventListener(
+          'click',
+          triggerAnkiAudio
+        );
+      }
+    }
+
+    // --- Función Principal que se ejecuta al mostrar el reverso ---
+    function setupReverseCard() {
+      var videoElement =
+        document.getElementById('videoAnki');
+      if (videoElement) {
+        var videoContainer = videoElement.closest(
+          '.video-container'
+        );
+        if (videoContainer) {
+          videoContainer.addEventListener(
+            'click',
+            togglePlayPauseVideo
+          );
+        }
+        initializeAmbientMode(videoElement);
+        const makeVideoVisible = () => {
+          videoElement.classList.add('video-ready');
+          updateVideoUI();
+        };
+        if (videoElement.readyState >= 2) {
+          makeVideoVisible();
+        } else {
+          videoElement.addEventListener(
+            'loadeddata',
+            makeVideoVisible,
+            { once: true }
+          );
+        }
+        videoElement.addEventListener(
+          'play',
+          updateVideoUI
+        );
+        videoElement.addEventListener(
+          'pause',
+          updateVideoUI
+        );
+        videoElement.addEventListener(
+          'ended',
+          updateVideoUI
+        );
+        updateVideoUI();
+      }
+      setupAudioPlayback();
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener(
+        'DOMContentLoaded',
+        setupReverseCard
+      );
+    } else {
+      setTimeout(setupReverseCard, 0);
+    }
+  </script>
+</section>
+
+<!-- {{FrontSide}} -->
