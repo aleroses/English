@@ -40,9 +40,44 @@ Salida:
 
 import argparse
 import csv
+import json
 import subprocess
 import sys
 import os
+
+
+def load_translation_cache(cache_path):
+    if os.path.exists(cache_path):
+        with open(cache_path, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_translation_cache(cache_path, cache):
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def translate_texts(texts, api_key, target_lang, cache_path):
+    """Traduce una lista de textos usando DeepL, reutilizando una caché
+    local (JSON) para no volver a traducir líneas ya traducidas antes."""
+    import deepl
+
+    cache = load_translation_cache(cache_path)
+    to_translate = [t for t in set(texts) if t not in cache]
+
+    if to_translate:
+        translator = deepl.Translator(api_key)
+        print(f"Traduciendo {len(to_translate)} línea(s) nueva(s) con DeepL "
+              f"(ya en caché: {len(set(texts)) - len(to_translate)})...")
+        results = translator.translate_text(to_translate, target_lang=target_lang)
+        for original, result in zip(to_translate, results):
+            cache[original] = result.text
+        save_translation_cache(cache_path, cache)
+    else:
+        print("Todas las líneas ya estaban traducidas en la caché, no se llamó a la API.")
+
+    return {t: cache[t] for t in texts}
 
 
 def parse_timestamp(ts):
@@ -160,6 +195,17 @@ def main():
                          help="Procesar solo las primeras N líneas (prueba rápida)")
     parser.add_argument("--overwrite", action="store_true",
                          help="Regenerar clips que ya existen")
+    parser.add_argument("--translate", action="store_true",
+                         help="Traducir cada línea con DeepL y ponerla en el segundo campo del TSV")
+    parser.add_argument("--deepl-key", default=None,
+                         help="API key de DeepL. Si no se pasa, se lee de la variable de "
+                              "entorno DEEPL_API_KEY (recomendado, para no dejar la key en "
+                              "el historial de la terminal)")
+    parser.add_argument("--target-lang", default="ES",
+                         help="Idioma destino de la traducción (default: ES)")
+    parser.add_argument("--translation-cache", default=None,
+                         help="Ruta del archivo de caché de traducciones "
+                              "(default: {series-name}_translations_cache.json)")
     args = parser.parse_args()
 
     if args.tsv_out is None:
@@ -180,7 +226,7 @@ def main():
     for i, (sentence, (start, end)) in enumerate(zip(sentences, windows), start=1):
         filename = f"{args.series_name}_{args.episode_label}_Line_{i:04d}.webm"
         output_path = os.path.join(args.output_dir, filename)
-        tsv_rows.append((sentence["text"], filename))
+        tsv_rows.append((i, sentence["text"], filename))
 
         if os.path.exists(output_path) and not args.overwrite:
             skipped += 1
@@ -219,13 +265,27 @@ def main():
                     errors += 1
                     print(f"  [ERROR] No se generó: {j['output_path']}")
 
+    translations = {}
+    if args.translate:
+        api_key = args.deepl_key or os.environ.get("DEEPL_API_KEY")
+        if not api_key:
+            print("\n[ERROR] --translate requiere una API key de DeepL.")
+            print("Pásala con --deepl-key o expórtala como variable de entorno:")
+            print('  export DEEPL_API_KEY="tu-api-key-aqui"')
+            sys.exit(1)
+
+        cache_path = args.translation_cache or f"{args.series_name}_translations_cache.json"
+        all_texts = [text for _, text, _ in tsv_rows]
+        translations = translate_texts(all_texts, api_key, args.target_lang, cache_path)
+
     with open(args.tsv_out, "w", encoding="utf-8", newline="") as f:
-        for text, filename in tsv_rows:
-            f.write(f"{text}\t\t[sound:{filename}]\n")
+        for i, text, filename in tsv_rows:
+            translation = translations.get(text, "")
+            f.write(f"{i:04d}\t{text}\t{translation}\t{filename}\n")
 
     total_size = sum(
         os.path.getsize(os.path.join(args.output_dir, fn))
-        for _, fn in tsv_rows
+        for _, _, fn in tsv_rows
         if os.path.exists(os.path.join(args.output_dir, fn))
     )
 
