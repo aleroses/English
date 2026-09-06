@@ -249,7 +249,9 @@ Antes de escribir ese script necesito confirmar contigo los parámetros de corte
 Con eso ya tengo todo para el script de corte. Dos decisiones de diseño que agrego por mi cuenta, te las explico:
 
 - **Padding con "clamp" a la línea vecina**: si aplico 250ms de margen y la oración anterior/siguiente está muy cerca en el tiempo, el padding podría "morder" el diálogo de la línea vecina. El script recorta automáticamente el padding para nunca pasarse del final de la línea previa ni del inicio de la siguiente.
-- **Modo de prueba (`--limit`)**: para no esperar a que se corten 337 clips solo para revisar 5, el script permite limitar cuántas líneas procesa en esta primera corrida.## Prueba rápida — solo 5 clips primero 📌🔥
+- **Modo de prueba (`--limit`)**: para no esperar a que se corten 337 clips solo para revisar 5, el script permite limitar cuántas líneas procesa en esta primera corrida.
+
+## Prueba rápida — solo 5 clips primero 📌🔥
 
 ```bash
 python3 cut_clips.py \
@@ -274,33 +276,54 @@ Avísame qué tal salen esos 5 clips de prueba — tamaño en MB y si el corte/a
 
 ---
 
-Tiene sentido lo que describes — y no es un bug del corte en sí, es justamente el padding de 250ms que pediste antes. Ese margen añade medio segundo de "aire" (250ms antes + 250ms después) que no es diálogo, y eso es lo que estás percibiendo como "tiempo de más" antes/después del audio real.
+## Traducciones
 
-## Solución inmediata: padding en cero
+Con DeepL vas a tener muy buena calidad, y tiene un plan gratuito generoso (500,000 caracteres/mes — de sobra para toda la serie). Vamos a integrarlo en `cut_clips.py`, ya que es el que escribe el `.tsv`, y aprovechamos exactamente ese segundo campo vacío que ya habíamos dejado preparado desde el principio.
 
-El script ya tiene esto como parámetro, así que no hay que tocar código — solo correr con `--padding 0`: 📌🔥
+### Paso 1: Cuenta y API key
+
+1. Ve a https://www.deepl.com/pro-api y regístrate al plan **DeepL API Free** (tarjeta de crédito no es obligatoria para el plan free, pero puede pedírtela para verificación — no te van a cobrar mientras te quedes dentro del límite gratuito).
+2. Una vez dentro, en tu cuenta encuentras la **API key** (termina en `:fx` para el plan free).
+
+### Paso 2: Instalar la librería
 
 ```bash
+pip install deepl --break-system-packages
+```
+
+### Paso 3: Modificar `cut_clips.py`
+
+Agrego traducción automática con **caché local** (para no volver a traducir líneas que ya tradujiste antes, aunque re-ejecutes el script varias veces mientras pruebas):Ahora integro la traducción justo antes de escribir el `.tsv`, en el campo que hasta ahora estaba vacío:
+
+### Cómo usarlo
+
+**Recomendado — la API key como variable de entorno**, para que no quede guardada en el historial de tu terminal (`history`):
+
+```bash
+export DEEPL_API_KEY="tu-api-key-aqui"
+
 python3 cut_clips.py \
   --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
   --csv S01E01_preview.csv \
   --series-name Todd_McFarlanes_Spawn_Anki_Video \
   --episode-label S01-Ep01 \
-  --padding 0 \
+  --translate \
   --limit 5
 ```
 
-Esto corta exactamente en los timestamps que trae el `.srt`, sin agregar ni quitar nada.
+Con esto, el `.tsv` te va a quedar así:
 
-## Una advertencia honesta antes de que pruebes esto
+```
+0001 What would you do if at the moment of death a voice from the darkness offered you a chance to live again?	¿Qué harías si en el momento de la muerte una voz desde la oscuridad te ofreciera la oportunidad de vivir de nuevo?	[sound:..._Line_0001.webm]
+```
 
-Los subtítulos SDH están pensados para **lectura cómoda**, no para sincronía perfecta con la forma de onda del audio. Es común que el tiempo de inicio de un subtítulo esté uno o dos frames (30-60ms) antes o después del inicio real del habla — es una convención de subtitulado, no un error nuestro. Con `--padding 0` es posible que en algunas líneas sientas que se corta la primera consonante o queda un pelín de silencio extra, dependiendo de qué tan ajustado venga ese subtítulo en particular. Eso ya no seria "tiempo que nosotros añadimos", sino el timing original del archivo `.srt`.
+### Sobre la caché
 
-Prueba los 5 clips con `--padding 0` y dime cómo se sienten. Si en general están bien pero un par de líneas puntuales quedan cortadas, la alternativa más simple es un padding muy pequeño y asimétrico (por ejemplo 50ms) que casi no se nota como "aire" pero da un colchón de seguridad. Lo ajustamos según lo que escuches.
+Se crea un archivo `Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json` junto a tus scripts. Si corres el comando de nuevo (por ejemplo, para procesar el episodio completo después de haber probado con 5 líneas), **no vuelve a gastar cuota** en las líneas que ya tradujo — solo traduce las líneas nuevas. Puedes reutilizar esta misma caché entre episodios distintos si compartes el mismo `--series-name`, ya que probablemente algunas frases se repitan en la serie.
 
----
+### Un detalle a vigilar
 
----
+En tu línea 7 vi que quedó una etiqueta `<I>malebolgia,</I>` mezclada en el texto (residuo del subtítulo original en cursiva). DeepL debería traducir igual el contenido, pero puede que la etiqueta quede rara en medio de la traducción. Si ves varias líneas con `<I>`/`</I>` sueltas, dímelo y agrego un paso de limpieza en `parse_srt_preview.py` para quitarlas antes de generar el CSV — se me pasó por alto ese caso al diseñar `clean_text()`.
 
 ## Resumen para retomar otro día
 
@@ -402,13 +425,23 @@ Ayúdame a seguir desde aquí.
 
 Mi sugerencia honesta: si puedes, sigue en esta misma conversación — es más simple y evitas tener que resumir nada.
 
+---
+
+---
+
 ## Ejecutar rápidamente
+
+Crear el archivo `S01E01.srt`, en base a este se crea el archivo `S01E01_preview.csv` para editar y corregir manualmente.
 
 ```bash
 ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
 
 python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv --shift -0.4
+```
 
+Sin traducción: 
+
+```bash
 python3 cut_clips.py \
   --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
   --csv S01E01_preview.csv \
@@ -417,6 +450,22 @@ python3 cut_clips.py \
   --padding 0 \
   --limit 25
 ```
+
+Con traducción:
+
+```bash
+export DEEPL_API_KEY="lolcat31942:fx"
+
+python3 cut_clips.py \
+  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
+  --csv S01E01_preview.csv \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01-Ep01 \
+  --translate \
+  --limit 5
+```
+
+No usar:
 
 ```bash
 ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
@@ -432,5 +481,48 @@ python3 cut_clips.py \
   --limit 5
 ```
 
+Estructura de la carpeta donde se está trabajando:
 
+```bash
+               Todd.McFarlanes.Spawn.S01.1080p.HMAX.WEBRip.DD2.0.x264-SLiGNOME
+ale ❯ tree -L 4
+.
+├── cut_clips.py
+├── episodio_info.json
+├── output_files
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0002.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0003.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0048.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0049.webm
+│   └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0050.webm
+├── parse_srt_preview.py
+├── S01E01_preview.csv
+├── S01E01.srt
+├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
+├── Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json
+├── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+├── Todd.McFarlanes.Spawn.S01E02.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+├── Todd.McFarlanes.Spawn.S01E03.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+├── Todd.McFarlanes.Spawn.S01E04.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+├── Todd.McFarlanes.Spawn.S01E05.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+└── Todd.McFarlanes.Spawn.S01E06.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
 
+2 directories, 63 files
+```
+
+Si algún video no se cortó bien, elimínalo de la carpeta `output_files` y vuelve a ejecutar el comando:
+
+```bash
+export DEEPL_API_KEY="lolcat39842:fx"
+
+python3 cut_clips.py \
+  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
+  --csv S01E01_preview.csv \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01-Ep01 \
+  --translate \
+  --limit 5
+```
