@@ -401,3 +401,36 @@ Ayúdame a seguir desde aquí.
 **Importante**: en la conversación nueva tendrías que **adjuntar** `parse_srt_preview.py` y `cut_clips.py` (los que ya generamos aquí), porque Claude no puede verlos si no se los subes de nuevo.
 
 Mi sugerencia honesta: si puedes, sigue en esta misma conversación — es más simple y evitas tener que resumir nada.
+
+## Ejecutar rápidamente
+
+```bash
+ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
+
+python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv --shift -0.4
+
+python3 cut_clips.py \
+  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
+  --csv S01E01_preview.csv \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01-Ep01 \
+  --padding 0 \
+  --limit 25
+```
+
+```bash
+ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
+
+python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv --shift -0.4
+
+python3 cut_clips.py \
+  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
+  --csv S01E01_preview.csv \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01-Ep01 \
+  --overwrite \
+  --limit 5
+```
+
+
+
