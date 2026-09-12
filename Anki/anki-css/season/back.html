@@ -8,13 +8,13 @@
           font-size: initial;
         "
       > -->
-    {{#Imagen}}
+    {{#video}}
     <div class="video-wrapper">
       <div class="video-container">
         <canvas id="ambient-canvas"></canvas>
         <video
           id="videoAnki"
-          src="{{Imagen}}"
+          src="{{video}}"
           width="100%"
           preload="none"
           playsinline
@@ -66,20 +66,20 @@
         </button>
       </div>
     </div>
-    {{/Imagen}}
+    {{/video}}
     <!-- </div>
     </div> -->
   </figure>
   <!-- FIN Contenedor Media -->
 
   <!-- Campo Ingles (con la reducción anterior) -->
-  {{#Ingles}}
+  {{#english_dialogs}}
   <p class="media-card__expression">
     <span class="media-card__expression-text"
-      >{{Ingles}}</span
+      >{{english_dialogs}}</span
     >
   </p>
-  {{/Ingles}} {{#Español}}
+  {{/english_dialogs}} {{#spanish_dialogues}}
   <!-- <hr id="answer" />
   <div
     class="meaning-container"
@@ -96,10 +96,10 @@
   <hr class="media-card__divider" />
   <p class="media-card__meaning">
     <span class="media-card__meaning-text"
-      >{{Español}}</span
+      >{{spanish_dialogues}}</span
     >
   </p>
-  {{/Español}}
+  {{/spanish_dialogues}}
 
   <!-- <div class="notas-audio-container">
     {{#Notas}}
@@ -114,17 +114,13 @@
   </div> -->
 
   <aside class="media-card__extra">
-    {{#Notas}}
-    <div class="media-card__notes">{{Notas}}</div>
-    {{/Notas}}
-    <figure class="media-card__notes-figure">
-      {{NotaImagen}}
-    </figure>
+    {{#notes}}
+    <div class="media-card__notes">{{notes}}</div>
+    {{/notes}}
+    <figure class="media-card__notes-figure"></figure>
   </aside>
 
-  <div class="media-card__audio" hidden>
-    {{AudioPalabra}}
-  </div>
+  <div class="media-card__audio" hidden></div>
 
   <script>
     // --- Funciones del Video (sin cambios) ---

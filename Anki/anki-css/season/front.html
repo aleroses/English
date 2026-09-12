@@ -1,12 +1,12 @@
 <section id="myCard" class="media-card">
   <figure class="media-card__figure">
-    {{#Imagen}}
+    {{#video}}
     <div class="video-wrapper">
       <div class="video-container">
         <canvas id="ambient-canvas"></canvas>
         <video
           id="videoAnki"
-          src="{{Imagen}}"
+          src="{{video}}"
           width="100%"
           preload="metadata"
           playsinline
@@ -58,17 +58,17 @@
         </button>
       </div>
     </div>
-    {{/Imagen}}
+    {{/video}}
   </figure>
   <!-- FIN Contenedor Media -->
 
-  {{#Ingles}}
+  {{#english_dialogs}}
   <p class="media-card__expression">
     <span class="media-card__expression-text"
-      >{{Ingles}}</span
+      >{{english_dialogs}}</span
     >
   </p>
-  {{/Ingles}}
+  {{/english_dialogs}}
 
   <script>
     function initializeAmbientMode(videoElement) {
@@ -223,8 +223,3 @@
     }
   </script>
 </section>
-
-0. id
-1. video
-2. English dialogs
-3. dialogos castellano
