@@ -37,16 +37,8 @@ def seconds_to_timestamp(total_seconds):
     return f"{hours:02d}:{minutes:02d}:{seconds:06.3f}"
 
 
-def parse_srt_blocks(path, offset=0.0, scale=1.0):
-    """Devuelve una lista de dicts: {start, end, raw_text} por bloque SRT.
-
-    offset: segundos a sumar a cada tiempo (positivo = atrasar el subtítulo,
-            negativo = adelantarlo). Corrige un desfase CONSTANTE.
-    scale:  factor multiplicativo aplicado antes del offset. Corrige un
-            desfase que CRECE con el tiempo (drift por diferencia de
-            framerate entre releases, ej. 23.976 vs 25 fps).
-            Fórmula: tiempo_corregido = tiempo_original * scale + offset
-    """
+def parse_srt_blocks(path):
+    """Devuelve una lista de dicts: {start, end, raw_text} por bloque SRT."""
     with open(path, encoding="utf-8-sig") as f:
         content = f.read()
 
@@ -68,8 +60,8 @@ def parse_srt_blocks(path, offset=0.0, scale=1.0):
             continue
 
         h1, m1, s1, ms1, h2, m2, s2, ms2 = m.groups()
-        start = timestamp_to_seconds(h1, m1, s1, ms1) * scale + offset
-        end = timestamp_to_seconds(h2, m2, s2, ms2) * scale + offset
+        start = timestamp_to_seconds(h1, m1, s1, ms1)
+        end = timestamp_to_seconds(h2, m2, s2, ms2)
 
         text_lines = lines[ts_idx + 1:]
         raw_text = " ".join(l.strip() for l in text_lines if l.strip())
@@ -108,29 +100,9 @@ def normalize_case(text):
     return text
 
 
-def apply_boundary_trim(start, end, trim_start, trim_end, min_duration=0.3):
-    """Recorta 'trim_start' segundos al inicio y 'trim_end' al final de una
-    oración, para compensar el margen de lectura que traen los subtítulos
-    SDH (el texto suele aparecer un poco antes de hablarse y quedarse un
-    poco después de terminar). Nunca recorta más del 40% de la duración por
-    lado, ni deja una línea más corta que 'min_duration'."""
-    duration = end - start
-    safe_trim_start = min(trim_start, duration * 0.4)
-    safe_trim_end = min(trim_end, duration * 0.4)
-
-    new_start = start + safe_trim_start
-    new_end = end - safe_trim_end
-
-    if new_end - new_start < min_duration:
-        return start, end  # el recorte dejaría la línea demasiado corta
-
-    return new_start, new_end
-
-
-def group_into_sentences(blocks, trim_start=0.0, trim_end=0.0):
+def group_into_sentences(blocks):
     """Agrupa bloques consecutivos hasta encontrar puntuación de cierre.
     Descarta bloques que quedan vacíos tras limpiar (solo efectos de sonido).
-    Aplica trim_start/trim_end a los límites de cada oración ya agrupada.
     Devuelve (sentences, discarded_count)."""
     sentences = []
     discarded = 0
@@ -154,12 +126,9 @@ def group_into_sentences(blocks, trim_start=0.0, trim_end=0.0):
 
         if SENTENCE_END_RE.search(cleaned):
             combined = " ".join(buffer_parts)
-            trimmed_start, trimmed_end = apply_boundary_trim(
-                buffer_start, buffer_end, trim_start, trim_end
-            )
             sentences.append({
-                "start": trimmed_start,
-                "end": trimmed_end,
+                "start": buffer_start,
+                "end": buffer_end,
                 "text": normalize_case(combined),
             })
             buffer_parts = []
@@ -168,45 +137,13 @@ def group_into_sentences(blocks, trim_start=0.0, trim_end=0.0):
     # Flush de lo que quede sin cerrar al final del archivo
     if buffer_parts:
         combined = " ".join(buffer_parts)
-        trimmed_start, trimmed_end = apply_boundary_trim(
-            buffer_start, buffer_end, trim_start, trim_end
-        )
         sentences.append({
-            "start": trimmed_start,
-            "end": trimmed_end,
+            "start": buffer_start,
+            "end": buffer_end,
             "text": normalize_case(combined),
         })
 
     return sentences, discarded
-
-
-def apply_global_shift(sentences, shift):
-    """Aplica el mismo desplazamiento a TODOS los límites de oración,
-    EXCEPTO el inicio de la primera línea, que queda anclado sin modificar
-    (ya que se asume verificado como correcto contra el audio real).
-
-    shift: segundos a SUMAR. Usa un valor NEGATIVO para adelantar/restar
-           tiempo (ej. -0.4 para restar 400ms a todo salvo el primer inicio).
-
-    Ejemplo con shift=-0.4:
-        Línea 1: start SIN CAMBIO           | end -= 0.4
-        Línea 2: start -= 0.4               | end -= 0.4
-        Línea 3: start -= 0.4               | end -= 0.4
-        ...
-    """
-    if not sentences or shift == 0.0:
-        return sentences
-
-    shifted = []
-    for i, s in enumerate(sentences):
-        new_start = s["start"] if i == 0 else s["start"] + shift
-        new_end = s["end"] + shift
-        shifted.append({
-            "start": new_start,
-            "end": new_end,
-            "text": s["text"],
-        })
-    return shifted
 
 
 def main():
@@ -218,33 +155,10 @@ def main():
                          help="Descarta oraciones más cortas que N segundos (default: 0, sin filtro)")
     parser.add_argument("--min-words", type=int, default=0,
                          help="Descarta oraciones con menos de N palabras (default: 0, sin filtro)")
-    parser.add_argument("--offset", type=float, default=0.0,
-                         help="Segundos a sumar a todos los tiempos, para corregir un desfase "
-                              "CONSTANTE entre subtítulo y audio (default: 0.0)")
-    parser.add_argument("--scale", type=float, default=1.0,
-                         help="Factor multiplicativo aplicado antes del offset, para corregir "
-                              "un desfase que crece con el tiempo por diferencia de framerate "
-                              "(default: 1.0, sin corrección)")
-    parser.add_argument("--trim-start", type=float, default=0.0,
-                         help="Segundos a recortar al INICIO de cada oración de forma "
-                              "independiente y proporcional a su duración (default: 0.0, "
-                              "desactivado). No lo combines con --shift salvo que sepas "
-                              "bien lo que haces.")
-    parser.add_argument("--trim-end", type=float, default=0.0,
-                         help="Segundos a recortar al FINAL de cada oración, igual que "
-                              "--trim-start pero al final (default: 0.0, desactivado).")
-    parser.add_argument("--shift", type=float, default=0.0,
-                         help="Segundos a SUMAR a todos los límites de oración, EXCEPTO el "
-                              "inicio de la primera línea (que queda anclado sin modificar). "
-                              "Usa un valor negativo para restar tiempo, ej. -0.4 para restar "
-                              "400ms a todo salvo el primer inicio (default: 0.0)")
     args = parser.parse_args()
 
-    blocks = parse_srt_blocks(args.srt_path, offset=args.offset, scale=args.scale)
-    sentences, discarded = group_into_sentences(
-        blocks, trim_start=args.trim_start, trim_end=args.trim_end
-    )
-    sentences = apply_global_shift(sentences, args.shift)
+    blocks = parse_srt_blocks(args.srt_path)
+    sentences, discarded = group_into_sentences(blocks)
 
     total_before_filter = len(sentences)
     filtered = []
