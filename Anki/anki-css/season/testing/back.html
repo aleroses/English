@@ -1,62 +1,19 @@
 <section id="myCard" class="media-card">
   <figure class="media-card__figure">
     {{#video}}
-    <div class="video-wrapper">
-      <div class="video-container">
-        <canvas id="ambient-canvas"></canvas>
-        <video
-          id="videoAnki"
-          src="{{video}}"
-          width="100%"
-          preload="none"
-          playsinline
-        ></video>
-        <!-- <button
-          id="playPauseBottomBtn"
-          class="video-control-button-bottom"
-          aria-label="Reproducir/Pausar"
-        >
-          <svg
-            class="icon icon-play"
-            viewBox="0 0 24 24"
-            width="70%"
-            height="70%"
-            fill="currentColor"
-            stroke="currentColor"
-            stroke-width="3"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-          >
-            <path d="M8 6 L19 12 L8 18 Z" />
-          </svg>
-          <svg
-            class="icon icon-pause"
-            viewBox="0 0 24 24"
-            width="70%"
-            height="70%"
-            fill="currentColor"
-            aria-hidden="true"
-          >
-            <rect
-              x="6"
-              y="5"
-              width="4"
-              height="14"
-              rx="2"
-              ry="2"
-            ></rect>
-            <rect
-              x="14"
-              y="5"
-              width="4"
-              height="14"
-              rx="2"
-              ry="2"
-            ></rect>
-          </svg>
-        </button> -->
-      </div>
+    <div class="media-card__video-container">
+      <canvas
+        id="ambient-canvas"
+        class="media-card__canvas"
+      ></canvas>
+      <video
+        id="videoAnki"
+        class="media-card__video"
+        src="{{video}}"
+        width="100%"
+        preload="none"
+        playsinline
+      ></video>
     </div>
     {{/video}}
   </figure>
@@ -88,10 +45,10 @@
 
   <div class="media-card__audio" hidden></div>
 
-  <footer class="footer">
+  <footer class="media-card__footer">
     <button
       id="playPauseOutsideBtn"
-      class="video-control-button-bottom"
+      class="media-card__play-button"
       aria-label="Reproducir/Pausar"
     >
       <svg
@@ -134,13 +91,10 @@
         ></rect>
       </svg>
     </button>
-
-    <!-- <div class="stop">[sound:_1sec.mp3]</div> -->
-    <!-- <div class="">{{video_audio}}</div> -->
   </footer>
 
   <script>
-    // --- Funciones del Video (sin cambios) ---
+    // --- Funciones del Video (sin cambios de comportamiento, solo BEM) ---
     function initializeAmbientMode(videoElement) {
       const canvas = document.getElementById(
         'ambient-canvas'
@@ -172,7 +126,7 @@
         animationFrameId = requestAnimationFrame(drawGlow);
       }
       videoElement.addEventListener('play', () => {
-        canvas.classList.add('glow-active');
+        canvas.classList.add('media-card__canvas--active');
         cancelAnimationFrame(animationFrameId);
         drawGlow();
       });
@@ -195,49 +149,21 @@
     }
     function updateVideoUI() {
       var v = document.getElementById('videoAnki');
-      // var b = document.getElementById('playPauseBottomBtn');
-      var b = document.querySelectorAll(
-        '.video-control-button-bottom'
+      var buttons = document.querySelectorAll(
+        '.media-card__play-button'
       );
-      // if (!v || !b) return;
-      if (!v || !b) return;
-      const p = v.paused || v.ended;
-      b.classList.toggle('is-playing', !p);
-      b.setAttribute(
-        'aria-label',
-        p ? 'Reproducir' : 'Pausar'
-      );
-    }
-
-    // --- FUNCIÓN DE AUDIO CORREGIDA ---
-    function setupAudioPlayback() {
-      const expressionDiv =
-        document.querySelector('.expression');
-      const ankiPlayButton = document.querySelector(
-        '#anki-audio-container .replay-button'
-      );
-      if (!expressionDiv || !ankiPlayButton) {
-        return;
-      }
-      function triggerAnkiAudio(event) {
-        if (event) event.stopPropagation();
-        ankiPlayButton.click();
-      }
-      const boldWords =
-        expressionDiv.querySelectorAll('b, strong');
-      boldWords.forEach((word) => {
-        word.style.cursor = 'pointer';
-        word.addEventListener('click', triggerAnkiAudio);
-      });
-      const imageTrigger = document.querySelector(
-        '.image-wrapper img'
-      );
-      if (imageTrigger) {
-        imageTrigger.addEventListener(
-          'click',
-          triggerAnkiAudio
+      if (!v || !buttons.length) return;
+      const isPaused = v.paused || v.ended;
+      buttons.forEach((btn) => {
+        btn.classList.toggle(
+          'media-card__play-button--playing',
+          !isPaused
         );
-      }
+        btn.setAttribute(
+          'aria-label',
+          isPaused ? 'Reproducir' : 'Pausar'
+        );
+      });
     }
 
     // --- Función Principal que se ejecuta al mostrar el reverso ---
@@ -256,7 +182,7 @@
         document.getElementById('videoAnki');
       if (videoElement) {
         var videoContainer = videoElement.closest(
-          '.video-container'
+          '.media-card__video-container'
         );
         if (videoContainer) {
           videoContainer.addEventListener(
@@ -266,7 +192,9 @@
         }
         initializeAmbientMode(videoElement);
         const makeVideoVisible = () => {
-          videoElement.classList.add('video-ready');
+          videoElement.classList.add(
+            'media-card__video--ready'
+          );
           updateVideoUI();
         };
         if (videoElement.readyState >= 2) {
@@ -275,7 +203,9 @@
           videoElement.addEventListener(
             'loadeddata',
             makeVideoVisible,
-            { once: true }
+            {
+              once: true,
+            }
           );
         }
         videoElement.addEventListener(
@@ -292,7 +222,6 @@
         );
         updateVideoUI();
       }
-      setupAudioPlayback();
     }
 
     if (document.readyState === 'loading') {

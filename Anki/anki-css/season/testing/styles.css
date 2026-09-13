@@ -13,8 +13,6 @@
 
 /* === Estilos base (Modo Claro) === */
 body {
-  /* margin: 0 !important;
-  padding: 0 !important; */
   min-height: 100%;
   height: auto;
 
@@ -32,7 +30,6 @@ body {
 }
 
 .card {
-  /* text-align: left; */
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -62,7 +59,6 @@ body.nightMode .card {
   justify-content: center;
 
   margin: 0 auto;
-  /* padding: 0 1em 1em 1em; */
   position: relative;
   text-align: center;
 }
@@ -73,15 +69,12 @@ body.nightMode .card {
 
 /* --- Elemento: figure/video --- */
 .media-card__figure {
-  /* margin: 0 0 0 0; */
   width: 100%;
   max-width: 900px;
   max-height: 100%;
 
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
-  /* align-items: center; */
   text-align: center;
   line-height: 1;
 
@@ -92,6 +85,10 @@ body.nightMode .card {
   background-color: rgb(63, 63, 160);
 }
 
+/* Contenedor "marco" del video: define tamaño y es el ancestro
+   posicionado (position: relative) del que dependen video y canvas
+   con position: absolute. NO duplicar este selector con otro
+   position más abajo o se rompe todo el bloque. */
 .media-card__video-container {
   max-width: 560px;
   width: 90%;
@@ -122,68 +119,6 @@ body.nightMode .card {
   opacity: 1;
 }
 
-/* xdxd */
-
-/* #myCard {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0 auto;
-  padding: 0 1em 1em 1em;
-  width: 100%;
-  max-width: 900px;
-  position: relative;
-  text-align: center;
-} */
-
-b,
-strong {
-  color: #ffa313;
-}
-#myCard > div:first-child {
-  flex: initial;
-  max-height: 100%;
-  overflow: visible;
-}
-
-/* === ESTILOS DE VIDEO Y AMBIENT MODE (Sin cambios) === */
-.video-wrapper {
-  max-width: 560px;
-  width: 90%;
-  aspect-ratio: 16 / 9;
-  margin: 15px auto;
-  position: relative;
-
-  /* background-color: yellowgreen; */
-}
-.video-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: visible;
-}
-
-.video-container video,
-#ambient-canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-.video-container video {
-  z-index: 2;
-  object-fit: cover;
-  background-color: #000;
-  overflow: hidden;
-  opacity: 0;
-  transition: opacity 0.1s ease-in-out;
-}
-.video-container video.video-ready {
-  opacity: 1;
-}
 @keyframes ambient-breathing {
   0% {
     transform: scale(1.15, 0.9) translateY(8%);
@@ -198,7 +133,7 @@ strong {
     filter: blur(50px);
   }
 }
-#ambient-canvas {
+.media-card__canvas {
   z-index: 1;
   transform: scale(1.15, 0.9) translateY(8%);
   filter: blur(50px);
@@ -206,40 +141,16 @@ strong {
   transition: opacity 0.8s ease-in-out;
   animation: none;
 }
-#ambient-canvas.glow-active {
+.media-card__canvas--active {
   opacity: 0.25;
   animation: ambient-breathing 12s ease-in-out infinite;
 }
-.nightMode #ambient-canvas.glow-active {
+.nightMode .media-card__canvas--active {
   opacity: 0.2;
 }
 
-/* #playPauseBottomBtn {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-  z-index: 10;
-  background: rgba(0, 0, 0, 0.6);
-  color: white;
-  border: none;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  margin: 0;
-  cursor: pointer;
-  transition:
-    background 0.2s ease,
-    transform 0.15s ease-out;
-  user-select: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-} */
-
-/* === ESTILOS COMPARTIDOS (ambos botones) === */
-.video-control-button-bottom {
+/* === BOTÓN DE PLAY/PAUSA === */
+.media-card__play-button {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -247,99 +158,54 @@ strong {
 
   width: 40px;
   height: 40px;
-  margin: 10px auto 0 auto;
-
-  background: rgba(0, 0, 0, 0.6);
-  color: white;
-  border: none;
-  border-radius: 50%;
-  padding: 0;
-  cursor: pointer;
-
-  transition:
-    background 0.2s ease,
-    transform 0.15s ease-out;
-  user-select: none;
-}
-.video-control-button-bottom:hover {
-  background: rgba(0, 0, 0, 0.75) !important;
-  transform: scale(1.1);
-}
-.video-control-button-bottom:active {
-  transform: scale(0.95);
-  transition:
-    transform 0.05s ease-in,
-    background 0.05s ease-in;
-  background: rgba(0, 0, 0, 0.75) !important;
-}
-.video-control-button-bottom svg.icon {
-  display: none;
-  width: 70%;
-  height: 70%;
-  fill: currentColor;
-  stroke: currentColor;
-}
-.video-control-button-bottom svg.icon-play {
-  display: block;
-}
-.video-control-button-bottom.is-playing svg.icon-pause {
-  display: block;
-}
-.video-control-button-bottom.is-playing svg.icon-play {
-  display: none;
-}
-
-/* === POSICIONAMIENTO DEL BOTÓN DE ADENTRO (sobre el video) === */
-/* #playPauseBottomBtn {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-} */
-
-/* === POSICIONAMIENTO DEL BOTÓN DE AFUERA (en el flujo normal) === */
-#playPauseOutsideBtn {
+  margin: 15px auto 0 auto;
   position: static;
-  margin: 15px auto;
+
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  padding: 0;
+  cursor: pointer;
+
+  transition:
+    background 0.2s ease,
+    transform 0.15s ease-out;
+  user-select: none;
 }
-
-/*
-
-.video-container #playPauseBottomBtn:hover {
+.media-card__play-button:hover {
   background: rgba(0, 0, 0, 0.75) !important;
   transform: scale(1.1);
 }
-#playPauseBottomBtn:active {
+.media-card__play-button:active {
   transform: scale(0.95);
   transition:
     transform 0.05s ease-in,
     background 0.05s ease-in;
   background: rgba(0, 0, 0, 0.75) !important;
 }
-#playPauseBottomBtn svg.icon {
+.media-card__play-button svg.icon {
   display: none;
   width: 70%;
   height: 70%;
   fill: currentColor;
   stroke: currentColor;
 }
-#playPauseBottomBtn svg.icon-play {
+.media-card__play-button svg.icon-play {
   display: block;
 }
-#playPauseBottomBtn.is-playing svg.icon-pause {
+.media-card__play-button--playing svg.icon-pause {
   display: block;
 }
-#playPauseBottomBtn.is-playing svg.icon-play {
+.media-card__play-button--playing svg.icon-play {
   display: none;
-} */
+}
 
-/* === ESTILOS Expression, Meaning, etc. (Sin cambios) === */
+/* === Estilos Expression, Meaning, etc. === */
 .media-card__expression {
   text-align: center;
   width: 100%;
-  /* margin-bottom: 0; */
-
   margin-top: 5px;
-  /* width: 100%; */
   max-width: 700px;
 }
 .media-card__meaning {
@@ -408,7 +274,7 @@ hr.media-card__divider {
 }
 
 .media-card__notes-figure {
-  flex: 0 0 160px; /* Esta línea se mantiene igual */
+  flex: 0 0 160px;
 }
 
 /* --- ESTILO DE IMAGEN (MODO CLARO) --- */
@@ -419,22 +285,12 @@ hr.media-card__divider {
   cursor: pointer;
   object-fit: cover;
   background-color: #333;
-  /* La nueva sombra que querías */
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
 /* --- ESTILO DE IMAGEN (MODO OSCURO) --- */
-/* Esta regla es nueva y muy importante para el modo oscuro */
 .nightMode .media-card__notes-figure img {
-  /* La sombra adaptada para que se vea bien en fondos oscuros */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
-}
-
-.media-card__extra .Notas {
-  flex: 1;
-  text-align: left;
-  margin: 0;
-  padding: 0;
 }
 
 /* --- Estilos para Móvil (pantallas <= 768px) --- */
@@ -457,16 +313,10 @@ hr.media-card__divider {
     height: auto;
     aspect-ratio: 1 / 1;
   }
-
-  .media-card__extra .Notas {
-    width: 100%;
-    text-align: center;
-    order: 1;
-  }
 }
 
 /* ======================================================== */
-/* === FUENTES (Sin cambios) === */
+/* === FUENTES === */
 /* ======================================================== */
 .media-card__notes {
   font-family: 'Helvetica Neue', sans-serif;

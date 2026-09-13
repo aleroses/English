@@ -1,62 +1,19 @@
 <section id="myCard" class="media-card">
   <figure class="media-card__figure">
     {{#video}}
-    <div class="video-wrapper">
-      <div class="video-container">
-        <canvas id="ambient-canvas"></canvas>
-        <video
-          id="videoAnki"
-          src="{{video}}"
-          width="100%"
-          preload="metadata"
-          playsinline
-        ></video>
-        <!-- <button
-          id="playPauseBottomBtn"
-          class="video-control-button-bottom"
-          aria-label="Reproducir/Pausar"
-        >
-          <svg
-            class="icon icon-play"
-            viewBox="0 0 24 24"
-            width="70%"
-            height="70%"
-            fill="currentColor"
-            stroke="currentColor"
-            stroke-width="3"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-          >
-            <path d="M8 6 L19 12 L8 18 Z" />
-          </svg>
-          <svg
-            class="icon icon-pause"
-            viewBox="0 0 24 24"
-            width="70%"
-            height="70%"
-            fill="currentColor"
-            aria-hidden="true"
-          >
-            <rect
-              x="6"
-              y="5"
-              width="4"
-              height="14"
-              rx="2"
-              ry="2"
-            ></rect>
-            <rect
-              x="14"
-              y="5"
-              width="4"
-              height="14"
-              rx="2"
-              ry="2"
-            ></rect>
-          </svg>
-        </button> -->
-      </div>
+    <div class="media-card__video-container">
+      <canvas
+        id="ambient-canvas"
+        class="media-card__canvas"
+      ></canvas>
+      <video
+        id="videoAnki"
+        class="media-card__video"
+        src="{{video}}"
+        width="100%"
+        preload="metadata"
+        playsinline
+      ></video>
     </div>
     {{/video}}
   </figure>
@@ -70,10 +27,10 @@
   </p>
   {{/english_dialogs}}
 
-  <footer class="footer">
+  <footer class="media-card__footer">
     <button
       id="playPauseOutsideBtn"
-      class="video-control-button-bottom"
+      class="media-card__play-button"
       aria-label="Reproducir/Pausar"
     >
       <svg
@@ -116,9 +73,6 @@
         ></rect>
       </svg>
     </button>
-
-    <!-- <div class="stop">[sound:_1sec.mp3]</div> -->
-    <!-- <div class="">{{video_audio}}</div> -->
   </footer>
 
   <script>
@@ -159,7 +113,7 @@
       }
 
       videoElement.addEventListener('play', () => {
-        canvas.classList.add('glow-active');
+        canvas.classList.add('media-card__canvas--active');
         cancelAnimationFrame(animationFrameId);
         drawGlow();
       });
@@ -184,33 +138,11 @@
       }
     }
 
-    // function updateVideoBottomButtonState() {
-    //   var currentVideo =
-    //     document.getElementById('videoAnki');
-    //   var currentButton = document.getElementById(
-    //     'playPauseBottomBtn'
-    //   );
-
-    //   if (!currentVideo || !currentButton) return;
-
-    //   const isPaused =
-    //     currentVideo.paused || currentVideo.ended;
-
-    //   currentButton.classList.toggle(
-    //     'is-playing',
-    //     !isPaused
-    //   );
-    //   currentButton.setAttribute(
-    //     'aria-label',
-    //     isPaused ? 'Reproducir' : 'Pausar'
-    //   );
-    // }
-
     function updateVideoBottomButtonState() {
       var currentVideo =
         document.getElementById('videoAnki');
       var buttons = document.querySelectorAll(
-        '.video-control-button-bottom'
+        '.media-card__play-button'
       );
 
       if (!currentVideo || !buttons.length) return;
@@ -219,7 +151,10 @@
         currentVideo.paused || currentVideo.ended;
 
       buttons.forEach((btn) => {
-        btn.classList.toggle('is-playing', !isPaused);
+        btn.classList.toggle(
+          'media-card__play-button--playing',
+          !isPaused
+        );
         btn.setAttribute(
           'aria-label',
           isPaused ? 'Reproducir' : 'Pausar'
@@ -243,7 +178,7 @@
 
       if (videoElement) {
         var videoContainer = videoElement.closest(
-          '.video-container'
+          '.media-card__video-container'
         );
 
         if (videoContainer) {
@@ -254,10 +189,14 @@
         }
 
         initializeAmbientMode(videoElement);
-        videoElement.classList.remove('video-ready');
+        videoElement.classList.remove(
+          'media-card__video--ready'
+        );
 
         const makeVideoVisible = () => {
-          videoElement.classList.add('video-ready');
+          videoElement.classList.add(
+            'media-card__video--ready'
+          );
           videoElement.removeEventListener(
             'loadeddata',
             makeVideoVisible
