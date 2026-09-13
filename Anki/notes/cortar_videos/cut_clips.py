@@ -241,6 +241,12 @@ def main():
                          help="Bitrate del .mp3 independiente (default: 128k)")
     parser.add_argument("--limit", type=int, default=None,
                          help="Procesar solo las primeras N líneas (prueba rápida)")
+    parser.add_argument("--start-index", type=int, default=1,
+                         help="Número desde el que empezar a contar el id/Line_XXXX "
+                              "(default: 1). Útil para continuar la numeración de un "
+                              "episodio anterior, ej. --start-index 185 si el episodio "
+                              "previo terminó en la línea 184, y así mantener ids únicos "
+                              "en toda la colección de Anki.")
     parser.add_argument("--overwrite", action="store_true",
                          help="Regenerar archivos que ya existen")
     parser.add_argument("--translate", action="store_true",
@@ -273,14 +279,21 @@ def main():
     tsv_rows = []  # (id, text, video_filename, audio_filename)
     video_skipped = 0
     audio_skipped = 0
+    invalid_lines = []
 
-    for i, (sentence, (start, end)) in enumerate(zip(sentences, windows), start=1):
+    MIN_DURATION = 0.05  # segundos; por debajo de esto se considera inválido
+
+    for i, (sentence, (start, end)) in enumerate(zip(sentences, windows), start=args.start_index):
         video_filename = f"{args.series_name}_{args.episode_label}_Line_{i:04d}.webm"
         audio_filename = f"{args.series_name}_{args.episode_label}_Line_{i:04d}.mp3"
         video_path = os.path.join(args.output_dir, video_filename)
         audio_path = os.path.join(args.output_dir, audio_filename)
 
         tsv_rows.append((i, sentence["text"], video_filename, audio_filename))
+
+        if end - start < MIN_DURATION:
+            invalid_lines.append((i, start, end, sentence["text"]))
+            continue  # no se agrega a 'jobs': se excluye del lote, no tumba el resto
 
         need_video = want_video and (args.overwrite or not os.path.exists(video_path))
         need_audio = want_audio and (args.overwrite or not os.path.exists(audio_path))
@@ -300,6 +313,12 @@ def main():
                 "video_path": video_path,
                 "audio_path": audio_path,
             })
+
+    if invalid_lines:
+        print(f"\n[AVISO] {len(invalid_lines)} línea(s) con tiempo inválido (end <= start), excluidas de este lote:")
+        for i, start, end, text in invalid_lines:
+            print(f"  Línea {i:04d}: start={start:.3f}  end={end:.3f}  ({end - start:+.3f}s)  \"{text[:60]}\"")
+        print("  Revisa y corrige estas líneas en el CSV (columnas 'start'/'end').\n")
 
     print(f"Líneas totales:            {len(sentences)}")
     if want_video:
