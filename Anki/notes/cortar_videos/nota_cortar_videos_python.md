@@ -14,6 +14,8 @@ Si no están instalados:
 sudo apt update && sudo apt install ffmpeg
 ```
 
+Tambien necesitamos instalar `python`
+
 ## Paso 2: Inspeccionar el contenedor completo del episodio
 
 Esto te dice todas las pistas (vídeo, audio, subtítulos) con su índice, códec e idioma:
@@ -57,7 +59,7 @@ No entres en pánico — es común en rips de Blu-ray/HMAX. En ese caso hay que 
 
 ---
 
-**Corre los pasos 1 y 2 (y si quieres el 4) y pégame aquí la salida.** Con eso sabemos exactamente:
+**Corre los pasos 1 y 2 (y si quieres el 4)** Con eso sabemos exactamente:
 
 - Qué índice de pista usar para audio en inglés y subtítulos en inglés.
 - Si necesitamos un paso de OCR extra o podemos ir directo al parseo del SRT.
@@ -66,7 +68,7 @@ No entres en pánico — es común en rips de Blu-ray/HMAX. En ese caso hay que 
 
 ---
 
-Excelente, tenemos toda la información que necesitábamos. Resumen de lo que confirmamos:
+Teniendo toda la información que necesitábamos. Resumen de lo que confirmamos:
 
 | Pista      | Códec                             | Detalle                                                  |
 | ---------- | --------------------------------- | -------------------------------------------------------- |
@@ -111,7 +113,7 @@ Pega la salida de esos tres comandos y con eso diseñamos el filtro de limpieza 
 
 ---
 
-Muy útil. Ya vemos dos cosas importantes que cambian el diseño del parser, antes de seguir:
+Vemos dos cosas importantes que cambian el diseño del parser, antes de seguir:
 
 ## Hallazgo 1: El texto está en MAYÚSCULAS
 
@@ -181,357 +183,150 @@ Esto es robusto y no requiere mantener un diccionario de "sonidos vs. hablantes"
 
 Como pediste empezar pequeño: en vez de ir directo a cortar 337 clips de vídeo, el primer script solo debe **parsear y agrupar el .srt**, mostrando en una tabla (o CSV) el resultado: número de línea, inicio, fin, duración, texto final. Así revisas que el agrupamiento de oraciones y el filtro de efectos de sonido funcionan bien **antes** de gastar tiempo/CPU cortando vídeo. Si algo se ve mal, lo ajustamos ahí, sin haber tocado ffmpeg todavía.
 
-Antes de escribir ese script, dos decisiones rápidas de tu parte:
-
 ---
 
 ---
 
-Perfecto. Como no me confirmaste las dos preguntas puntuales, voy a asumir lo más simple y te aviso — son fáciles de cambiar después:
+Se asume lo más simple — son fáciles de cambiar después:
 
 - **Etiquetas de hablante** `(male)`, `(daughter)`: se descartan, dejamos solo el diálogo.
 - **Filtrado por duración/longitud**: en este script de _preview_ no filtro nada todavía — quiero que veas la tabla completa primero y decidas visualmente qué tan agresivo conviene ser. Le agrego un flag opcional para que puedas experimentar sin tocar código.
 
-## Cómo probarlo 📌🔥
+## Probar rápidamente 📌🔥
+
+Estructura básica
+
+```text
+.
+├── cut_clips.py
+├── parse_srt_preview.py
+└── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+```
+
+### 1. Extraer los subtítulos y crear el archivo de previsualización
+
+Abre una terminal en el directorio donde se encuentran los scripts y el archivo de vídeo.
+
+Primero, selecciona el episodio que deseas procesar:
 
 ```bash
-python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv
+# Especificar el episodio
+EPISODE="S01E01"
+
+# Buscar el archivo de vídeo y guardar su nombre en una variable
+VIDEO1=$(ls Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
+
+# Nombre del archivo CSV de previsualización
+CSV1="${EPISODE}_preview.csv"
+
+# Extraer los subtítulos de la pista correspondiente
+ffmpeg -i "$VIDEO1" -map 0:2 "${EPISODE}.srt"
+
+# Crear un CSV para revisar y corregir manualmente
+# los tiempos y el texto de los subtítulos
+python3 parse_srt_preview.py "${EPISODE}.srt" -o "$CSV1" --shift -0.4
 ```
 
-No requiere librerías externas — solo Python 3 estándar. Te va a imprimir un resumen así:
+El archivo `.csv` generado permite revisar los subtítulos antes de crear los clips definitivos.
 
-```
-Bloques SRT leídos:              388
-Bloques descartados (sin texto): N   (solo efectos de sonido)
-Oraciones agrupadas:             M
-Oraciones finales en CSV:        M
+Si algún subtítulo comienza o termina demasiado pronto o demasiado tarde, puedes modificar manualmente los tiempos en este archivo.
 
-CSV generado: S01E01_preview.csv
-```
+### 2. Generar clips de vídeo + audio
 
-## Qué revisar en el CSV resultante
+Paso 1: Cuenta y API key
 
-1. **¿Las oraciones quedan completas y con sentido?** (no cortadas a la mitad, no dos oraciones distintas pegadas por error).
-2. **¿Los timestamps de inicio/fin corresponden bien** a lo que dirías al escuchar ese fragmento en el vídeo?
-3. **¿Quedó algún residuo raro** de las etiquetas `(male)`/`(sirens)` sin limpiar del todo?
-4. **¿La normalización de mayúsculas se ve razonable?** Ojo: nombres propios como "Todd McFarlane" van a aparecer en minúscula salvo que empiecen oración — es una limitación conocida del MVP, la podemos mejorar después con una lista de excepciones si te molesta.
-5. Abre el CSV en LibreOffice Calc o con `column -s, -t S01E01_preview.csv | less -S` en terminal para verlo cómodo.
-
-Si algo se ve mal (oraciones mal agrupadas, texto residual, etc.), pégame unas líneas del CSV y lo ajustamos aquí antes de pasar al corte de vídeo con ffmpeg.
-
----
-
----
-
-Buen ojo — es el típico "espacio antes de puntuación" del estilo de subtitulado británico/SDH. Lo arreglo quitando espacios antes de `. , ! ? ; :`.Corre de nuevo el mismo comando y confirma que "Mr. Stevens?" y "Oh god!" ya quedan pegados correctamente:
-
-```bash
-python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv
-```
-
-## Ahora sí, el siguiente paso: cortar vídeo
-
-Con el parser validado, toca escribir el script que:
-
-1. Lee el CSV de preview (o re-parsea el .srt directamente — a decidir).
-2. Para cada oración, corta un clip de vídeo+audio con ffmpeg usando `start`/`end` + un pequeño padding.
-3. Extrae también el audio equivalente si decides usar audio solo en vez de vídeo, aunque tu caso pide vídeo recortado.
-4. Nombra cada clip según tu convención (`..._Line_0001.webm`).
-5. Genera el `.tsv` final con el formato de Anki.
-6. Todo esto **solo para S01E01** por ahora — probamos un episodio, revisamos tamaño/calidad, y si todo bien generalizamos a los 18.
-
-Antes de escribir ese script necesito confirmar contigo los parámetros de corte y codificación, para no tener que rehacer 337 clips si algo no te convence:
-
----
-
----
-
-Con eso ya tengo todo para el script de corte. Dos decisiones de diseño que agrego por mi cuenta, te las explico:
-
-- **Padding con "clamp" a la línea vecina**: si aplico 250ms de margen y la oración anterior/siguiente está muy cerca en el tiempo, el padding podría "morder" el diálogo de la línea vecina. El script recorta automáticamente el padding para nunca pasarse del final de la línea previa ni del inicio de la siguiente.
-- **Modo de prueba (`--limit`)**: para no esperar a que se corten 337 clips solo para revisar 5, el script permite limitar cuántas líneas procesa en esta primera corrida.
-
-## Prueba rápida — solo 5 clips primero 📌🔥
-
-```bash
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --limit 5
-```
-
-Esto te genera 5 clips en `output_files/` y el `.tsv` correspondiente. Revisa:
-
-1. **Abre 2-3 clips** en cualquier reproductor (mpv, vlc) — ¿se ve bien el corte? ¿el audio no está trunco al inicio/final?
-2. **Tamaño de cada clip** (`ls -lh output_files/`) — con 480p + CRF 32 deberían quedar razonablemente livianos, pero lo confirmamos con datos reales tuyos.
-3. **El `.tsv`** — ábrelo con `cat` o `column -t -s$'\t'` y compara contra tu formato de ejemplo.
-
-Si todo se ve bien, corres el mismo comando sin `--limit` para procesar el episodio completo (412 líneas → ~337 esperadas tras descartar efectos de sonido, según tu ejemplo original).
-
-Avísame qué tal salen esos 5 clips de prueba — tamaño en MB y si el corte/audio se sienten bien — y seguimos con el paso 3: automatizar los 18 episodios y armar el `.zip` final.
-
----
-
----
-
-## Traducciones
-
-Con DeepL vas a tener muy buena calidad, y tiene un plan gratuito generoso (500,000 caracteres/mes — de sobra para toda la serie). Vamos a integrarlo en `cut_clips.py`, ya que es el que escribe el `.tsv`, y aprovechamos exactamente ese segundo campo vacío que ya habíamos dejado preparado desde el principio.
-
-### Paso 1: Cuenta y API key
-
-1. Ve a https://www.deepl.com/pro-api y regístrate al plan **DeepL API Free** (tarjeta de crédito no es obligatoria para el plan free, pero puede pedírtela para verificación — no te van a cobrar mientras te quedes dentro del límite gratuito).
+1. Ve a https://www.deepl.com/pro-api y regístrate al plan **DeepL API Free** (tarjeta de crédito no es obligatoria para el plan free).
 2. Una vez dentro, en tu cuenta encuentras la **API key** (termina en `:fx` para el plan free).
 
-### Paso 2: Instalar la librería
+Paso 2: Instalar la librería
 
 ```bash
 pip install deepl --break-system-packages
 ```
 
-### Paso 3: Modificar `cut_clips.py`
-
-Agrego traducción automática con **caché local** (para no volver a traducir líneas que ya tradujiste antes, aunque re-ejecutes el script varias veces mientras pruebas):Ahora integro la traducción justo antes de escribir el `.tsv`, en el campo que hasta ahora estaba vacío:
-
-### Cómo usarlo
-
-**Recomendado — la API key como variable de entorno**, para que no quede guardada en el historial de tu terminal (`history`):
+**No publiques tu API key en GitHub.** Utiliza una variable de entorno o un mecanismo seguro para almacenarla.
 
 ```bash
-export DEEPL_API_KEY="tu-api-key-aqui"
+# DEEPL API para traducir texto
+export DEEPL_API_KEY="YOUR_DEEPL_API_KEY"
 
+# Generar clips (video + audio)
 python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --translate \
-  --limit 5
-```
-
-Con esto, el `.tsv` te va a quedar así:
-
-```
-0001 What would you do if at the moment of death a voice from the darkness offered you a chance to live again?	¿Qué harías si en el momento de la muerte una voz desde la oscuridad te ofreciera la oportunidad de vivir de nuevo?	[sound:..._Line_0001.webm]
-```
-
-### Sobre la caché
-
-Se crea un archivo `Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json` junto a tus scripts. Si corres el comando de nuevo (por ejemplo, para procesar el episodio completo después de haber probado con 5 líneas), **no vuelve a gastar cuota** en las líneas que ya tradujo — solo traduce las líneas nuevas. Puedes reutilizar esta misma caché entre episodios distintos si compartes el mismo `--series-name`, ya que probablemente algunas frases se repitan en la serie.
-
-### Un detalle a vigilar
-
-En tu línea 7 vi que quedó una etiqueta `<I>malebolgia,</I>` mezclada en el texto (residuo del subtítulo original en cursiva). DeepL debería traducir igual el contenido, pero puede que la etiqueta quede rara en medio de la traducción. Si ves varias líneas con `<I>`/`</I>` sueltas, dímelo y agrego un paso de limpieza en `parse_srt_preview.py` para quitarlas antes de generar el CSV — se me pasó por alto ese caso al diseñar `clean_text()`.
-
-## Resumen para retomar otro día
-
-**Archivos que ya tienes:**
-
-- `parse_srt_preview.py` — SRT → CSV con oraciones agrupadas.
-- `cut_clips.py` — CSV + vídeo → clips `.webm` + `.tsv`.
-
-**Parámetros ya decididos (para no tener que repensarlos):**
-
-- Etiquetas de hablante `(male)`, `(daughter)`, etc. → se descartan, solo queda el diálogo.
-- Sin filtro de duración/palabras mínimas todavía (`--min-duration 0 --min-words 0`).
-- Resolución 640x480, CRF 32 (VP9), audio Opus 96kbps.
-- Padding a definir según lo que confirmes con `--padding 0` — pendiente tu resultado final.
-
-**Flujo paso a paso:**
-
-1. `ffprobe` sobre el episodio para confirmar índices de pistas (ya no hace falta repetir esto salvo que cambie el release/fuente).
-2. Extraer subtítulos: `ffmpeg -i episodio.mkv -map 0:2 episodio.srt`
-3. Generar preview: `python3 parse_srt_preview.py episodio.srt -o episodio_preview.csv`
-4. Revisar el CSV, ajustar tiempos si hace falta (ver arriba).
-5. Cortar clips de prueba: `python3 cut_clips.py --video ... --csv ... --series-name ... --episode-label ... --padding 0 --limit 5`
-6. Revisar los 5 clips (audio/tamaño).
-7. Si todo bien, correr sin `--limit` para el episodio completo.
-
-**Lo que falta por construir (próxima sesión):**
-
-- Automatizar los pasos 1-7 para los 18 episodios de una sola corrida (el `--input ./Spawn` que mostraste en tu ejemplo original).
-- Consolidar los 18 `.tsv` (o dejarlos separados, a decidir).
-- Empaquetar todo en el `.zip` final con la estructura que definiste.
-- Mostrar el resumen de progreso en pantalla (barra de progreso, contador de generados/omitidos/errores) ya replicado por episodio — falta el nivel "por serie".
-
-Cuando confirmes el resultado con `--padding 0`, seguimos con la automatización completa.
-
-## Dónde ajustar los tiempos: depende del tipo de ajuste
-
-- **Ajuste puntual en 1-2 líneas** (una oración específica quedó mal cortada) → edítalo directo en el **CSV** (`S01E01_preview.csv`). Es texto plano, abres con LibreOffice Calc o `nano`/`vim`, cambias `start`/`end` en formato `HH:MM:SS.mmm`, guardas, y corres `cut_clips.py` de nuevo apuntando a ese CSV. Es el input directo del script de corte, así que es el lugar más rápido para probar.
-
-- **El .srt completo está desfasado** (todas las líneas corridas por el mismo offset, típico si mezclaste subtítulo de otro release) → corrígelo en el **.srt** con algún editor de subtítulos (Subtitle Edit, Aegisub) o herramienta CLI, y luego vuelve a correr `parse_srt_preview.py` para regenerar el CSV desde cero.
-
-⚠️ Importante: si editas el CSV a mano y después vuelves a correr `parse_srt_preview.py` sobre el mismo `.srt`, **tu edición se pierde** porque el CSV se regenera. Trátalo como intermedio, no como fuente definitiva — si haces varios ajustes finos que quieres conservar, cópialo a un nombre distinto (ej. `S01E01_preview_corregido.csv`) antes de tocar nada más.
-
----
-
----
-
-Dos formas de retomarlo, según cuánto tiempo pase:
-
-## Opción A — Misma conversación (recomendado si es pronto)
-
-Si vuelves en los próximos días y esta conversación sigue disponible en tu historial de Claude, simplemente continúa aquí mismo escribiendo algo como "Ya probé con `--padding 0`, esto es lo que encontré..." — tengo todo el contexto (los dos scripts, las decisiones tomadas, el hallazgo del SDH, etc.) y no hace falta repetir nada.
-
-## Opción B — Conversación nueva (si pasa mucho tiempo o cambias de dispositivo)
-
-Aquí sí conviene un prompt que resuma el estado, porque una conversación nueva no tiene memoria de esta. Te dejo uno listo para copiar y ajustar con tus resultados:
-
-```
-Continúo un proyecto que empecé en otra conversación con Claude: generar clips
-de vídeo cortados por oración desde episodios de una serie (Spawn, S01-S03,
-archivos .mkv en Debian 12), para estudiar listening en Anki.
-
-Ya tengo:
-- Confirmado que los .mkv traen 1 pista de vídeo (h264, 1440x1080, DAR 4:3),
-  1 pista de audio (AC3 estéreo) y 1 pista de subtítulos SDH en texto plano
-  (subrip), todo en inglés, sin necesidad de OCR.
-- parse_srt_preview.py: extrae el .srt, agrupa fragmentos de subtítulo en
-  oraciones completas (usando puntuación de cierre), descarta bloques que son
-  solo efectos de sonido tipo "(sirens)"/"(honking)", quita etiquetas de
-  hablante tipo "(male)"/"(daughter)" dejando solo el diálogo, normaliza el
-  texto de MAYÚSCULAS a sentence case, y corrige espacios sueltos antes de
-  puntuación. Genera un CSV de preview con columnas: line_number, start, end,
-  duration_sec, text.
-- cut_clips.py: toma ese CSV + el .mkv original, corta un clip .webm por
-  oración con ffmpeg (640x480, VP9 CRF 32, audio Opus 96k), con padding
-  configurable que se recorta automáticamente para no invadir la línea vecina,
-  y genera el .tsv final para Anki con formato:
-  texto\t\t[sound:nombre_archivo.webm]
-- Adjunto ambos scripts.
-
-Último resultado probado: [pega aquí tus resultados con --padding 0: si quedó
-bien, mal, qué ajustaste, tamaño de los clips de prueba, etc.]
-
-Lo que falta:
-- Confirmar el padding final para S01E01 completo (no solo 5 líneas de prueba).
-- Automatizar todo el flujo para los 18 episodios (S01-S03) en una sola
-  corrida de un script tipo:
-  python3 generate_anki_video.py --input ./Spawn
-- Consolidar/organizar los .tsv por episodio.
-- Empaquetar todo en un .zip final con esta estructura:
-  Todd_McFarlanes_Spawn_Anki_Video_package_S01-S03.zip
-    ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
-    └── output_files/
-        └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
-
-Ayúdame a seguir desde aquí.
-```
-
-**Importante**: en la conversación nueva tendrías que **adjuntar** `parse_srt_preview.py` y `cut_clips.py` (los que ya generamos aquí), porque Claude no puede verlos si no se los subes de nuevo.
-
-Mi sugerencia honesta: si puedes, sigue en esta misma conversación — es más simple y evitas tener que resumir nada.
-
----
-
----
-
-## Ejecutar rápidamente
-
-Crear el archivo `S01E01.srt`, en base a este se crea el archivo `S01E01_preview.csv` para editar y corregir manualmente.
-
-```bash
-ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
-
-python3 parse_srt_preview.py S01E01.srt -o S01E01_preview.csv --shift -0.4
-```
-
-Sin traducción: 
-
-```bash
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --padding 0 \
-  --limit 25
-```
-
-Con traducción:
-
-```bash
-export DEEPL_API_KEY="lolcat31942:fx"
-
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --translate \
-  --limit 5
-```
-
-Estructura de la carpeta donde se está trabajando:
-
-```bash
-               Todd.McFarlanes.Spawn.S01.1080p.HMAX.WEBRip.DD2.0.x264-SLiGNOME
-ale ❯ tree -L 4
-.
-├── cut_clips.py
-├── episodio_info.json
-├── output_files
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0002.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0003.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0048.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0049.webm
-│   └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0050.webm
-├── parse_srt_preview.py
-├── S01E01_preview.csv
-├── S01E01.srt
-├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
-├── Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json
-├── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E02.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E03.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E04.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E05.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-└── Todd.McFarlanes.Spawn.S01E06.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-
-2 directories, 63 files
-```
-
-Si algún video no se cortó bien, **elimínalo** de la carpeta `output_files` y vuelve a ejecutar el comando:
-
-```bash
-export DEEPL_API_KEY="lolcat39842:fx"
-
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --translate \
-  --limit 5
-```
-
----
-
----
-
-Video + Audio
-
-```bash
-export DEEPL_API_KEY=""
-
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
+  --video "$VIDEO1" \
+  --csv "$CSV1" \
   --series-name Todd_McFarlanes_Spawn_Anki_Video \
   --episode-label S01-Ep01 \
   --media both \
   --translate \
-  --overwrite \👈🏼👀
   --limit 5
 ```
 
-Audio
+El parámetro `--limit 5` permite realizar primero una prueba con un número reducido de clips.
+
+Una vez comprobado que los clips se generan correctamente, aumenta el valor de `--limit` para continuar procesando el episodio.
+
+☣️☢️ Importante 🔥☠️
+
+Debes cambiar los nombres de los archivos descritos en las líneas a ejecutar, según estés trabajando.
+
+### 3. Continuar la numeración en el siguiente episodio
+
+Cuando termines de procesar un episodio, puedes obtener el ID del último clip generado:
+
+```bash
+# Obtener el ID del último clip generado
+tail -n1 Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv | cut -f1
+
+# Obtener el ID del último clip
+LAST_ID=$(tail -n1 Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv | cut -f1)
+
+# Calcular el siguiente ID
+NEXT_START=$((10#$LAST_ID + 1))
+echo "$NEXT_START"
+```
+
+> **Nota:** si este es el primer episodio que procesas, `--start-index` no es necesario.
+
+### 4. Procesar el siguiente episodio
+
+Por ejemplo, para procesar el episodio `S01E02`:
+
+```bash
+# Especificar el episodio
+EPISODE="S01E02"
+
+# Buscar el archivo de vídeo
+VIDEO2=$(ls Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
+
+# Nombre del archivo CSV de previsualización
+CSV2="${EPISODE}_preview.csv"
+
+# Extraer los subtítulos
+ffmpeg -i "$VIDEO2" -map 0:2 "${EPISODE}.srt"
+
+# Crear el CSV para revisar y corregir manualmente
+python3 parse_srt_preview.py "${EPISODE}.srt" -o "$CSV2" --shift -0.4
+```
+
+Después, genera los clips:
+
+```bash
+python3 cut_clips.py \
+  --video "$VIDEO2" \
+  --csv "$CSV2" \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01-Ep02 \
+  --start-index "$NEXT_START" \
+  --media both \
+  --translate \
+  --limit 5
+```
+
+El parámetro `--start-index` permite continuar la numeración de los clips desde el episodio anterior.
+
+### 5. Generar únicamente audio
+
+Si solo necesitas los archivos de audio, utiliza `--media audio`:
 
 ```bash
 python3 cut_clips.py \
@@ -541,6 +336,94 @@ python3 cut_clips.py \
   --episode-label S01-Ep01 \
   --media audio
 ```
+
+### 6. Corregir un clip generado incorrectamente
+
+Si algún clip no se generó correctamente:
+
+1. Elimina el clip correspondiente de la carpeta `output_files`.
+2. Abre el archivo `.csv`.
+3. Corrige manualmente los tiempos o el texto.
+4. Vuelve a ejecutar el comando de generación.
+
+No es necesario volver a procesar los clips que ya son correctos.
+
+⚠️ Importante: si editas el CSV a mano y después vuelves a correr `parse_srt_preview.py` sobre el mismo `.srt`, **tu edición se pierde** porque el CSV se regenera. Trátalo como intermedio, no como fuente definitiva — si haces varios ajustes finos que quieres conservar, cópialo a un nombre distinto (ej. `S01E01_preview_corregido.csv`) antes de tocar nada más.
+
+### Estructura del proyecto después del procesamiento
+
+Después de procesar un episodio, la estructura del directorio será similar a esta:
+
+```text
+.
+├── cut_clips.py
+├── episodio_info.json
+├── output_files
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0002.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0003.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_....webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_....webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0048.webm
+│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0049.webm
+│   └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0050.webm
+├── parse_srt_preview.py
+├── S01E01_preview.csv
+├── S01E01.srt
+├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
+├── Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json
+└── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+```
+
+## Flujo de trabajo
+
+1. `ffprobe` sobre el episodio para confirmar índices de pistas (ya no hace falta repetir esto salvo que cambie el release/fuente).
+2. Extraer subtítulos: `ffmpeg -i episodio.mkv -map 0:2 episodio.srt`
+3. Generar preview: `python3 parse_srt_preview.py episodio.srt -o episodio_preview.csv`
+4. Revisar el CSV, ajustar tiempos si hace falta (ver arriba).
+5. Cortar clips de prueba: `python3 cut_clips.py --video ... --csv ... --series-name ... --episode-label ... --padding 0 --limit 5`
+6. Revisar los 5 clips (audio/tamaño).
+7. Si todo bien, correr sin `--limit` para el episodio completo.
+
+En resumen, el flujo de trabajo es:
+
+```text
+Video (.mkv)
+     │
+     ▼
+Subtítulos (.srt)
+     │
+     ▼
+Previsualización y corrección
+     │
+     ▼
+CSV (.csv)
+     │
+     ├──────────────► Traducción DeepL
+     │
+     ▼
+Corte de clips
+     │
+     ├──► Vídeo (.webm)
+     └──► Audio
+     │
+     ▼
+TSV para Anki
+```
+
+- `parse_srt_preview.py` — SRT → CSV con oraciones agrupadas.
+- `cut_clips.py` — CSV + vídeo → clips `.webm` + `.tsv`.
+- Resolución 640x480, CRF 32 (VP9), audio Opus 96kbps.
+
+El archivo TSV generado contiene la información necesaria para importar los clips y textos en Anki.
+
+### Sobre la caché
+
+Se crea un archivo `Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json` junto a tus scripts. Si corres el comando de nuevo (por ejemplo, para procesar el episodio completo después de haber probado con 5 líneas), **no vuelve a gastar cuota** en las líneas que ya tradujo — solo traduce las líneas nuevas. Puedes reutilizar esta misma caché entre episodios distintos si compartes el mismo `--series-name`, ya que probablemente algunas frases se repitan en la serie.
+
+---
+---
+
 
 
 Si el script tiene `--overwrite \` quítalo si no quieres que vuelva a trabajar en clips ya hechos.
@@ -590,7 +473,7 @@ Video + Audio
 
 ```bash
 # DEEPL API para traducir texto
-export DEEPL_API_KEY="fasfasfsfdfsadf:sz"
+export DEEPL_API_KEY="change the api ke"
 
 # Generar clips (video + audio)
 python3 cut_clips.py \
