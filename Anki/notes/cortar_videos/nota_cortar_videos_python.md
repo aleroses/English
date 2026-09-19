@@ -197,10 +197,18 @@ Se asume lo más simple — son fáciles de cambiar después:
 Estructura básica
 
 ```text
-.
-├── cut_clips.py
-├── parse_srt_preview.py
-└── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+.  
+├── core  
+│   ├── clip_engine.py  
+│   └── subtitle_parser.py  
+├── cut_clips.py  
+├── data # Ruta que se añade a los scripts 
+│   └── Spawn_S01  
+│       ├── S01E01 # Añadir video original aquí! 
+│       └── S01E02    
+├── parse_srt_preview.py  
+├── LICENSE  
+└── README.md
 ```
 
 ### 1. Extraer los subtítulos y crear el archivo de previsualización
@@ -210,21 +218,26 @@ Abre una terminal en el directorio donde se encuentran los scripts y el archivo 
 Primero, selecciona el episodio que deseas procesar:
 
 ```bash
-# Especificar el episodio
+# Directorio raíz donde se almacenan los datos de la serie
+SERIES_DIR="data/Spawn_S01"
+
+# Identificador del episodio a procesar
 EPISODE="S01E01"
 
-# Buscar el archivo de vídeo y guardar su nombre en una variable
-VIDEO1=$(ls Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
+# Ruta de la carpeta específica del episodio actual
+EPISODE_DIR="$SERIES_DIR/$EPISODE"
 
-# Nombre del archivo CSV de previsualización
-CSV1="${EPISODE}_preview.csv"
+# Buscar el archivo de vídeo del episodio y guardar su ruta exacta en una variable
+VIDEO1=$(ls "$EPISODE_DIR"/Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
 
-# Extraer los subtítulos de la pista correspondiente
-ffmpeg -i "$VIDEO1" -map 0:2 "${EPISODE}.srt"
+# Ruta y nombre del archivo CSV de previsualización que se va a generar
+CSV1="$EPISODE_DIR/${EPISODE}_preview.csv"
 
-# Crear un CSV para revisar y corregir manualmente
-# los tiempos y el texto de los subtítulos
-python3 parse_srt_preview.py "${EPISODE}.srt" -o "$CSV1" --shift -0.4
+# Extraer la pista de subtítulos del archivo de vídeo (pista 0:2) a un archivo .srt
+ffmpeg -i "$VIDEO1" -map 0:2 "$EPISODE_DIR/${EPISODE}.srt"
+
+# Convertir el .srt a un archivo CSV para previsualización y ajustar los tiempos (-0.4s)
+python3 parse_srt_preview.py "$EPISODE_DIR/${EPISODE}.srt" -o "$CSV1" --shift -0.4
 ```
 
 El archivo `.csv` generado permite revisar los subtítulos antes de crear los clips definitivos.
@@ -247,15 +260,18 @@ pip install deepl --break-system-packages
 **No publiques tu API key en GitHub.** Utiliza una variable de entorno o un mecanismo seguro para almacenarla.
 
 ```bash
-# DEEPL API para traducir texto
+# DEEPL API: Clave de la API de DeepL para habilitar la traducción del texto
 export DEEPL_API_KEY="YOUR_DEEPL_API_KEY"
 
-# Generar clips (video + audio)
+# Generar los clips (vídeo y audio) e interactuar con la API de traducción
 python3 cut_clips.py \
   --video "$VIDEO1" \
   --csv "$CSV1" \
   --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
+  --episode-label S01E01 \
+  --output-dir "$EPISODE_DIR/output_files" \
+  --tsv-out "$EPISODE_DIR/Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv" \
+  --translation-cache "$SERIES_DIR/translations_cache.json" \
   --media both \
   --translate \
   --limit 5
@@ -285,6 +301,18 @@ NEXT_START=$((10#$LAST_ID + 1))
 echo "$NEXT_START"
 ```
 
+```bash
+# Obtener el ID del último clip generado
+tail -n1 "$EPISODE_DIR/Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv" | cut -f1
+
+# Obtener el ID del último clip
+LAST_ID=$(tail -n1 "$EPISODE_DIR/Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv" | cut -f1)
+
+# Calcular el siguiente ID
+NEXT_START=$((10#$LAST_ID + 1))
+echo "$NEXT_START"
+```
+
 > **Nota:** si este es el primer episodio que procesas, `--start-index` no es necesario.
 
 ### 4. Procesar el siguiente episodio
@@ -292,20 +320,26 @@ echo "$NEXT_START"
 Por ejemplo, para procesar el episodio `S01E02`:
 
 ```bash
-# Especificar el episodio
+# Directorio raíz donde se almacenan los datos de la serie
+SERIES_DIR="data/Spawn_S01"
+
+# Identificador del episodio a procesar
 EPISODE="S01E02"
 
-# Buscar el archivo de vídeo
-VIDEO2=$(ls Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
+# Ruta de la carpeta específica del episodio actual
+EPISODE_DIR="$SERIES_DIR/$EPISODE"
 
-# Nombre del archivo CSV de previsualización
-CSV2="${EPISODE}_preview.csv"
+# Buscar el archivo de vídeo del episodio y guardar su ruta exacta en una variable
+VIDEO2=$(ls "$EPISODE_DIR"/Todd.McFarlanes.Spawn.${EPISODE}*.mkv)
 
-# Extraer los subtítulos
-ffmpeg -i "$VIDEO2" -map 0:2 "${EPISODE}.srt"
+# Ruta y nombre del archivo CSV de previsualización que se va a generar
+CSV2="$EPISODE_DIR/${EPISODE}_preview.csv"
 
-# Crear el CSV para revisar y corregir manualmente
-python3 parse_srt_preview.py "${EPISODE}.srt" -o "$CSV2" --shift -0.4
+# Extraer la pista de subtítulos del archivo de vídeo (pista 0:2) a un archivo .srt
+ffmpeg -i "$VIDEO2" -map 0:2 "$EPISODE_DIR/${EPISODE}.srt"
+
+# Convertir el .srt a un archivo CSV para previsualización y ajustar los tiempos (-0.4s)
+python3 parse_srt_preview.py "$EPISODE_DIR/${EPISODE}.srt" -o "$CSV2" --shift -0.4
 ```
 
 Después, genera los clips:
@@ -315,7 +349,10 @@ python3 cut_clips.py \
   --video "$VIDEO2" \
   --csv "$CSV2" \
   --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep02 \
+  --episode-label S01E02 \
+  --output-dir "$EPISODE_DIR/output_files" \
+  --tsv-out "$EPISODE_DIR/Todd_McFarlanes_Spawn_Anki_Video_S01-Ep02_anki.tsv" \
+  --translation-cache "$SERIES_DIR/translations_cache.json" \
   --start-index "$NEXT_START" \
   --media both \
   --translate \
@@ -335,6 +372,19 @@ python3 cut_clips.py \
   --series-name Todd_McFarlanes_Spawn_Anki_Video \
   --episode-label S01-Ep01 \
   --media audio
+  
+  
+python3 cut_clips.py \
+  --video "$VIDEO1" \
+  --csv "$CSV1" \
+  --series-name Todd_McFarlanes_Spawn_Anki_Video \
+  --episode-label S01E01 \
+  --output-dir "$EPISODE_DIR/output_files" \
+  --tsv-out "$EPISODE_DIR/Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv" \
+  --translation-cache "$SERIES_DIR/translations_cache.json" \
+  --media audio \
+  --translate \
+  --limit 5
 ```
 
 ### 6. Corregir un clip generado incorrectamente
@@ -355,24 +405,52 @@ No es necesario volver a procesar los clips que ya son correctos.
 Después de procesar un episodio, la estructura del directorio será similar a esta:
 
 ```text
-.
-├── cut_clips.py
-├── episodio_info.json
-├── output_files
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0002.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0003.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0048.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0049.webm
-│   └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0050.webm
-├── parse_srt_preview.py
-├── S01E01_preview.csv
-├── S01E01.srt
-├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
-├── Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json
-└── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+.  
+├── core  
+│   ├── clip_engine.py  
+│   ├── __pycache__  
+│   │   ├── clip_engine.cpython-311.pyc  
+│   │   └── subtitle_parser.cpython-311.pyc  
+│   └── subtitle_parser.py  
+├── cut_clips.py  
+├── data  
+│   └── Spawn_S01  
+│       ├── S01E01  
+│       │   ├── output_files  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0001.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0001.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0002.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0002.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0003.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0003.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0004.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0004.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0005.mp3  
+│       │   │   └── Todd_McFarlanes_Spawn_Anki_Video_S01E01_Line_0005.webm  
+│       │   ├── S01E01_preview.csv  
+│       │   ├── S01E01.srt  
+│       │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv  
+│       │   └── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv  
+│       ├── S01E02  
+│       │   ├── output_files  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0006.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0006.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0007.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0007.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0008.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0008.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0009.mp3  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0009.webm  
+│       │   │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0010.mp3  
+│       │   │   └── Todd_McFarlanes_Spawn_Anki_Video_S01E02_Line_0010.webm  
+│       │   ├── S01E02_preview.csv  
+│       │   ├── S01E02.srt  
+│       │   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep02_anki.tsv  
+│       │   └── Todd.McFarlanes.Spawn.S01E02.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv  
+│       └── translations_cache.json  
+├── parse_srt_preview.py  
+├── LICENSE  
+└── README.md
 ```
 
 ## Flujo de trabajo
@@ -434,103 +512,39 @@ Simplemente quita `--overwrite` cuando quieras el comportamiento de "solo genera
 
 ---
 
-## Ejecutar rápidamente
+### Tareas pendientes
 
-☣️☢️ Importante 🔥☠️
+copiar ultimo codigo y probarlo
 
-Debes cambiar los nombres de los archivos descritos en las líneas a ejecutar, según estés trabajando.
 
-```bash
-# Calcular el número exacto donde debe empezar el siguiente episodio
-tail -n1 Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv | cut -f1
-
-# Guarda el número donde debe empezar el siguiente clip
-LAST_ID=$(tail -n1 Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv | cut -f1)
-NEXT_START=$((10#$LAST_ID + 1))
-echo $NEXT_START
-
-# Si es el primer episodio a cortar, esto no aplica.
-```
+1. Colocar nombre del capitulo en el tsv para visualizarlo en anki. Se pueda encontrar usando este comando pero si no tiene ese dato dejar la columna del tsv en blanco o darme alternativas.
 
 ```bash
-# Guarda episodio especifico
-EPISODIO="S01E02"
-
-# Buscar archivo de vídeo y guardar su nombre dentro de una variable de entorno
-VIDEO2=$(ls Todd.McFarlanes.Spawn.${EPISODIO}*.mkv)
-
-# Guarda nombre del nuevo archivo .cvs
-CSV2="${EPISODIO}_preview.csv"
-
-# Crear archivo .srt con los subtitulos
-ffmpeg -i "$VIDEO2" -map 0:2 "${EPISODIO}.srt"
-
-# Crear archivo .csv para la corrección manual de tiempos y texto
-python3 parse_srt_preview.py "${EPISODIO}.srt" -o "$CSV2" --shift -0.4
+ffprobe -v error -show_entries format_tags=title -of default=noprint_wrappers=1:nokey=1 "data/Spawn_S01/S01E01/Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv"
 ```
 
-Video + Audio
+2. Para empezar a trabajar con la serie spawn primero debí analizar la data interna de los mkv, pero eso es un analizis manual previo antes de empezar a cortar. Ahora, como deberiamos hacer para integrar esto y estandarizar este analisis sin tener que hacerlo manualmente para que funcione con otras clases de idiomas, subtitulos y variantes que quizá no estoy tomando en cuenta? recordemos que haciamos:
 
-```bash
-# DEEPL API para traducir texto
-export DEEPL_API_KEY="change the api ke"
+ffprobe -v error -show_entries stream=index,codec_type,codec_name,codec_tag_string:stream_tags=language,title -of default=noprint_wrappers=0 "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv"
 
-# Generar clips (video + audio)
-python3 cut_clips.py \
-  --video "$VIDEO2" \
-  --csv "$CSV2" \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep02 \
-  --start-index $NEXT_START \
-  --media both \
-  --translate \
-  --limit 5
-```
+ffprobe -v error -print_format json -show_format -show_streams "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" > episodio_info.json
 
-Audio
+ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
 
-```bash
-python3 cut_clips.py \
-  --video "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" \
-  --csv S01E01_preview.csv \
-  --series-name Todd_McFarlanes_Spawn_Anki_Video \
-  --episode-label S01-Ep01 \
-  --media audio
-```
+grep -E '\[.*\]|\(.*\)' S01E01.srt | sort -u | head -40
 
-Si el script tiene `--overwrite \` quítalo si no quieres que vuelva a trabajar en clips ya hechos. Simplemente quita `--overwrite` cuando quieras el comportamiento de "solo generar lo que falta".
+grep -c '\-\->' S01E01.srt
 
-Si algún video no se cortó bien, **elimínalo** de la carpeta `output_files`, edita los tiempos en el `.csv` y vuelve a ejecutar el comando anterior.
+grep -n -B1 -A2 '( sirens )\|( honking )\|( male )\|( daughter )' S01E01.srt
 
-Estructura de la carpeta donde se está trabajando:
+grep -v '\-\->' S01E01.srt | grep -v '^[0-9]*$' | grep -v '^$' | grep -vE '[.?!"]\s*$' | wc -l
 
-```bash
-.
-├── cut_clips.py
-├── episodio_info.json
-├── output_files
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0001.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0002.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0003.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_.....webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0048.webm
-│   ├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0049.webm
-│   └── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_Line_0050.webm
-├── parse_srt_preview.py
-├── S01E01_preview.csv
-├── S01E01.srt
-├── Todd_McFarlanes_Spawn_Anki_Video_S01-Ep01_anki.tsv
-├── Todd_McFarlanes_Spawn_Anki_Video_translations_cache.json
-├── Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E02.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E03.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E04.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-├── Todd.McFarlanes.Spawn.S01E05.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
-└── Todd.McFarlanes.Spawn.S01E06.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv
+grep -v '\-\->' S01E01.srt | grep -v '^[0-9]*$' | grep -v '^$' | grep -vE '[.?!"]\s*$' | head -20
 
-2 directories, 63 files
-```
+
+
+
+
 
 
 
