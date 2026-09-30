@@ -510,42 +510,84 @@ Simplemente quita `--overwrite` cuando quieras el comportamiento de "solo genera
 
 ---
 
+
 ---
+
 
 ### Tareas pendientes
 
-copiar ultimo codigo y probarlo
 
 
-1. Colocar nombre del capitulo en el tsv para visualizarlo en anki. Se pueda encontrar usando este comando pero si no tiene ese dato dejar la columna del tsv en blanco o darme alternativas.
+
+
+
+
+
+
+
+
+
+
+
+
+herrameinta para copiar en el portapapeles:
 
 ```bash
-ffprobe -v error -show_entries format_tags=title -of default=noprint_wrappers=1:nokey=1 "data/Spawn_S01/S01E01/Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv"
+sudo apt install wl-clipboard
+
+git diff | wl-copy
 ```
 
-2. Para empezar a trabajar con la serie spawn primero debí analizar la data interna de los mkv, pero eso es un analizis manual previo antes de empezar a cortar. Ahora, como deberiamos hacer para integrar esto y estandarizar este analisis sin tener que hacerlo manualmente para que funcione con otras clases de idiomas, subtitulos y variantes que quizá no estoy tomando en cuenta? recordemos que haciamos:
 
-ffprobe -v error -show_entries stream=index,codec_type,codec_name,codec_tag_string:stream_tags=language,title -of default=noprint_wrappers=0 "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv"
+```bash
+sudo apt install libmpv2 || sudo apt install libmpv1   # según tu versión de Debian
+pip install python-mpv --break-system-packages
+```
 
-ffprobe -v error -print_format json -show_format -show_streams "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" > episodio_info.json
+```bash
+sudo apt install libmpv2      # si tu Debian no lo tiene, prueba: sudo apt install libmpv1
+pip install PySide6 python-mpv --break-system-packages
 
-ffmpeg -i "Todd.McFarlanes.Spawn.S01E01.1080p.HMAX.WEB-DL.DD2.0.H.264-SLiGNOME.mkv" -map 0:2 S01E01.srt
-
-grep -E '\[.*\]|\(.*\)' S01E01.srt | sort -u | head -40
-
-grep -c '\-\->' S01E01.srt
-
-grep -n -B1 -A2 '( sirens )\|( honking )\|( male )\|( daughter )' S01E01.srt
-
-grep -v '\-\->' S01E01.srt | grep -v '^[0-9]*$' | grep -v '^$' | grep -vE '[.?!"]\s*$' | wc -l
-
-grep -v '\-\->' S01E01.srt | grep -v '^[0-9]*$' | grep -v '^$' | grep -vE '[.?!"]\s*$' | head -20
+python3 gui_app.py
 
 
+python3 core/reference_alignment.py
+```
+
+Si genere un video, pero luego quiero fusionarlo con el siguiente me dice que no hay una línea siguiente para fusionar.
 
 
+```bash
+Clave de API
+sfasdf.Assfsfsdfsdafsaf
 
+Nombre
+Gemini API Key translate
 
+Nombre del proyecto
+projects/34838067938
 
+Número del proyecto
+14843267938
 
+Guia de inicio rápido de cURL
+curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
+  -H 'Content-Type: application/json' \
+  -H 'X-goog-api-key: asfasfsAfsfsfs' \
+  -X POST \
+  -d '{
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "Explain how AI works in a few words"
+          }
+        ]
+      }
+    ]
+  }'
+```
 
+```bash
+pip install google-genai --break-system-packages
+```
