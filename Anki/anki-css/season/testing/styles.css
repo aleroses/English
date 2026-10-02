@@ -42,9 +42,10 @@ body.nightMode {
   background-color: #131313;
   color: #ddd;
 }
-body.nightMode .card {
+
+/* body.nightMode .card {
   background-color: #131415 !important;
-}
+} */
 
 /* ======================================================== */
 /* === BLOQUE: media-card === */
@@ -55,7 +56,8 @@ body.nightMode .card {
 
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
+  align-content: space-between;
   justify-content: center;
 
   margin: 0 auto;
@@ -208,6 +210,12 @@ body.nightMode .card {
   margin-top: 5px;
   max-width: 700px;
 }
+
+.media-card__expression .media-card__expression-text {
+  font-size: 1.5rem;
+  /* line-height: 0.2; */
+}
+
 .media-card__meaning {
   text-align: center;
   width: 100%;
@@ -398,4 +406,22 @@ hr.media-card__divider {
   font-style: normal;
   font-weight: 700;
   src: url('Roboto-Bold.ttf') format('truetype');
+}
+
+/* Testing */
+
+footer {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-end; */
+  align-items: flex-end;
+  gap: 0.25rem;
+
+  /* background-color: #fff; */
+}
+
+footer span {
+  background-color: crimson;
 }

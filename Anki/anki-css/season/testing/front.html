@@ -19,15 +19,15 @@
   </figure>
   <!-- FIN Contenedor Media -->
 
-  {{#english_dialogs}}
+  <!-- {{#english_dialogs}}
   <p class="media-card__expression">
     <span class="media-card__expression-text"
       >{{english_dialogs}}</span
     >
   </p>
-  {{/english_dialogs}}
+  {{/english_dialogs}} -->
 
-  <footer class="media-card__footer">
+  <div class="media-card__footer">
     <button
       id="playPauseOutsideBtn"
       class="media-card__play-button"
@@ -73,6 +73,11 @@
         ></rect>
       </svg>
     </button>
+  </div>
+
+  <footer>
+    <span>{{season}}</span>
+    <span>{{episode_title}}</span>
   </footer>
 
   <script>
