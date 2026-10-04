@@ -1,4 +1,4 @@
-/* ======= Reset & Globals ======= */
+/* === Reset === */
 * {
   padding: 0;
   margin: 0;
@@ -8,346 +8,12 @@
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
-}
-
-/* === Estilos base (Modo Claro) === */
-body {
-  min-height: 100%;
-  height: auto;
-
-  overflow-x: hidden;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-
-  background-color: #fcfcfc;
-  color: #1f1f1f;
-
-  font-family:
-    'Roboto', 'Helvetica Neue', 'Lato', sans-serif;
-  font-size: 20px;
-  font-weight: 400;
-}
-
-.card {
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  background-color: #fcfcfc;
-}
-
-/* === Estilos Modo Oscuro === */
-body.nightMode {
-  background-color: #131313;
-  color: #ddd;
-}
-
-/* body.nightMode .card {
-  background-color: #131415 !important;
-} */
-
-/* ======================================================== */
-/* === BLOQUE: media-card === */
-/* ======================================================== */
-.media-card {
-  width: 100%;
-  max-width: 900px;
-
-  display: flex;
-  flex-direction: column;
-  /* align-items: center; */
-  align-content: space-between;
-  justify-content: center;
-
-  margin: 0 auto;
-  position: relative;
-  text-align: center;
-}
-.media-card b,
-.media-card strong {
-  color: #ffa313;
-}
-
-/* --- Elemento: figure/video --- */
-.media-card__figure {
-  width: 100%;
-  max-width: 900px;
-  max-height: 100%;
-
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  line-height: 1;
-
-  font-size: initial;
-  flex: initial;
-  overflow: visible;
-
-  background-color: rgb(63, 63, 160);
-}
-
-/* Contenedor "marco" del video: define tamaño y es el ancestro
-   posicionado (position: relative) del que dependen video y canvas
-   con position: absolute. NO duplicar este selector con otro
-   position más abajo o se rompe todo el bloque. */
-.media-card__video-container {
-  max-width: 560px;
-  width: 90%;
-  aspect-ratio: 16 / 9;
-  margin: 15px auto;
-  position: relative;
-  overflow: visible;
-}
-
-.media-card__video,
-.media-card__canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.media-card__video {
-  z-index: 2;
-  object-fit: cover;
-  background-color: #000;
-  overflow: hidden;
-  opacity: 0;
-  transition: opacity 0.1s ease-in-out;
-}
-.media-card__video--ready {
-  opacity: 1;
-}
-
-@keyframes ambient-breathing {
-  0% {
-    transform: scale(1.15, 0.9) translateY(8%);
-    filter: blur(50px);
-  }
-  50% {
-    transform: scale(1.2, 0.95) translateY(9%);
-    filter: blur(60px);
-  }
-  100% {
-    transform: scale(1.15, 0.9) translateY(8%);
-    filter: blur(50px);
-  }
-}
-.media-card__canvas {
-  z-index: 1;
-  transform: scale(1.15, 0.9) translateY(8%);
-  filter: blur(50px);
-  opacity: 0;
-  transition: opacity 0.8s ease-in-out;
-  animation: none;
-}
-.media-card__canvas--active {
-  opacity: 0.25;
-  animation: ambient-breathing 12s ease-in-out infinite;
-}
-.nightMode .media-card__canvas--active {
-  opacity: 0.2;
-}
-
-/* === BOTÓN DE PLAY/PAUSA === */
-.media-card__play-button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-
-  width: 40px;
-  height: 40px;
-  margin: 15px auto 0 auto;
-  position: static;
-
-  background: rgba(0, 0, 0, 0.6);
-  color: white;
-  border: none;
-  border-radius: 50%;
   padding: 0;
-  cursor: pointer;
-
-  transition:
-    background 0.2s ease,
-    transform 0.15s ease-out;
-  user-select: none;
-}
-.media-card__play-button:hover {
-  background: rgba(0, 0, 0, 0.75) !important;
-  transform: scale(1.1);
-}
-.media-card__play-button:active {
-  transform: scale(0.95);
-  transition:
-    transform 0.05s ease-in,
-    background 0.05s ease-in;
-  background: rgba(0, 0, 0, 0.75) !important;
-}
-.media-card__play-button svg.icon {
-  display: none;
-  width: 70%;
-  height: 70%;
-  fill: currentColor;
-  stroke: currentColor;
-}
-.media-card__play-button svg.icon-play {
-  display: block;
-}
-.media-card__play-button--playing svg.icon-pause {
-  display: block;
-}
-.media-card__play-button--playing svg.icon-play {
-  display: none;
-}
-
-/* === Estilos Expression, Meaning, etc. === */
-.media-card__expression {
-  text-align: center;
-  width: 100%;
-  margin-top: 5px;
-  max-width: 700px;
-}
-
-.media-card__expression .media-card__expression-text {
-  font-size: 1.5rem;
-  /* line-height: 0.2; */
-}
-
-.media-card__meaning {
-  text-align: center;
-  width: 100%;
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-.media-card__expression,
-.meaning {
-  font-family: 'Roboto', sans-serif;
-  font-size: 23px;
-  line-height: 1.5;
-  font-weight: 400;
-  color: rgb(255, 255, 255);
-  padding: 10px 15px;
-  border-radius: 10px;
-  display: inline-block;
-  word-wrap: break-word;
-  word-break: break-word;
-  text-align: center;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-.media-card__expression {
-  font-weight: 700;
-  font-size: 26px;
-  background-color: rgba(0, 0, 0, 0.85);
-}
-.media-card__meaning-text {
-  background-color: rgba(0, 0, 0, 0.6);
-}
-.nightMode .media-card__expression {
-  color: #f3f3f3;
-  background-color: transparent;
-}
-.nightMode .media-card__meaning-text {
-  color: #999999;
-  background-color: transparent;
-}
-hr.media-card__divider {
-  border: none;
-  height: 2px;
-  background-color: #303030;
-  margin: 0 auto;
-  width: 50%;
-}
-.nightMode hr.media-card__divider {
-  background-color: #444;
-}
-
-/* ================================================================ */
-/* === Estilos para la Imagen y Notas (Responsive) === */
-/* ================================================================ */
-
-/* --- Estilos para PC / Escritorio (pantallas > 768px) --- */
-.media-card__extra {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 20px;
-  width: 100%;
-  max-width: 700px;
-  margin: 15px auto;
   box-sizing: border-box;
 }
 
-.media-card__notes-figure {
-  flex: 0 0 160px;
-}
-
-/* --- ESTILO DE IMAGEN (MODO CLARO) --- */
-.media-card__notes-figure img {
-  width: 160px;
-  height: 160px;
-  border-radius: 0;
-  cursor: pointer;
-  object-fit: cover;
-  background-color: #333;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
-}
-
-/* --- ESTILO DE IMAGEN (MODO OSCURO) --- */
-.nightMode .media-card__notes-figure img {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
-}
-
-/* --- Estilos para Móvil (pantallas <= 768px) --- */
-@media (max-width: 768px) {
-  .media-card__extra {
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-  }
-
-  .media-card__notes-figure {
-    flex-basis: auto;
-    width: 60%;
-    max-width: 240px;
-    order: 2;
-  }
-
-  .media-card__notes-figure img {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 1 / 1;
-  }
-}
-
-/* ======================================================== */
-/* === FUENTES === */
-/* ======================================================== */
-.media-card__notes {
-  font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 1.5;
-  color: #4b4e4f;
-  white-space: pre-wrap;
-}
-.nightMode .media-card__notes {
-  color: #777878;
-}
-.media-card__notes ul,
-.media-card__notes ol {
-  padding-left: 0;
-  list-style-position: inside;
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-}
-.media-card__notes p {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-}
+/* === Fuentes === */
 @font-face {
   font-family: 'Notas Font';
   font-style: normal;
@@ -372,29 +38,6 @@ hr.media-card__divider {
   font-weight: 700;
   src: url('_hvn_bold_italic.otf');
 }
-.media-card__notes {
-  font-family: 'Notas Font', sans-serif;
-}
-.media-card__notes b,
-.media-card__notes strong {
-  color: inherit;
-  font-weight: 700;
-  font-style: normal;
-}
-.media-card__notes i,
-.media-card__notes em {
-  color: inherit;
-  font-weight: 500;
-  font-style: italic;
-}
-.media-card__notes b i,
-.media-card__notes i b,
-.media-card__notes strong em,
-.media-card__notes em strong {
-  font-weight: 700;
-  font-style: italic;
-}
-
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
@@ -408,20 +51,474 @@ hr.media-card__divider {
   src: url('Roboto-Bold.ttf') format('truetype');
 }
 
-/* Testing */
+/* === Tokens === */
+:root {
+  /* Paleta de la ilustración: cabina, visor y coral. */
+  --palette-ink: #171c20;
+  --palette-ink-deep: #101417;
+  --palette-panel: #2a343c;
+  --palette-teal: #3e5c66;
+  --palette-coral: #e86b78;
+  --palette-lime: #c6e04a;
+  --palette-cream: #f3efe6;
+  --palette-cream-muted: #c4bdb2;
 
-footer {
+  /* Fondo de la página. */
+  --page-bg: var(--palette-ink);
+  /* Foreground: color del texto y del contenido principal. */
+  --page-fg: var(--palette-cream);
+  /* Fondo de la tarjeta (.card de Anki). Igual que la página en ambos modos. */
+  --card-bg: var(--palette-ink);
+  /* Negritas y énfasis dentro de la tarjeta. */
+  --accent: var(--palette-lime);
+  /* Fondo del elemento video mientras aparece. */
+  --media-bg: #000;
+  /* Icono del botón de reproducción. */
+  --control-fg: var(--palette-cream);
+  /* Fondo del botón de reproducción. */
+  --control-bg: var(--palette-coral);
+  --control-bg-hover: #f08490;
+  /* Texto de la frase en inglés. */
+  --expression-fg: var(--palette-cream);
+  --expression-bg: transparent;
+  /* Texto de la traducción. */
+  --meaning-fg: var(--palette-cream-muted);
+  --meaning-bg: transparent;
+  /* Línea entre frase y traducción. */
+  --divider: var(--palette-coral);
+  /* Texto de las notas. */
+  --notes-fg: var(--palette-cream-muted);
+  --canvas-opacity: 0.25;
+  --font-ui: 'Roboto', 'Helvetica Neue', 'Lato', sans-serif;
+  --font-expression: 'Roboto', sans-serif;
+  --font-notes: 'Notas Font', sans-serif;
+  --text-body: 17px;
+  --text-expression: 22px;
+  --text-expression-span: 1.2rem;
+  --text-notes: 15px;
+  --space-block: 15px;
+  --space-gap: 20px;
+  --space-card-x: 1.25rem;
+  /* Ancho máximo de la columna en escritorio. */
+  --measure-card: 38rem;
+  --measure-copy: 100%;
+  --measure-video: 40rem;
+  --radius-copy: 10px;
+}
+
+/* === Base (modo claro) === */
+
+.card {
+  width: clamp(20rem, 92dvw, 38rem);
+  height: 92dvh;
+
+  /* 
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center; */
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  margin: 0 auto;
+  padding: 0;
+
+  /* Fondo definitivo de la página. */
+  background-color: var(--palette-ink);
+  /* background-color: var(--control-bg-hover); */
+
+  /* --page-bg: var(--palette-ink-deep);
+  --card-bg: var(--palette-ink-deep); */
+
+  font-family: var(--font-ui);
+  font-size: var(--text-body);
+  font-weight: 400;
+}
+
+/* === Modo oscuro === */
+/* Solo profundiza el fondo. El texto sigue en crema. */
+.card.nightMode {
+  width: clamp(20rem, 92dvw, 38rem);
+  height: 92dvh;
+
+  /* display: flex; 
+  /*flex-direction: column;
+  justify-items: center;
+  align-items: center; */
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  margin: 0 auto;
+  padding: 0;
+
+  /* Fondo definitivo de la página. */
+  background-color: var(--palette-ink);
+
+  /* --page-bg: var(--palette-ink-deep);
+  --card-bg: var(--palette-ink-deep); */
+
+  font-family: var(--font-ui);
+  font-size: var(--text-body);
+  font-weight: 400;
+}
+
+/* === Bloque: media-card === */
+.media-card {
   width: 100%;
+  max-width: var(--measure-card);
+  height: 92dvh;
 
   display: flex;
   flex-direction: column;
-  /* justify-content: flex-end; */
-  align-items: flex-end;
-  gap: 0.25rem;
+  /* justify-self: center;
+  align-content: center; */
 
-  /* background-color: #fff; */
+  margin: 1rem 0 0 0;
+  padding: 0 var(--space-card-x);
+  /* Ancla del botón absoluto del frente. */
+  /* position: relative;
+  text-align: center; */
+
+  background-color: var(--palette-ink-deep);
 }
 
-footer span {
-  background-color: crimson;
+/* Solo el frente: .media-card__controls es el segundo hijo. En el reverso
+   hay diálogo y notas antes, así que no entra. :has() necesita WebView 105+;
+   sin él esta regla se ignora y el frente vuelve a medir solo su contenido. */
+.media-card:has(> .media-card__controls:nth-child(2)) {
+  /* flex: 1; */
+  align-self: stretch;
+  /* height: 100%;
+  min-height: 100%; */
+}
+
+.media-card b,
+.media-card strong {
+  color: var(--accent);
+}
+
+/* === Reproductor === */
+.media-card__figure {
+  width: 100%;
+  max-width: var(--measure-card);
+  max-height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 1;
+
+  font-size: initial;
+  /* flex: initial;
+  overflow: visible; */
+
+  background-color: transparent;
+}
+
+/* Contenedor "marco" del video: define tamaño y es el ancestro
+   posicionado (position: relative) del que dependen video y canvas
+   con position: absolute. NO duplicar este selector con otro
+   position más abajo o se rompe todo el bloque. */
+.media-card__video-container {
+  max-width: var(--measure-video);
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: var(--space-block) auto;
+  position: relative;
+  /* visible a propósito: un hidden aquí recortaría el glow al marco del video. */
+  overflow: visible;
+}
+
+.media-card__video,
+.media-card__canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.media-card__video {
+  z-index: 2;
+  object-fit: cover;
+  background-color: var(--media-bg);
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.1s ease-in-out;
+}
+
+.media-card__video--ready {
+  opacity: 1;
+}
+
+@keyframes ambient-breathing {
+  0% {
+    transform: scale(1.15, 0.9) translateY(8%);
+    filter: blur(50px);
+  }
+  50% {
+    transform: scale(1.2, 0.95) translateY(9%);
+    filter: blur(60px);
+  }
+  100% {
+    transform: scale(1.15, 0.9) translateY(8%);
+    filter: blur(50px);
+  }
+}
+
+.media-card__canvas {
+  z-index: 1;
+  /* El transform cuenta para el scroll aunque opacity sea 0. El blur no.
+     Lo contiene html/.card (overflow-x), no este elemento. */
+  transform: scale(1.15, 0.9) translateY(8%);
+  filter: blur(50px);
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+  animation: none;
+}
+.media-card__canvas--active {
+  opacity: var(--canvas-opacity);
+  animation: ambient-breathing 12s ease-in-out infinite;
+}
+
+/* === Botón de play/pausa === */
+.media-card__controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: var(--space-block);
+
+  /* background-color: #fff; referencia visual */
+}
+/* Solo el frente: el botón es el segundo hijo (detrás del figure).
+   En el reverso hay diálogo, hint y notas antes, así que no entra aquí.
+   El translate va en este contenedor para no pisar el scale del hover. */
+.media-card > .media-card__controls:nth-child(2) {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  z-index: 3;
+  width: auto;
+  margin: 0;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+}
+
+.media-card__play-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  pointer-events: auto;
+
+  width: 48px;
+  height: 48px;
+  margin: 0;
+
+  background: var(--control-bg);
+  color: var(--control-fg);
+  border: none;
+  border-radius: 50%;
+  padding: 0;
+  cursor: pointer;
+
+  transition:
+    background 0.2s ease,
+    transform 0.15s ease-out;
+  user-select: none;
+}
+
+.media-card__play-button:hover {
+  background: var(--control-bg-hover);
+  transform: scale(1.1);
+}
+
+.media-card__play-button:active {
+  transform: scale(0.95);
+  transition:
+    transform 0.05s ease-in,
+    background 0.05s ease-in;
+  background: var(--control-bg-hover);
+}
+
+.media-card__play-button .icon {
+  display: none;
+  width: 70%;
+  height: 70%;
+  fill: currentColor;
+  stroke: currentColor;
+}
+
+.media-card__play-button .icon--play {
+  display: block;
+}
+
+.media-card__play-button--playing .icon--pause {
+  display: block;
+}
+
+.media-card__play-button--playing .icon--play {
+  display: none;
+}
+
+/* === Expresión y traducción === */
+/* .meaning no está en el HTML. El max-width: 700px de la primera
+   regla lo pisaba un max-width: 100% posterior, de la misma
+   especificidad: el valor visible es 100%. */
+.media-card__expression {
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 5px;
+  padding: 10px 15px;
+  border-radius: var(--radius-copy);
+
+  font-family: var(--font-expression);
+  font-size: var(--text-expression);
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--expression-fg);
+  text-align: center;
+
+  word-wrap: break-word;
+  word-break: break-word;
+  background-color: var(--expression-bg);
+}
+
+.media-card__expression .media-card__expression-text {
+  font-size: var(--text-expression-span);
+}
+
+.media-card__meaning {
+  text-align: center;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.media-card__meaning-text {
+  color: var(--meaning-fg);
+  background-color: var(--meaning-bg);
+}
+
+.hint {
+  color: var(--font-ui);
+  /* color: var(--color-sentence-translation); */
+  /* font-weight: 400; */
+  font-style: italic;
+  /* padding-right: 15px; */
+  /* padding-top: 6px; */
+
+  /* background-color: #0f0; */
+  text-align: center;
+}
+
+/* === Divisor === */
+.media-card__divider {
+  border: none;
+  height: 2px;
+  background-color: var(--divider);
+  margin: 0 auto;
+  width: 50%;
+}
+
+/* === Notas === */
+.media-card__extra {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-gap);
+  width: 100%;
+  max-width: var(--measure-copy);
+  /* min-width: auto del flex no encoge y una nota larga abre scroll horizontal. */
+  min-width: 0;
+  margin: var(--space-block) auto;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --text-body: 16px;
+    --space-block: 0.75rem;
+    --space-card-x: 0.75rem;
+  }
+
+  .media-card__extra {
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-block);
+  }
+}
+
+/* Helvetica Neue estaba declarada antes y la pisaba Notas Font. */
+.media-card__notes {
+  font-family: var(--font-notes);
+  font-weight: 500;
+  font-size: var(--text-notes);
+  line-height: 1.35;
+  color: var(--notes-fg);
+  min-width: 0;
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+.media-card__notes ul,
+.media-card__notes ol {
+  padding-left: 0;
+  list-style-position: inside;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+.media-card__notes p {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+.media-card__notes b,
+.media-card__notes strong {
+  color: inherit;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.media-card__notes i,
+.media-card__notes em {
+  color: inherit;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.media-card__notes b i,
+.media-card__notes i b,
+.media-card__notes strong em,
+.media-card__notes em strong {
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* === Pie de la tarjeta === */
+/* card__footer no es el .card de Anki: es el pie de temporada y título. */
+.card__footer {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: flex-end;
+  gap: 0.15rem;
+  margin-top: auto;
+  margin-bottom: 0.75rem;
+  padding-top: 1.25rem;
+  text-align: right;
+}
+.card__footer span:first-child {
+  color: var(--palette-coral);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.card__footer span + span {
+  color: var(--palette-cream);
+  font-size: 0.95rem;
 }

@@ -1,13 +1,9 @@
-<section id="myCard" class="media-card">
+<section class="media-card">
   <figure class="media-card__figure">
     {{#video}}
     <div class="media-card__video-container">
-      <canvas
-        id="ambient-canvas"
-        class="media-card__canvas"
-      ></canvas>
+      <canvas class="media-card__canvas"></canvas>
       <video
-        id="videoAnki"
         class="media-card__video"
         src="{{video}}"
         width="100%"
@@ -19,22 +15,13 @@
   </figure>
   <!-- FIN Contenedor Media -->
 
-  <!-- {{#english_dialogs}}
-  <p class="media-card__expression">
-    <span class="media-card__expression-text"
-      >{{english_dialogs}}</span
-    >
-  </p>
-  {{/english_dialogs}} -->
-
-  <div class="media-card__footer">
+  <div class="media-card__controls">
     <button
-      id="playPauseOutsideBtn"
       class="media-card__play-button"
       aria-label="Reproducir/Pausar"
     >
       <svg
-        class="icon icon-play"
+        class="icon icon--play"
         viewBox="0 0 24 24"
         width="70%"
         height="70%"
@@ -48,7 +35,7 @@
         <path d="M8 6 L19 12 L8 18 Z" />
       </svg>
       <svg
-        class="icon icon-pause"
+        class="icon icon--pause"
         viewBox="0 0 24 24"
         width="70%"
         height="70%"
@@ -75,15 +62,15 @@
     </button>
   </div>
 
-  <footer>
+  <footer class="card__footer">
     <span>{{season}}</span>
     <span>{{episode_title}}</span>
   </footer>
 
   <script>
     function initializeAmbientMode(videoElement) {
-      const canvas = document.getElementById(
-        'ambient-canvas'
+      const canvas = document.querySelector(
+        '.media-card__canvas'
       );
       const ctx = canvas.getContext('2d');
 
@@ -125,8 +112,9 @@
     }
 
     function togglePlayPauseVideo(event) {
-      var currentVideo =
-        document.getElementById('videoAnki');
+      var currentVideo = document.querySelector(
+        '.media-card__video'
+      );
 
       if (!currentVideo) return;
       if (event) {
@@ -144,8 +132,9 @@
     }
 
     function updateVideoBottomButtonState() {
-      var currentVideo =
-        document.getElementById('videoAnki');
+      var currentVideo = document.querySelector(
+        '.media-card__video'
+      );
       var buttons = document.querySelectorAll(
         '.media-card__play-button'
       );
@@ -168,8 +157,8 @@
     }
 
     function setupVideoPlayer() {
-      var outsideButton = document.getElementById(
-        'playPauseOutsideBtn'
+      var outsideButton = document.querySelector(
+        '.media-card__play-button'
       );
       if (outsideButton) {
         outsideButton.addEventListener(
@@ -178,8 +167,9 @@
         );
       }
 
-      var videoElement =
-        document.getElementById('videoAnki');
+      var videoElement = document.querySelector(
+        '.media-card__video'
+      );
 
       if (videoElement) {
         var videoContainer = videoElement.closest(
